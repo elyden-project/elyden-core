@@ -1,0 +1,71 @@
+BIOME  
+    badlands
+
+TERRAIN  
+    Harsh, broken ground of cracked clay, dust chimneys, and sun-baked ridges.  
+    Stone spires rise from dried flood channels. Soil is alkaline and brittle.  
+    Wind scours everything, creating deep grooves and sediment walls.  
+    Color varies from ash gray to scorched red. Little water, less shade.  
+    The landscape holds ruin fragments half-buried and half-erased.
+
+INORGANIC RESOURCES  
+    • Cracked shale − splinters easily; sharp-edged  
+    • Sunstone − flat and reflective; can signal across distances  
+    • Dust — hangs in the air, clings to lungs and skin  
+    • Baked clay − workable when wetted; can be molded for heat-resistant containers  
+    • Bone piles − scattered and bleached; signs of older kills
+
+FLORA  
+
+    SHRUBS  
+    • Sagebrush − drought-hardy; strong aroma repels insects  
+    • Saltbush − silvery leaves; some edible parts  
+    • Thornweed − sharp, gnarled; grows in cracks
+
+    CACTI & SUCCULENTS  
+    • Spined melon − holds bitter liquid; pulp mildly hydrating  
+    • Needle bloom − barbed spines; flowers steeped for calming effect  
+    • Rock fig − clings to shaded clefts; tough and pulpy
+
+    HERBS  
+    • Dry mint − grows between sunstone shards; sharp and pungent  
+    • Bitterroot − fibrous; used in small doses for digestion
+
+    FUNGI  
+    • None survive exposed surface  
+    • Possible fungal traces in deep shaded ruin crevices
+
+FAUNA  
+
+    INSECTS  
+    • Scavenger beetle − clusters near remains; edible but foul  
+    • Dust wasp − nests in dry clay; aggressive if disturbed  
+    • Mites − infest sleeping spots; hard to detect
+
+    REPTILES  
+    • Dust viper − camouflaged; heat-sensitive strike  
+    • Horned lizard − flattens against ground; edible  
+    • Sand gecko − emerges only at dusk
+
+    BIRDS  
+    • Carrion kite − watches from stone spires; calls infrequently  
+    • Cliff shrike − impales prey on thorns  
+    • Ground runner − sprints between rocks; difficult to snare
+
+    MAMMALS  
+    • Rock hare − agile jumper; shelters in collapsed holes  
+    • Sand fox − elusive; tracks fade quickly  
+    • Bloat rat − feeds on dry kills; carries fleas and foul smell
+
+SIGNS OF LARGER LIFE  
+    • Dragged bone trails beneath rock overhangs  
+    • Blood crust along collapsed wash edges  
+    • Large claw marks in packed dust—far apart  
+    • Dried mud prints—not human, not animal, something else  
+    • Scorched patch ringed in fused clay
+
+NOTES  
+    The badlands are a graveyard.  
+    Time strips everything here to dust, bone, or silence.  
+    Shelter is rare, water rarer. Winds uncover as much as they bury.  
+    But scavengers thrive, and where they gather—something fed them first.

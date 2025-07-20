@@ -1,0 +1,63 @@
+SURVIVAL_BEHAVIOR(5)                 Elyden Survival Codex                 SURVIVAL_BEHAVIOR(5)
+
+NAME  
+    survival_behavior − body state, injury, and exhaustion systems
+
+DESCRIPTION  
+    The world does not pause.  
+    Survival is determined by cold, hunger, pain, and how long the body can endure them.  
+    There are no bars or meters. The system reports only what is felt, seen, or heard.  
+    Every sensation is part of the body’s feedback loop.
+
+HUNGER  
+    • Characters must eat daily—calories affect coordination and warmth  
+    • Forageable food may be low in energy; cooked meat or tubers sustain longer  
+    • Severe hunger causes slowed movement, shivering, and blackouts  
+    • Hunger signs: stomach pain, hesitation before actions, breath delay
+
+THIRST  
+    • Water must be found or extracted—dew, roots, streams, snow  
+    • Unsafe water may cause illness unless boiled  
+    • Mild dehydration causes dry mouth, reduced stamina  
+    • Severe thirst leads to headaches, delayed reactions, blurred perception
+
+COLD  
+    • Exposure causes slowed joints, shallow breath, mental fatigue  
+    • Cold worsens faster when clothing is wet or wind is high  
+    • Heat may be retained by layering, shelter, or fire  
+    • Characters show cold through tremors, slower aiming, or hesitation before speech
+
+FATIGUE  
+    • Continuous action wears down balance and awareness  
+    • Rest restores function; sleep is required every 24–36 hours  
+    • Thea will lie down if exhausted; Mirrane will struggle to focus  
+    • Fatigue signs: stumbling, poor aim, yawns, micro-hesitation
+
+INJURY  
+    • All wounds matter—cuts, bruises, sprains, and bleeds  
+    • Bandaging stops blood; salves prevent infection  
+    • Deeper injuries reduce movement range and crafting time  
+    • Wounds worsen over time without care  
+    • Thea can assist with healing, if prepared:
+        − Applies poultices, binds wounds, treats infection  
+        − Requires time, tools, and usable herbs from her satchel  
+        − Cannot heal everything, but may prevent escalation
+
+ENVIRONMENTAL STRESS  
+    • Altitude affects breath  
+    • High pollen may obscure scent trails  
+    • Biome pressure (moon proximity, ruin resonance) may cause nausea, auditory lag, or fatigue  
+    • Thea may show stress first—via silence, missteps, or refusal to proceed
+
+RECOVERY  
+    • Healing takes days  
+    • Food and sleep help; shelter is critical  
+    • Fire, insulation, and distance from stress sources accelerate recovery  
+    • With Thea’s help, recovery is safer—but not faster
+
+NOTES  
+    Your body will tell you when it’s failing. You don’t need a number.  
+    If you miss the signs, it’s already begun.
+
+FILES  
+    CHARACTERS(5), INVENTORY_LIMITS(5), COMBAT_SCOPE(5), CRAFTING(5)

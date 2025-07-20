@@ -1,0 +1,72 @@
+BIOME  
+    tundra
+
+TERRAIN  
+    Windswept plateau with shallow snow, frozen brush, and hidden stone.  
+    Ground is uneven—permafrost lies beneath a thin layer of thawed earth.  
+    Plant life stays low to the ground, hugging warmth.  
+    Sky is wide, sun low, and sound is brittle. Visibility is far-reaching.  
+    Snow crunches dry underfoot. Shelter is rare, but life is present—watchful, wary, and adapted.
+
+INORGANIC RESOURCES  
+    • Frozen soil − diggable only with heat or patience  
+    • Ice crust − brittle, thin sheets; traps air or moisture  
+    • Basalt scatter − dark stone holds warmth; useful for firebase  
+    • Pebble beds − under thaw margins; mixed with frost-heave debris  
+    • Salt crust − in rare patches near melt streams
+
+FLORA  
+
+    MOSS & LICHEN  
+    • Caribou moss − dense mat; edible with effort  
+    • Beard lichen − hangs from low brush; used as kindling  
+    • Stone lichen − scrapes off boulders; meager nutrition
+
+    SHRUBS  
+    • Arctic willow − ankle-high; edible shoots in melt season  
+    • Dwarf birch − twisted growth; bark used for wrap and fire  
+    • Crowberry − dark berries; persists even in frost
+
+    HERBS & LOW PLANTS  
+    • Labrador tea − evergreen leaf; steeped for warmth  
+    • Wild chive − seasonal; strong odor, grows near meltwater  
+    • Bear root − edible with prep; fibrous and bitter  
+    • Moss campion − cushions on dry ridges; small but edible
+
+    FUNGI  
+    • Brown cap − rare, grows from insulated root pockets  
+    • Ice puff − dry and hollow; shatters when touched  
+    • Snow mold − clings to melt edges; not edible
+
+FAUNA  
+
+    INSECTS  
+    • Snow fleas − springtail insects; jump in black specks  
+    • Tundra beetles − cling to moss mats; edible  
+    • Midges − brief summer swarms; irritating but useful for bait
+
+    BIRDS  
+    • Snowy owl − watches from stone outcrop; silent hunter  
+    • Ptarmigan − blends with snow; shelters in drifts  
+    • Arctic tern − migratory; nests in low dunes
+
+    MAMMALS  
+    • Polar bear − slow but relentless; avoids fire, not scent  
+    • Arctic fox − quick, silent; follows kill trails  
+    • Tundra hare − white-coated; strong jumper, evasive  
+    • Muskox − rare, shaggy; dangerous when cornered  
+    • Lemming − burrows under snow crust; common prey
+
+SIGNS OF LARGER LIFE  
+    • Tracks in soft snow — frozen mid-stride  
+    • Blood spots trailing off over rise — no carcass  
+    • Musk scent near warm stone — sign of recent ox rest  
+    • Tunnels collapsing under weight — sign of lemming dens  
+    • Bird calls ceasing suddenly — predator nearby
+
+NOTES  
+    The tundra holds life by its claws.  
+    Food is lean but present. Water flows briefly at midday.  
+    Fire is your ally—stone and shrub feed it slowly.  
+    Dwell too long, and the cold works its way inside.  
+    Move deliberately. Watch the horizon. Something else is.

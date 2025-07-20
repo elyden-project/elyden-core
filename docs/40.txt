@@ -1,0 +1,56 @@
+PROGRESSION(5)                        Elyden Survival Codex                        PROGRESSION(5)
+
+NAME  
+    progression − how characters change over time
+
+DESCRIPTION  
+    Characters do not gain levels or experience points.  
+    They progress through action, failure, and exposure.  
+    Growth is physical, environmental, and specific to what the player remembers doing.  
+    There are no skill trees. No upgrades. No systems. Only behavior.
+
+STAGES OF PROGRESSION  
+    Survival → Mastery → Contact
+
+I. SURVIVAL  
+    • Characters begin with only the gear on them  
+    • Every tool must be crafted, salvaged, or repaired  
+    • Repetition sharpens instinct: faster draw, more efficient movement, cleaner recovery  
+    • Each wound teaches  
+    • Each success takes less effort the next time
+
+II. MASTERY  
+    • Characters develop biome fluency—knowing what lives where, how wind shifts before rain  
+    • Familiar tools move differently in hand; reuse accelerates handling  
+    • Movement patterns tighten  
+    • Terrain is read more quickly—disturbed grass, lichen growth, dry frost, scent trails  
+    • Player begins to rely on muscle memory, not system prompts
+
+III. CONTACT  
+    • Some hunts feel different—movement shifts, terrain goes silent, pressure builds  
+    • Larger creatures may appear—unpredictable, responsive, out of scale  
+    • Their defeat leaves behind shards—strange, inert objects with unusual behavior near fragments  
+    • Characters do not recognize them as special; only as useful  
+    • Shards can be bound to a single item if conditions allow (site, timing, material)  
+    • Once bound, the item changes:
+        − stiffer when drawn near ruins  
+        − more silent in high pollen air  
+        − resistant to crack or warp under lunar weight
+
+SHARD INTEGRATION  
+    • One shard per item  
+    • Cannot be removed  
+    • Must be embedded at biome-specific or ruin-reactive locations  
+    • No animation, no glow, no prophecy—only behavior
+
+DEATH  
+    • Permanent  
+    • No recovery unless another survivor locates gear  
+    • All progression ends at death
+
+NOTES  
+    The world doesn’t explain. It reacts.  
+    You grow by learning what it punishes less the second time.
+
+FILES  
+    CHARACTERS(5), FRAGMENTS(5), RUINS(5), SHARDS(5), CRAFTING(5)

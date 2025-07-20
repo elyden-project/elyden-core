@@ -1,0 +1,62 @@
+MIRRANE(5)                             Elyden Survival Codex                             MIRRANE(5)
+
+NAME  
+    mirrane − archer; player-controlled survivor
+
+DESCRIPTION  
+    Mirrane is the survivor under player control.  
+    All actions occur through her. She does not speak unless prompted.  
+    She navigates by instinct, repetition, and direct feedback from the world.  
+    Her strength is in timing, positioning, and adaptation under pressure.  
+    She is not fast, but precise. Not armored, but untouchable when terrain is hers.
+
+CONTROL  
+    • First-person only  
+    • Player-directed commands determine all action  
+    • Mirrane does not generate dialogue or exposition  
+    • Learns through experience—no hidden stats
+
+ROLE  
+    • Specializes in ranged survival: bow, thrown tools  
+    • Tracks prey by movement pattern and terrain disruption  
+    • Avoids direct confrontation unless terrain favors her  
+    • Begins with no weapons, but crafting them is critical to survival
+
+STARTING GEAR  
+    • Tunic (layered cloth)  
+    • Wrap (bark fiber, tied at waist)  
+    • Footcloths (soft-soled, absorbent)  
+    • Amulet (non-removable; moon-bound resonance)
+
+SURVIVAL ITEM — WINDCALLER’S QUIVER  
+    A rare bark-and-hide sling quiver lined with moss baffles.  
+    Allows silent draw and retrieval of arrows. Carries up to 8 shafts or 4 javelins.  
+    Prevents rattling during movement. Internal loop for spare flint or cordage.  
+    Not craftable early. If found, becomes a permanent advantage for stealth combat.
+
+AMULET BEHAVIOR  
+    • Fixed to chest by woven chain  
+    • Glows faintly with hue of dominant moon (no light source emitted)  
+    • Reacts physically to nearby fragments and some ruins: pressure, cold, pulse  
+    • Cannot be removed, transferred, or used as a tool  
+    • Offers no power—only warning  
+    • Behavior differs slightly between Mirrane and Thea
+
+CRAFTING BEHAVIOR  
+    • Relies on gathered materials from biome: wood, stone, sinew, resin  
+    • Prioritizes functional tools: bow before blade, cover before armor  
+    • Armor crafting is low priority unless animal hide or barkplate is secured  
+    • Arrows are recoverable; tools degrade over time  
+    • Must test materials through use—no crafting menu, no stats
+
+RELATIONSHIP TO THEA  
+    • Mirrane does not control Thea  
+    • Thea remains close—never leaves her side unless forced by world logic  
+    • Trust is earned situationally; Mirrane may question Thea’s actions  
+    • Mirrane is the tactician; Thea is the pressure gauge  
+    • Their survival depends on complementary roles, not loyalty or story  
+    • Thea acts independently, but Mirrane always moves first
+
+NOTES  
+    Mirrane is not meant to win. She is meant to last.  
+    Her su

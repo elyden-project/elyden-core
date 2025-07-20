@@ -1,0 +1,80 @@
+BIOME  
+    deep meadow
+
+TERRAIN  
+    Overgrown grassland with tangled stems, thorny stalks, and  
+    chest-high wild growth. Few visible trails. Soil is soft but often  
+    concealed under dense matting. Footing is uncertain—holes, roots,  
+    and hidden nests common. Sound is muffled. Every step shifts  
+    foliage. Sightlines are short. Dry areas crackle underfoot,  
+    but moisture gathers in low hollows.
+
+INORGANIC RESOURCES  
+    • Compact stones − under root balls; useful for heads or grinding  
+    • Clay pockets − rare, found in deep troughs  
+    • Weathered wood − drifted from nearby trees; light but brittle  
+    • Ash from old burns − may coat soil in circular patches  
+    • Flint shards − hidden where roots exposed by erosion
+
+FLORA  
+
+    GRASSES  
+    • Bromegrass − forms dense clumps; used for kindling  
+    • Panicgrass − thin-stemmed; interwoven in thick mats  
+    • Sedge − appears near damp patches; coarse and sharp-edged
+
+    SHRUBS  
+    • Blackberry − thorny, produces seasonal fruit; nests small animals  
+    • Wild gooseberry − tangled limbs; pale berries when ripe  
+    • Dog rose − blooms sparsely; hips used for tea
+
+    HERBS & LOW PLANTS  
+    • Yarrow − clusters of white flowers; used in wound packing  
+    • Wild lettuce − bitter leaf, sedative when dried  
+    • Horehound − fuzzy stem; steeped for cough remedy  
+    • Nettle − painful to touch; nutritious when cooked
+
+    FUNGI  
+    • Hidden puffballs − under collapsed stems; edible if firm  
+    • Leaf mold fungi − clusters near damp bases; must be checked carefully  
+    • Slime blisters − bright patches in wet shade; not edible
+
+    TREES  
+    • None rooted inside—only occasional saplings fighting through grass  
+    • Fallen limbs and driftwood from nearby woodland zones
+
+FAUNA  
+
+    INSECTS  
+    • Grasshoppers − abundant; leap in waves when disturbed  
+    • Stick bugs − cling to stalks; nearly invisible  
+    • Wasps − nest in ground or shrub hollows  
+    • Ticks − heavy presence; cling in low stalk shadows
+
+    REPTILES & AMPHIBIANS  
+    • Field snake − blends with dry blades; avoids confrontation  
+    • Ditch frog − loud croak at dusk; draws predators  
+    • Tortoise − slow-moving; shelter in low dips
+
+    BIRDS  
+    • Meadow owl − silent at dusk; nests low  
+    • Burrow wren − hides in reed nests  
+    • Buzzard − circles in wide arcs; lands near fresh kill
+
+    MAMMALS  
+    • Meadow vole − tunnels under root cover  
+    • Hare − sprints when flushed; hard to track  
+    • Ferret-like scavenger − quick, aggressive; drawn to traps
+
+SIGNS OF LARGER LIFE  
+    • Flattened grass rings—resting sites for heavy animals  
+    • Torn stalks and clumps of hair at ambush zones  
+    • Narrow tunnels pressed into the growth—frequent animal traffic  
+    • Fresh scat left near sparse berry patches  
+    • Muffled rustles even in still air—movement unseen
+
+NOTES  
+    Deep meadows conceal both opportunity and threat.  
+    Foraging is strong in season, but visibility is poor and escape routes  
+    are few. Predators use grass walls for ambush. Fire is dangerous here  
+    if wind rises—burn patterns are unpredictable.

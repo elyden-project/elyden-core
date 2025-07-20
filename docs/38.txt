@@ -1,0 +1,49 @@
+STARTING_GEAR(5)                       Elyden Survival Codex                       STARTING_GEAR(5)
+
+NAME  
+    starting_gear − issued survival gear for both characters
+
+DESCRIPTION  
+    Each character begins equipped with baseline clothing and one essential survival tool.  
+    These items are not found, scavenged, or randomized. They are issued before entry into  
+    the outer biomes. Everything worn is visible, functional, and chosen with purpose.  
+    No upgrades are possible until new material is gathered.
+
+MIRRANE — ARCHER  
+    • Tunic           — woven cloth, layered for warmth and wind shear  
+    • Wrap            — bark-fiber sash, secures waist and thigh loop  
+    • Footcloths      — moss-lined, padded for movement and moisture  
+    • Amulet          — fixed; moon-reactive; responds to ruins and fragments  
+    • Windcaller’s Quiver  
+        − bark-and-hide silent-draw quiver  
+        − holds up to 8 arrows or 4 javelins  
+        − baffle-lined to prevent rattle; internal loop for flint or twine
+
+THEA — WILDER  
+    • Tunic           — same cut; reinforced at elbows and collar  
+    • Wrap            — doubled fiber band; includes loop for pouch binding  
+    • Footcloths      — same pattern; slightly heavier at heel  
+    • Amulet          — fixed; moon-reactive; stronger resonance profile  
+    • Rootbinder’s Satchel  
+        − hide pouch with bark-rimmed compartments  
+        − holds up to six materials (fresh or dried)  
+        − includes paste pocket, binding loop, and moisture cell
+
+MATERIAL ORIGIN  
+    These items are not crafted during play. They are considered legacy gear—issued prior to  
+    biome isolation. No other survivors have equivalent tools. These items do not glow,  
+    level up, or change form. They degrade only if damaged.
+
+LIMITS  
+    • No spare clothing  
+    • No weapons  
+    • No armor  
+    • No food, water, tools, or torch  
+    • No bags other than the satchel or quiver
+
+NOTES  
+    This loadout is the last choice they were allowed to make.  
+    Everything else must be earned, made, or found.
+
+FILES  
+    CHARACTERS(5), MIRRANE(5), THEA(5), EQUIPMENT_SLOTS(5), CRAFTING(5)

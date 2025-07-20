@@ -1,0 +1,61 @@
+BIOME  
+    unclimbable mountains
+
+TERRAIN  
+    Towering vertical cliffs with jagged edges, loose shale, and ice-choked crevices.  
+    Faces are sheer—no footholds, no ascent. Stone is fractured, sharp, and  
+    wind-scoured. Slopes are unstable and prone to rockfall.  
+    Mist gathers in ledges at dusk. Sound echoes harshly.  
+    No trails, no vegetation past lower outcrops.  
+    Nothing here offers shelter. Eyes burn in the dry wind.
+
+INORGANIC RESOURCES  
+    • Fractured slate − brittle but sharp; shatters into flakes  
+    • Quartz veins − exposed in broken faces; can spark fire  
+    • Ice rime − clings to shadowed cracks; melts into clean water  
+    • Gravel scree − sharp underfoot, slides dangerously  
+    • Iron crusts − rare reddish deposits, not mineable without tools
+
+FLORA  
+
+    MOSS & LICHEN  
+    • Rock lichen − forms pale crusts; edible in desperation  
+    • Black moss − clings to cold stone; absorbs moisture  
+    • Algae stains − appear on wind-sheltered side; not edible
+
+    SHRUBS (LOW SLOPE ONLY)  
+    • Alpine willow − stunted and twisted; twigs used for smoke  
+    • Rock juniper − dry, hard wood; slow to ignite  
+    • Wind-blasted sage − aromatic, sparse; burned for insects
+
+    FUNGI  
+    • None survive this altitude
+
+FAUNA  
+
+    INSECTS  
+    • Wind beetles − cling to stone; inactive unless disturbed  
+    • Ice gnats − cluster in sunbreaks; harmless, irritating  
+    • Cliff wasps − rare; build mud nests behind rock flake
+
+    BIRDS  
+    • Cliff hawk − nests on high ledges; watches from above  
+    • Ice raven − scavenger; seen only in still air  
+    • Swift − darts from hidden cracks; vanishes quickly
+
+    MAMMALS  
+    • None past lower face  
+    • Occasionally: mountain goat sightings below vertical rise
+
+SIGNS OF LARGER LIFE  
+    • Bones caught between rocks, likely wind-dragged  
+    • Feather drifts and guano beneath bird nests  
+    • No claw marks, no tracks—too vertical  
+    • Small scrapes in dusted ledges from wind-flung stone
+
+NOTES  
+    These mountains do not invite travel.  
+    They stand against movement, sound, and shelter.  
+    Winds here can flay exposed skin.  
+    Nothing climbs, nothing rests.  
+    Only birds own this stone.

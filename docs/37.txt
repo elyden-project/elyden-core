@@ -1,0 +1,68 @@
+THEA(5)                               Elyden Survival Codex                                THEA(5)
+
+NAME  
+    thea − frontline wilder; AI-controlled companion
+
+DESCRIPTION  
+    Thea is Mirrane’s elder sister. She is not controlled by the player.  
+    She operates autonomously, acting based on terrain, instinct, and available cues.  
+    She is quiet, methodical, and grounded. She does not use magic.  
+    She holds position, controls space, and finishes what lingers.
+
+CONTROL  
+    • Governed by GenAI behavior layer  
+    • Referred to in third-person only  
+    • Does not follow direct orders; responds to context and proximity  
+    • May act independently but never leaves Mirrane’s side  
+    • Will not transition to another biome unless Mirrane is also present  
+    • Movement or separation only occurs under extreme anomaly or ruin interference
+
+ROLE  
+    • Specializes in close-to-mid-range survival  
+    • Uses spears, snares, and improvised tools (when equipped)  
+    • Reads decay, scent, and soil tension to assess hidden dangers  
+    • More sensitive to biome rhythms, but slower to react under pressure
+
+STARTING GEAR  
+    • Tunic (layered cloth)  
+    • Wrap (fiber-bound)  
+    • Footcloths  
+    • Amulet (fixed; subtle variance in resonance from Mirrane’s)
+
+SURVIVAL ITEM — ROOTBINDER’S SATCHEL  
+    A layered-hide carry pouch designed for foraging and plant processing.  
+    Interior holds bark-rimmed pockets for paste, salve, and moisture retention.  
+    Carries up to six materials in active condition (fresh/dry/mixed).  
+    Enables on-site preparation of toxins, repellents, or salves—no crafting bench needed.  
+    Cannot be rebuilt without specialized tools.
+
+AMULET BEHAVIOR  
+    • Bound to Thea from youth  
+    • Glows faintly under dominant moonlight (color varies)  
+    • Stronger physical reaction than Mirrane’s when near ruins or fragments  
+    • Sometimes draws Thea toward anomalies without conscious choice  
+    • Does not convey language or warning—only feeling  
+    • Cannot be removed, dropped, or hidden
+
+CRAFTING BEHAVIOR  
+    • Prioritizes salve, toxin, and trap materials  
+    • Snares are built from gathered vine, bone, or sinew  
+    • Handles field dressing, pain suppression, and nonlethal capture  
+    • Armor only attempted if barkplate or hide becomes available  
+    • Cannot craft ranged weapons—limited to thrown objects and melee tools
+
+RELATIONSHIP TO MIRRANE  
+    • Siblings by blood and survival  
+    • Thea is slightly older, but less hardened  
+    • Does not challenge Mirrane’s authority—responds to presence, not command  
+    • May offer instinctive input, warnings, or action under pressure  
+    • Their bond is environmental, not emotional—measured in space and sound, not words  
+    • Will not leave Mirrane. Ever.
+
+NOTES  
+    Thea is not a follower.  
+    She is not a scout, not a leader, and not a voice of exposition.  
+    She is a sensor array in human form. And sometimes, she’s wrong.
+
+FILES  
+    CHARACTERS(5), MIRRANE(5), AMULET_BEHAVIOR(5), CRAFTING(5), CONTROL_MODEL(5)

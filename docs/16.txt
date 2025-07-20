@@ -1,0 +1,88 @@
+BIOME  
+    swamp
+
+TERRAIN  
+    Waterlogged basin with soft, sucking ground and dense vegetation.  
+    Surface is uneven—pools, mudflats, root tangles, and sunken hollows.  
+    Air is humid, hot, and filled with rot. Smells shift with every step.  
+    Insects form clouds. Visibility is poor beyond reed lines or willow walls.  
+    Travel is slow; one misstep leads to chest-deep water or sinkholes.
+
+INORGANIC RESOURCES  
+    • Muck clay − sticky, dense; usable for sealant if dried  
+    • Deadfall wood − half-rotten; burns poorly unless bark is stripped  
+    • Bog iron − found as orange crusts in shallow flows  
+    • Peat blocks − dense and spongy; can be dried for fuel  
+    • Algae mats − potential nutrient additive or insulation layer
+
+FLORA  
+
+    TREES  
+    • Bald cypress − root knees poke from water; bark useful for smoke  
+    • Swamp willow − flexible branches; good for bindings  
+    • Tupelo − thick trunks; drops soft, edible fruit
+
+    SHRUBS  
+    • Buttonbush − dense and tangled; thickets hide water paths  
+    • Bog myrtle − aromatic leaves; used in insect salve  
+    • Sawgrass − cuts skin when dry; grows in chest-high clusters
+
+    HERBS & LOW PLANTS  
+    • Marsh mint − grows in floating mats; sharp flavor, antifungal  
+    • Water parsley − edible in small doses; resembles hemlock  
+    • Bush weed − sticky, five-lobed leaf; hallucinogenic if dried and smoked  
+    • Bloodroot − red-stained sap; external use only
+
+    FUNGI  
+    • Black cap − grows on wet wood; edible but spoils fast  
+    • Ghost fungus − faintly glows at night; not edible  
+    • Puff mold − spores released when stepped on; choke risk  
+    • Shelf rot − common on low tree trunks
+
+    GRASSES  
+    • Reedgrass − tall and hollow; useful for weaving  
+    • Papyrus-type stalks − found in still pools; can be split into cord
+
+FAUNA  
+
+    INSECTS  
+    • Mosquitoes − swarms near still water; bite constantly  
+    • Biting midges − near-invisible, relentless; draw blood  
+    • Leeches − attach in water or from damp leaves  
+    • Water beetles − edible but tough-shelled
+
+    REPTILES & AMPHIBIANS  
+    • Anaconda − massive, ambush predator; coils from water’s edge  
+    • Black caiman − stealthy in murky pools; eyes just above surface  
+    • Swamp crocodile − rests motionless; charges without warning  
+    • Giant toad − toxic glands; avoid handling
+
+    FISH  
+    • Bowfin − tough, prehistoric fish; edible with effort  
+    • Mudfish − can survive in drying puddles; meat is bitter  
+    • Needlefish − sharp-snouted; cuts flesh when netted carelessly  
+    • Eel − slippery and nutritious; hard to catch
+
+    BIRDS  
+    • Stilt heron − walks through reed beds; excellent spotter  
+    • Swamp buzzard − circles over carrion or exposed camps  
+    • Bittern − camouflaged; emits booming call at dusk
+
+    MAMMALS  
+    • Marsh boar − powerful and territorial; wallows in mud pits  
+    • Swamp monkey − rare, nimble; throws objects when startled  
+    • Bog rat − bloated, aggressive scavenger; carries parasites
+
+SIGNS OF LARGER LIFE  
+    • Torn reeds and claw furrows along banks  
+    • Floating feathers and torn fur bundles near shallow kills  
+    • Mud trails leading into deeper pools—vanish suddenly  
+    • Broken limbs high in trees—sign of climbing predator  
+    • Bone clusters at dry island mounds
+
+NOTES  
+    The swamp is deadly. Every movement risks ambush, sickness, or misstep.  
+    But it offers rare plants, high-protein prey, and the only known source  
+    of bush weed. Firewood must be scavenged from above ground or imported.  
+    Cooking is vital—parasites are common.  
+    Visibility is your worst enemy. So is overconfidence.

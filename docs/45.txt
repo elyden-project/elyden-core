@@ -1,0 +1,55 @@
+SENSORY_PRIORITY(5)                  Elyden Survival Codex                  SENSORY_PRIORITY(5)
+
+NAME  
+    sensory_priority − how information is delivered to the player
+
+DESCRIPTION  
+    Elyden is seen, heard, felt, and smelled.  
+    There are no status panels, meters, or combat logs.  
+    Everything the player knows must come through Mirrane’s body—her breath, her hearing, her memory.  
+    The player is not above the world. The player is inside it.
+
+PRIORITY ORDER  
+    1. Touch     — tension, warmth, chill, blood, pressure  
+    2. Sound     — breath shifts, footfall, cracking bark, hooves in the dark  
+    3. Sight     — movement at edge, glint on hide, disturbed soil, color change  
+    4. Smell     — rot, pollen, fur, ash, animal oil  
+    5. Taste     — blood, dry mouth, herbs, rot mist
+
+MIRRANE’S SENSORY MAP  
+    • She feels tightness in her shoulder before she feels fear  
+    • She notices dust patterns before she recognizes prints  
+    • Her quiver weight tells her what she forgot  
+    • Her skin reacts to moonlight long before her words do
+
+THEA’S SENSORY MAP  
+    • She sniffs without thinking  
+    • She stops walking just before a change in wind  
+    • She tastes bitterness on the edge of breath  
+    • She reacts to decay before words arrive
+
+SENSORY DELIVERY  
+    • There is no narration  
+    • The world does not describe itself—it behaves  
+    • The player infers danger from silence, movement, warmth, or withdrawal  
+    • Even pain is not shown directly—it is expressed through reaction
+
+FEEDBACK IN COMBAT  
+    • You know you hit something by how your hand recoils  
+    • You know you were hit by how the world tips  
+    • You know you’re bleeding by warmth, not words  
+    • You know it’s over by how quiet everything gets
+
+INTERFACE BEHAVIOR  
+    • No healthbars  
+    • No flashing text  
+    • No floating damage  
+    • No success/failure pings  
+    • Everything is known only if Mirrane knows it
+
+NOTES  
+    The game does not talk to you. The world never breaks character.  
+    If you miss something, you miss it. If you notice it, it’s because she did.
+
+FILES  
+    CONTROL_MODEL(5), COMBAT_SCOPE(5), SURVIVAL_BEHAVIOR(5), FRAGMENTS(5)

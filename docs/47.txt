@@ -1,0 +1,49 @@
+FRAGMENTS(5)                        Elyden Survival Codex                        FRAGMENTS(5)
+
+NAME  
+    fragments − lunar remnants embedded in ruins, terrain, or apex lifeforms
+
+DESCRIPTION  
+    Fragments are physical shards of Vaeronth, the collapsed moon of logic and magic.  
+    They fell during the Collapse and embedded themselves into Elyden’s terrain, structures,  
+    and, in rare cases, living bodies.  
+    They are not mystical. They do not glow.  
+    They exert subtle distortions on matter, memory, pressure, and environment.
+
+CLASSIFICATION  
+    • Ruin-bound       — embedded in ancient structures; dormant but reactive  
+    • Biome-submerged  — buried in terrain; occasionally surface-exposed after erosion  
+    • Host-grown       — absorbed over generations by shard-tier fauna; found only after death
+
+BEHAVIOR  
+    • Fragments warp local conditions:  
+        − Light echo, pressure bloom, tremor repeat  
+        − Sound softening or delay  
+        − Shift in amulet sensation (tightness, chill, pulse)  
+    • No heat, glow, or sound of their own  
+    • Do not activate—only respond to lunar alignment, ruin geometry, or presence of life
+
+DETECTION  
+    • Amulets react under proximity and lunar weight  
+    • Environmental clues:  
+        − Asymmetrical moss growth  
+        − Water ripple offset  
+        − Scent distortion or nausea  
+    • Fragments cannot be extracted by tools unless already exposed
+
+DANGER  
+    • Extended exposure may affect cognition—short-term disorientation, perception lag  
+    • Cannot be handled safely without containment or ruin-aligned materials  
+    • Animals avoid fragment soil unless diseased or driven
+
+RELATION TO SHARDS  
+    • Shards are not fragments—they are biological crystalized growths derived from absorbed fragments  
+    • Only megafauna that survive long-term exposure develop shard cores  
+    • Killing such a creature is the only known way to extract a usable shard
+
+NOTES  
+    Fragments are not magical. They are what remains of something that broke wrong and never stopped humming.  
+    They are not for the player. They are for the world.
+
+FILES  
+    SHARDS(5), RUINS(5), AMULET_BEHAVIOR(5), PROGRESSION(5)

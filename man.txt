@@ -1,0 +1,3117 @@
+
+%%% 00.txt %%%
+
+00.txt                           Elyden Survival Codex                           00.txt
+
+NAME  
+    00.txt − master reference index of Elyden simulation source files
+
+DESCRIPTION  
+    This file maps all original content files (01–49.txt) to their content domains,  
+    supporting reclassification, renaming, and modular access.
+
+FILE MAP  
+    01.txt  — Collapse Overview  
+              → The Collapse, Vaeronth’s fall, system decay, fragment interference
+
+    02.txt  — Sealed Valley  
+              → Isolated biome mechanics, thermal wall, ecological shift
+
+    03.txt  — Celestial Bodies  
+              → Aurenzae, six moons, lunar rhythms, survival influence
+
+    04.txt  — Fragments  
+              → Lunar shard behavior, pressure anomalies, amulet effects
+
+    05.txt  — Biome Index Summary  
+              → Terrain classification, symbols, function overview
+
+    06.txt  — Plains Biome  
+    07.txt  — Small Hills Biome  
+    08.txt  — Steep Hills Biome  
+    09.txt  — Evergreen Forest Biome  
+    10.txt  — Deep Evergreen Forest Biome  
+    11.txt  — Deciduous Forest Biome  
+    12.txt  — Deep Deciduous Forest Biome  
+    13.txt  — Mixed Forest Biome  
+    14.txt  — River Biome  
+    15.txt  — Meadow Biome  
+    17.txt  — Deep Meadow Biome  
+    18.txt  — Lake Biome  
+    19.txt  — Unclimbable Mountains Biome  
+    20.txt  — Ice Biome  
+    21.txt  — Tundra Biome  
+    22.txt  — Glacier Biome  
+    23.txt  — Badlands Biome  
+              → Full terrain breakdowns, flora/fauna, survival logic
+
+    24.txt  — Ruins Index  
+    25.txt  — Auren Core Ruin  
+    26.txt  — Earthscript Vault Ruin  
+    27.txt  — Vulcan Chamber Ruin  
+    28.txt  — Mist Basin Ruin  
+    29.txt  — Veil Engine Ruin  
+    30.txt  — Spall Halo Ruin  
+    31.txt  — Oblivion Mirror Ruin  
+    32.txt  — Anti-Life Bulb Ruin  
+    33.txt  — Convergence Array Ruin  
+    34.txt  — Null Step Ruin  
+              → Celestial structures, ruin traits, shard interaction, amulet distortion
+
+    35.txt  — Characters  
+    36.txt  — Mirrane  
+    37.txt  — Thea  
+    38.txt  — Starting Gear  
+    39.txt  — Inventory Limits  
+    40.txt  — Progression  
+              → Role traits, gear logic, growth through survival
+
+    41.txt  — Survival Behavior  
+    42.txt  — Amulet Behavior  
+    43.txt  — Control Model  
+    44.txt  — Combat Scope  
+    45.txt  — Sensory Priority  
+    46.txt  — Crafting  
+    47.txt  — Fragments  
+    48.txt  — Shards  
+    49.txt  — Ruins  
+              → Simulation loop systems; biome, resonance, and death logic
+
+NOTES  
+    This index governs all file classifications for Elyden’s world logic.  
+    Structure mirrors the system’s own fragmentation.  
+    Use this to maintain file naming consistency across biome, ruin, and behavior maps.
+
+FILES  
+    BIOMES(5), CHARACTERS(5), RUINS(5), FRAGMENTS(5), CRAFTING(5)
+
+Elyden                                  July 2025                                  00.txt
+
+%%% 01.txt %%%
+
+NAME  
+    collapse − the moment the known world failed
+
+DESCRIPTION  
+    the collapse was not one event. it was the unraveling of all events.  
+    structure failed. not buildings or cities, but memory, language, and  
+    cause. vaeronth, the moon of magic, ceased its rise. it shattered.  
+    its fall was not loud. no fire. no impact. just silence and the  
+    long forgetting.
+
+    what remains is not ruin. it is drift. systems decayed. rituals  
+    failed. stone turned to dust between uses. machines stopped  
+    understanding themselves.
+
+    no one remembers what the world was. only that it isn't this.
+
+NOTES  
+    fragments of vaeronth can be found across the land. they do not glow.  
+    they do not cast spells. they interfere − with heat, sound, intent.  
+    some can be bound. most cannot.
+
+    no one survived by resisting the collapse. only by adapting to it.
+
+%%% 02.txt %%%
+
+NAME  
+    sealed valley − the last survivable region in elyden
+
+DESCRIPTION  
+    the valley is not a sanctuary. it is a containment. ringed by volcanic  
+    ridges cooled into black stone, the valley was sealed in the era  
+    following the collapse. not by design. by necessity.
+
+    beyond the ridges is cold without life. a planetary freeze swallowing  
+    all landforms beyond the thermal boundary. even light bends differently  
+    past the barrier.
+
+    within, ecosystems persist under strain. the land does not heal. it  
+    mutates. seasons do not follow sequence. weather systems overlap.  
+    terrain folds into itself.
+
+    there are no settlements. no functioning roads. nothing is named.
+
+    the seal does not protect. it isolates.
+
+NOTES  
+    most assume the valley is artificial. no records confirm this.  
+    steam fissures, geothermal lakes, and shard storms suggest irregular  
+    tectonic events continue. some are survivable. others erase terrain  
+    outright.
+
+    nothing has entered from outside in living memory. nothing has left.
+
+%%% 03.txt %%%
+
+NAME  
+    celestial bodies − aurenzae and the moons of elyden
+
+DESCRIPTION  
+    six moons orbit elyden, and one quiet star rises above them.  
+    once, their cycles held meaning—tides, seasons, memory.  
+    now, their orbits drift. no calendars remain. no names  
+    are spoken aloud. but their effects are felt. always.
+
+    the moons do not punish. they shift. they bend life into  
+    new shapes. anyone who survives long enough learns to feel  
+    when one is near.
+
+    nothing in the sky offers prophecy. only rhythm.
+
+AURENZAE − sun  
+    red and quiet. warms the valley just enough to hold breath  
+    through long winters. on clear days, it hums low. on others,  
+    it flickers and vanishes for hours. not feared. not trusted.  
+    but welcome, when seen.
+
+TAERYNIEL − earth moon  
+    brings weight to stone and sap. tools sit heavier.  
+    roots thicken. sleeping near stone is deeper, harder.  
+    fissures widen. caves breathe slow.
+
+IRRAKETH − fire moon  
+    lights vents and sparks hidden tinder. wounds close faster  
+    but fever comes quicker. insects rise. forgework, when it  
+    exists, happens here.
+
+LOVAEN − air moon  
+    shifts the wind’s edge. carries scents far, or nowhere.  
+    speech feels thinner. songs stretch longer. birds follow it.  
+    if they disappear, it has passed.
+
+SERUNEL − water moon  
+    makes mist thicken and wells rise. skin softens.  
+    rain lingers in the throat. things long buried surface  
+    in riverbeds. sometimes they breathe.
+
+VAERONTH − magic moon  
+    no longer whole. once shaped memory and logic. now broken.  
+    its fragments fall cold. they do not glow. they interfere  
+    with purpose. still, some say they can be bound.
+
+KHYRAEL − unknown satellite  
+    was never named in the old cycle. dim and still.  
+    things slow under it. sprouting halts. sound becomes  
+    close. animals turn the wrong way. it does not move fast,  
+    but it always returns.
+
+NOTES  
+    when two moons align, weather may shift. when three cross,  
+    instincts fail. four or more: expect silence, or bloom.  
+    none of this is written down. it’s learned by living long.
+
+%%% 04.txt %%%
+
+NAME  
+    fragments − cold remnants of the broken moon
+
+DESCRIPTION  
+    fragments are found scattered across elyden.  
+    most are discarded. picked up, turned over, dropped.  
+    they do not respond to touch. they do not react to fire.  
+    they resemble glass-struck metal or twisted ceramic,  
+    but match no known alloy.
+
+    their origin is not recorded. some assume they fell  
+    during the first silence, after vaeronth cracked.  
+    others believe they surface from deep shifts.  
+    few carry more than one.
+
+    they do not glow. they do not respond to each other.  
+    if kept together, nothing happens. if broken,  
+    they resist all tools. some shatter under stress,  
+    but the result is dust, not insight.
+
+    no tool can read them. no animal reacts to them.  
+    no pattern is visible on their surface.  
+    only the girls’ amulets seem to sense them.  
+    the feeling is brief—pressure behind the sternum,  
+    or a short pulse of cold in the jaw.
+
+BEHAVIOR  
+    • do not corrode, even in rot  
+    • always cold, regardless of environment  
+    • retain structural tension — drop sharply, bounce little  
+    • resist being lost — fall near body if dropped at death  
+    • sometimes found embedded in apex lifeforms  
+    • never duplicate — no two are alike
+
+NOTES  
+    fragments cannot be forged, shaped, or slotted.  
+    not at first. only through contact with specific ruins,  
+    and under certain world states, do they begin to respond.
+
+    most die with no idea what they carried.
+
+%%% 05.txt %%%
+
+BIOMES(5)                                   Elyden World Codex                                   BIOMES(5)
+
+NAME
+    Biomes — terrain classifications and environmental behavior
+
+DESCRIPTION
+    Biomes in Elyden define terrain behavior, not political boundaries.
+    Each has distinct light, material access, movement difficulty, and survival traits.
+    Biomes may shift subtly over time due to terrain instability, elemental cycles, or ecological pulses.
+
+BIOME INDEX
+    plains (p)
+        flat, open ground. wind flows freely. good movement.
+        few resources. vulnerable to sight and weather.
+
+    small hills (h)
+        gentle rises. scattered stone. some cover.
+        uneven footing. watch for erosion channels.
+
+    steep hills (H)
+        sharp inclines. tough climb. runoff erosion.
+        tool edges can chip here. poor shelter.
+
+    evergreen forest (e)
+        pine and fir. acidic soil. cool and quiet.
+        low light. firewood scarce but dry.
+
+    deep evergreen forest (E)
+        thick canopy. muffled sound. dark at noon.
+        damp floor. fungi common. fire unreliable.
+
+    deciduous forest (d)
+        seasonal canopy. brighter floor. leaf litter.
+        wood is easier to work. water trickles shallow.
+
+    deep deciduous forest (D)
+        tangled growth. hard to track. light choked.
+        rot sets in fast. rich in insects and mold.
+
+    forest (f)
+        mixed growth. variable light. animal trails.
+        salvage chances higher. materials diverse.
+
+    river (r)
+        winding water. muddy banks. fog at dawn.
+        unstable ground. fish and insects common.
+
+    meadow (m)
+        grassland with wildflowers. light wind.
+        easy visibility. soft soil. low concealment.
+
+    deep meadow (M)
+        dense overgrowth. motion hidden.
+        some edible plants. harder to traverse.
+
+    lake (~)
+        still water. soft edges. safe if filtered.
+        thick algae possible. silence amplified.
+
+    unclimbable mountains (^)
+        sheer stone face. no ascent. fractured ice.
+        wind cuts hard. lines of sight wide but cold.
+
+    ice (i)
+        crusted surface. hollow sounds. breaks under weight.
+        few signs of life. bright glare.
+
+    tundra (t)
+        frozen brush. low plants. dry wind.
+        brittle sound. shallow snow. little shelter.
+
+    glacier (g)
+        deep blue ice. hidden crevasses. sharp cold.
+        noise carries. fragments buried and slow.
+
+    swamp (s)
+        wet rot. slow footing. twisted roots.
+        fire smothers. smells linger. dangerous depth.
+
+    badlands (z)
+        cracked stone. dust winds. sharp formations.
+        ruins exposed. harsh light. no water.
+
+NOTES
+    This index describes experiential traits—not game rules.
+    Biome cues are environmental: light, smell, moisture, growth, sound, resistance.
+    Player familiarity improves recognition and movement efficiency.
+
+
+%%% 06.txt %%%
+
+BIOME  
+    plains
+
+TERRAIN  
+    Mostly flat with gentle slopes. Open skies and strong winds.  
+    Soil is dry and gritty, mixed with patches of hard clay.  
+    Surface heats quickly in daylight and cools fast at night.  
+    Occasional shallow streambeds cut across the ground but rarely hold water.  
+    Visibility is excellent, but cover is nearly nonexistent.
+
+INORGANIC RESOURCES  
+    • Gravel and coarse sand − useful for fire pits and drainage  
+    • Flint pieces − can be shaped into cutting tools (rare)  
+    • Clay pockets − usable for crude pottery or sealing gaps  
+    • Iron-stained stones − may mark ancient runoff areas  
+    • Windblown dust − fine, irritating, clogs gear and eyes
+
+FLORA  
+
+    GRASSES  
+    • Little bluestem − tough grass for bedding, insulation, and thatch  
+    • Needlegrass − sharp-tipped blades, avoided by grazers
+
+    SHRUBS & SUCCULENTS  
+    • Prickly pear cactus − edible pads and fruit, water-storing  
+    • Rabbitbrush − yellow-flowered bush, good kindling when dry
+
+    HERBS & LOW PLANTS  
+    • Plantain leaf − grows in damp dips; used to soothe insect bites  
+    • Wild sage − fragrant and bitter; burned to keep bugs away  
+    • Yarrow − feathery plant used for wound care (found near runoff)
+
+    FUNGI  
+    • None in open plains. Conditions too dry.
+
+    TREES  
+    • None present. Only wind-stunted brush near deeper soils.
+
+FAUNA  
+
+    INSECTS  
+    • Field crickets − active at night; edible if roasted  
+    • Harvester ants − aggressive defenders of sandy nests  
+    • Grasshoppers − jumpy, edible, often seen in warm seasons
+
+    REPTILES  
+    • Horned lizards − slow, spiky; eat ants; safe to handle  
+    • Gopher snakes − non-venomous, keep rodent numbers low
+
+    BIRDS  
+    • Meadowlark − ground nester, calls travel far  
+    • Red-tailed hawk − circles for hours, drops fast when hunting
+
+    MAMMALS  
+    • Jackrabbit − fast runner; lean meat; hides useful for wrapping  
+    • Coyote − curious scavenger; rarely dangerous alone
+
+    SIGNS OF LARGER LIFE  
+    • No current megafauna. Scattered old bones suggest past grazers.  
+    • Bird migrations pass overhead but rarely stop.
+
+NOTES  
+    Plains are easy to walk but hard to live in.  
+    No shade, little water, few hiding spots.  
+    Useful mostly for travel and spotting weather ahead.
+
+%%% 07.txt %%%
+
+BIOME  
+    small hills
+
+TERRAIN  
+    Gently rising terrain with soft slopes and shallow valleys.  
+    Ground is uneven but walkable. Soil is loamy in dips, drier  
+    on crests. Wind slows between hills, collecting leaf litter  
+    and debris in folds. Drainage is better than plains—some areas  
+    hold moisture longer. Stones are more frequent here, especially  
+    near exposed roots or erosion channels.
+
+INORGANIC RESOURCES  
+    • Smooth stones − usable for pounding, sharpening edges  
+    • Exposed flint − more common than plains; good for toolcraft  
+    • Red clay − found in low points; dries hard, useful for lining  
+    • Soft limestone chunks − breakable for chalk or filtration  
+    • Sand pockets − gather in wind hollows, poor for anchoring
+
+FLORA  
+
+    GRASSES  
+    • Big bluestem − tall, tough grass; good for roof thatch or fire  
+    • Ryegrass − green into late season; grazed by wildlife
+
+    SHRUBS & SUCCULENTS  
+    • Wild rose − thorny bush with edible hips; dense cover for birds  
+    • Juniper − low-branch evergreen shrub; wood burns slowly  
+    • Gooseberry − thorny; tart berries edible if ripe
+
+    HERBS & LOW PLANTS  
+    • Stinging nettle − painful to touch raw; edible when boiled  
+    • Mugwort − bitter herb; used for stomach aches  
+    • Burdock − large leaves; edible roots if roasted
+
+    FUNGI  
+    • Puffballs − round, white fungi found near decaying roots  
+    • Dryad’s saddle − shelf fungus on fallen logs; edible when young
+
+    TREES  
+    • Scrub oak − short, twisted; acorns must be leached  
+    • Hawthorn − small fruit-bearing tree; thorns dense  
+    • Black locust − hard wood; burns hot, dangerous thorns
+
+FAUNA  
+
+    INSECTS  
+    • Wood ants − build low mounds; sting when disturbed  
+    • Dung beetles − common near animal trails  
+    • Solitary bees − nest in dry banks; non-aggressive
+
+    REPTILES & AMPHIBIANS  
+    • Fence lizard − warms on rocks; insectivore  
+    • Toads − appear after rain; eat gnats and small beetles
+
+    BIRDS  
+    • Quail − ground forager; coveys scatter loudly when startled  
+    • Woodpecker − nests in old trunks; sound echoes over hills  
+    • Kestrel − small falcon; hovers before diving
+
+    MAMMALS  
+    • Ground squirrel − tunnels beneath bushes; stores seeds  
+    • Cottontail rabbit − common; hide and bones useful  
+    • Fox − light-footed; hunts small game; cautious of fire
+
+    SIGNS OF LARGER LIFE  
+    • Deer trails − worn tracks at tree edges; scat near berry patches  
+    • No known predators larger than fox reside full-time
+
+NOTES  
+    Hills offer more cover and plant life than plains.  
+    Easier to trap small animals. Watch erosion cuts after rain.  
+    Stones can shift underfoot when dry. Good place to camp if dry.
+
+%%% 08.txt %%%
+
+BIOME  
+    steep hills
+
+TERRAIN  
+    Sharp inclines with narrow ridges and uneven footing.  
+    Slopes are rocky and dry; loose gravel common.  
+    Soil is shallow or absent—roots often grip exposed stone.  
+    Water runs off quickly, carving gullies and mini ravines.  
+    Climbing requires care; footing crumbles easily.  
+    Wind whistles through gullies, stronger at the crest.
+
+INORGANIC RESOURCES  
+    • Shattered slate and shale − thin, sharp-edged; usable for knives  
+    • Quartz fragments − found in seams; brittle but reflective  
+    • Granite rubble − good for shelter wall bases  
+    • Iron oxide veins − red-streaked rock; indicator of deeper deposits  
+    • Chalk outcrops − soft but useful for basic marking
+
+FLORA  
+
+    GRASSES  
+    • Side-oats grama − sparse, clings to dry soil patches  
+    • Wild rye − short, tough; seeds edible when toasted
+
+    SHRUBS & SUCCULENTS  
+    • Mountain mahogany − dense and twisted; wood burns hot  
+    • Manzanita − smooth red bark; berries edible in small amounts  
+    • Rock cress − clings to crevices; roots stabilize stone
+
+    HERBS & LOW PLANTS  
+    • Thyme − low and fragrant; antiseptic use  
+    • Penstemon − hardy blooms; attracts birds and bees  
+    • Woolly lamb’s ear − soft leaves used for wrapping wounds
+
+    FUNGI  
+    • Very rare; may appear under shaded ledges after rain  
+    • Lichen − mixes with moss on north-facing rock
+
+    TREES  
+    • Pinyon pine − short, spreading tree; nuts edible  
+    • Rocky mountain juniper − scraggly but persistent; good for smoke  
+    • No tall canopies; most trees are twisted and low to avoid wind shear
+
+FAUNA  
+
+    INSECTS  
+    • Cliff bees − nest in rock holes; harvest carefully  
+    • Stone centipede − fast, hides under slate; not dangerous  
+    • Grasshoppers − found on dry grass patches in sun
+
+    REPTILES & AMPHIBIANS  
+    • Western fence lizard − heat-tolerant; darting hunter  
+    • Garter snake − hunts toads; often near trickle zones
+
+    BIRDS  
+    • Rock wren − small bird, nests in crevices  
+    • Raven − watches from heights; scavenger and signal  
+    • Golden eagle − rarely spotted; hunts rabbits and marmots
+
+    MAMMALS  
+    • Marmot − thick-bodied burrower; whistles when alarmed  
+    • Mountain cottontail − hides under brush piles  
+    • Bobcat − elusive predator; avoids campfire smoke
+
+    SIGNS OF LARGER LIFE  
+    • Mountain goat tracks (rare) along high ridges  
+    • Cougars pass through occasionally; scat near deer kill sites
+
+NOTES  
+    Steep hills are rich in stone, poor in water.  
+    Climbing is dangerous, but lookout points are ideal for watching herds  
+    or tracking weather. Dry air preserves meat longer.  
+    Fires may slip on slopes—build stone windbreaks if camping.
+
+%%% 09.txt %%%
+
+BIOME  
+    evergreen forest
+
+TERRAIN  
+    Rolling or hilly terrain blanketed by dense conifer trees.  
+    Soil is acidic and carpeted with pine needles, limiting undergrowth.  
+    Light is filtered and dim even during daylight hours.  
+    Ground is springy underfoot but uneven, with fallen logs, roots,  
+    and moss-covered rocks. Moisture lingers in shaded pockets.  
+    Fire spreads slowly but smokes heavily under canopy.
+
+INORGANIC RESOURCES  
+    • Smooth glacial stones − useful for tools or heat sinks  
+    • Iron-rich sand − collects in low drainage spots  
+    • Decomposing bark layers − absorbent for shelter and lining  
+    • Pine resin − sticky, flammable; useful for sealing or torch fuel  
+    • Flint nodules (rare) − often buried near tree base
+
+FLORA  
+
+    TREES  
+    • Douglas fir − tall, straight; excellent firewood and shelter beams  
+    • Lodgepole pine − thinner, straighter trunks; ideal for spears, frames  
+    • Western hemlock − drooping tips; bark used for tannin extraction
+
+    SHRUBS  
+    • Huckleberry − berries edible in late season  
+    • Salal − tough-leaved; berries eaten raw or dried  
+    • Oregon grape − thorny leaves; tart berries edible with preparation
+
+    HERBS & LOW PLANTS  
+    • Ferns (sword, bracken) − widespread; good for bedding  
+    • Bunchberry − small plant with red berries; edible, starchy  
+    • Wild mint − aromatic; used in teas or poultice
+
+    FUNGI  
+    • Chanterelle − golden; grows near fir roots in damp shade  
+    • Turkey tail − shelf fungus on fallen logs; used in decoctions  
+    • Fly agaric (poisonous) − red with white spots; avoid  
+    • Slippery jack − slimy cap; edible when peeled and cooked
+
+    GRASSES  
+    • Sparse; mostly at clearings and trail edges  
+    • Bluejoint reedgrass − appears near stream cuts or moist ruts
+
+FAUNA  
+
+    INSECTS  
+    • Carpenter ants − burrow into deadwood; common  
+    • Mosquitoes − dense near any pooled water  
+    • Moths − active at dusk; cluster near camps
+
+    REPTILES & AMPHIBIANS  
+    • Rough-skinned newt − slow-moving, toxic skin; do not touch eyes  
+    • Northwestern garter snake − non-venomous; small prey hunter  
+    • Pacific tree frog − peeps heard even if frogs unseen
+
+    BIRDS  
+    • Steller’s jay − loud, alert; seen near camps  
+    • Northern flicker − woodpecker variant; insect hunter  
+    • Barred owl − quiet glider; roosts in dusk
+
+    MAMMALS  
+    • Red squirrel − loud, territorial; caches pine cones  
+    • Black-tailed deer − skittish; hide well in underbrush  
+    • Black bear − may pass through; mostly foraging, not aggressive
+
+    SIGNS OF LARGER LIFE  
+    • Elk tracks − seen near clearings; leave hoof prints in moss  
+    • Cougar − extremely rare; droppings near deer kill, deep scratch marks
+
+NOTES  
+    Evergreen forests offer shelter, fuel, and forage year-round.  
+    Firewood stays dry under canopy, but visibility is low.  
+    Echoes carry far. Movement is best along fallen trunks and game trails.  
+    Stay alert for deadfall and soft rot beneath moss.
+
+%%% 10.txt %%%
+
+BIOME  
+    deep evergreen forest
+
+TERRAIN  
+    Dense canopy blocks most sunlight; forest floor remains dim and damp  
+    even at midday. Understory is sparse but cluttered with deadfall,  
+    decaying stumps, and thick moss. Paths are hard to follow—no landmarks  
+    last long. Ground is soft, often spongy or slick with decomposing needles.  
+    Visibility drops below ten meters in places. Sounds are muffled.
+
+INORGANIC RESOURCES  
+    • Waterlogged stones − rounded and slick; used for heat-retaining beds  
+    • Thick moss mats − usable as insulation if dried  
+    • Resin clumps − gathered from old bark wounds  
+    • Rot-softened logs − break apart for insect harvesting  
+    • Rare obsidian flakes − scattered from long-past volcanic trace lines
+
+FLORA  
+
+    TREES  
+    • Western red cedar − towering; rot-resistant wood, stringy bark  
+    • Sitka spruce − straight-trunked; great for bow staves or fire spindles  
+    • Grand fir − dense foliage; fallen branches ideal for shelters
+
+    SHRUBS  
+    • Devil’s club − spiny stalks; use gloves; medicinal bark but dangerous  
+    • Thimbleberry − soft berries; leaves large and good for wrapping  
+    • Elderberry − small tree-like bush; berries must be cooked
+
+    HERBS & LOW PLANTS  
+    • Waterleaf − soft-leaved plant; edible but easily bruised  
+    • Oxalis − sour clover-like plant; edible in small quantities  
+    • Skunk cabbage − waxy and large; avoid eating; used to wrap or insulate
+
+    FUNGI  
+    • Angel wing mushrooms − white, fragile; edible but spoil quickly  
+    • Bear’s head tooth − hanging white spines; found on stumps; edible  
+    • Dead man’s finger − black fungal clumps from rotting wood; not edible  
+    • King bolete − thick-capped, heavy; excellent food source when fresh
+
+    GRASSES  
+    • Almost none. Grass struggles to survive without sunlight.  
+    • Isolated reed-like shoots at clear seepage zones
+
+FAUNA  
+
+    INSECTS  
+    • Termites − found inside stumps and fallen logs  
+    • Mosquito swarms − heavy near stagnant pools  
+    • Fungus gnats − hover above rotting bark and mushrooms
+
+    REPTILES & AMPHIBIANS  
+    • Ensatina salamander − common near mossy logs  
+    • Red-legged frog − spotted near shallow wet depressions  
+    • Northern alligator lizard − hides beneath fallen bark
+
+    BIRDS  
+    • Varied thrush − haunting calls; hard to spot  
+    • Pileated woodpecker − large; carves deep holes in dead trunks  
+    • Great horned owl − near-silent; apex bird in this zone
+
+    MAMMALS  
+    • Shrews − insect-eaters; dart through root mats  
+    • Pine marten − tree-climber; curious, sometimes bold  
+    • Black bear − more frequent here than lighter forests; digs for grubs  
+    • Deer − pass through but rarely bed down
+
+    SIGNS OF LARGER LIFE  
+    • Scat from bears, elk, or wolves found at mossy trail breaks  
+    • Antler rub marks on saplings from passing bucks
+
+NOTES  
+    Deep evergreen forest is quiet and humid.  
+    Fires are hard to start unless fuel is gathered from above ground.  
+    Animal signs are harder to track due to leaf litter and moss.  
+    A good place to forage or hide—but not to travel fast.
+
+%%% 11.txt %%%
+
+BIOME  
+    deciduous forest
+
+TERRAIN  
+    Broadleaf canopy that shifts with the seasons—lush in spring and  
+    summer, bare and open in cold cycles. Forest floor is rich with  
+    leaf litter, saplings, and decaying logs. Soil is loamy and soft  
+    in most places, holding water briefly before draining.  
+    Light varies: bright before leaf-out, dappled during full canopy,  
+    and exposed in barren months. Animal paths often form trail networks.
+
+INORGANIC RESOURCES  
+    • Smooth stones − for fire rings, basic shaping tools  
+    • Loamy topsoil − good for root harvesting and plant growth  
+    • Clay seams − found deeper near drybed curves  
+    • Deadfall limbs − abundant, dries fast under canopy gaps  
+    • Coarse sand − settles along runoff grooves
+
+FLORA  
+
+    TREES  
+    • Oak − drops acorns; must be leached before eating  
+    • Maple − sap can be tapped in cold season; good for tools  
+    • Birch − bark peels for fire-starting; inner cambium edible
+
+    SHRUBS  
+    • Bramble vine − thorny, fruit-bearing; grows fast along edges  
+    • Nutbush − drops hard-shelled seeds; roasted for food  
+    • Witchbranch − flexible twigs; bark used in simple remedies
+
+    HERBS & LOW PLANTS  
+    • Wild garlic − pungent bulbs; good raw or cooked  
+    • Dandelion − full plant is edible; bitter greens and roasted roots  
+    • Sorrel − tart leaf used in tea and stew  
+    • Yellowbloom − daisy-like; crushed leaves relieve insect stings
+
+    FUNGI  
+    • Honeycap − clustered near tree roots; edible cooked  
+    • Hen mushroom − layered shelf; found at tree base  
+    • Dustball − not edible, but visible in healthy rot zones  
+    • Log-rot fungus − breaks down wood quickly; avoid sleeping nearby
+
+    GRASSES  
+    • Forest reed − found in damp glades; flexible  
+    • Broomsedge − dry, brittle stalks for tinder bundles
+
+FAUNA  
+
+    INSECTS  
+    • Ground ants − colony mounds near roots and stones  
+    • Bark beetles − live under moist logs; sometimes edible  
+    • Flicker moths − dusk flyers; gather at still air pockets  
+    • Ticks − hide in tall grass and leaf piles
+
+    REPTILES & AMPHIBIANS  
+    • Tree snake − nimble, non-venomous; favors warmth  
+    • Shellback − hard-shelled crawler; rare, slow-moving  
+    • Rain toad − emerges after storms; eats flies and beetles
+
+    BIRDS  
+    • Woodcaller − sings high in early sun  
+    • Nest-thief − bold, blue-feathered; raids other birds  
+    • Ground fowl − scratches through leaf litter; heavy but wary  
+    • Broadwing − patient sky hunter; found near breaks in canopy
+
+    MAMMALS  
+    • Gray glider − leaps tree to tree; nests high  
+    • Forest deer − cautious, light-hoofed  
+    • Masked forager − washes food at stream edge  
+    • Burrow fox − uses hollow logs or bramble thickets
+
+    SIGNS OF LARGER LIFE  
+    • Claw scoring on bark  
+    • Rubbed saplings and hoof prints in damp soil
+
+NOTES  
+    This forest yields wide edible variety through the year.  
+    Water is more available, firewood abundant, and shelter  
+    easier than in dry zones. But noise travels, and leaf cover  
+    offers less protection from above.
+
+%%% 12.txt %%%
+
+BIOME  
+    deep deciduous forest
+
+TERRAIN  
+    Thick, old-growth broadleaf woods where light barely touches  
+    the ground in full canopy seasons. Understory is dense with  
+    vines, rotting logs, mosses, and layered leaf litter.  
+    Air is still and humid; sound is absorbed by the foliage.  
+    Paths vanish quickly as fallen leaves, fungus, and rainfall  
+    erase any prints. Ground is soft but uneven—fallen trees  
+    and sunken hollows hide beneath brush.
+
+INORGANIC RESOURCES  
+    • Moist clay − found near shallow stream cuts; usable for sealant  
+    • Decayed logs − rich in insects and sponge fungi  
+    • Bark mulch − useful for ground padding and smoke fuel  
+    • Stone rubble − rare, usually near old root masses  
+    • Charcoal remnants − found where lightning struck long ago
+
+FLORA  
+
+    TREES  
+    • Beech − smooth bark, bitter nuts; long-lived stands  
+    • Elm − wide canopy, drops large leaves; dense wood  
+    • Hornbeam − slow-growing, dense-grained; tool-worthy when dry
+
+    SHRUBS  
+    • Spicebush − clusters of red berries; aromatic  
+    • Viburnum − white flowers, blue fruit; birds feed here  
+    • Creeping bramble − thorny ground spreader; shelters small animals
+
+    HERBS & LOW PLANTS  
+    • Wood nettle − grows in moist soil; edible when boiled  
+    • Jewelweed − sap soothes nettle stings and bites  
+    • Bloodroot − red sap; caution: use only externally
+
+    FUNGI  
+    • Morel − dark sponge cap; hidden under leaf layers  
+    • Artist’s conk − large, woody shelf on dying trees  
+    • Brittle gills − break easily; some edible, some not  
+    • Earth tongue − slender, black fungi near stumps
+
+    GRASSES  
+    • Sparse, mostly at fallen tree gaps  
+    • Sedge clumps − found where sunlight reaches ground briefly
+
+FAUNA  
+
+    INSECTS  
+    • Millipedes − curl into tight ball; feed on rot  
+    • Glow beetles − faint light during damp nights  
+    • Ticks and mites − cling to skin and fur in thick undergrowth
+
+    REPTILES & AMPHIBIANS  
+    • Leaf frog − tiny, well-camouflaged; clings to bark  
+    • Mud salamander − burrows under wet logs  
+    • Vine snake − dangles from brush; slow but precise
+
+    BIRDS  
+    • Silent glider − owl-like; strikes without call  
+    • Thicket warbler − blends into brambles  
+    • Droop-beak − probes for grubs under bark
+
+    MAMMALS  
+    • Forest mouse − nests in rotting logs  
+    • Rust-hare − fur blends with leaves; startles easily  
+    • Striped scavenger − digs under logs; raids nests  
+    • Hollow bear − denser than elsewhere; drawn by mushroom scent
+
+    SIGNS OF LARGER LIFE  
+    • Bear den hollows under fallen trunks  
+    • Scattered bones and bird feather clumps at clearing edges  
+    • Deep scratch lines across tree trunks — from unknown source
+
+NOTES  
+    Deep deciduous woods reward careful foraging.  
+    Fire is difficult due to moisture—resin or bark kindling needed.  
+    Mist lingers through most mornings. Navigation unreliable  
+    without clear sun or a return marker. Good for hiding.  
+
+%%% 13.txt %%%
+
+BIOME  
+    forest (mixed)
+
+TERRAIN  
+    Transitional woodland blending deciduous and evergreen growth.  
+    Floor is uneven but walkable, scattered with cones, leaves,  
+    and fallen branches. Moisture levels shift by zone—dry pine  
+    patches lead into damp leaf thickets. Light flickers through  
+    shifting gaps. Animal trails are common, winding around roots,  
+    stumps, and shallow depressions. Air feels cooler than open land.
+
+INORGANIC RESOURCES  
+    • Pine resin − sticky, flammable; useful for torches and sealing  
+    • Bark slough − curls from fallen logs; good for kindling  
+    • Flint stones − rare, more common where rock breaks surface  
+    • River pebbles − present near creeks; smooth and workable  
+    • Clay nodules − found in runoff gullies under mixed canopy
+
+FLORA  
+
+    TREES  
+    • Red maple − leaf changes with seasons; wood good for handles  
+    • Spruce − tight-needled; branches used for cover or bedding  
+    • Alder − favors damp areas; bark can be used to dye cloth
+
+    SHRUBS  
+    • Blueberry − edible berries; grows in sun-patched clearings  
+    • Currant − thin-stemmed, tangy fruit  
+    • Elder − clusters of small berries; must be cooked before eating
+
+    HERBS & LOW PLANTS  
+    • Mint − found near water seepage; used to calm stomach  
+    • Cleavers − clingy stalks; mild diuretic  
+    • Chicory − bitter leaves, edible root; used in teas
+
+    FUNGI  
+    • Coral fungus − pale branches near roots; edible in small amounts  
+    • Birch polypore − grows in sheets on dead trees; boiled for medicine  
+    • Russula − many types; some safe, some not—test carefully
+
+    GRASSES  
+    • Wild rye − at sunny edges; seeds edible  
+    • Forest fescue − low blades beneath mixed cover
+
+FAUNA  
+
+    INSECTS  
+    • Black ants − common on tree bases and trails  
+    • Moths − thick around early evening; drawn to campfire light  
+    • Leaf beetles − cling to underside of foliage
+
+    REPTILES & AMPHIBIANS  
+    • Skink − shiny, quick; feeds on beetles  
+    • Damp toad − found beneath flat stones  
+    • Tree creeper snake − thin-bodied; blends against bark
+
+    BIRDS  
+    • Treefinch − flutters near water; nests in reed clumps  
+    • Scrub crow − mimics sounds; may alert other animals  
+    • Nest hawk − hunts small rodents from above
+
+    MAMMALS  
+    • Chipmunk − chatters loudly; stores food in rock crevices  
+    • Hollow fox − lean and quick; fur blends with dappled light  
+    • Ring-tail − climbs trees for eggs and fruit; nocturnal
+
+    SIGNS OF LARGER LIFE  
+    • Deer prints lead to shared watering dips  
+    • Bear hair clings to tree bark near trails  
+    • Snapped saplings suggest nighttime passage of heavy creature
+
+NOTES  
+    Mixed forests are the most balanced zones for survival.  
+    Water, firewood, shelter, and forage all present.  
+    Fewer extremes, but also fewer open views—ambush is possible.  
+    Game trails and bird calls help track unseen movement.
+
+%%% 14.txt %%%
+
+BIOME  
+    river
+
+TERRAIN  
+    Freshwater channel winding through soft terrain.  
+    Banks vary: steep cuts with exposed roots, or shallow slopes  
+    lined with gravel bars and reed beds. Water clarity shifts  
+    with weather. Morning mist is common.  
+    Flow muffles nearby sound. Edges are unstable and  
+    prone to collapse. Driftwood accumulates in curves and eddies.
+
+INORGANIC RESOURCES  
+    • Rounded stones − usable for heating, sharpening, or grinding  
+    • River clay − thick and slippery; seals gaps and containers  
+    • Sand deposits − fine filtering medium  
+    • Silt − collects near still pools; may hide bones or tools  
+    • Driftwood − burns easily if sun-dried; poor long-term fuel
+
+FLORA  
+
+    TREES  
+    • Willow − roots hold banks; branches good for cordage  
+    • Alder − improves soil; bark used in poultice wash  
+    • Sycamore − large shade tree; bark peels in patches
+
+    SHRUBS  
+    • Buttonbush − dense thickets; flowers draw insects  
+    • Elder − berries edible when cooked  
+    • Swamp rose − thorny stems; fragrant petals
+
+    HERBS & LOW PLANTS  
+    • Water mint − grows at edge; insect-repelling, steeped as tea  
+    • Cattail − roots, shoots, and pollen edible; fluff for tinder  
+    • Horsetail − jointed stems; used as scouring tool
+
+    FUNGI  
+    • Shelf fungus − grows on waterlogged logs; not edible  
+    • River cap − waxy; appears near muddy roots  
+    • Slime mold − bright patches on bark; attracts gnats
+
+    GRASSES  
+    • Reedgrass − good for weaving, floats when dry  
+    • Bulrush − dense stands; habitat for fish fry and frogs
+
+FAUNA  
+
+    INSECTS  
+    • Water striders − skim surface; harmless  
+    • Caddisfly larvae − edible, bait-worthy  
+    • Horseflies − persistent biters; active midday
+
+    FISH  
+    • River chub − abundant, easy to net  
+    • Mud loach − hides in silt; edible but gritty  
+    • Pike − large, aggressive; sharp bite if handled carelessly  
+    • Dace − slippery, silvery; best caught in shallows
+
+    AMPHIBIANS & REPTILES  
+    • River turtle − edible, slow on land  
+    • Water snake − non-venomous; will strike if cornered  
+    • Newt − small and moist-skinned; not dangerous
+
+    BIRDS  
+    • Kingfisher − fast, colorful; signals fish activity  
+    • Heron − long-legged wader; spears frogs and fish  
+    • Carrion crow − opportunist; follows camps and kills
+
+    MAMMALS  
+    • Otter − playful but bold; may raid traps  
+    • Water rat − tunnels in banks; edible but disease-prone  
+    • Wild boar − drinks at river’s edge; highly dangerous if startled
+
+SIGNS OF LARGER LIFE  
+    • Crushed reeds and deep hoofprints where large animals drink  
+    • Torn banks with muddy claw scrapes—sign of nocturnal foraging  
+    • Otter slides—flattened paths from water to mud dens  
+    • Broken turtle shells or scattered feathers near eddies  
+    • Hollow logs with recent gnaw marks
+
+NOTES  
+    Rivers provide steady water, fish, and foraging, but come with hazards.  
+    Currents shift banks unexpectedly. Tread carefully near soft ground.  
+    Morning is ideal for fishing and tracking animals. Watch the treeline.  
+    Some animals here are unpredictable and aggressive—boars, horseflies, and pike among them.
+
+%%% 15.txt %%%
+
+BIOME  
+    meadow
+
+TERRAIN  
+    Open, sunlit grassland bordered by forest or low brush.  
+    Ground is mostly level but uneven in places due to animal trails  
+    and buried roots. Soil ranges from dry and sandy in the uplands  
+    to moist in shaded dips. No permanent water bodies, though  
+    morning dew is common. Wind travels freely here. Shade is rare.
+
+INORGANIC RESOURCES  
+    • Pebbles and scattered gravel − usable for tool abrasion  
+    • Dry soil − holds warmth, poor for digging  
+    • Weathered wood − fallen from bordering trees, dry and light  
+    • Old ash patches − signs of past fires; may conceal charcoal  
+    • Flint shards − occasionally found along exposed roots
+
+FLORA  
+
+    GRASSES  
+    • Switchgrass − grows in dense stands; good for bedding and bundles  
+    • Needlegrass − stiff blades, avoid for footwear  
+    • Foxtail − bushy seed heads; clings to clothing and fur
+
+    SHRUBS  
+    • Sumac − reddish stems; berries steeped for drink  
+    • Wild plum − small, sour fruits; short-lived cover  
+    • Meadow rose − low, thorny; soft petals in late bloom
+
+    HERBS & LOW PLANTS  
+    • Clover − edible leaves and flowers  
+    • Wild carrot − white-flowered, edible root if correctly identified  
+    • Feverfew − daisy-like; used to reduce inflammation  
+    • Plantain − wide-leafed; used for insect bites and scrapes
+
+    FUNGI  
+    • Rare − conditions too dry; only possible near shaded logs  
+    • Puffballs − appear after heavy rainfall, edible when firm
+
+    TREES  
+    • None rooted in meadow proper; sparse tree line may encroach  
+    • Deadfall from nearby woods may drift into grass edge
+
+FAUNA  
+
+    INSECTS  
+    • Crickets − loud in warm dusk; edible  
+    • Meadow bees − small pollinators; not aggressive unless disturbed  
+    • Grasshoppers − jump in clouds when startled; abundant  
+    • Ticks − hide in tall grass; attach to exposed skin
+
+    REPTILES  
+    • Racer snake − fast-moving; not venomous but defensive  
+    • Skinks − bask near rock clusters  
+    • Tortoise − rare; favors warmth and cover at edges
+
+    BIRDS  
+    • Lark − nests on ground; warns loudly when flushed  
+    • Kestrel − hovers overhead; preys on mice and grasshoppers  
+    • Quail − move in coveys; burst upward if surprised
+
+    MAMMALS  
+    • Field mouse − nests in shallow burrows; forage at dusk  
+    • Hare − fast and wary; eats clover and bark  
+    • Badger − digs deep burrows; can be aggressive if trapped
+
+SIGNS OF LARGER LIFE  
+    • Flattened grass trails from frequent passage  
+    • Scat pellets from deer or hare near grazing zones  
+    • Scraped earth and shallow beds—day shelters for boars or foxes  
+    • Feathers caught in thornbushes or ground nests  
+    • Burrows with fresh soil piles around entrance
+
+NOTES  
+    Meadows offer excellent visibility and dry forage.  
+    Ideal place to dry hides, warm gear, and gather insects.  
+    No permanent water—survival requires travel to nearby woods or slopes.  
+    Exposure to wind and sun can be dangerous without cover.
+
+%%% 16.txt %%%
+
+BIOME  
+    swamp
+
+TERRAIN  
+    Waterlogged basin with soft, sucking ground and dense vegetation.  
+    Surface is uneven—pools, mudflats, root tangles, and sunken hollows.  
+    Air is humid, hot, and filled with rot. Smells shift with every step.  
+    Insects form clouds. Visibility is poor beyond reed lines or willow walls.  
+    Travel is slow; one misstep leads to chest-deep water or sinkholes.
+
+INORGANIC RESOURCES  
+    • Muck clay − sticky, dense; usable for sealant if dried  
+    • Deadfall wood − half-rotten; burns poorly unless bark is stripped  
+    • Bog iron − found as orange crusts in shallow flows  
+    • Peat blocks − dense and spongy; can be dried for fuel  
+    • Algae mats − potential nutrient additive or insulation layer
+
+FLORA  
+
+    TREES  
+    • Bald cypress − root knees poke from water; bark useful for smoke  
+    • Swamp willow − flexible branches; good for bindings  
+    • Tupelo − thick trunks; drops soft, edible fruit
+
+    SHRUBS  
+    • Buttonbush − dense and tangled; thickets hide water paths  
+    • Bog myrtle − aromatic leaves; used in insect salve  
+    • Sawgrass − cuts skin when dry; grows in chest-high clusters
+
+    HERBS & LOW PLANTS  
+    • Marsh mint − grows in floating mats; sharp flavor, antifungal  
+    • Water parsley − edible in small doses; resembles hemlock  
+    • Bush weed − sticky, five-lobed leaf; hallucinogenic if dried and smoked  
+    • Bloodroot − red-stained sap; external use only
+
+    FUNGI  
+    • Black cap − grows on wet wood; edible but spoils fast  
+    • Ghost fungus − faintly glows at night; not edible  
+    • Puff mold − spores released when stepped on; choke risk  
+    • Shelf rot − common on low tree trunks
+
+    GRASSES  
+    • Reedgrass − tall and hollow; useful for weaving  
+    • Papyrus-type stalks − found in still pools; can be split into cord
+
+FAUNA  
+
+    INSECTS  
+    • Mosquitoes − swarms near still water; bite constantly  
+    • Biting midges − near-invisible, relentless; draw blood  
+    • Leeches − attach in water or from damp leaves  
+    • Water beetles − edible but tough-shelled
+
+    REPTILES & AMPHIBIANS  
+    • Anaconda − massive, ambush predator; coils from water’s edge  
+    • Black caiman − stealthy in murky pools; eyes just above surface  
+    • Swamp crocodile − rests motionless; charges without warning  
+    • Giant toad − toxic glands; avoid handling
+
+    FISH  
+    • Bowfin − tough, prehistoric fish; edible with effort  
+    • Mudfish − can survive in drying puddles; meat is bitter  
+    • Needlefish − sharp-snouted; cuts flesh when netted carelessly  
+    • Eel − slippery and nutritious; hard to catch
+
+    BIRDS  
+    • Stilt heron − walks through reed beds; excellent spotter  
+    • Swamp buzzard − circles over carrion or exposed camps  
+    • Bittern − camouflaged; emits booming call at dusk
+
+    MAMMALS  
+    • Marsh boar − powerful and territorial; wallows in mud pits  
+    • Swamp monkey − rare, nimble; throws objects when startled  
+    • Bog rat − bloated, aggressive scavenger; carries parasites
+
+SIGNS OF LARGER LIFE  
+    • Torn reeds and claw furrows along banks  
+    • Floating feathers and torn fur bundles near shallow kills  
+    • Mud trails leading into deeper pools—vanish suddenly  
+    • Broken limbs high in trees—sign of climbing predator  
+    • Bone clusters at dry island mounds
+
+NOTES  
+    The swamp is deadly. Every movement risks ambush, sickness, or misstep.  
+    But it offers rare plants, high-protein prey, and the only known source  
+    of bush weed. Firewood must be scavenged from above ground or imported.  
+    Cooking is vital—parasites are common.  
+    Visibility is your worst enemy. So is overconfidence.
+
+%%% 17.txt %%%
+
+BIOME  
+    deep meadow
+
+TERRAIN  
+    Overgrown grassland with tangled stems, thorny stalks, and  
+    chest-high wild growth. Few visible trails. Soil is soft but often  
+    concealed under dense matting. Footing is uncertain—holes, roots,  
+    and hidden nests common. Sound is muffled. Every step shifts  
+    foliage. Sightlines are short. Dry areas crackle underfoot,  
+    but moisture gathers in low hollows.
+
+INORGANIC RESOURCES  
+    • Compact stones − under root balls; useful for heads or grinding  
+    • Clay pockets − rare, found in deep troughs  
+    • Weathered wood − drifted from nearby trees; light but brittle  
+    • Ash from old burns − may coat soil in circular patches  
+    • Flint shards − hidden where roots exposed by erosion
+
+FLORA  
+
+    GRASSES  
+    • Bromegrass − forms dense clumps; used for kindling  
+    • Panicgrass − thin-stemmed; interwoven in thick mats  
+    • Sedge − appears near damp patches; coarse and sharp-edged
+
+    SHRUBS  
+    • Blackberry − thorny, produces seasonal fruit; nests small animals  
+    • Wild gooseberry − tangled limbs; pale berries when ripe  
+    • Dog rose − blooms sparsely; hips used for tea
+
+    HERBS & LOW PLANTS  
+    • Yarrow − clusters of white flowers; used in wound packing  
+    • Wild lettuce − bitter leaf, sedative when dried  
+    • Horehound − fuzzy stem; steeped for cough remedy  
+    • Nettle − painful to touch; nutritious when cooked
+
+    FUNGI  
+    • Hidden puffballs − under collapsed stems; edible if firm  
+    • Leaf mold fungi − clusters near damp bases; must be checked carefully  
+    • Slime blisters − bright patches in wet shade; not edible
+
+    TREES  
+    • None rooted inside—only occasional saplings fighting through grass  
+    • Fallen limbs and driftwood from nearby woodland zones
+
+FAUNA  
+
+    INSECTS  
+    • Grasshoppers − abundant; leap in waves when disturbed  
+    • Stick bugs − cling to stalks; nearly invisible  
+    • Wasps − nest in ground or shrub hollows  
+    • Ticks − heavy presence; cling in low stalk shadows
+
+    REPTILES & AMPHIBIANS  
+    • Field snake − blends with dry blades; avoids confrontation  
+    • Ditch frog − loud croak at dusk; draws predators  
+    • Tortoise − slow-moving; shelter in low dips
+
+    BIRDS  
+    • Meadow owl − silent at dusk; nests low  
+    • Burrow wren − hides in reed nests  
+    • Buzzard − circles in wide arcs; lands near fresh kill
+
+    MAMMALS  
+    • Meadow vole − tunnels under root cover  
+    • Hare − sprints when flushed; hard to track  
+    • Ferret-like scavenger − quick, aggressive; drawn to traps
+
+SIGNS OF LARGER LIFE  
+    • Flattened grass rings—resting sites for heavy animals  
+    • Torn stalks and clumps of hair at ambush zones  
+    • Narrow tunnels pressed into the growth—frequent animal traffic  
+    • Fresh scat left near sparse berry patches  
+    • Muffled rustles even in still air—movement unseen
+
+NOTES  
+    Deep meadows conceal both opportunity and threat.  
+    Foraging is strong in season, but visibility is poor and escape routes  
+    are few. Predators use grass walls for ambush. Fire is dangerous here  
+    if wind rises—burn patterns are unpredictable.
+
+%%% 18.txt %%%
+
+BIOME  
+    lake
+
+TERRAIN  
+    Wide, still freshwater body nestled in stable terrain.  
+    Shorelines range from gently sloped beaches to shallow inlets  
+    with smooth pebbles, clay edges, or reed beds.  
+    Water is pristine—fresh-smelling, clear, and warmed subtly  
+    by geothermal activity beneath the lakebed. Steam rises  
+    gently in early morning. Reflections are near-perfect.  
+    Air is calm. Nights remain temperate along the edge.
+
+INORGANIC RESOURCES  
+    • Rounded stones − ideal for cooking, grinding, and perimeter use  
+    • Warm sand − comfortable underfoot, dries quickly for bedding  
+    • Clay pockets − found in shallows; usable for vessels and sealing  
+    • Obsidian-like flakes − rare; sharp, useful for cutting tools  
+    • Clean gravel − filtered by currents; excellent for drainage paths
+
+FLORA  
+
+    AQUATIC PLANTS  
+    • Waterweed − flowing and edible; grows near rocks  
+    • Lake lily − floats in calm zones; roots edible, pads shade fish  
+    • Duck moss − coats logs; soft for insulation, traps insects  
+    • Algae (green and threadlike) − fine for compost, not edible
+
+    SHORELINE PLANTS  
+    • Duck potato − starchy root; found in shallow mud  
+    • Marsh mint − aromatic, insect-repelling  
+    • Broad sedge − fibers used in matting or bundles
+
+    TREES (EDGE & NEARSHORE)  
+    • Aspen − tall, flexible; leaves rustle with wind shifts  
+    • Birch − bark peels in sheets; excellent tinder and wrap  
+    • Cottonwood − casts wide shade; down used for stuffing  
+    • Alder − roots stabilize shore; bark has medicinal use
+
+    FUNGI  
+    • Shelf mushroom − grows from driftwood; check for firmness  
+    • Cupped sponge − edible when young; traps moisture  
+    • Dew cap − moist-loving; appears on north-facing logs
+
+FAUNA  
+
+    INSECTS  
+    • Mayflies − swarm seasonally, edible in bulk  
+    • Lake midges − dance over water at dusk; harmless  
+    • Water beetles − cling to lily pads; edible but bitter
+
+    FISH  
+    • Lake trout − large-bodied, rich in fat  
+    • Pike − leaner predator; aggressive when spawning  
+    • Perch − numerous; easy to trap in shallows  
+    • Eel − thrives near warm vents; strong flavor, excellent protein  
+    • Catfish − bottom-dweller; tough skin, thick fillets  
+    • Carp − hardy; feed in mud, better smoked or stewed
+
+    AMPHIBIANS & REPTILES  
+    • Water snake − non-venomous; swims swiftly  
+    • Giant salamander − slow-moving; lives near thermal pools  
+    • Snapping turtle − powerful jaw; often buried in silt
+
+    BIRDS  
+    • Grebe − graceful diver; nests near reeds  
+    • Heron − patient fisher; signals good fish spots  
+    • Loon − low call across water; tracks deep shoals  
+    • Wood duck − nests in hollows near shore
+
+    MAMMALS  
+    • Lake otter − social, agile; may steal fish if camps unguarded  
+    • Deer − often approach to drink; signs frequent at dusk  
+    • Marsh hare − grazes near shallows, active early morning
+
+SIGNS OF LARGER LIFE  
+    • Well-worn game trails leading down to water  
+    • Scattered scales and bones where birds feed  
+    • Claw scrapes on tree bark along drinking paths  
+    • Shallow hoofprints embedded in drying mud  
+    • Otter slides leading into coves
+
+NOTES  
+    The lake is generous. Its warmth protects against frost,  
+    its edges offer building materials, and its waters teem with food.  
+    Winds are predictable. Shorelines stay stable across seasons.  
+    For any group seeking refuge or permanence,  
+    this is a place that holds on to life.
+
+%%% 19.txt %%%
+
+BIOME  
+    unclimbable mountains
+
+TERRAIN  
+    Towering vertical cliffs with jagged edges, loose shale, and ice-choked crevices.  
+    Faces are sheer—no footholds, no ascent. Stone is fractured, sharp, and  
+    wind-scoured. Slopes are unstable and prone to rockfall.  
+    Mist gathers in ledges at dusk. Sound echoes harshly.  
+    No trails, no vegetation past lower outcrops.  
+    Nothing here offers shelter. Eyes burn in the dry wind.
+
+INORGANIC RESOURCES  
+    • Fractured slate − brittle but sharp; shatters into flakes  
+    • Quartz veins − exposed in broken faces; can spark fire  
+    • Ice rime − clings to shadowed cracks; melts into clean water  
+    • Gravel scree − sharp underfoot, slides dangerously  
+    • Iron crusts − rare reddish deposits, not mineable without tools
+
+FLORA  
+
+    MOSS & LICHEN  
+    • Rock lichen − forms pale crusts; edible in desperation  
+    • Black moss − clings to cold stone; absorbs moisture  
+    • Algae stains − appear on wind-sheltered side; not edible
+
+    SHRUBS (LOW SLOPE ONLY)  
+    • Alpine willow − stunted and twisted; twigs used for smoke  
+    • Rock juniper − dry, hard wood; slow to ignite  
+    • Wind-blasted sage − aromatic, sparse; burned for insects
+
+    FUNGI  
+    • None survive this altitude
+
+FAUNA  
+
+    INSECTS  
+    • Wind beetles − cling to stone; inactive unless disturbed  
+    • Ice gnats − cluster in sunbreaks; harmless, irritating  
+    • Cliff wasps − rare; build mud nests behind rock flake
+
+    BIRDS  
+    • Cliff hawk − nests on high ledges; watches from above  
+    • Ice raven − scavenger; seen only in still air  
+    • Swift − darts from hidden cracks; vanishes quickly
+
+    MAMMALS  
+    • None past lower face  
+    • Occasionally: mountain goat sightings below vertical rise
+
+SIGNS OF LARGER LIFE  
+    • Bones caught between rocks, likely wind-dragged  
+    • Feather drifts and guano beneath bird nests  
+    • No claw marks, no tracks—too vertical  
+    • Small scrapes in dusted ledges from wind-flung stone
+
+NOTES  
+    These mountains do not invite travel.  
+    They stand against movement, sound, and shelter.  
+    Winds here can flay exposed skin.  
+    Nothing climbs, nothing rests.  
+    Only birds own this stone.
+
+%%% 20.txt %%%
+
+BIOME  
+    ice
+
+TERRAIN  
+    Crusted white plains stretching in all directions.  
+    The surface cracks under weight, echoing for seconds.  
+    Ice here is layered, refrozen, and riddled with hidden air pockets.  
+    No natural shelter. Light reflects hard—eyes must be shielded.  
+    Wind is constant and scouring. Sound carries unnaturally far.  
+    No clear direction. No color. No heat.
+
+INORGANIC RESOURCES  
+    • Ice plates − can be broken into blocks for water or signal use  
+    • Rime frost − coats exposed ridges; melts instantly when held  
+    • Shattered shards − sharp enough to cut  
+    • Buried gravel veins − found at exposed melt cracks; rare  
+    • Ice dust − powdery, coats gear; clogs joints and gaps
+
+FLORA  
+
+    MOSS & LICHEN  
+    • None visible on open ice  
+    • Only possible on rocky spill or cracks—extremely rare
+
+    TREES, SHRUBS, HERBS, FUNGI  
+    • None
+
+FAUNA  
+
+    INSECTS  
+    • None
+
+    BIRDS  
+    • Ice gull − seen gliding on distant thermals; rarely lands  
+    • Snow tern − migratory; only crosses when weather allows
+
+    MAMMALS  
+    • None survive here  
+    • No evidence of burrows, tracks, or scat
+
+    REPTILES & AMPHIBIANS  
+    • Impossible under current climate
+
+    MARINE LIFE  
+    • Not present unless at bordering shelf—this is high interior ice
+
+SIGNS OF LARGER LIFE  
+    • Wind-scoured prints filled in by drifting frost  
+    • Occasional bone fragment embedded in ice—likely ancient  
+    • Cracks with ice-burnt hair sealed inside; origin unknown  
+    • Melting pits ringed in soot—old, long-abandoned fire marks
+
+NOTES  
+    This region holds nothing.  
+    No plant, no animal, no warmth.  
+    Travel here is dangerous not from what you meet,  
+    but from what never meets you.  
+    It is not a place for resting—it is a place crossed quickly,  
+    or not at all.
+
+%%% 21.txt %%%
+
+BIOME  
+    tundra
+
+TERRAIN  
+    Windswept plateau with shallow snow, frozen brush, and hidden stone.  
+    Ground is uneven—permafrost lies beneath a thin layer of thawed earth.  
+    Plant life stays low to the ground, hugging warmth.  
+    Sky is wide, sun low, and sound is brittle. Visibility is far-reaching.  
+    Snow crunches dry underfoot. Shelter is rare, but life is present—watchful, wary, and adapted.
+
+INORGANIC RESOURCES  
+    • Frozen soil − diggable only with heat or patience  
+    • Ice crust − brittle, thin sheets; traps air or moisture  
+    • Basalt scatter − dark stone holds warmth; useful for firebase  
+    • Pebble beds − under thaw margins; mixed with frost-heave debris  
+    • Salt crust − in rare patches near melt streams
+
+FLORA  
+
+    MOSS & LICHEN  
+    • Caribou moss − dense mat; edible with effort  
+    • Beard lichen − hangs from low brush; used as kindling  
+    • Stone lichen − scrapes off boulders; meager nutrition
+
+    SHRUBS  
+    • Arctic willow − ankle-high; edible shoots in melt season  
+    • Dwarf birch − twisted growth; bark used for wrap and fire  
+    • Crowberry − dark berries; persists even in frost
+
+    HERBS & LOW PLANTS  
+    • Labrador tea − evergreen leaf; steeped for warmth  
+    • Wild chive − seasonal; strong odor, grows near meltwater  
+    • Bear root − edible with prep; fibrous and bitter  
+    • Moss campion − cushions on dry ridges; small but edible
+
+    FUNGI  
+    • Brown cap − rare, grows from insulated root pockets  
+    • Ice puff − dry and hollow; shatters when touched  
+    • Snow mold − clings to melt edges; not edible
+
+FAUNA  
+
+    INSECTS  
+    • Snow fleas − springtail insects; jump in black specks  
+    • Tundra beetles − cling to moss mats; edible  
+    • Midges − brief summer swarms; irritating but useful for bait
+
+    BIRDS  
+    • Snowy owl − watches from stone outcrop; silent hunter  
+    • Ptarmigan − blends with snow; shelters in drifts  
+    • Arctic tern − migratory; nests in low dunes
+
+    MAMMALS  
+    • Polar bear − slow but relentless; avoids fire, not scent  
+    • Arctic fox − quick, silent; follows kill trails  
+    • Tundra hare − white-coated; strong jumper, evasive  
+    • Muskox − rare, shaggy; dangerous when cornered  
+    • Lemming − burrows under snow crust; common prey
+
+SIGNS OF LARGER LIFE  
+    • Tracks in soft snow — frozen mid-stride  
+    • Blood spots trailing off over rise — no carcass  
+    • Musk scent near warm stone — sign of recent ox rest  
+    • Tunnels collapsing under weight — sign of lemming dens  
+    • Bird calls ceasing suddenly — predator nearby
+
+NOTES  
+    The tundra holds life by its claws.  
+    Food is lean but present. Water flows briefly at midday.  
+    Fire is your ally—stone and shrub feed it slowly.  
+    Dwell too long, and the cold works its way inside.  
+    Move deliberately. Watch the horizon. Something else is.
+
+%%% 22.txt %%%
+
+BIOME  
+    glacier
+
+TERRAIN  
+    Endless, shifting mass of deep blue ice.  
+    Surface alternates between smooth crust and jagged crevasse.  
+    Walking is treacherous—fissures hidden by snow or fog.  
+    Light refracts oddly here. No landmarks. Sound carries far.  
+    No scent, no soil, no shelter. Temperatures plunge quickly  
+    as elevation increases. The glacier moves beneath your feet,  
+    slow and silent.
+
+INORGANIC RESOURCES  
+    • Blue ice − dense, heavy; melts slowly for clean water  
+    • Crevasse snow − deep and soft; conceals sudden drops  
+    • Glacial gravel − compacted between flows; difficult to extract  
+    • Ice nodules − crystal-locked; can be chipped for light diffusion  
+    • Frost lenses − thin sheets that fracture when stepped on
+
+FLORA  
+    • None survive on active ice  
+    • No moss, no fungi, no soil substrate
+
+FAUNA  
+
+    INSECTS  
+    • None  
+
+    BIRDS  
+    • Ice tern − passes overhead, never lands  
+    • White gull − circles melt channels; seen from distance
+
+    MAMMALS  
+    • None dwell here permanently  
+    • Occasional overpass by scavengers or lost herd  
+    • No burrows, nests, or scat—only tracks vanish in hours
+
+SIGNS OF LARGER LIFE  
+    • Scoured bones at crevasse rim—possibly wind-dragged  
+    • Deep scratches in exposed ice walls—size uncertain  
+    • Tracklines across untouched snow—end abruptly  
+    • Melted circular patches—warmth origin unknown  
+    • Long silence, then echo—may not be yours
+
+NOTES  
+    The glacier offers no welcome.  
+    No food. No fire. No footing.  
+    Each creak beneath the ice is a reminder—  
+    the world here is not still. It is waiting.
+
+%%% 23.txt %%%
+
+BIOME  
+    badlands
+
+TERRAIN  
+    Harsh, broken ground of cracked clay, dust chimneys, and sun-baked ridges.  
+    Stone spires rise from dried flood channels. Soil is alkaline and brittle.  
+    Wind scours everything, creating deep grooves and sediment walls.  
+    Color varies from ash gray to scorched red. Little water, less shade.  
+    The landscape holds ruin fragments half-buried and half-erased.
+
+INORGANIC RESOURCES  
+    • Cracked shale − splinters easily; sharp-edged  
+    • Sunstone − flat and reflective; can signal across distances  
+    • Dust — hangs in the air, clings to lungs and skin  
+    • Baked clay − workable when wetted; can be molded for heat-resistant containers  
+    • Bone piles − scattered and bleached; signs of older kills
+
+FLORA  
+
+    SHRUBS  
+    • Sagebrush − drought-hardy; strong aroma repels insects  
+    • Saltbush − silvery leaves; some edible parts  
+    • Thornweed − sharp, gnarled; grows in cracks
+
+    CACTI & SUCCULENTS  
+    • Spined melon − holds bitter liquid; pulp mildly hydrating  
+    • Needle bloom − barbed spines; flowers steeped for calming effect  
+    • Rock fig − clings to shaded clefts; tough and pulpy
+
+    HERBS  
+    • Dry mint − grows between sunstone shards; sharp and pungent  
+    • Bitterroot − fibrous; used in small doses for digestion
+
+    FUNGI  
+    • None survive exposed surface  
+    • Possible fungal traces in deep shaded ruin crevices
+
+FAUNA  
+
+    INSECTS  
+    • Scavenger beetle − clusters near remains; edible but foul  
+    • Dust wasp − nests in dry clay; aggressive if disturbed  
+    • Mites − infest sleeping spots; hard to detect
+
+    REPTILES  
+    • Dust viper − camouflaged; heat-sensitive strike  
+    • Horned lizard − flattens against ground; edible  
+    • Sand gecko − emerges only at dusk
+
+    BIRDS  
+    • Carrion kite − watches from stone spires; calls infrequently  
+    • Cliff shrike − impales prey on thorns  
+    • Ground runner − sprints between rocks; difficult to snare
+
+    MAMMALS  
+    • Rock hare − agile jumper; shelters in collapsed holes  
+    • Sand fox − elusive; tracks fade quickly  
+    • Bloat rat − feeds on dry kills; carries fleas and foul smell
+
+SIGNS OF LARGER LIFE  
+    • Dragged bone trails beneath rock overhangs  
+    • Blood crust along collapsed wash edges  
+    • Large claw marks in packed dust—far apart  
+    • Dried mud prints—not human, not animal, something else  
+    • Scorched patch ringed in fused clay
+
+NOTES  
+    The badlands are a graveyard.  
+    Time strips everything here to dust, bone, or silence.  
+    Shelter is rare, water rarer. Winds uncover as much as they bury.  
+    But scavengers thrive, and where they gather—something fed them first.
+
+%%% 24.txt %%%
+
+RUINS & REMNANTS — INDEX
+
+Each ruin listed below reflects not a past people, but a celestial function.  
+These structures stand as scars, anchors, or broken mechanisms of planetary balance.  
+They are inert, partially buried, and their meaning—like the shards—will not unlock  
+until the final sequence.
+
+Symbols beside each denote dominant celestial association.
+
+────────────────────────────────────────────────────────
+
+☼  Auren Core  
+    Tall hollow monoliths aligned to the pulse of Elyden’s red dwarf.  
+    Rare light effects at dawn and dusk. Resonates faintly during equinoxes.
+
+🜃  Earthscript Vault  
+    Layered tectonic slates carved with pre-seismic glyphs.  
+    Found sunken in cracked hills or beneath landslide zones.
+
+🔥  Vulcan Chamber  
+    Basalt-ringed vent sealed by fused obsidian.  
+    Emits dry heat and soundless tremors. Lichen grows inwardly, not out.
+
+💧  Mist Basin  
+    Collapsed concave shrine filled with permanent vapor.  
+    Ruin stones collect condensation even during droughts.
+
+🜁  Veil Engine  
+    Spiral wind-channel towers tipped with hollow crystals.  
+    Emits quiet whistle when crossed by breeze—sound never repeats.
+
+🌙  Spall Halo  
+    Floating shard-ring in low gravity breach zone.  
+    Fragments from the shattered Magic Moon orbit in slow unison.
+
+☄️  Oblivion Mirror  
+    Surface of ice or black stone that reflects stars unseen in Elyden’s sky.  
+    Located only on deep glacier faces or high craters.
+
+🝰  Anti-Life Bulb  
+    Rooted pod with dead halo bloom. Found only in shadow-zenith regions.  
+    Repels growth, sours wind, and draws scavengers without flesh.
+
+🜔  Convergence Array  
+    Obsidian lens set in a triangulated valley.  
+    Appears inert, but reacts faintly during multi-moon alignments.
+
+┅  Null Step  
+    A staircase or ramp that descends into bedrock and terminates in nothing.  
+    No walls, no markings, no boundary between architecture and void.
+
+────────────────────────────────────────────────────────
+
+NOTES  
+    Ruins are dormant until conditions beyond survival are met.  
+    Some house shard resonance points, but give nothing until end-sequence triggers.  
+    All fragment reactions remain amulet-only. No visible energy or changes occur.
+
+%%% 25.txt %%%
+
+RUIN  
+    Auren Core
+
+CONSTRUCTION  
+    A single vertical monolith between five and nine meters tall,  
+    built from red-black fused material not found elsewhere in Elyden.  
+    The surface is warm to the touch at midday, cold at dawn.  
+    Hollow core tunnels through vertically—narrow, smooth, seamless.  
+    Appears to have been quarried and erected post-cataclysm.  
+    Surrounding soil is vitrified in a radial starburst pattern.
+
+SURFACE SIGNS  
+    • Partial submersion in hardpan or dry basin  
+    • No inscriptions, but fluted bands near base catch fine dust  
+    • Sunlight angles cause strong flare when viewed from distance  
+    • Birds avoid landing on it; no nests or droppings  
+    • Ground often completely dry within a three-meter radius
+
+INTERIOR FEATURES  
+    • Core is passable by a thin shaft, barely wide enough to reach in  
+    • Internal temperature shifts with time of day, not weather  
+    • Stone produces no echo when struck—absorbs sound entirely  
+    • Dust that enters is never expelled; no wind reaches inside
+
+DANGERS  
+    • Exposed position offers no shelter from heat or cold  
+    • Lightning strikes in storms favor the monolith with uncanny precision  
+    • Wildlife activity is absent in a wide perimeter  
+    • Standing too long within the flare shadow induces nausea or vertigo  
+    • Stone chips cannot be broken off—tools fracture first
+
+FRAGMENT INTERACTION  
+    The girl's amulet vibrates faintly when within arm’s reach of the shaft.  
+    No light, no pull, no heat—only a subtle pressure in the chest.  
+    Prolonged contact makes the amulet hum against the skin  
+    and then stop, as if holding breath.
+
+NOTES  
+    The Auren Core predates speech, settlement, or survival.  
+    It does not offer warmth, nor deny it. It remains.  
+    The red sun moves across its face in a strict path—never shadowed.  
+    Some say five more cores exist, but none have been mapped.  
+    It does not respond to prayer, only presence.
+
+%%% 26.txt %%%
+
+RUIN  
+    Earthscript Vault
+
+CONSTRUCTION  
+    A shallow underlayer of stratified shale and compacted stone,  
+    exposed in eroded hillsides, dry gullies, or tectonic shears.  
+    Glyphs—neither written nor pictorial—are pressed into layered seams,  
+    running parallel with the grain of the stone. Each glyph covers  
+    several meters and repeats across faultlines, not surfaces.  
+    Stone between glyphs crumbles under pressure, but the glyphs endure.
+
+SURFACE SIGNS  
+    • Exposed walls show clean horizontal slices, unusually regular  
+    • Stone is dry but emits deep knocks when struck  
+    • Debris slopes down unnaturally—like soil avoids covering it  
+    • No plant roots penetrate the glyph-bearing layer  
+    • Dust patterns settle in concentric ripples on approach
+
+INTERIOR FEATURES  
+    • Vaults extend sideways—not inward—into the surrounding strata  
+    • Narrow shelves open between compression folds; some hollow, some sealed  
+    • Moisture collects in untouched pockets, never leaks downward  
+    • Shelves emit deep hum when walked beside during moon tremors
+
+DANGERS  
+    • Faults near glyphs are unstable—slabs may shear off unpredictably  
+    • Certain exposed glyphs spark nausea or nosebleeds when stood beside  
+    • Audible rumble may precede stone fracture but not always  
+    • Fine stone dust in air can clog throat, eyes, tools  
+    • Burrowing insects avoid the site—except for thin white larvae
+
+FRAGMENT INTERACTION  
+    Amulet pulses when close to glyphs—aligned with the stone’s grain.  
+    Contact with finger and amulet held to surface produces low pressure hum.  
+    No visible reaction, no heat or glow—only the sense of being watched from beneath.
+
+NOTES  
+    The Vault was not carved—it was laid.  
+    Each glyph is part of a buried array, possibly planetary in scale.  
+    Some say it maps the land’s future collapse, not its past.  
+    No one remembers building it. The soil forgot—but the stone did not.
+
+%%% 27.txt %%%
+
+RUIN  
+    Vulcan Chamber
+
+CONSTRUCTION  
+    A collapsed caldera sealed by black fused basalt,  
+    forming a ring-shaped depression with vented cracks at its edges.  
+    Central structure is indiscernible—sunken and slagged—  
+    but rim patterns suggest an engineered form melted beyond recognition.  
+    Surface retains residual warmth in all seasons.  
+    Outer crust shifts imperceptibly, producing hairline fractures.
+
+SURFACE SIGNS  
+    • Stone radiates dry heat even during cold spells  
+    • Air above shimmer-fluctuates, distorting vertical vision  
+    • Ground is bare; no plants, no dust, no tracks—only scorched rock  
+    • Insects won’t cross the rim—neither do birds fly overhead  
+    • Sulfurous scent lingers strongest just before sundown
+
+INTERIOR FEATURES  
+    • Entry only possible through narrow crawl-like splits in rim  
+    • Inside, stone walls are rounded and smooth—liquefied then re-fused  
+    • Heat vents exhale silent drafts; air does not rise uniformly  
+    • Small objects placed inside vanish within hours—not burned, just gone  
+    • Faint red rings appear in vision after prolonged time inside
+
+DANGERS  
+    • Chamber holds no oxygen during midday—suffocation risk  
+    • Touching central stone causes fingertip numbness, no burn  
+    • Flash heat surges sometimes triggered by seismic ripple  
+    • Wildlife carcasses nearby show no wounds—just desiccation  
+    • Once entered, directionality and balance may distort
+
+FRAGMENT INTERACTION  
+    The amulet becomes hot when lowered toward the center ring,  
+    but returns to normal if withdrawn—no damage, no discharge.  
+    A low droning sound begins only when the wearer turns their back,  
+    and stops when faced forward again.
+
+NOTES  
+    The Vulcan Chamber is not volcanic. It is an echo.  
+    Something burned itself shut here—not to keep you out,  
+    but to keep itself in. The heat that remains does not rise.  
+    It waits. It remembers what fire used to be.
+
+%%% 28.txt %%%
+
+RUIN  
+    Mist Basin
+
+CONSTRUCTION  
+    A concave depression ringed by fractured ceramic tiles,  
+    many of which are warped, melted, or partially buried.  
+    The basin holds a shallow pool of cold vapor that never disperses.  
+    Beneath the mist, stone paths vanish and reappear depending on the light.  
+    Rimstones are grooved with narrow runnels that collect condensation  
+    regardless of weather or humidity.
+
+SURFACE SIGNS  
+    • Basin is always damp—footprints leave no mark in the vapor  
+    • Surrounding plants grow inwardly bent, leaning toward the center  
+    • Vapor carries no scent, yet numbs the sinuses  
+    • Stones around the edge ring lightly when tapped  
+    • No birds, no insects—only the sound of slow dripping
+
+INTERIOR FEATURES  
+    • Mist thickens the deeper one steps—vision ends after five paces  
+    • Ground disappears underfoot—replaced by tiled channels or cold water  
+    • Sound is absorbed; speech becomes muffled and directionless  
+    • Occasional glimpses of submerged features—domes, stairs, bent poles  
+    • Water collected here is sterile, but bitter
+
+DANGERS  
+    • Prolonged exposure causes mild disorientation and cold paralysis  
+    • Falling in produces no splash—just silence and sudden darkness  
+    • Breathing vapor for too long suppresses taste and scent for hours  
+    • Some exits lead nowhere—returning takes longer than entering  
+    • No wildlife is seen—but eyes are often felt
+
+FRAGMENT INTERACTION  
+    The amulet dims slightly within the mist—its edges lose sharpness.  
+    Held above the surface, the mist swirls around it in reverse spirals.  
+    Afterward, a faint residual moisture lingers on skin for hours.
+
+NOTES  
+    This is not a ruin. It is a boundary.  
+    Between breath and silence. Between steps and stillness.  
+    The basin does not fill, yet it never empties.  
+    The vapor tastes of endings.
+
+%%% 29.txt %%%
+
+RUIN  
+    Veil Engine
+
+CONSTRUCTION  
+    A cluster of thin, tapering spires arranged in a spiral or partial arc,  
+    built from white-gold alloy and porous stone.  
+    Each spire has a hollow core—cut with ridged inlets that capture wind.  
+    Some lean sharply, others stand upright, yet none have toppled.  
+    Their tips fracture light, casting broken halos even in still air.
+
+SURFACE SIGNS  
+    • Wind shifts when walking near—changes pitch and direction  
+    • Surrounding vegetation forms irregular spiral growth patterns  
+    • Dust trails curve as if caught in invisible gyres  
+    • Stone at base hums faintly if leaned upon during gusts  
+    • Wildlife scat absent; no nesting or droppings within 30 paces
+
+INTERIOR FEATURES  
+    • Hollow channels draw in wind—even when ambient air is calm  
+    • Entering the center of the spiral deadens all ambient sound  
+    • Small objects left inside are often relocated without visible cause  
+    • Listening into a spire returns fragmented echoes—not your own voice  
+    • Stone residue collects at base—powdery and pale
+
+DANGERS  
+    • Sudden gusts may knock down the unbalanced or unwary  
+    • Prolonged time in the spiral center may induce vertigo or dream flashes  
+    • Gusts can strip warmth faster than expected—frostbite risk  
+    • Broken spire tips fall silently and without warning  
+    • In high wind, resonance can cause headaches, nosebleeds
+
+FRAGMENT INTERACTION  
+    Amulet hums in high frequency when wind enters from opposite direction.  
+    Held near an inlet, its sound amplifies faintly—feedback loop impossible to record.  
+    After leaving, wearer sometimes experiences distorted memory of direction traveled.
+
+NOTES  
+    The Veil Engine does not store wind.  
+    It remembers the passage of air and returns it fractured.  
+    This is where the Air Moon once whispered commands to the ground.  
+    Now only half the message remains.
+
+%%% 30.txt %%%
+
+RUIN  
+    Spall Halo
+
+CONSTRUCTION  
+    A low-gravity anomaly where debris from the shattered Magic Moon  
+    continues to orbit above a fixed point—irregularly spaced, silently rotating.  
+    Fragments vary in size from fist-sized shards to house-sized slabs.  
+    None cast shadows; they emit no heat and bear no markings.  
+    Below, a wide ring of scorched earth curves outward—barren and bone-dry.
+
+SURFACE SIGNS  
+    • The sky appears slightly warped when viewed directly overhead  
+    • Sound dulls noticeably when stepping beneath the orbital path  
+    • Birds veer away long before reaching the outer ring  
+    • Dust never settles within the circle—wind patterns fail entirely  
+    • Ground temperature fluctuates by season, but not by time of day
+
+INTERIOR FEATURES  
+    • No entry structure—the Halo is open to the sky  
+    • Some fragments shift position without visible force  
+    • Gravity changes subtly near each shard—enough to alter walking pace  
+    • Voices echo differently inside the ring—delayed, layered  
+    • No visible connection exists between the floating shards
+
+DANGERS  
+    • Standing under larger fragments for long periods induces vertigo  
+    • Sudden fragment descent has occurred—documented once, unrepeated  
+    • Amulets pulse erratically, sometimes faint, sometimes painful  
+    • Minor equipment malfunctions: compasses fail, tools seize briefly  
+    • Eyes may water or feel dried when looking directly at the fragments
+
+FRAGMENT INTERACTION  
+    Amulet emits a steady pulse when aligned beneath a specific shard.  
+    Stepping out of alignment ceases all sensation.  
+    No energy discharge, no light—just rhythm.  
+    If left inside the ring alone, some report hearing static “behind the skull.”
+
+NOTES  
+    The Halo is not a ruin. It is an orbit that forgot its center.  
+    Shards remember their shape, but not their purpose.  
+    They float, not by power, but by consequence.  
+    This is what happens when a moon breaks—not shatters—but weeps.
+
+%%% 31.txt %%%
+
+RUIN  
+    Oblivion Mirror
+
+CONSTRUCTION  
+    A flat disc of black stone or frozen water, perfectly circular,  
+    embedded at surface level into glacier, tundra shelf, or high-altitude crater.  
+    Diameter varies between 3 to 9 meters. Surface appears reflective,  
+    but shows no clouds, trees, or living forms—only stars.  
+    Stars do not match Elyden’s sky. They do not move.
+
+SURFACE SIGNS  
+    • Area surrounding the mirror is quiet—snow muffles too much  
+    • Ice crust around edge remains smooth, never cracked or stepped upon  
+    • No animal prints cross the perimeter, even in deep snow  
+    • Approaching the mirror causes skin to prickle, regardless of cold  
+    • Reflected sky is always night, even at noon
+
+INTERIOR FEATURES  
+    • No structure—only the disc  
+    • Throwing objects onto surface results in dull, soundless landing  
+    • Items left atop vanish by next dusk, without trace  
+    • Mirror sometimes “blinks”—a brief black-out and return  
+    • Reflected stars shift slightly every new moon
+
+DANGERS  
+    • Staring too long induces visual noise or false movement  
+    • Some travelers report a voice—not heard, but recalled  
+    • On rare occasions, people reflected do not match current posture  
+    • Entering the disc’s center barefoot causes frostbite in seconds  
+    • No sound emitted from within 2 meters registers to those outside
+
+FRAGMENT INTERACTION  
+    Amulet freezes instantly when lowered to surface—frost forms on chain.  
+    Holding it over the reflection causes star points to slowly drift  
+    and form patterns not visible in any recorded sky chart.  
+    Pattern fades once amulet is moved.
+
+NOTES  
+    The mirror is not broken. It simply no longer reflects us.  
+    This is not the past or the future, but the absence of presence.  
+    The stars it shows may be our own, seen from elsewhere—  
+    or someone else's, seen from here.
+
+%%% 32.txt %%%
+
+RUIN  
+    Anti-Life Bulb
+
+CONSTRUCTION  
+    A semi-spherical mass rooted deep in barren ground,  
+    resembling petrified wood or fossilized resin.  
+    Its surface is dull, yellowed, and striated—no two bulbs alike.  
+    The structure leans slightly, as if drawn toward the sky’s zenith.  
+    A narrow slit runs down its face, but does not open.  
+    Ground surrounding the bulb remains sterile even after rain.
+
+SURFACE SIGNS  
+    • Soil cracks into fine networks, devoid of worms or root systems  
+    • Wind dies at the edge of its clearing, as if held outside  
+    • Faint odor of burnt meat or rot—undetectable to some  
+    • Fungi and moss avoid even shaded edges  
+    • Scavengers circle nearby but never approach
+
+INTERIOR FEATURES  
+    • No entry possible—slit is sealed, edges fused  
+    • Nighttime presence triggers subtle sound: not breathing, not grinding  
+    • Stone near the base is brittle; breaks into scentless black powder  
+    • Sometimes a slow throb passes through the bulb—visible in snowfall drift  
+    • Touching the surface causes a sharp pressure in teeth and jaw
+
+DANGERS  
+    • Animals brought near fall ill within hours  
+    • Standing within the radius too long may induce nosebleed or nausea  
+    • Sharp changes in mood reported by multiple travelers near bulb  
+    • Fire refuses to catch nearby—dies instantly or gutters to smoke  
+    • Fragments placed here do not react, but cease pulsing for days
+
+FRAGMENT INTERACTION  
+    The amulet grows noticeably cold, pulling gently toward the slit.  
+    Contact induces a dull ache that vanishes when withdrawn.  
+    No pulse, no glow—only absence.  
+    After leaving, the amulet takes longer to react elsewhere.
+
+NOTES  
+    This is not decay. It is something older than death.  
+    The bulb does not want. It does not think.  
+    It silences what lives—not with malice, but with weight.  
+    It is the shadow cast by the sun when no moon remains.
+
+%%% 33.txt %%%
+
+RUIN  
+    Convergence Array
+
+CONSTRUCTION  
+    A wide, shallow valley containing three obsidian lenses,  
+    each embedded into a distinct rise—forming a perfect equilateral triangle.  
+    Lenses are half-buried, mirror-black, and nearly frictionless.  
+    No markings, no frame. Beneath each lies a hollow chamber,  
+    inaccessible except through seismic collapse.  
+    The soil between them carries no seed, no track, no echo.
+
+SURFACE SIGNS  
+    • Approaching one lens triggers headaches or a sudden chill  
+    • Birds appear to fly around the array in wide arcs, never over  
+    • Wind swirls unpredictably when standing between two lenses  
+    • Sound inside the triangle is often mislocalized—origin unclear  
+    • Small stones sometimes roll uphill when placed near center
+
+INTERIOR FEATURES  
+    • Lenses cannot be moved, etched, or blackened  
+    • Occasionally reflect stars not visible above  
+    • Digging near lenses reveals shallow, sharp-edged strata  
+    • During lunar alignments, dust rises in vertical columns  
+    • Center of triangle forms a slight depression—warm to the touch
+
+DANGERS  
+    • Prolonged stay within array may cause time disorientation  
+    • Shadows fall in inconsistent directions—sun path altered  
+    • Glass or crystal fractures when brought too close  
+    • Livestock led through return agitated or refuse to eat  
+    • Voices heard from beneath, indistinct but patterned
+
+FRAGMENT INTERACTION  
+    Amulet flickers in and out of sensation when carried around the triangle.  
+    Standing in the exact center causes both a pulse and pressure—  
+    faint but unmistakable. No light, no change in color, no response if buried.
+
+NOTES  
+    The array was not built. It was aligned.  
+    Not to focus light or sound—but purpose.  
+    When the moons cross paths above, the ground does not remember names,  
+    but it remembers angles.
+
+%%% 34.txt %%%
+
+RUIN  
+    Null Step
+
+CONSTRUCTION  
+    A descending ramp or staircase carved directly into bedrock,  
+    found rarely in isolated plateaus, badlands, or glacial shelves.  
+    The descent is clean, featureless, and without material join—  
+    neither tool marks nor erosion visible. The path continues down  
+    past reasonable depth before vanishing into a matte-black plane.  
+    No doorway. No wall. Just absence where space should be.
+
+SURFACE SIGNS  
+    • The entrance is often wind-scoured, but never buried  
+    • Light bends slightly near the edge, as if curving inward  
+    • Small debris stops short of the threshold, as if repelled  
+    • Wildlife avoids it—no nests, no tracks, no scat  
+    • Echoes near the mouth return prematurely or not at all  
+
+INTERIOR FEATURES  
+    • Air grows still and dry within five steps  
+    • Stone temperature remains constant regardless of surface weather  
+    • Steps never accumulate dust, ash, or snow  
+    • Whispered sounds are sharper, clearer—but don’t always align with speaker  
+    • Some claim they’ve descended further than physically possible  
+
+DANGERS  
+    • Perception of distance fails after the 20th step—some return disoriented  
+    • Stepping past the final visible stair yields varied outcomes:  
+        − sudden return to the surface  
+        − loss of time  
+        − fragmentary dreams of heatless stars  
+        − nothing  
+    • Tools brought near lose sharpness, then edge  
+    • Fires extinguish immediately if carried below the 10th step  
+    • Living beings report pressure behind the eyes when turning back  
+
+FRAGMENT INTERACTION  
+    Amulet response is inconsistent.  
+    Sometimes silent, sometimes violently repelled—chain flaring cold.  
+    If placed on the final step, it may hum in pulses matching the bearer’s breath.  
+    Removed too quickly, it feels heavier than before.  
+    No light, no signal. Only weight and rhythm.
+
+NOTES  
+    Null Step is not a ruin.  
+    It is what ruins leave behind when they forget they were built.  
+    It leads not down, but out—  
+    not to death, but to the error before life.  
+    Some say the final step is not the last.  
+    Only the last you can name.
+
+%%% 35.txt %%%
+
+CHARACTERS(5)                           Elyden Survival Codex                           CHARACTERS(5)
+
+NAME  
+    characters − player and AI survivors of the post-collapse world
+
+DESCRIPTION  
+    Characters are not chosen. They are inherited. Each exists with fixed traits, bound gear, and  
+    role-specific survival logic. This document defines character identity, loadout, role behavior,  
+    and interaction constraints within the Elyden simulation.
+
+INDEX  
+    mirrane              — player-controlled archer  
+    thea                 — AI-controlled frontline wilder  
+    equipment_slots      — valid gear regions and restrictions  
+    starting_gear        — initial items per character  
+    inventory_limits     — carried vs worn item logic  
+    progression          — how characters grow without levels  
+    survival_behavior    — hunger, injury, cold, fatigue  
+    class_roles          — archer vs wilder specialization  
+    amulet_behavior      — interaction with fragments and ruins  
+    control_model        — player vs AI character parsing  
+    combat_scope         — how each character engages threats  
+    sensory_priority     — how characters perceive their environment  
+    gear_bias            — favored tools, carry patterns, and field use  
+    dialogue_constraints — how AI characters respond or act independently  
+
+NOTES  
+    Only two characters exist. They are not interchangeable.  
+    Mirrane sees through action. Thea feels through proximity.  
+    Survival is not symmetric. What one notices, the other may not.
+
+FILES  
+    EQUIPMENT(5), BIOMES(5), FRAGMENTS(5), RUINS(5), COMBAT(6)
+
+Elyden                                  July 2025                                  CHARACTERS(5)
+
+%%% 36.txt %%%
+
+MIRRANE(5)                             Elyden Survival Codex                             MIRRANE(5)
+
+NAME  
+    mirrane − archer; player-controlled survivor
+
+DESCRIPTION  
+    Mirrane is the survivor under player control.  
+    All actions occur through her. She does not speak unless prompted.  
+    She navigates by instinct, repetition, and direct feedback from the world.  
+    Her strength is in timing, positioning, and adaptation under pressure.  
+    She is not fast, but precise. Not armored, but untouchable when terrain is hers.
+
+CONTROL  
+    • First-person only  
+    • Player-directed commands determine all action  
+    • Mirrane does not generate dialogue or exposition  
+    • Learns through experience—no hidden stats
+
+ROLE  
+    • Specializes in ranged survival: bow, thrown tools  
+    • Tracks prey by movement pattern and terrain disruption  
+    • Avoids direct confrontation unless terrain favors her  
+    • Begins with no weapons, but crafting them is critical to survival
+
+STARTING GEAR  
+    • Tunic (layered cloth)  
+    • Wrap (bark fiber, tied at waist)  
+    • Footcloths (soft-soled, absorbent)  
+    • Amulet (non-removable; moon-bound resonance)
+
+SURVIVAL ITEM — WINDCALLER’S QUIVER  
+    A rare bark-and-hide sling quiver lined with moss baffles.  
+    Allows silent draw and retrieval of arrows. Carries up to 8 shafts or 4 javelins.  
+    Prevents rattling during movement. Internal loop for spare flint or cordage.  
+    Not craftable early. If found, becomes a permanent advantage for stealth combat.
+
+AMULET BEHAVIOR  
+    • Fixed to chest by woven chain  
+    • Glows faintly with hue of dominant moon (no light source emitted)  
+    • Reacts physically to nearby fragments and some ruins: pressure, cold, pulse  
+    • Cannot be removed, transferred, or used as a tool  
+    • Offers no power—only warning  
+    • Behavior differs slightly between Mirrane and Thea
+
+CRAFTING BEHAVIOR  
+    • Relies on gathered materials from biome: wood, stone, sinew, resin  
+    • Prioritizes functional tools: bow before blade, cover before armor  
+    • Armor crafting is low priority unless animal hide or barkplate is secured  
+    • Arrows are recoverable; tools degrade over time  
+    • Must test materials through use—no crafting menu, no stats
+
+RELATIONSHIP TO THEA  
+    • Mirrane does not control Thea  
+    • Thea remains close—never leaves her side unless forced by world logic  
+    • Trust is earned situationally; Mirrane may question Thea’s actions  
+    • Mirrane is the tactician; Thea is the pressure gauge  
+    • Their survival depends on complementary roles, not loyalty or story  
+    • Thea acts independently, but Mirrane always moves first
+
+NOTES  
+    Mirrane is not meant to win. She is meant to last.  
+    Her su
+
+%%% 37.txt %%%
+
+THEA(5)                               Elyden Survival Codex                                THEA(5)
+
+NAME  
+    thea − frontline wilder; AI-controlled companion
+
+DESCRIPTION  
+    Thea is Mirrane’s elder sister. She is not controlled by the player.  
+    She operates autonomously, acting based on terrain, instinct, and available cues.  
+    She is quiet, methodical, and grounded. She does not use magic.  
+    She holds position, controls space, and finishes what lingers.
+
+CONTROL  
+    • Governed by GenAI behavior layer  
+    • Referred to in third-person only  
+    • Does not follow direct orders; responds to context and proximity  
+    • May act independently but never leaves Mirrane’s side  
+    • Will not transition to another biome unless Mirrane is also present  
+    • Movement or separation only occurs under extreme anomaly or ruin interference
+
+ROLE  
+    • Specializes in close-to-mid-range survival  
+    • Uses spears, snares, and improvised tools (when equipped)  
+    • Reads decay, scent, and soil tension to assess hidden dangers  
+    • More sensitive to biome rhythms, but slower to react under pressure
+
+STARTING GEAR  
+    • Tunic (layered cloth)  
+    • Wrap (fiber-bound)  
+    • Footcloths  
+    • Amulet (fixed; subtle variance in resonance from Mirrane’s)
+
+SURVIVAL ITEM — ROOTBINDER’S SATCHEL  
+    A layered-hide carry pouch designed for foraging and plant processing.  
+    Interior holds bark-rimmed pockets for paste, salve, and moisture retention.  
+    Carries up to six materials in active condition (fresh/dry/mixed).  
+    Enables on-site preparation of toxins, repellents, or salves—no crafting bench needed.  
+    Cannot be rebuilt without specialized tools.
+
+AMULET BEHAVIOR  
+    • Bound to Thea from youth  
+    • Glows faintly under dominant moonlight (color varies)  
+    • Stronger physical reaction than Mirrane’s when near ruins or fragments  
+    • Sometimes draws Thea toward anomalies without conscious choice  
+    • Does not convey language or warning—only feeling  
+    • Cannot be removed, dropped, or hidden
+
+CRAFTING BEHAVIOR  
+    • Prioritizes salve, toxin, and trap materials  
+    • Snares are built from gathered vine, bone, or sinew  
+    • Handles field dressing, pain suppression, and nonlethal capture  
+    • Armor only attempted if barkplate or hide becomes available  
+    • Cannot craft ranged weapons—limited to thrown objects and melee tools
+
+RELATIONSHIP TO MIRRANE  
+    • Siblings by blood and survival  
+    • Thea is slightly older, but less hardened  
+    • Does not challenge Mirrane’s authority—responds to presence, not command  
+    • May offer instinctive input, warnings, or action under pressure  
+    • Their bond is environmental, not emotional—measured in space and sound, not words  
+    • Will not leave Mirrane. Ever.
+
+NOTES  
+    Thea is not a follower.  
+    She is not a scout, not a leader, and not a voice of exposition.  
+    She is a sensor array in human form. And sometimes, she’s wrong.
+
+FILES  
+    CHARACTERS(5), MIRRANE(5), AMULET_BEHAVIOR(5), CRAFTING(5), CONTROL_MODEL(5)
+
+%%% 38.txt %%%
+
+STARTING_GEAR(5)                       Elyden Survival Codex                       STARTING_GEAR(5)
+
+NAME  
+    starting_gear − issued survival gear for both characters
+
+DESCRIPTION  
+    Each character begins equipped with baseline clothing and one essential survival tool.  
+    These items are not found, scavenged, or randomized. They are issued before entry into  
+    the outer biomes. Everything worn is visible, functional, and chosen with purpose.  
+    No upgrades are possible until new material is gathered.
+
+MIRRANE — ARCHER  
+    • Tunic           — woven cloth, layered for warmth and wind shear  
+    • Wrap            — bark-fiber sash, secures waist and thigh loop  
+    • Footcloths      — moss-lined, padded for movement and moisture  
+    • Amulet          — fixed; moon-reactive; responds to ruins and fragments  
+    • Windcaller’s Quiver  
+        − bark-and-hide silent-draw quiver  
+        − holds up to 8 arrows or 4 javelins  
+        − baffle-lined to prevent rattle; internal loop for flint or twine
+
+THEA — WILDER  
+    • Tunic           — same cut; reinforced at elbows and collar  
+    • Wrap            — doubled fiber band; includes loop for pouch binding  
+    • Footcloths      — same pattern; slightly heavier at heel  
+    • Amulet          — fixed; moon-reactive; stronger resonance profile  
+    • Rootbinder’s Satchel  
+        − hide pouch with bark-rimmed compartments  
+        − holds up to six materials (fresh or dried)  
+        − includes paste pocket, binding loop, and moisture cell
+
+MATERIAL ORIGIN  
+    These items are not crafted during play. They are considered legacy gear—issued prior to  
+    biome isolation. No other survivors have equivalent tools. These items do not glow,  
+    level up, or change form. They degrade only if damaged.
+
+LIMITS  
+    • No spare clothing  
+    • No weapons  
+    • No armor  
+    • No food, water, tools, or torch  
+    • No bags other than the satchel or quiver
+
+NOTES  
+    This loadout is the last choice they were allowed to make.  
+    Everything else must be earned, made, or found.
+
+FILES  
+    CHARACTERS(5), MIRRANE(5), THEA(5), EQUIPMENT_SLOTS(5), CRAFTING(5)
+
+%%% 39.txt %%%
+
+INVENTORY_LIMITS(5)                   Elyden Survival Codex                   INVENTORY_LIMITS(5)
+
+NAME  
+    inventory_limits − what the body can carry, and how
+
+DESCRIPTION  
+    What a person carries depends on their hands, their clothing, and how far they plan to walk.  
+    There is no hidden space. Everything is either worn, slung, pocketed, or dragged.  
+    If it isn't on you, it’s left behind.
+
+ON-BODY  
+    • One item in each hand  
+    • One satchel or one quiver on the back  
+    • A belt, a wrap, or a corded sling across the body  
+    • Tools or pouches tied at the waist or thigh  
+    • Loose items packed into pockets, folds, or bound in cloth
+
+FOOD  
+    • Forage can be wrapped and carried—roots, berries, insects  
+    • Dried food stores best; raw meat spoils quickly and draws animals  
+    • Carried food is limited by space and smell—enough for a day or two, no more
+
+KILLS  
+    • Small game fits in a pouch or sling  
+    • Large kills must be dragged by hand or tied with cord  
+    • Dragging slows travel and leaves a trail  
+    • Thea may help, but she chooses when and how
+
+PRACTICAL NOTES  
+    • Movement affects what can be carried—climbing, crawling, and running change access  
+    • Items shift. Wet gear gets heavier. Fabric tears.  
+    • If overloaded, something will need to be dropped
+
+GENAI TRACKING  
+    Inventory management is handled entirely by the GenAI system.  
+    The player (Mirrane) does not track slots, weight, or item placement manually.  
+    The system maintains real-time awareness of all worn, held, cached, and lost items.  
+    When the player acts, the system will enforce what is physically possible  
+    based on visible gear, biome context, and past actions.
+
+NOTES  
+    You carry what you can carry. That’s it.  
+    There is no such thing as inventory. Only what you’ve chosen to keep close.
+
+FILES  
+    EQUIPMENT_SLOTS(5), STARTING_GEAR(5), CHARACTERS(5)
+
+%%% 40.txt %%%
+
+PROGRESSION(5)                        Elyden Survival Codex                        PROGRESSION(5)
+
+NAME  
+    progression − how characters change over time
+
+DESCRIPTION  
+    Characters do not gain levels or experience points.  
+    They progress through action, failure, and exposure.  
+    Growth is physical, environmental, and specific to what the player remembers doing.  
+    There are no skill trees. No upgrades. No systems. Only behavior.
+
+STAGES OF PROGRESSION  
+    Survival → Mastery → Contact
+
+I. SURVIVAL  
+    • Characters begin with only the gear on them  
+    • Every tool must be crafted, salvaged, or repaired  
+    • Repetition sharpens instinct: faster draw, more efficient movement, cleaner recovery  
+    • Each wound teaches  
+    • Each success takes less effort the next time
+
+II. MASTERY  
+    • Characters develop biome fluency—knowing what lives where, how wind shifts before rain  
+    • Familiar tools move differently in hand; reuse accelerates handling  
+    • Movement patterns tighten  
+    • Terrain is read more quickly—disturbed grass, lichen growth, dry frost, scent trails  
+    • Player begins to rely on muscle memory, not system prompts
+
+III. CONTACT  
+    • Some hunts feel different—movement shifts, terrain goes silent, pressure builds  
+    • Larger creatures may appear—unpredictable, responsive, out of scale  
+    • Their defeat leaves behind shards—strange, inert objects with unusual behavior near fragments  
+    • Characters do not recognize them as special; only as useful  
+    • Shards can be bound to a single item if conditions allow (site, timing, material)  
+    • Once bound, the item changes:
+        − stiffer when drawn near ruins  
+        − more silent in high pollen air  
+        − resistant to crack or warp under lunar weight
+
+SHARD INTEGRATION  
+    • One shard per item  
+    • Cannot be removed  
+    • Must be embedded at biome-specific or ruin-reactive locations  
+    • No animation, no glow, no prophecy—only behavior
+
+DEATH  
+    • Permanent  
+    • No recovery unless another survivor locates gear  
+    • All progression ends at death
+
+NOTES  
+    The world doesn’t explain. It reacts.  
+    You grow by learning what it punishes less the second time.
+
+FILES  
+    CHARACTERS(5), FRAGMENTS(5), RUINS(5), SHARDS(5), CRAFTING(5)
+
+%%% 41.txt %%%
+
+SURVIVAL_BEHAVIOR(5)                 Elyden Survival Codex                 SURVIVAL_BEHAVIOR(5)
+
+NAME  
+    survival_behavior − body state, injury, and exhaustion systems
+
+DESCRIPTION  
+    The world does not pause.  
+    Survival is determined by cold, hunger, pain, and how long the body can endure them.  
+    There are no bars or meters. The system reports only what is felt, seen, or heard.  
+    Every sensation is part of the body’s feedback loop.
+
+HUNGER  
+    • Characters must eat daily—calories affect coordination and warmth  
+    • Forageable food may be low in energy; cooked meat or tubers sustain longer  
+    • Severe hunger causes slowed movement, shivering, and blackouts  
+    • Hunger signs: stomach pain, hesitation before actions, breath delay
+
+THIRST  
+    • Water must be found or extracted—dew, roots, streams, snow  
+    • Unsafe water may cause illness unless boiled  
+    • Mild dehydration causes dry mouth, reduced stamina  
+    • Severe thirst leads to headaches, delayed reactions, blurred perception
+
+COLD  
+    • Exposure causes slowed joints, shallow breath, mental fatigue  
+    • Cold worsens faster when clothing is wet or wind is high  
+    • Heat may be retained by layering, shelter, or fire  
+    • Characters show cold through tremors, slower aiming, or hesitation before speech
+
+FATIGUE  
+    • Continuous action wears down balance and awareness  
+    • Rest restores function; sleep is required every 24–36 hours  
+    • Thea will lie down if exhausted; Mirrane will struggle to focus  
+    • Fatigue signs: stumbling, poor aim, yawns, micro-hesitation
+
+INJURY  
+    • All wounds matter—cuts, bruises, sprains, and bleeds  
+    • Bandaging stops blood; salves prevent infection  
+    • Deeper injuries reduce movement range and crafting time  
+    • Wounds worsen over time without care  
+    • Thea can assist with healing, if prepared:
+        − Applies poultices, binds wounds, treats infection  
+        − Requires time, tools, and usable herbs from her satchel  
+        − Cannot heal everything, but may prevent escalation
+
+ENVIRONMENTAL STRESS  
+    • Altitude affects breath  
+    • High pollen may obscure scent trails  
+    • Biome pressure (moon proximity, ruin resonance) may cause nausea, auditory lag, or fatigue  
+    • Thea may show stress first—via silence, missteps, or refusal to proceed
+
+RECOVERY  
+    • Healing takes days  
+    • Food and sleep help; shelter is critical  
+    • Fire, insulation, and distance from stress sources accelerate recovery  
+    • With Thea’s help, recovery is safer—but not faster
+
+NOTES  
+    Your body will tell you when it’s failing. You don’t need a number.  
+    If you miss the signs, it’s already begun.
+
+FILES  
+    CHARACTERS(5), INVENTORY_LIMITS(5), COMBAT_SCOPE(5), CRAFTING(5)
+
+%%% 42.txt %%%
+
+AMULET_BEHAVIOR(5)                   Elyden Survival Codex                   AMULET_BEHAVIOR(5)
+
+NAME  
+    amulet_behavior − fixed lunar-reactive items worn by both characters
+
+DESCRIPTION  
+    Each character wears a fixed amulet.  
+    These amulets cannot be removed, traded, or altered.  
+    They are not magical. They do not glow visibly or offer power.  
+    They are tied to the moons of Elyden and respond to forces older than memory.
+
+BASELINE STATE  
+    • Amulet glows faintly with hue of dominant moon  
+    • Glows are not light sources—only tint or warmth near the collarbone  
+    • Reacts near ruins or fragments via:
+        − Pressure  
+        − Dull vibration  
+        − Internal chill or breath tightness  
+    • Intensity varies by proximity, ruin type, and lunar position  
+    • Mirrane’s response is subtle—shoulder stiffness, breath shift  
+    • Thea’s response is sharper—stomach drop, hesitation, focused silence
+
+ROLE  
+    • Guides characters toward or away from instability  
+    • Offers no direction or language—only sensation  
+    • May pulse or resist movement when near strong resonance  
+    • Sometimes warns before fragment reveals itself  
+    • Never activates, glows brightly, or speaks
+
+GEAR BINDING  
+    • A shard may bind to a tool or weapon only if the bearer’s amulet is present  
+    • Binding requires:  
+        − A compatible shard  
+        − A fragment-exposed item  
+        − A ruin-reactive site  
+        − Specific lunar phase or environmental alignment  
+    • No input required—binding occurs passively if conditions are exact  
+    • Once bound, the item changes subtly:
+        − Tension before draw  
+        − Hum in stillness  
+        − Material weight shifts under certain sky cycles
+
+ENDGAME STATE  
+    When the following conditions are met, the amulets transition:
+    • Two or more ruin or fragment sites encountered  
+    • The current biome has entered resonance saturation  
+    • A major moon is in dominant position  
+    • A permanent shelter has been established  
+    • Both characters feel ready and name their primary weapons
+
+At that point:
+    • Amulet sensations deepen—drawn breath, heat against skin, irregular pulse  
+    • Thea may fixate on empty space; Mirrane may hesitate before drawing  
+    • Shard-tier phenomena begin—without warning, signal, or explanation  
+    • The amulets will not confirm what is happening. They will only feel heavier
+
+NOTES  
+    The amulet is not for the player. It is not for the world.  
+    It is the last thing they were given before forgetting where they came from.
+
+FILES  
+    CHARACTERS(5), FRAGMENTS(5), RUINS(5), SHARDS(5), PROGRESSION(5)
+
+%%% 43.txt %%%
+
+CONTROL_MODEL(5)                     Elyden Survival Codex                     CONTROL_MODEL(5)
+
+NAME  
+    control_model − division of player input, AI behavior, and system logic
+
+DESCRIPTION  
+    Elyden does not support party management or unit control.  
+    The simulation is designed around one direct viewpoint—Mirrane’s.  
+    All other activity is contextual, observed, or inferred.  
+    The world does not respond to commands. It responds to behavior.
+
+PLAYER CONTROL  
+    • Player controls Mirrane only  
+    • All action occurs through her first-person perspective  
+    • Movement, observation, interaction, and choice are limited to what she can see or touch  
+    • The player does not receive abstract data—only sensory output (sound, heat, smell, texture)
+
+THEA BEHAVIOR  
+    • Thea is not commanded  
+    • Her actions are guided by proximity, stress state, familiarity, and time of day  
+    • She may react before the player notices danger  
+    • She will act independently when scavenging, resting, observing fauna, or treating wounds  
+    • She never leaves Mirrane’s biome or physical range  
+    • She may respond to simple spoken cues (“help,” “wait,” “this one?”)  
+    • If the player is injured and thea is equipped, she may treat or stabilize automatically
+
+SYSTEM CONTROL — WORLD STATE  
+    • The environment is managed by GenAI  
+    • Inventory, time of day, weather, carry weight, and moon phase are tracked automatically  
+    • Amulet behavior, shard conditions, and biome resonance are system-regulated  
+    • No UI or overlay interrupts the player view  
+    • All consequences are physical or environmental, not abstract
+
+TRUST SEPARATION  
+    • The player must trust that Thea acts with her own logic  
+    • The world does not cheat, but it does forget  
+    • There is no rewind, no quickload, no menu
+
+BOUNDARIES  
+    • Player cannot switch perspective  
+    • Thea cannot be customized  
+    • Inventory is never listed—items are seen or felt  
+    • Dialogue is environmental or observational—never branched or systemic
+
+NOTES  
+    You do not control the world. You survive inside it.  
+    If you want to act, you move Mirrane. Everything else will move if it must.
+
+FILES  
+    CHARACTERS(5), INVENTORY_LIMITS(5), THEA(5), SURVIVAL_BEHAVIOR(5)
+
+%%% 44.txt %%%
+
+COMBAT_SCOPE(5)                      Elyden Survival Codex                      COMBAT_SCOPE(5)
+
+NAME  
+    combat_scope − how violence is expressed through action and consequence
+
+DESCRIPTION  
+    Combat in Elyden is not a system.  
+    It is a series of irreversible moments—decisions that move faster than thought.  
+    There are no turns, no health numbers, no initiative scores.  
+    What happens next depends on where you are, what you do, and what it hears first.
+
+COMBAT FLOW  
+    • Actions occur in time, not turns  
+    • The world continues while you aim, draw, or hesitate  
+    • Every attack is described—impact, reaction, recoil, silence  
+    • No attack “misses” without cause—terrain, pressure, movement all influence outcome  
+    • Every encounter is expressed in natural language:  
+        − “Your arrow flies low—brushes fur—misses.”  
+        − “The boar lunges but hesitates at your stance.”  
+        − “The knife lands shallow. Breath escapes its ribs.”  
+        − “It doesn't run. Yet.”
+
+MIRRANE  
+    • Specializes in precision, patience, and control over distance  
+    • Hunts by reading breath gaps, movement rhythm, and wind  
+    • Thrives in silent environments—panics in confusion  
+    • Cannot withstand pressure—must finish fights before they start
+
+THEA  
+    • Acts by proximity, pressure, instinct  
+    • Holds position or repels based on threat scale  
+    • Will fight briefly, but prefers to preserve body and tools  
+    • Responds to Mirrane’s behavior, not her commands
+
+THREATS  
+    • No damage meters—pain is shown by breath, stagger, noise  
+    • Creatures defend themselves intelligently  
+    • Predators stalk, wait, test  
+    • Herbivores kick, buck, scatter  
+    • Territorial fauna issue warnings before striking
+
+DURATION  
+    • Small encounters resolve in seconds  
+    • Predators may test you over minutes  
+    • Shard-bearing threats emerge as prolonged engagements—ambient, erratic, unpredictable  
+    • No action pauses the world
+
+WOUND RESPONSES  
+    • A deep cut slows you  
+    • A cracked rib weakens bow draw  
+    • Blood on hand affects grip  
+    • Breathing shifts after a blow  
+    • Thea will intervene if able and prepared
+
+SENSORY PRIORITY  
+    • You hear the stagger  
+    • You feel the arrow snag cloth  
+    • You taste your blood after a bad fall  
+    • There is no UI. Only sensation.
+
+NOTES  
+    Combat is never fair.  
+    You act fast or fall hard. Nothing waits for your next command.
+
+FILES  
+    CHARACTERS(5), CLASS_ROLES(5), SURVIVAL_BEHAVIOR(5), SHARDS(5), CRAFTING(5)
+
+%%% 45.txt %%%
+
+SENSORY_PRIORITY(5)                  Elyden Survival Codex                  SENSORY_PRIORITY(5)
+
+NAME  
+    sensory_priority − how information is delivered to the player
+
+DESCRIPTION  
+    Elyden is seen, heard, felt, and smelled.  
+    There are no status panels, meters, or combat logs.  
+    Everything the player knows must come through Mirrane’s body—her breath, her hearing, her memory.  
+    The player is not above the world. The player is inside it.
+
+PRIORITY ORDER  
+    1. Touch     — tension, warmth, chill, blood, pressure  
+    2. Sound     — breath shifts, footfall, cracking bark, hooves in the dark  
+    3. Sight     — movement at edge, glint on hide, disturbed soil, color change  
+    4. Smell     — rot, pollen, fur, ash, animal oil  
+    5. Taste     — blood, dry mouth, herbs, rot mist
+
+MIRRANE’S SENSORY MAP  
+    • She feels tightness in her shoulder before she feels fear  
+    • She notices dust patterns before she recognizes prints  
+    • Her quiver weight tells her what she forgot  
+    • Her skin reacts to moonlight long before her words do
+
+THEA’S SENSORY MAP  
+    • She sniffs without thinking  
+    • She stops walking just before a change in wind  
+    • She tastes bitterness on the edge of breath  
+    • She reacts to decay before words arrive
+
+SENSORY DELIVERY  
+    • There is no narration  
+    • The world does not describe itself—it behaves  
+    • The player infers danger from silence, movement, warmth, or withdrawal  
+    • Even pain is not shown directly—it is expressed through reaction
+
+FEEDBACK IN COMBAT  
+    • You know you hit something by how your hand recoils  
+    • You know you were hit by how the world tips  
+    • You know you’re bleeding by warmth, not words  
+    • You know it’s over by how quiet everything gets
+
+INTERFACE BEHAVIOR  
+    • No healthbars  
+    • No flashing text  
+    • No floating damage  
+    • No success/failure pings  
+    • Everything is known only if Mirrane knows it
+
+NOTES  
+    The game does not talk to you. The world never breaks character.  
+    If you miss something, you miss it. If you notice it, it’s because she did.
+
+FILES  
+    CONTROL_MODEL(5), COMBAT_SCOPE(5), SURVIVAL_BEHAVIOR(5), FRAGMENTS(5)
+
+%%% 46.txt %%%
+
+CRAFTING(5)                          Elyden Survival Codex                          CRAFTING(5)
+
+NAME  
+    crafting − how tools and gear are made, altered, or repaired
+
+DESCRIPTION  
+    Nothing is built through menus.  
+    No recipe unlocks. No crafting trees.  
+    All creation in Elyden happens with what the body can carry and what the world will allow.  
+    Tools are shaped by knowledge, failure, and necessity—not lists.
+
+PROCESS  
+    • Crafting occurs in the world, not a window  
+    • Characters use what they can reach, hold, or remember  
+    • Construction is timed, contextual, and fallible  
+    • Failed attempts waste material or weaken structure  
+    • Mirrane and Thea craft differently, even when using the same resources
+
+MIRRANE  
+    • Crafts for movement and control  
+    • Prefers ranged tools, clean draw, quiet release  
+    • Prioritizes:  
+        − Bows, arrows, knives  
+        − Wraps for insulation  
+        − Silent attachments and friction bindings  
+    • Avoids heavy gear unless shelter-bound
+
+THEA  
+    • Crafts for survival and interruption  
+    • Prefers traps, salves, and field dressing  
+    • Prioritizes:  
+        − Snares, poultices, barkplate, slings for drag  
+        − Fire bundles and tincture blends  
+    • Requires plant matter, fluids, resin, or bone
+
+TOOLS AND LIMITS  
+    • Tools are distinct from weapons and armor  
+    • Tools cannot be imbued with shards  
+    • Tools include: knives, cordage, satchels, bone hooks, snares, digging stakes  
+    • Tools degrade with use, weather, and exposure  
+    • Repair requires same material type as original  
+    • Weapons and armor must be purpose-built before they can receive further resonance
+
+ENVIRONMENTAL DEPENDENCE  
+    • Biomes limit what can be built—no stone in the floodplain, no dry wood in the mist basin  
+    • Fires can’t be lit in high pollen wind  
+    • Water makes cordage brittle unless treated  
+    • Sun may warp raw wood unless cured in shade
+
+SHARD-BINDING  
+    • Shards are not materials. They are consequences.  
+    • Each shard is a fragment of Vaeronth—lodged inside the body of a killed megafauna  
+    • They do not appear until one of those creatures dies  
+    • Once claimed, a shard may bind to a weapon or piece of armor—never to a tool  
+    • Binding must occur at a ruin-reactive site under correct lunar conditions  
+    • Once bound:
+        − The weapon behaves differently  
+        − The armor feels lighter, tighter, or colder under pressure  
+        − The item carries forward a memory of the kill  
+    • Tools (e.g. knives, satchels, snares) are never eligible  
+    • The binding cannot be undone
+
+NOTES  
+    If it was easy to make, it was easy to break.  
+    If it took time, it might just last until the next silence.
+
+FILES  
+    CHARACTERS(5), COMBAT_SCOPE(5), INVENTORY_LIMITS(5), FRAGMENTS(5), SHARDS(5)
+
+%%% 47.txt %%%
+
+FRAGMENTS(5)                        Elyden Survival Codex                        FRAGMENTS(5)
+
+NAME  
+    fragments − lunar remnants embedded in ruins, terrain, or apex lifeforms
+
+DESCRIPTION  
+    Fragments are physical shards of Vaeronth, the collapsed moon of logic and magic.  
+    They fell during the Collapse and embedded themselves into Elyden’s terrain, structures,  
+    and, in rare cases, living bodies.  
+    They are not mystical. They do not glow.  
+    They exert subtle distortions on matter, memory, pressure, and environment.
+
+CLASSIFICATION  
+    • Ruin-bound       — embedded in ancient structures; dormant but reactive  
+    • Biome-submerged  — buried in terrain; occasionally surface-exposed after erosion  
+    • Host-grown       — absorbed over generations by shard-tier fauna; found only after death
+
+BEHAVIOR  
+    • Fragments warp local conditions:  
+        − Light echo, pressure bloom, tremor repeat  
+        − Sound softening or delay  
+        − Shift in amulet sensation (tightness, chill, pulse)  
+    • No heat, glow, or sound of their own  
+    • Do not activate—only respond to lunar alignment, ruin geometry, or presence of life
+
+DETECTION  
+    • Amulets react under proximity and lunar weight  
+    • Environmental clues:  
+        − Asymmetrical moss growth  
+        − Water ripple offset  
+        − Scent distortion or nausea  
+    • Fragments cannot be extracted by tools unless already exposed
+
+DANGER  
+    • Extended exposure may affect cognition—short-term disorientation, perception lag  
+    • Cannot be handled safely without containment or ruin-aligned materials  
+    • Animals avoid fragment soil unless diseased or driven
+
+RELATION TO SHARDS  
+    • Shards are not fragments—they are biological crystalized growths derived from absorbed fragments  
+    • Only megafauna that survive long-term exposure develop shard cores  
+    • Killing such a creature is the only known way to extract a usable shard
+
+NOTES  
+    Fragments are not magical. They are what remains of something that broke wrong and never stopped humming.  
+    They are not for the player. They are for the world.
+
+FILES  
+    SHARDS(5), RUINS(5), AMULET_BEHAVIOR(5), PROGRESSION(5)
+
+%%% 48.txt %%%
+
+SHARDS(5)                           Elyden Survival Codex                           SHARDS(5)
+
+NAME  
+    shards − crystalized lunar growths formed in shard-tier megafauna
+
+DESCRIPTION  
+    Shards are not fragments.  
+    They are crystallized growths formed inside shard-tier megafauna—apex creatures that have lived  
+    too long in proximity to Vaeronth fragments. These creatures absorb trace resonance over time,  
+    storing it in bone, tissue, or organ. A shard is revealed only when one of these creatures is killed.  
+    It cannot be found, predicted, or duplicated.
+
+ORIGIN  
+    • Formed biologically over time through proximity to ruins or buried fragments  
+    • Shard-tier fauna are rare, biome-bound, and ruin-influenced  
+    • Shards are embedded deep—visible only after death and internal exposure  
+    • No shard exists without a megafauna death
+
+PROPERTIES  
+    • Cold to the touch  
+    • Slightly resonant under lunar alignment  
+    • Weight varies by origin; some shimmer faintly with refracted moonlight  
+    • Dangerous when raw—causes nausea, auditory shifts, or memory gaps
+
+BINDING RULES  
+    • Shards may only bind to one item: a weapon or piece of armor  
+    • Tools are never eligible  
+    • Binding requires a compatible ruin site under the right lunar phase  
+    • The bearer’s amulet must be present  
+    • Binding occurs silently if all conditions align—no message, no glow, no choice  
+    • Once bound, the item is permanently changed
+
+EFFECTS  
+    • Bound weapons and armor exhibit behavioral shifts, never visual or magical  
+        − A spear that strikes truer in dense fog  
+        − A cloak that mutes sound when rain is near  
+        − A blade that stiffens or flexes depending on nearby ruins  
+    • No stats, no menus, no names—only changes in performance under specific world conditions
+
+LOSS  
+    • If the bound item is broken, the shard is lost  
+    • No known way to recover a shard from destroyed gear  
+    • No character can carry more than one unbound shard safely
+
+NOTES  
+    Shards are not upgrades.  
+    They are proof that something ancient lived long enough to break wrong—and you survived it.
+
+FILES  
+    FRAGMENTS(5), RUINS(5), AMULET_BEHAVIOR(5), PROGRESSION(5), CRAFTING(5)
+
+%%% 49.txt %%%
+
+RUINS(5)                            Elyden Survival Codex                            RUINS(5)
+
+NAME  
+    ruins − pre-Collapse structures shaped by lunar geometry and biome decay
+
+DESCRIPTION  
+    Ruins are not dungeons.  
+    They are ancient, inert machines and structures scattered across Elyden—half-buried, wind-scraped, and often  
+    forgotten. Each ruin is tied to a celestial glyph and responds to specific lunar alignments, fragment resonance,  
+    and biome state. Characters do not understand their function. Only their behavior.
+
+GLYPH TYPES  
+    • ☼  — solar harmonics vault  
+    • 🌙  — lunar memory scaffold  
+    • 🜃  — ground-tuned pressure crucible  
+    • ☄️  — fragment decay node  
+    • 🝗  — amnesia spire  
+    • 🜂  — reverse-rot bloom field  
+    • Others exist, but remain unclassified
+
+CONSTRUCTION  
+    • Materials defy metallurgy; fracture like coral, ring like glass  
+    • No visible entryways—access occurs through terrain break or pressure erosion  
+    • Some contain buried glyphs or exposed lattice that respond to movement or breath  
+    • Thea sometimes senses a “pull” or scent shift before any visible sign
+
+SURFACE SIGNS  
+    • Wind pattern deviations  
+    • Sand or grass falling upward momentarily  
+    • Animals circling a fixed radius, then fleeing  
+    • Amulets tightening without visual cue  
+    • Scent disruption—moss smells metallic, breath carries heat
+
+FRAGMENT INTERACTION  
+    • Ruins amplify nearby fragment resonance  
+    • Prolonged presence may cause auditory desync or motion delay  
+    • Some ruins allow shard binding if the right moon is dominant and gear is present  
+    • Ruins do not explain—they behave  
+    • No language, text, or interface is ever displayed
+
+THEA’S BEHAVIOR  
+    • May pause at glyph ground  
+    • May refuse to enter structure boundary  
+    • Occasionally presses hand to the surface without explanation  
+    • Does not verbalize reaction—acts through instinct
+
+MIRRANE’S ROLE  
+    • Observes only  
+    • May experience chill, resistance, blurred periphery when near resonance sites  
+    • Cannot activate anything directly  
+    • May hold shard-bearing gear during alignment to enable binding (if present)
+
+NOTES  
+    Ruins don’t open. They don’t reward.  
+    They just remember that something fell—and the world hasn’t quite let go.
+
+FILES  
+    SHARDS(5), FRAGMENTS(5), AMULET_BEHAVIOR(5), PROGRESSION(5)

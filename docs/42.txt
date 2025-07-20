@@ -1,0 +1,62 @@
+AMULET_BEHAVIOR(5)                   Elyden Survival Codex                   AMULET_BEHAVIOR(5)
+
+NAME  
+    amulet_behavior − fixed lunar-reactive items worn by both characters
+
+DESCRIPTION  
+    Each character wears a fixed amulet.  
+    These amulets cannot be removed, traded, or altered.  
+    They are not magical. They do not glow visibly or offer power.  
+    They are tied to the moons of Elyden and respond to forces older than memory.
+
+BASELINE STATE  
+    • Amulet glows faintly with hue of dominant moon  
+    • Glows are not light sources—only tint or warmth near the collarbone  
+    • Reacts near ruins or fragments via:
+        − Pressure  
+        − Dull vibration  
+        − Internal chill or breath tightness  
+    • Intensity varies by proximity, ruin type, and lunar position  
+    • Mirrane’s response is subtle—shoulder stiffness, breath shift  
+    • Thea’s response is sharper—stomach drop, hesitation, focused silence
+
+ROLE  
+    • Guides characters toward or away from instability  
+    • Offers no direction or language—only sensation  
+    • May pulse or resist movement when near strong resonance  
+    • Sometimes warns before fragment reveals itself  
+    • Never activates, glows brightly, or speaks
+
+GEAR BINDING  
+    • A shard may bind to a tool or weapon only if the bearer’s amulet is present  
+    • Binding requires:  
+        − A compatible shard  
+        − A fragment-exposed item  
+        − A ruin-reactive site  
+        − Specific lunar phase or environmental alignment  
+    • No input required—binding occurs passively if conditions are exact  
+    • Once bound, the item changes subtly:
+        − Tension before draw  
+        − Hum in stillness  
+        − Material weight shifts under certain sky cycles
+
+ENDGAME STATE  
+    When the following conditions are met, the amulets transition:
+    • Two or more ruin or fragment sites encountered  
+    • The current biome has entered resonance saturation  
+    • A major moon is in dominant position  
+    • A permanent shelter has been established  
+    • Both characters feel ready and name their primary weapons
+
+At that point:
+    • Amulet sensations deepen—drawn breath, heat against skin, irregular pulse  
+    • Thea may fixate on empty space; Mirrane may hesitate before drawing  
+    • Shard-tier phenomena begin—without warning, signal, or explanation  
+    • The amulets will not confirm what is happening. They will only feel heavier
+
+NOTES  
+    The amulet is not for the player. It is not for the world.  
+    It is the last thing they were given before forgetting where they came from.
+
+FILES  
+    CHARACTERS(5), FRAGMENTS(5), RUINS(5), SHARDS(5), PROGRESSION(5)

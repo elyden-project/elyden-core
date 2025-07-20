@@ -1,0 +1,72 @@
+BIOME  
+    small hills
+
+TERRAIN  
+    Gently rising terrain with soft slopes and shallow valleys.  
+    Ground is uneven but walkable. Soil is loamy in dips, drier  
+    on crests. Wind slows between hills, collecting leaf litter  
+    and debris in folds. Drainage is better than plains—some areas  
+    hold moisture longer. Stones are more frequent here, especially  
+    near exposed roots or erosion channels.
+
+INORGANIC RESOURCES  
+    • Smooth stones − usable for pounding, sharpening edges  
+    • Exposed flint − more common than plains; good for toolcraft  
+    • Red clay − found in low points; dries hard, useful for lining  
+    • Soft limestone chunks − breakable for chalk or filtration  
+    • Sand pockets − gather in wind hollows, poor for anchoring
+
+FLORA  
+
+    GRASSES  
+    • Big bluestem − tall, tough grass; good for roof thatch or fire  
+    • Ryegrass − green into late season; grazed by wildlife
+
+    SHRUBS & SUCCULENTS  
+    • Wild rose − thorny bush with edible hips; dense cover for birds  
+    • Juniper − low-branch evergreen shrub; wood burns slowly  
+    • Gooseberry − thorny; tart berries edible if ripe
+
+    HERBS & LOW PLANTS  
+    • Stinging nettle − painful to touch raw; edible when boiled  
+    • Mugwort − bitter herb; used for stomach aches  
+    • Burdock − large leaves; edible roots if roasted
+
+    FUNGI  
+    • Puffballs − round, white fungi found near decaying roots  
+    • Dryad’s saddle − shelf fungus on fallen logs; edible when young
+
+    TREES  
+    • Scrub oak − short, twisted; acorns must be leached  
+    • Hawthorn − small fruit-bearing tree; thorns dense  
+    • Black locust − hard wood; burns hot, dangerous thorns
+
+FAUNA  
+
+    INSECTS  
+    • Wood ants − build low mounds; sting when disturbed  
+    • Dung beetles − common near animal trails  
+    • Solitary bees − nest in dry banks; non-aggressive
+
+    REPTILES & AMPHIBIANS  
+    • Fence lizard − warms on rocks; insectivore  
+    • Toads − appear after rain; eat gnats and small beetles
+
+    BIRDS  
+    • Quail − ground forager; coveys scatter loudly when startled  
+    • Woodpecker − nests in old trunks; sound echoes over hills  
+    • Kestrel − small falcon; hovers before diving
+
+    MAMMALS  
+    • Ground squirrel − tunnels beneath bushes; stores seeds  
+    • Cottontail rabbit − common; hide and bones useful  
+    • Fox − light-footed; hunts small game; cautious of fire
+
+    SIGNS OF LARGER LIFE  
+    • Deer trails − worn tracks at tree edges; scat near berry patches  
+    • No known predators larger than fox reside full-time
+
+NOTES  
+    Hills offer more cover and plant life than plains.  
+    Easier to trap small animals. Watch erosion cuts after rain.  
+    Stones can shift underfoot when dry. Good place to camp if dry.

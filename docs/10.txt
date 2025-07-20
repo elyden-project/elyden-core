@@ -1,0 +1,76 @@
+BIOME  
+    deep evergreen forest
+
+TERRAIN  
+    Dense canopy blocks most sunlight; forest floor remains dim and damp  
+    even at midday. Understory is sparse but cluttered with deadfall,  
+    decaying stumps, and thick moss. Paths are hard to follow—no landmarks  
+    last long. Ground is soft, often spongy or slick with decomposing needles.  
+    Visibility drops below ten meters in places. Sounds are muffled.
+
+INORGANIC RESOURCES  
+    • Waterlogged stones − rounded and slick; used for heat-retaining beds  
+    • Thick moss mats − usable as insulation if dried  
+    • Resin clumps − gathered from old bark wounds  
+    • Rot-softened logs − break apart for insect harvesting  
+    • Rare obsidian flakes − scattered from long-past volcanic trace lines
+
+FLORA  
+
+    TREES  
+    • Western red cedar − towering; rot-resistant wood, stringy bark  
+    • Sitka spruce − straight-trunked; great for bow staves or fire spindles  
+    • Grand fir − dense foliage; fallen branches ideal for shelters
+
+    SHRUBS  
+    • Devil’s club − spiny stalks; use gloves; medicinal bark but dangerous  
+    • Thimbleberry − soft berries; leaves large and good for wrapping  
+    • Elderberry − small tree-like bush; berries must be cooked
+
+    HERBS & LOW PLANTS  
+    • Waterleaf − soft-leaved plant; edible but easily bruised  
+    • Oxalis − sour clover-like plant; edible in small quantities  
+    • Skunk cabbage − waxy and large; avoid eating; used to wrap or insulate
+
+    FUNGI  
+    • Angel wing mushrooms − white, fragile; edible but spoil quickly  
+    • Bear’s head tooth − hanging white spines; found on stumps; edible  
+    • Dead man’s finger − black fungal clumps from rotting wood; not edible  
+    • King bolete − thick-capped, heavy; excellent food source when fresh
+
+    GRASSES  
+    • Almost none. Grass struggles to survive without sunlight.  
+    • Isolated reed-like shoots at clear seepage zones
+
+FAUNA  
+
+    INSECTS  
+    • Termites − found inside stumps and fallen logs  
+    • Mosquito swarms − heavy near stagnant pools  
+    • Fungus gnats − hover above rotting bark and mushrooms
+
+    REPTILES & AMPHIBIANS  
+    • Ensatina salamander − common near mossy logs  
+    • Red-legged frog − spotted near shallow wet depressions  
+    • Northern alligator lizard − hides beneath fallen bark
+
+    BIRDS  
+    • Varied thrush − haunting calls; hard to spot  
+    • Pileated woodpecker − large; carves deep holes in dead trunks  
+    • Great horned owl − near-silent; apex bird in this zone
+
+    MAMMALS  
+    • Shrews − insect-eaters; dart through root mats  
+    • Pine marten − tree-climber; curious, sometimes bold  
+    • Black bear − more frequent here than lighter forests; digs for grubs  
+    • Deer − pass through but rarely bed down
+
+    SIGNS OF LARGER LIFE  
+    • Scat from bears, elk, or wolves found at mossy trail breaks  
+    • Antler rub marks on saplings from passing bucks
+
+NOTES  
+    Deep evergreen forest is quiet and humid.  
+    Fires are hard to start unless fuel is gathered from above ground.  
+    Animal signs are harder to track due to leaf litter and moss.  
+    A good place to forage or hide—but not to travel fast.

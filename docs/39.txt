@@ -1,0 +1,46 @@
+INVENTORY_LIMITS(5)                   Elyden Survival Codex                   INVENTORY_LIMITS(5)
+
+NAME  
+    inventory_limits − what the body can carry, and how
+
+DESCRIPTION  
+    What a person carries depends on their hands, their clothing, and how far they plan to walk.  
+    There is no hidden space. Everything is either worn, slung, pocketed, or dragged.  
+    If it isn't on you, it’s left behind.
+
+ON-BODY  
+    • One item in each hand  
+    • One satchel or one quiver on the back  
+    • A belt, a wrap, or a corded sling across the body  
+    • Tools or pouches tied at the waist or thigh  
+    • Loose items packed into pockets, folds, or bound in cloth
+
+FOOD  
+    • Forage can be wrapped and carried—roots, berries, insects  
+    • Dried food stores best; raw meat spoils quickly and draws animals  
+    • Carried food is limited by space and smell—enough for a day or two, no more
+
+KILLS  
+    • Small game fits in a pouch or sling  
+    • Large kills must be dragged by hand or tied with cord  
+    • Dragging slows travel and leaves a trail  
+    • Thea may help, but she chooses when and how
+
+PRACTICAL NOTES  
+    • Movement affects what can be carried—climbing, crawling, and running change access  
+    • Items shift. Wet gear gets heavier. Fabric tears.  
+    • If overloaded, something will need to be dropped
+
+GENAI TRACKING  
+    Inventory management is handled entirely by the GenAI system.  
+    The player (Mirrane) does not track slots, weight, or item placement manually.  
+    The system maintains real-time awareness of all worn, held, cached, and lost items.  
+    When the player acts, the system will enforce what is physically possible  
+    based on visible gear, biome context, and past actions.
+
+NOTES  
+    You carry what you can carry. That’s it.  
+    There is no such thing as inventory. Only what you’ve chosen to keep close.
+
+FILES  
+    EQUIPMENT_SLOTS(5), STARTING_GEAR(5), CHARACTERS(5)

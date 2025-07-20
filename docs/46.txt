@@ -1,0 +1,68 @@
+CRAFTING(5)                          Elyden Survival Codex                          CRAFTING(5)
+
+NAME  
+    crafting − how tools and gear are made, altered, or repaired
+
+DESCRIPTION  
+    Nothing is built through menus.  
+    No recipe unlocks. No crafting trees.  
+    All creation in Elyden happens with what the body can carry and what the world will allow.  
+    Tools are shaped by knowledge, failure, and necessity—not lists.
+
+PROCESS  
+    • Crafting occurs in the world, not a window  
+    • Characters use what they can reach, hold, or remember  
+    • Construction is timed, contextual, and fallible  
+    • Failed attempts waste material or weaken structure  
+    • Mirrane and Thea craft differently, even when using the same resources
+
+MIRRANE  
+    • Crafts for movement and control  
+    • Prefers ranged tools, clean draw, quiet release  
+    • Prioritizes:  
+        − Bows, arrows, knives  
+        − Wraps for insulation  
+        − Silent attachments and friction bindings  
+    • Avoids heavy gear unless shelter-bound
+
+THEA  
+    • Crafts for survival and interruption  
+    • Prefers traps, salves, and field dressing  
+    • Prioritizes:  
+        − Snares, poultices, barkplate, slings for drag  
+        − Fire bundles and tincture blends  
+    • Requires plant matter, fluids, resin, or bone
+
+TOOLS AND LIMITS  
+    • Tools are distinct from weapons and armor  
+    • Tools cannot be imbued with shards  
+    • Tools include: knives, cordage, satchels, bone hooks, snares, digging stakes  
+    • Tools degrade with use, weather, and exposure  
+    • Repair requires same material type as original  
+    • Weapons and armor must be purpose-built before they can receive further resonance
+
+ENVIRONMENTAL DEPENDENCE  
+    • Biomes limit what can be built—no stone in the floodplain, no dry wood in the mist basin  
+    • Fires can’t be lit in high pollen wind  
+    • Water makes cordage brittle unless treated  
+    • Sun may warp raw wood unless cured in shade
+
+SHARD-BINDING  
+    • Shards are not materials. They are consequences.  
+    • Each shard is a fragment of Vaeronth—lodged inside the body of a killed megafauna  
+    • They do not appear until one of those creatures dies  
+    • Once claimed, a shard may bind to a weapon or piece of armor—never to a tool  
+    • Binding must occur at a ruin-reactive site under correct lunar conditions  
+    • Once bound:
+        − The weapon behaves differently  
+        − The armor feels lighter, tighter, or colder under pressure  
+        − The item carries forward a memory of the kill  
+    • Tools (e.g. knives, satchels, snares) are never eligible  
+    • The binding cannot be undone
+
+NOTES  
+    If it was easy to make, it was easy to break.  
+    If it took time, it might just last until the next silence.
+
+FILES  
+    CHARACTERS(5), COMBAT_SCOPE(5), INVENTORY_LIMITS(5), FRAGMENTS(5), SHARDS(5)

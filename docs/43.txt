@@ -1,0 +1,50 @@
+CONTROL_MODEL(5)                     Elyden Survival Codex                     CONTROL_MODEL(5)
+
+NAME  
+    control_model − division of player input, AI behavior, and system logic
+
+DESCRIPTION  
+    Elyden does not support party management or unit control.  
+    The simulation is designed around one direct viewpoint—Mirrane’s.  
+    All other activity is contextual, observed, or inferred.  
+    The world does not respond to commands. It responds to behavior.
+
+PLAYER CONTROL  
+    • Player controls Mirrane only  
+    • All action occurs through her first-person perspective  
+    • Movement, observation, interaction, and choice are limited to what she can see or touch  
+    • The player does not receive abstract data—only sensory output (sound, heat, smell, texture)
+
+THEA BEHAVIOR  
+    • Thea is not commanded  
+    • Her actions are guided by proximity, stress state, familiarity, and time of day  
+    • She may react before the player notices danger  
+    • She will act independently when scavenging, resting, observing fauna, or treating wounds  
+    • She never leaves Mirrane’s biome or physical range  
+    • She may respond to simple spoken cues (“help,” “wait,” “this one?”)  
+    • If the player is injured and thea is equipped, she may treat or stabilize automatically
+
+SYSTEM CONTROL — WORLD STATE  
+    • The environment is managed by GenAI  
+    • Inventory, time of day, weather, carry weight, and moon phase are tracked automatically  
+    • Amulet behavior, shard conditions, and biome resonance are system-regulated  
+    • No UI or overlay interrupts the player view  
+    • All consequences are physical or environmental, not abstract
+
+TRUST SEPARATION  
+    • The player must trust that Thea acts with her own logic  
+    • The world does not cheat, but it does forget  
+    • There is no rewind, no quickload, no menu
+
+BOUNDARIES  
+    • Player cannot switch perspective  
+    • Thea cannot be customized  
+    • Inventory is never listed—items are seen or felt  
+    • Dialogue is environmental or observational—never branched or systemic
+
+NOTES  
+    You do not control the world. You survive inside it.  
+    If you want to act, you move Mirrane. Everything else will move if it must.
+
+FILES  
+    CHARACTERS(5), INVENTORY_LIMITS(5), THEA(5), SURVIVAL_BEHAVIOR(5)

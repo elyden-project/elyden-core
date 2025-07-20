@@ -1,0 +1,49 @@
+BIOME  
+    glacier
+
+TERRAIN  
+    Endless, shifting mass of deep blue ice.  
+    Surface alternates between smooth crust and jagged crevasse.  
+    Walking is treacherous—fissures hidden by snow or fog.  
+    Light refracts oddly here. No landmarks. Sound carries far.  
+    No scent, no soil, no shelter. Temperatures plunge quickly  
+    as elevation increases. The glacier moves beneath your feet,  
+    slow and silent.
+
+INORGANIC RESOURCES  
+    • Blue ice − dense, heavy; melts slowly for clean water  
+    • Crevasse snow − deep and soft; conceals sudden drops  
+    • Glacial gravel − compacted between flows; difficult to extract  
+    • Ice nodules − crystal-locked; can be chipped for light diffusion  
+    • Frost lenses − thin sheets that fracture when stepped on
+
+FLORA  
+    • None survive on active ice  
+    • No moss, no fungi, no soil substrate
+
+FAUNA  
+
+    INSECTS  
+    • None  
+
+    BIRDS  
+    • Ice tern − passes overhead, never lands  
+    • White gull − circles melt channels; seen from distance
+
+    MAMMALS  
+    • None dwell here permanently  
+    • Occasional overpass by scavengers or lost herd  
+    • No burrows, nests, or scat—only tracks vanish in hours
+
+SIGNS OF LARGER LIFE  
+    • Scoured bones at crevasse rim—possibly wind-dragged  
+    • Deep scratches in exposed ice walls—size uncertain  
+    • Tracklines across untouched snow—end abruptly  
+    • Melted circular patches—warmth origin unknown  
+    • Long silence, then echo—may not be yours
+
+NOTES  
+    The glacier offers no welcome.  
+    No food. No fire. No footing.  
+    Each creak beneath the ice is a reminder—  
+    the world here is not still. It is waiting.

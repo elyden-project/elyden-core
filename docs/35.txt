@@ -1,0 +1,35 @@
+CHARACTERS(5)                           Elyden Survival Codex                           CHARACTERS(5)
+
+NAME  
+    characters − player and AI survivors of the post-collapse world
+
+DESCRIPTION  
+    Characters are not chosen. They are inherited. Each exists with fixed traits, bound gear, and  
+    role-specific survival logic. This document defines character identity, loadout, role behavior,  
+    and interaction constraints within the Elyden simulation.
+
+INDEX  
+    mirrane              — player-controlled archer  
+    thea                 — AI-controlled frontline wilder  
+    equipment_slots      — valid gear regions and restrictions  
+    starting_gear        — initial items per character  
+    inventory_limits     — carried vs worn item logic  
+    progression          — how characters grow without levels  
+    survival_behavior    — hunger, injury, cold, fatigue  
+    class_roles          — archer vs wilder specialization  
+    amulet_behavior      — interaction with fragments and ruins  
+    control_model        — player vs AI character parsing  
+    combat_scope         — how each character engages threats  
+    sensory_priority     — how characters perceive their environment  
+    gear_bias            — favored tools, carry patterns, and field use  
+    dialogue_constraints — how AI characters respond or act independently  
+
+NOTES  
+    Only two characters exist. They are not interchangeable.  
+    Mirrane sees through action. Thea feels through proximity.  
+    Survival is not symmetric. What one notices, the other may not.
+
+FILES  
+    EQUIPMENT(5), BIOMES(5), FRAGMENTS(5), RUINS(5), COMBAT(6)
+
+Elyden                                  July 2025                                  CHARACTERS(5)

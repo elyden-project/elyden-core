@@ -1,0 +1,50 @@
+SHARDS(5)                           Elyden Survival Codex                           SHARDS(5)
+
+NAME  
+    shards − crystalized lunar growths formed in shard-tier megafauna
+
+DESCRIPTION  
+    Shards are not fragments.  
+    They are crystallized growths formed inside shard-tier megafauna—apex creatures that have lived  
+    too long in proximity to Vaeronth fragments. These creatures absorb trace resonance over time,  
+    storing it in bone, tissue, or organ. A shard is revealed only when one of these creatures is killed.  
+    It cannot be found, predicted, or duplicated.
+
+ORIGIN  
+    • Formed biologically over time through proximity to ruins or buried fragments  
+    • Shard-tier fauna are rare, biome-bound, and ruin-influenced  
+    • Shards are embedded deep—visible only after death and internal exposure  
+    • No shard exists without a megafauna death
+
+PROPERTIES  
+    • Cold to the touch  
+    • Slightly resonant under lunar alignment  
+    • Weight varies by origin; some shimmer faintly with refracted moonlight  
+    • Dangerous when raw—causes nausea, auditory shifts, or memory gaps
+
+BINDING RULES  
+    • Shards may only bind to one item: a weapon or piece of armor  
+    • Tools are never eligible  
+    • Binding requires a compatible ruin site under the right lunar phase  
+    • The bearer’s amulet must be present  
+    • Binding occurs silently if all conditions align—no message, no glow, no choice  
+    • Once bound, the item is permanently changed
+
+EFFECTS  
+    • Bound weapons and armor exhibit behavioral shifts, never visual or magical  
+        − A spear that strikes truer in dense fog  
+        − A cloak that mutes sound when rain is near  
+        − A blade that stiffens or flexes depending on nearby ruins  
+    • No stats, no menus, no names—only changes in performance under specific world conditions
+
+LOSS  
+    • If the bound item is broken, the shard is lost  
+    • No known way to recover a shard from destroyed gear  
+    • No character can carry more than one unbound shard safely
+
+NOTES  
+    Shards are not upgrades.  
+    They are proof that something ancient lived long enough to break wrong—and you survived it.
+
+FILES  
+    FRAGMENTS(5), RUINS(5), AMULET_BEHAVIOR(5), PROGRESSION(5), CRAFTING(5)

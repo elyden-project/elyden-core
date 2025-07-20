@@ -1,0 +1,85 @@
+00.txt                           Elyden Survival Codex                           00.txt
+
+NAME  
+    00.txt − master reference index of Elyden simulation source files
+
+DESCRIPTION  
+    This file maps all original content files (01–49.txt) to their content domains,  
+    supporting reclassification, renaming, and modular access.
+
+FILE MAP  
+    01.txt  — Collapse Overview  
+              → The Collapse, Vaeronth’s fall, system decay, fragment interference
+
+    02.txt  — Sealed Valley  
+              → Isolated biome mechanics, thermal wall, ecological shift
+
+    03.txt  — Celestial Bodies  
+              → Aurenzae, six moons, lunar rhythms, survival influence
+
+    04.txt  — Fragments  
+              → Lunar shard behavior, pressure anomalies, amulet effects
+
+    05.txt  — Biome Index Summary  
+              → Terrain classification, symbols, function overview
+
+    06.txt  — Plains Biome  
+    07.txt  — Small Hills Biome  
+    08.txt  — Steep Hills Biome  
+    09.txt  — Evergreen Forest Biome  
+    10.txt  — Deep Evergreen Forest Biome  
+    11.txt  — Deciduous Forest Biome  
+    12.txt  — Deep Deciduous Forest Biome  
+    13.txt  — Mixed Forest Biome  
+    14.txt  — River Biome  
+    15.txt  — Meadow Biome  
+    17.txt  — Deep Meadow Biome  
+    18.txt  — Lake Biome  
+    19.txt  — Unclimbable Mountains Biome  
+    20.txt  — Ice Biome  
+    21.txt  — Tundra Biome  
+    22.txt  — Glacier Biome  
+    23.txt  — Badlands Biome  
+              → Full terrain breakdowns, flora/fauna, survival logic
+
+    24.txt  — Ruins Index  
+    25.txt  — Auren Core Ruin  
+    26.txt  — Earthscript Vault Ruin  
+    27.txt  — Vulcan Chamber Ruin  
+    28.txt  — Mist Basin Ruin  
+    29.txt  — Veil Engine Ruin  
+    30.txt  — Spall Halo Ruin  
+    31.txt  — Oblivion Mirror Ruin  
+    32.txt  — Anti-Life Bulb Ruin  
+    33.txt  — Convergence Array Ruin  
+    34.txt  — Null Step Ruin  
+              → Celestial structures, ruin traits, shard interaction, amulet distortion
+
+    35.txt  — Characters  
+    36.txt  — Mirrane  
+    37.txt  — Thea  
+    38.txt  — Starting Gear  
+    39.txt  — Inventory Limits  
+    40.txt  — Progression  
+              → Role traits, gear logic, growth through survival
+
+    41.txt  — Survival Behavior  
+    42.txt  — Amulet Behavior  
+    43.txt  — Control Model  
+    44.txt  — Combat Scope  
+    45.txt  — Sensory Priority  
+    46.txt  — Crafting  
+    47.txt  — Fragments  
+    48.txt  — Shards  
+    49.txt  — Ruins  
+              → Simulation loop systems; biome, resonance, and death logic
+
+NOTES  
+    This index governs all file classifications for Elyden’s world logic.  
+    Structure mirrors the system’s own fragmentation.  
+    Use this to maintain file naming consistency across biome, ruin, and behavior maps.
+
+FILES  
+    BIOMES(5), CHARACTERS(5), RUINS(5), FRAGMENTS(5), CRAFTING(5)
+
+Elyden                                  July 2025                                  00.txt

@@ -1,0 +1,88 @@
+BIOMES(5)                                   Elyden World Codex                                   BIOMES(5)
+
+NAME
+    Biomes — terrain classifications and environmental behavior
+
+DESCRIPTION
+    Biomes in Elyden define terrain behavior, not political boundaries.
+    Each has distinct light, material access, movement difficulty, and survival traits.
+    Biomes may shift subtly over time due to terrain instability, elemental cycles, or ecological pulses.
+
+BIOME INDEX
+    plains (p)
+        flat, open ground. wind flows freely. good movement.
+        few resources. vulnerable to sight and weather.
+
+    small hills (h)
+        gentle rises. scattered stone. some cover.
+        uneven footing. watch for erosion channels.
+
+    steep hills (H)
+        sharp inclines. tough climb. runoff erosion.
+        tool edges can chip here. poor shelter.
+
+    evergreen forest (e)
+        pine and fir. acidic soil. cool and quiet.
+        low light. firewood scarce but dry.
+
+    deep evergreen forest (E)
+        thick canopy. muffled sound. dark at noon.
+        damp floor. fungi common. fire unreliable.
+
+    deciduous forest (d)
+        seasonal canopy. brighter floor. leaf litter.
+        wood is easier to work. water trickles shallow.
+
+    deep deciduous forest (D)
+        tangled growth. hard to track. light choked.
+        rot sets in fast. rich in insects and mold.
+
+    forest (f)
+        mixed growth. variable light. animal trails.
+        salvage chances higher. materials diverse.
+
+    river (r)
+        winding water. muddy banks. fog at dawn.
+        unstable ground. fish and insects common.
+
+    meadow (m)
+        grassland with wildflowers. light wind.
+        easy visibility. soft soil. low concealment.
+
+    deep meadow (M)
+        dense overgrowth. motion hidden.
+        some edible plants. harder to traverse.
+
+    lake (~)
+        still water. soft edges. safe if filtered.
+        thick algae possible. silence amplified.
+
+    unclimbable mountains (^)
+        sheer stone face. no ascent. fractured ice.
+        wind cuts hard. lines of sight wide but cold.
+
+    ice (i)
+        crusted surface. hollow sounds. breaks under weight.
+        few signs of life. bright glare.
+
+    tundra (t)
+        frozen brush. low plants. dry wind.
+        brittle sound. shallow snow. little shelter.
+
+    glacier (g)
+        deep blue ice. hidden crevasses. sharp cold.
+        noise carries. fragments buried and slow.
+
+    swamp (s)
+        wet rot. slow footing. twisted roots.
+        fire smothers. smells linger. dangerous depth.
+
+    badlands (z)
+        cracked stone. dust winds. sharp formations.
+        ruins exposed. harsh light. no water.
+
+NOTES
+    This index describes experiential traits—not game rules.
+    Biome cues are environmental: light, smell, moisture, growth, sound, resistance.
+    Player familiarity improves recognition and movement efficiency.
+
