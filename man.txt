@@ -36,6 +36,7 @@ FILE MAP
     13.txt  — Mixed Forest Biome  
     14.txt  — River Biome  
     15.txt  — Meadow Biome  
+    16.txt  — Swamp Biome  
     17.txt  — Deep Meadow Biome  
     18.txt  — Lake Biome  
     19.txt  — Unclimbable Mountains Biome  
