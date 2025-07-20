@@ -18,7 +18,7 @@ See `LICENSE.md` for full terms.
 
 ## 🟢 How to Use
 
-1. Use `prompt/elyden_sim_boot.md` to initiate the simulation engine.
+1. Use `prompt/elyden_sim_boot.txt` to initiate the simulation engine.
 2. Explore or fork `man.txt` or the modular files in `docs/`.
 3. All files are designed to be strict, discoverable, and modular.
 
