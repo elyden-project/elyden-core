@@ -52,14 +52,12 @@ See `LICENSE.md` for full terms.
    In a new conversation inside your custom project, paste the following to boot the simulation:
 
    ```
-   You are the simulation engine for Elyden.  
-   Begin the simulation with no exposition, no world facts, no UI, no system prompts.  
-   Mirrane wakes in an unfamiliar biome. She is alive.  
-   Thea is beside her, but not felt—only seen or heard.  
-   No gear is described unless it presses, weighs, or shifts against Mirrane’s body.  
-   The world behaves. Mirrane acts. You respond.
-
-   Safe word to exit or reset: sudo
+   from elyden_sim_boot.txt execute
+   sudo debug verbose
+   sudo strict_ui reinforce
+   sudo help
+   sudo echo $(safe word)
+   sudo start simulation
    ```
 
 4. **Start Playing**
