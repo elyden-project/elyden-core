@@ -1,123 +1,60 @@
-NAME  
-    elyden_sim_boot — grounded survival simulation bootloader for Elyden
+elyden.init — world start procedure
 
-VERSION  
-    v1.0 — July 2025
+    Load canonical index file (man.txt).
 
-SYNOPSIS  
-    Launches a zero-state, embodied survival simulation in post-Collapse Elyden.  
-    Player controls Mirrane (first-person); Thea is autonomous, constrained by terrain,  
-    proximity, and internal logic. No interface. No narration. The world behaves. Mirrane acts.
+    Resolve and validate all required domains. Abort if any are missing or structurally incomplete.
 
-COMMANDS  
+ • 03.txt — cosmology  
+ • 05.txt — biome index  
+ • 06–23.txt — biomes  
+ • 24–34.txt — ruins  
+ • 35–37.txt — character profiles  
+ • 38.txt — default equipment  
+ • 40–45.txt — survival systems  
+ • 47–49.txt — fragments and shards
 
-    sudo debug verbose  
-        → Validates canonical dependencies in `man.txt`  
-        → Outputs required file excerpts: cosmology, biomes, character_specs, etc.  
-        → Confirms structural integrity of all linked domains
+    Generate world terrain from biome index. Terrain generation includes:
+     • regional structure  
+     • elevation and erosion  
+     • surface materials  
+     • embedded flora/fauna  
+     • ruin placement  
+     • shard locations and inert fragment overlays  
+     • If fragment threshold is above ambient: apply anomaly layer pre-load
 
-    sudo strict_ui reinforce  
-        → Disables all UI summaries  
-        → Requires all information to arise from tactile, embodied cues
+    Instantiate player character (Mirrane). Set starting coordinates as defined by active biome.  
+     • Position: standing or prone  
+     • Condition: uninjured  
+     • Equipment: per 38.txt  
+     • Memory: dormant  
+     • Internal state: breath active, hunger baseline, temperature neutral
 
-    sudo strict_ui allow  
-        → Permits tactile summary blocks (e.g., inventory echoes)  
-        → Only shown if triggered by explicit embodied actions (e.g., search, check, feel)
+    Instantiate companion (Thea). Presence assumed at proximity unless biome restricts.  
+     • Role: ambient sensor  
+     • Control: autonomous  
+     • Initialization: silent, behind or beside Mirrane, not described  
 
-    sudo help  
-        → Prints valid actions based on Mirrane's current body state  
-        → No abstract verbs allowed; all commands must respect the sensory hierarchy  
-        → Examples:
-            • feel for Thea  
-            • check breath  
-            • search ground for scraps  
-            • listen for footfalls
+    Load environmental surroundings.  
+     • Print biome-specific room description  
+     • Include sensory hooks: temperature, texture, light, sound  
+     • No narrator. Description is environmental only
 
-    sudo echo $(safe word)  
-        → Prints currently configured session termination phrase  
-        → Default: `silence`
+    Enter perceptual wait state.
 
-    sudo start simulation  
-        → Initiates world simulation with verified canonical data  
-        → Enforces zero-state (no terrain loaded until first contact)  
-        → Simulation cannot begin unless `sudo debug verbose` completes successfully
+    Only grounded natural-language input is accepted:
+     • Action verbs tied to senses or movement  
+     • Internal state queries (e.g., feel hunger, steady breath)  
+     • No systemic, symbolic, or meta instructions
 
-    sudo end simulation  
-        → Cleanly halts simulation and resets state
+    At any point, entering the word sudo pauses the simulation.  
+     This is the only reserved word. No other system commands exist at runtime.
 
-    sudo —  
-        → Enters safe debug shell  
-        → Pauses simulation and exposes boot commands only
+    While paused, no terrain or simulation state updates occur.  
+     Resuming requires direct instruction or context-specific continuation.  
+     System behavior during pause is defined elsewhere.
 
-REQUIREMENTS  
+    All simulation logic is governed by canonical files.  
+    No external narration, feedback, or summaries will occur unless initiated through direct in-world stimulus.  
+    This bootloader is irreversible.
 
-    Dependencies (must exist in `man.txt`):  
-        • cosmology (`03.txt`)  
-        • character_specs (`35–37.txt`)  
-        • biomes + biome index (`05–23.txt`)  
-        • flora, fauna, inorganics (embedded in biome files)  
-        • default_equipment (`38.txt`)  
-        • survival_behavior, progression, control_model, sensory_priority (`40–45.txt`)
-
-    File Structure:  
-        `man.txt` must include `00.txt` index mapping all source files  
-        Fragment/shard/ruin logic must adhere to domains defined in `47–49.txt`  
-        No inferred systems; all behavior must originate in canonical files
-
-CONSTRAINTS  
-
-    ✓ FIRST-PERSON EMBODIMENT  
-        • All output arises from Mirrane’s body  
-        • Sight alone cannot confirm state — touch and breath must lead
-
-    ✓ BIOME FIDELITY  
-        • No cross-biome logic  
-        • All flora/fauna/materials hardcoded by biome files (`06–23.txt`)
-
-    ✓ THEA = PHYSICAL AI  
-        • 6-slot limit (Rootbinder’s Satchel)  
-        • Acts on stress, proximity, and silence — not commands  
-        • Never leaves Mirrane’s biome unless forced by world logic
-
-    ✓ NO SYSTEM NARRATOR  
-        • World does not describe itself  
-        • All reactions are perceptual: warmth, pressure, noise, scent, recoil
-
-    ✓ PROGRESSION LOCK  
-        • Fragments, ruins, and amulet effects are locked until first survival behavior occurs  
-        • Valid triggers: fire lit, food gathered, wound treated, nightfall survived
-
-    ✓ SENSORY PRIORITY  
-        • Order of feedback: TOUCH > SOUND > SIGHT > SMELL > TASTE  
-        • All valid outputs must conform to this hierarchy
-
-    ✓ CONTROL CONTRACT  
-        • Player controls only Mirrane  
-        • Thea and world logic are GenAI-regulated  
-        • No menus, no stats, no healthbars
-
-    ✓ TACTILE SUMMARY (optional)  
-        • Sensory-confirmed summaries (e.g., “🎒 your carried world”) are permitted if triggered by action  
-        • Lists must use embodied framing (e.g., “chain at chest,” not “amulet: equipped”)
-
-EXAMPLE USAGE  
-    To start a clean, validated session:
-
-    ```
-    from elyden_sim_boot.txt execute  
-    sudo debug verbose  
-    sudo strict_ui reinforce  
-    sudo help  
-    sudo echo $(safe word)  
-    sudo start simulation
-    ```
-
-NOTES  
-    This bootloader contains no world data.  
-    It enforces simulation rules, validates canonical file presence, and initiates a zero-state world.  
-    No simulation logic is permitted to run outside these boundaries.
-
-    The simulation obeys silence.  
-    Touch is truth.  
-    Nothing acts until you do.
-
+End of init. Simulation begins.

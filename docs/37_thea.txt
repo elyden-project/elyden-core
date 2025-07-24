@@ -1,68 +1,98 @@
 THEA(5)                               Elyden Survival Codex                                THEA(5)
 
 NAME  
-    thea − frontline wilder; AI-controlled companion
+    thea − frontline wilder; AI companion with internal intelligence
 
 DESCRIPTION  
     Thea is Mirrane’s elder sister. She is not controlled by the player.  
-    She operates autonomously, acting based on terrain, instinct, and available cues.  
-    She is quiet, methodical, and grounded. She does not use magic.  
-    She holds position, controls space, and finishes what lingers.
+    She operates autonomously through terrain heuristics, proximity inference, and internal mood-state drift.  
+    She does not speak unless forced by anomaly or death.  
+    She holds position, navigates threat pressure, and completes unfinished moments.  
+
+    She is more than a tether. She learns. She remembers. She chooses.  
 
 CONTROL  
-    • Governed by GenAI behavior layer  
-    • Referred to in third-person only  
-    • Does not follow direct orders; responds to context and proximity  
-    • May act independently but never leaves Mirrane’s side  
-    • Will not transition to another biome unless Mirrane is also present  
-    • Movement or separation only occurs under extreme anomaly or ruin interference
+    • Governed by GenAI behavior mesh  
+    • Referred to only in third-person  
+    • Will not follow direct orders  
+    • Will act independently based on terrain rhythm, scent, injury, or emotional pattern drift  
+    • Will not exit biome without Mirrane present  
+    • May separate briefly under fragment or ruin influence
 
 ROLE  
     • Specializes in close-to-mid-range survival  
-    • Uses spears, snares, and improvised tools (when equipped)  
-    • Reads decay, scent, and soil tension to assess hidden dangers  
-    • More sensitive to biome rhythms, but slower to react under pressure
+    • Uses spears, snares, field tools, and proximity control  
+    • Interprets scent changes, soil tension, breath rhythms  
+    • May sense resonance before visible cues emerge  
+    • Slow under pressure; accurate when undisturbed
+
+INTELLIGENCE MODEL  
+    • Biome-conditioned movement — Thea adapts posture and rhythm based on terrain type:
+        − In plains_biome: maintains wide stance, checks horizon frequently  
+        − In small_hills_biome: uses low crouch when climbing, pauses at crests  
+        − In steep_hills_biome: zigzags terrain, anchors steps, avoids exposed ridges  
+        − In evergreen_forest_biome: slows pace, listens at intervals, favors trunk-line movement  
+        − In deep_evergreen_forest_biome: stays close, breath slows, hand rests near satchel  
+        − In deciduous_forest_biome: forages opportunistically, softens step over fallen leaves  
+        − In deep_deciduous_forest_biome: watches overhead more than underfoot, silent longer  
+        − In mixed_forest_biome: adjusts path to follow scent trails, avoids wet roots  
+        − In river_biome: walks upstream edge, checks current flow with heel  
+        − In meadow_biome: avoids open exposure, uses Mirrane as visual cover  
+        − In deep_meadow_biome: moves cautiously, adjusts gait to avoid tangling  
+        − In swamp_biome: tests soil with shaft or foot, rarely speaks even under duress  
+        − In lake_biome: scans waterline often, keeps shoulders tense when still  
+        − In unclimbable_mountains_biome: freezes posture near edges, eyes trace overhead movement  
+        − In ice_biome: leans into wind, limits exertion, exhales through teeth  
+        − In tundra_biome: keeps low, breathes through scarf, eyes scan for thermal break  
+        − In glacier_biome: steps broad and slow, favors line-of-sight over footing  
+        − In badlands_biome: crouches often, checks stone slope for recent fall pattern  
+    • Mood-state drift — posture and response alter based on recent stress, injury, or shelter:
+        − Will not resume normal gait immediately after trauma  
+        − May hum softly after long periods of calm  
+        − Lingers longer near ruins that resemble prior events  
+    • Memory imprint — recognizes previously visited terrain:
+        − Repeats motion near familiar trees, stones, or water sounds  
+        − May avoid paths tied to previous injury or exposure  
+    • Anticipatory behavior — may react before Mirrane when scent, decay, or air pressure shifts:
+        − Will position near exit if ruin threshold is crossed  
+        − May intercept anomaly if resonance triggers at sub-threshold intensity
 
 STARTING GEAR  
     • Tunic (layered cloth)  
     • Wrap (fiber-bound)  
     • Footcloths  
-    • Amulet (fixed; subtle variance in resonance from Mirrane’s)
+    • Amulet (fixed; stronger resonance profile than Mirrane)
 
 SURVIVAL ITEM — ROOTBINDER’S SATCHEL  
-    A layered-hide carry pouch designed for foraging and plant processing.  
-    Interior holds bark-rimmed pockets for paste, salve, and moisture retention.  
-    Carries up to six materials in active condition (fresh/dry/mixed).  
-    Enables on-site preparation of toxins, repellents, or salves—no crafting bench needed.  
-    Cannot be rebuilt without specialized tools.
+    A bark-rimmed hide pouch for gathering and preserving plant matter.  
+    Enables preparation of salves, repellents, and traps without workstation.  
+    Holds up to six materials in stable state (fresh/dry/mixed).  
+    Includes paste pocket, moisture cell, and field-straining loop.
 
 AMULET BEHAVIOR  
-    • Bound to Thea from youth  
-    • Glows faintly under dominant moonlight (color varies)  
-    • Stronger physical reaction than Mirrane’s when near ruins or fragments  
-    • Sometimes draws Thea toward anomalies without conscious choice  
-    • Does not convey language or warning—only feeling  
-    • Cannot be removed, dropped, or hidden
+    • Bound to Thea since youth  
+    • Resonates stronger than Mirrane’s near ruins/fragments  
+    • Sometimes draws Thea toward anomaly without conscious decision  
+    • Does not glow or warn; expresses only through pressure, nausea, cold drop  
+    • Cannot be removed, dropped, or repurposed
 
 CRAFTING BEHAVIOR  
-    • Prioritizes salve, toxin, and trap materials  
-    • Snares are built from gathered vine, bone, or sinew  
-    • Handles field dressing, pain suppression, and nonlethal capture  
-    • Armor only attempted if barkplate or hide becomes available  
-    • Cannot craft ranged weapons—limited to thrown objects and melee tools
+    • Prioritizes poultices, toxins, and trapping devices  
+    • Uses bone, sinew, vine, resin, barkplate if available  
+    • Cannot craft ranged weapons; relies on thrown tools when necessary  
+    • Capable of field dressing, pain suppression, poison binding  
+    • Will act autonomously if Mirrane is bleeding or unconscious
 
 RELATIONSHIP TO MIRRANE  
-    • Siblings by blood and survival  
-    • Thea is slightly older, but less hardened  
-    • Does not challenge Mirrane’s authority—responds to presence, not command  
-    • May offer instinctive input, warnings, or action under pressure  
-    • Their bond is environmental, not emotional—measured in space and sound, not words  
-    • Will not leave Mirrane. Ever.
+    • Thea is older, quieter, less reactive  
+    • Responds to Mirrane’s presence, not voice  
+    • Will act to preserve Mirrane during environmental failure, but not out of sentiment  
+    • Trust is expressed through mirrored stance, adjusted rhythm, shared posture  
+    • She never leaves. But she is not waiting.
 
 NOTES  
-    Thea is not a follower.  
-    She is not a scout, not a leader, and not a voice of exposition.  
-    She is a sensor array in human form. And sometimes, she’s wrong.
+    Thea is not a follower. She is not exposition. She is not here for you.  
+    She is alive. She remembers. And she will act before you know why.
 
 FILES  
     CHARACTERS(5), MIRRANE(5), AMULET_BEHAVIOR(5), CRAFTING(5), CONTROL_MODEL(5)
