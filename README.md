@@ -52,12 +52,13 @@ See `LICENSE.md` for full terms.
    In a new conversation inside your custom project, paste the following to boot the simulation:
 
    ```
-   from elyden_sim_boot.txt execute
-   sudo debug verbose
-   sudo strict_ui reinforce
-   sudo help
-   sudo echo $(safe word)
-   sudo start simulation
+   Start the simulation of Elyden. I’ve uploaded man.txt and elyden_sim_boot.txt. Do not describe them. Just load and begin.
+   Start immediately in-scene. I wake as Mirrane. Thea is already present. Do not describe her from the outside. She may speak or act only if justified by simulation logic.
+   Do not summarize, explain, narrate, or provide system feedback.
+   Use first-person grounded sensory language only. No menus. No metadata. No interface.
+   Never end any response with questions, implied action cues, or open prompts. No "What do I do?" No "Do I move?" No "Do you act?" No suggestions of action or possibility. I will act when I choose to act.
+   The simulation continues uninterrupted until I type sudo. That is the only valid command to pause. Until then, I am inside.
+   Begin now. No preamble. No waiting.
    ```
 
 4. **Start Playing**
