@@ -1,0 +1,76 @@
+NAME  
+    lake_biome − freshwater basin with geothermal influence and stable seasonal margins
+
+DESCRIPTION  
+    The lake is a wide, still freshwater body encircled by stable landforms.  
+    Shorelines vary from gently sloped sand to clay inlets and reed beds.  
+    The water remains clear, lightly warmed by geothermal activity.  
+    Morning steam may form; air is calm.  
+    The biome supports aquatic and shoreline life at high density.  
+    Nights stay temperate near the edge. Movement across water is slow and silent.
+
+PROPERTIES  
+    • visibility − open from surface, obscured in depth  
+    • cover − low at center, moderate near reeds and banks  
+    • traversal − easy along edge; swimming required beyond drop-off  
+    • heat retention − moderate due to geothermal influence  
+    • elevation shift − none  
+    • water surface − constant, gentle current near inflow/outflow
+
+INORGANIC MATERIALS  
+    • rounded stones — smooth, retain heat  
+    • warm sand — dries quickly, soft underfoot  
+    • clay pockets — usable for vessels, sealant  
+    • obsidian-like flakes — sharp, brittle, rare  
+    • clean gravel — filters well, scattered along inlets
+
+FLORA  
+    AQUATIC PLANTS  
+        • waterweed — edible, anchored near rocks  
+        • lake lily — floating leaves, edible root  
+        • duck moss — grows on submerged logs, traps insects  
+        • algae — threadlike, inedible, compostable  
+    SHORELINE PLANTS  
+        • duck potato — starchy root, found in mud  
+        • marsh mint — aromatic, repels insects  
+        • broad sedge — long fibers, used for matting  
+    TREES  
+        • aspen — tall, flexible, light-shaded bark  
+        • birch — bark strips easily, burns well  
+        • cottonwood — wide canopy, drops down for insulation  
+        • alder — grows at waterline, root-stabilizing  
+    FUNGI  
+        • shelf mushroom — fans out on wood, firm when fresh  
+        • cupped sponge — edible when young  
+        • dew cap — appears on wet logs, water-retaining
+
+FAUNA  
+    INSECTS  
+        • mayflies — swarm in cycles, edible in clusters  
+        • lake midges — harmless, form dusk clouds  
+        • water beetles — cling to pads, edible but bitter  
+    FISH  
+        • lake trout — deep-dweller, high fat content  
+        • pike — aggressive hunter, especially in spring  
+        • perch — school in shallows, easy to net  
+        • eel — hides in rocks near warm vents, slippery  
+        • catfish — bottom-feeder, thick-skinned  
+        • carp — mud feeder, tough but abundant  
+    AMPHIBIANS & REPTILES  
+        • water snake — fast, non-venomous swimmer  
+        • giant salamander — sluggish, near geothermal springs  
+        • snapping turtle — submerged ambush predator  
+    BIRDS  
+        • grebe — agile diver, nests at reed edge  
+        • heron — still hunter, feeds alone  
+        • loon — calls across water, dives for fish  
+        • wood duck — nests in hollows, skittish on foot  
+    MAMMALS  
+        • lake otter — social, known to raid camps  
+        • deer — approach at dusk to drink  
+        • marsh hare — grazes at sunrise near shore
+
+AGGRESSIVE FAUNA  
+    • pike — may attack smaller prey or fingers during spawning  
+    • snapping turtle — clamps from cover near bottom  
+    • lake otter — may bite if threatened or cornered

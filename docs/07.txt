@@ -1,0 +1,59 @@
+NAME  
+    small_hills_biome − low elevation rise with mixed sediment and vegetation
+
+DESCRIPTION  
+    Small hills form low ridges and shallow rises, shaped by ancient runoff and wind erosion.  
+    Soil is dry but compact, with layered sediment and occasional loose gravel.  
+    Vegetation is denser than in open plains and scattered along folds and outcrops.  
+    Surface depressions may collect water during brief precipitation cycles.
+
+PROPERTIES  
+    • visibility − moderate  
+    • cover − scattered  
+    • traversal − slightly impeded (uneven footing)  
+    • heat retention − moderate  
+    • elevation shift − mild  
+    • water surface − intermittent (in ruts and runoff)
+
+INORGANIC MATERIALS  
+    • fire stone — emits spark when struck  
+    • shale flakes  
+    • dry chalk  
+    • dull quartz  
+    • red sand  
+    • iron smear (rare, surface trace only)
+
+FLORA  
+    GRASSES  
+        • blue fescue — edible  
+        • foxtail — inert  
+    HERBS  
+        • pennywort — edible (boiled)  
+        • bloodleaf — topical coagulant  
+    FUNGI  
+        • cracked cap — uncertain (requires preparation)  
+        • ashbell — toxic (contact reaction)  
+    TREES  
+        • none observed  
+    SHRUBS & SUCCULENTS  
+        • tanglebrush — fibrous, grows along stone  
+        • rockstem — moisture-retaining, extractable
+
+FAUNA  
+    INSECTS  
+        • bark louse — wood detritivore, clings to dry stems  
+        • funnel spider — constructs web pits in shaded crevices  
+    BIRDS  
+        • crow — omnivorous scavenger, highly alert  
+        • quail — ground forager, nests in underbrush  
+    MAMMALS  
+        • red fox — opportunistic scavenger, hunts small prey  
+        • burrow hare — evasive herbivore, retreats underground  
+    REPTILES  
+        • skink — insectivore, darts between rocks  
+    AMPHIBIANS  
+        • none confirmed
+
+AGGRESSIVE FAUNA  
+    • wild boar — territorial omnivore, may charge when startled  
+    • funnel spider — bites when nest is disturbed

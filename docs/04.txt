@@ -1,0 +1,26 @@
+NAME  
+    fragments − inert remains of vaeronth embedded beneath the surface
+
+DESCRIPTION  
+    When Vaeronth lost cohesion, most of its mass remained in orbit,  
+    forming a visible ring in the upper sky. A minority of material entered  
+    atmosphere and embedded into deep crust layers — beneath stone, ice, or soil.  
+
+    These fragments are inert.  
+    They do not glow, emit, respond, or activate.  
+    They cannot be shaped or extracted.  
+    They are not affected by lunar cycles.
+
+    Over extended exposure, certain apex lifeforms near buried mass  
+    developed internal structures with arcane resonance.  
+    These internalized materials are not fragments.  
+    They are biologically formed shards.
+
+NOTES  
+    • Fragments cannot be seen, touched, collected, or transformed  
+    • They have no reactive properties or surface presence  
+    • Shard formation is a biological effect in megafauna  
+    • The process is non-reversible and non-repeatable outside host tissue
+
+FILES  
+    ORIGIN_EVENT(5), SHARDS(5), CELESTIAL_BODIES(5)

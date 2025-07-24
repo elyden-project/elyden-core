@@ -1,0 +1,72 @@
+NAME  
+    deciduous_forest_biome − seasonal broadleaf terrain with soft undergrowth and high forage yield
+
+DESCRIPTION  
+    This forest features broadleaf canopy that shifts with the seasons.  
+    Spring and summer provide high leaf density; autumn and winter expose the floor and sky.  
+    The terrain is soft and loamy, with scattered saplings, fallen logs, and leaf litter.  
+    Light fluctuates sharply across the year. Animal trails are common across root networks.
+
+PROPERTIES  
+    • visibility − variable (seasonal)  
+    • cover − moderate  
+    • traversal − lightly impeded (roots, leaf piles)  
+    • heat retention − moderate  
+    • elevation shift − minor  
+    • water surface − temporary (post-rain collection)
+
+INORGANIC MATERIALS  
+    • smooth stone  
+    • loamy topsoil  
+    • clay seams  
+    • fallen branches  
+    • coarse sand
+
+FLORA  
+    TREES  
+        • oak — produces acorns, strong wood  
+        • maple — sap-bearing, moderate height  
+        • birch — bark peels easily, burns hot  
+    SHRUBS  
+        • blackberry — thorned, fruiting  
+        • hazel — nut-bearing, used in hedgerows  
+        • dogwood — flexible stems, dense growth  
+    HERBS  
+        • wild garlic — pungent bulb, edible  
+        • dandelion — full plant edible, widespread  
+        • wood sorrel — tart leaves, grows in shade  
+        • yellow archangel — groundcover, soothing properties  
+    FUNGI  
+        • honey fungus — edible when cooked  
+        • hen of the woods — grows at tree base, edible  
+        • earthball — toxic, inedible  
+        • birch polypore — medicinal, on dead birch  
+    GRASSES  
+        • reed canary grass — tall, moisture-tolerant  
+        • broomsedge — dry, fibrous, grows in patches
+
+FAUNA  
+    INSECTS  
+        • black garden ant — ground forager, forms trails  
+        • bark beetle — bores into dead wood  
+        • skipper butterfly — active at dusk, feeds on nectar  
+        • deer tick — parasitic, waits on grasses  
+    REPTILES & AMPHIBIANS  
+        • grass snake — non-venomous, prefers cover  
+        • box turtle — slow-moving, hides in leaf piles  
+        • common toad — insectivore, active in rain  
+    BIRDS  
+        • song thrush — sings at dawn, insectivore  
+        • Eurasian jay — vocal, raids nests  
+        • pheasant — ground forager, takes flight when startled  
+        • broad-winged hawk — daytime predator, nests high  
+    MAMMALS  
+        • red squirrel — agile climber, stores nuts  
+        • roe deer — shy grazer, active at twilight  
+        • raccoon — nocturnal scavenger, uses water  
+        • red fox — omnivore, dens near clearings
+
+AGGRESSIVE FAUNA  
+    • red fox — may bite if cornered  
+    • Eurasian jay — attacks if nest threatened  
+    • box turtle — bites when handled improperly

@@ -1,0 +1,62 @@
+NAME  
+    steep_hills_biome − elevated ridgelines with exposed mineral and tree growth
+
+DESCRIPTION  
+    Steep hills form from compacted sedimentary rock and exposed ridgelines.  
+    Slopes range from sharp inclines to vertical crags with minimal stable footing.  
+    Loose shale, gravel, and fractured stone dominate the terrain.  
+    Tree growth is sparse but viable on certain ledges and terraces.  
+    Wind exposure is constant; shade exists only along cliffside edges.
+
+PROPERTIES  
+    • visibility − limited by slope and rock formations  
+    • cover − moderate (tree shadow, fold lines)  
+    • traversal − difficult (slippage risk, incline strain)  
+    • heat retention − low  
+    • elevation shift − high  
+    • water surface − absent (runoff only)
+
+INORGANIC MATERIALS  
+    • shale  
+    • banded sandstone  
+    • dry chalk  
+    • iron flake  
+    • quartz vein (small)  
+    • obsidian splinter (rare)
+
+FLORA  
+    GRASSES  
+        • windgrass — narrow, sharp-edged, non-edible  
+    HERBS  
+        • stonebloom — aromatic, inert  
+        • cliff fennel — edible (cooked)  
+    FUNGI  
+        • ridge lichen — edible (scraped)  
+        • black knot — toxic (cooked or raw)  
+    TREES  
+        • pinyon pine — hard, slow growth  
+        • juniper — fibrous trunk, brittle limbs  
+    SHRUBS & SUCCULENTS  
+        • cliffbriar — thorny, moisture-retentive  
+        • drybrush — low leaf yield, brittle
+
+FAUNA  
+    INSECTS  
+        • shale wasp — aggressive if disturbed  
+        • ridge ant — line carrier, non-aggressive  
+    BIRDS  
+        • raven — ground feeder  
+        • mountain shrike — hunts small rodents  
+    MAMMALS  
+        • mountain goat — nimble, non-aggressive  
+        • mountain lion — solitary ambush predator  
+    REPTILES  
+        • rock viper — heat-seeking, coiled under shadow  
+    AMPHIBIANS  
+        • none confirmed
+
+AGGRESSIVE FAUNA  
+    • cougar — stalks from higher elevation, ambushes if line-of-sight is broken  
+    • shale wasp — swarms if nest disturbed  
+    • pit viper — strikes if stepped near
+

@@ -1,0 +1,74 @@
+NAME  
+    deep_deciduous_forest_biome − dense, aged forest with decayed growth and limited light
+
+DESCRIPTION  
+    Deep deciduous forest is formed from older growth where broadleaf trees have grown large and close together.  
+    The canopy filters out most sunlight, making the understory sparse but moist.  
+    Leaf litter, rotwood, and moss cover most surfaces.  
+    Trails are few, and direction is easily lost.  
+    Water collects in hollows and between roots, though stagnant.
+
+PROPERTIES  
+    • visibility − very low (dense canopy, shadows)  
+    • cover − near total (roots, brush, trunks)  
+    • traversal − slow (rotwood, undergrowth, animal paths)  
+    • heat retention − high (trapped moisture)  
+    • elevation shift − mild (root risers, shallow depressions)  
+    • water surface − pooled in pockets and pits
+
+INORGANIC MATERIALS  
+    • black loam  
+    • rotten bark  
+    • clay and rootstone  
+    • fungal crusted branches  
+    • decomposed mulch  
+    • sediment seep
+
+FLORA  
+    TREES  
+        • oak — towering, branches hold moisture  
+        • beech — smooth-barked, moss-covered  
+        • hornbeam — twisted trunks, dense canopy  
+    SHRUBS  
+        • elderberry — fruit-bearing, grows in light gaps  
+        • hazel — short, nut-bearing  
+        • spindle — thin-stemmed, small red berries  
+    HERBS  
+        • wild mint — grows in damp pockets  
+        • comfrey — large-leafed, used in poultices  
+        • nettle — stings on contact, edible when boiled  
+        • wood sorrel — tart, grows in shade  
+    FUNGI  
+        • morel — edible, grows after rain  
+        • dead man's fingers — black fungus, inedible  
+        • jelly ear — grows on elder, edible when dried  
+        • sulphur tuft — bitter, toxic  
+    GRASSES  
+        • none observed
+
+FAUNA  
+    INSECTS  
+        • carrion beetle — feeds on rot, found under logs  
+        • forest gnat — swarms in still air  
+        • wood tick — clings to warm hosts  
+        • ground spider — fast, hides under leaf litter  
+    REPTILES & AMPHIBIANS  
+        • grass snake — non-venomous, coils in moss  
+        • fire salamander — nocturnal, moisture-bound  
+    BIRDS  
+        • tawny owl — roosts silently, hunts at night  
+        • blackbird — alert forager, scratches leaf piles  
+        • woodpecker — tree driller, loud echo  
+        • nuthatch — tree creeper, feeds on bark insects  
+    MAMMALS  
+        • red fox — hunts rodents, avoids light  
+        • badger — digs under roots, nocturnal  
+        • hedgehog — insectivore, hides in brush  
+        • roe deer — timid grazer, follows narrow paths  
+        • brown bear — solitary omnivore, may occupy clearings
+
+AGGRESSIVE FAUNA  
+    • brown bear — charges if cornered or startled  
+    • red fox — may bite if trapped  
+    • carrion beetle — bites if handled directly  
+    • wood tick — blood-feeding parasite

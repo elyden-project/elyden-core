@@ -1,0 +1,62 @@
+NAME  
+    unclimbable_mountains_biome − extreme vertical terrain with fractured stone, wind shear, and isolated apex predators
+
+DESCRIPTION  
+    This region consists of sheer, exposed rock faces and narrow ridgelines with no viable ascent paths.  
+    Elevation shifts are abrupt and vertical. Handholds fracture easily; slopes break under pressure.  
+    Vegetation is almost nonexistent above the lower ridge.  
+    Winds howl at all hours. Shelter is absent.  
+    Sound distorts and echoes, masking movement.  
+    Some forms of life persist in crevices, thermal pockets, and wind shadows.
+
+PROPERTIES  
+    • visibility − high but fragmented by glare and slope  
+    • cover − none except shallow alcoves  
+    • traversal − extremely dangerous without tools or gear  
+    • heat retention − none  
+    • elevation shift − extreme  
+    • water surface − none (snow and glacial trickle only)  
+    • acoustic interference − high (wind deflection, echo distortion)
+
+INORGANIC MATERIALS  
+    • shale slivers — razor sharp, scattered in scree  
+    • black slate — flat layers, brittle when stepped on  
+    • glacial ice — clings to ridge faces  
+    • iron filament — rare, oxidized traces  
+    • quartz seam — brittle, translucent  
+    • bone splinters — caught in rock cracks, species unknown
+
+FLORA  
+    TREES  
+        • none  
+    SHRUBS  
+        • none  
+    HERBS  
+        • saxifrage — tiny purple blooms in cracks, edible flowers  
+        • moss campion — dome-shaped growth, slow-gathering  
+    FUNGI  
+        • none confirmed  
+    GRASSES  
+        • alpine fescue — short-blade, grows on leeward ledge  
+    LICHENS  
+        • frost lichen — pale green crust on sun-facing stone  
+        • black rock lichen — dark spread, grows over slate  
+
+FAUNA  
+    INSECTS  
+        • alpine midge — wind-drifted, clings to fur or cloth  
+        • slate beetle — feeds on lichen, hides in cracks  
+    BIRDS  
+        • snow finch — seed and insect eater, stays near ledges  
+        • alpine swift — glides on thermals, nests on vertical faces  
+        • lammergeier — bone-dropper, feeds on marrow  
+    MAMMALS  
+        • mountain hare — small, white-coated grazer  
+        • snow leopard — solitary ambush predator  
+    REPTILES  
+        • highland viper — cold-adapted, sun-basks on stone
+
+AGGRESSIVE FAUNA  
+    • lammergeier — territorial, may strike by dropping bone  
+    • snow leopard — attacks from ambush when threatened or wounded  
+    • highland viper — venomous, strikes when approached

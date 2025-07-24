@@ -1,0 +1,54 @@
+NAME  
+    glacier_biome − elevated ice shelf with unstable footing, meltwater channels, and scarce adapted life
+
+DESCRIPTION  
+    This biome is formed from ancient, slow-moving ice compressed over thousands of years.  
+    Terrain is fractured, layered, and constantly shifting.  
+    Crevasses may be concealed by snow crust. Surface is hard and light-scattering.  
+    Meltwater flows briefly in sun-exposed channels. Some ledges hold trapped warmth or runoff pools.  
+    Plant life is absent, but certain microscopic algae and trace scavengers persist.  
+    Movement is dangerous but possible. Food is limited to what crosses or clings.
+
+PROPERTIES  
+    • visibility − distorted by glare and terrain shifts  
+    • cover − none (ice only)  
+    • traversal − hazardous (crevasse risk, slip, collapse)  
+    • heat retention − none  
+    • elevation shift − high (ridge lines, drop-offs)  
+    • water surface − seasonal melt pools only  
+    • survivability − extremely low, not impossible
+
+INORGANIC MATERIALS  
+    • blue ice — dense, refracts internal light  
+    • surface crust — thin layer, hides depth shifts  
+    • frost lens — holds meltwater briefly  
+    • embedded stone — dragged by iceflow, visible in layers  
+    • iron fleck — found near edge melt  
+    • dry rime — shatters on touch
+
+FLORA  
+    TREES  
+        • none  
+    SHRUBS  
+        • none  
+    HERBS  
+        • none  
+    FUNGI  
+        • none  
+    GRASSES  
+        • none  
+    MICROFLORA  
+        • snow algae — red or green bloom, edible trace amounts
+
+FAUNA  
+    INSECTS  
+        • glacier midge — tiny, clings to warm skin  
+    BIRDS  
+        • gull — passes overhead during thaw, does not land  
+    MAMMALS  
+        • arctic fox — solitary scavenger, follows melt path  
+        • wolverine — crosses high ridges, may track movement
+
+AGGRESSIVE FAUNA  
+    • wolverine — attacks if followed or cornered  
+    • glacier midge — bites exposed skin in swarms

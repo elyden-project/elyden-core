@@ -1,0 +1,71 @@
+NAME  
+    meadow_biome − open grassland with mixed low flora, high light exposure, and minimal cover
+
+DESCRIPTION  
+    Meadows are open, sunlit spaces dominated by grasses and flowering plants.  
+    Trees are rare or absent, but shrubs and wildflowers grow in dense clusters.  
+    Soil varies from rich and loamy to dry and cracked depending on season.  
+    Dew forms overnight but evaporates quickly. Ash patches and root tangles may appear after long droughts.  
+    Movement is unimpeded, but concealment is difficult.
+
+PROPERTIES  
+    • visibility − high  
+    • cover − low (shrubs only)  
+    • traversal − unimpeded  
+    • heat retention − poor (no shade)  
+    • elevation shift − flat or rolling  
+    • water surface − absent (dew only)
+
+INORGANIC MATERIALS  
+    • sunbaked clay  
+    • dry pebbles  
+    • ash patch remnants  
+    • exposed root clusters  
+    • brittle stone chips
+
+FLORA  
+    GRASSES  
+        • ryegrass — medium-height, widely spread  
+        • fescue — short and clumping  
+        • brome — stiff blades, seed-heavy  
+    HERBS  
+        • wild thyme — aromatic, edible  
+        • clover — grows low, often with blossoms  
+        • plantain — low rosette, edible when cooked  
+        • sorrel — tart, grows in patches  
+    FLOWERS  
+        • chamomile — daisy-like, used in tea  
+        • dandelion — edible leaves and roots  
+        • yarrow — white-flowered, used in salves  
+    SHRUBS  
+        • gorse — spiny, yellow blooms  
+        • creeping juniper — low, waxy-needled  
+        • wild rose — thorned, bears hips
+
+FAUNA  
+    INSECTS  
+        • butterfly — diurnal pollinator, highly visible  
+        • honeybee — collects nectar, non-aggressive  
+        • ant — scavenger, builds in soft soil  
+        • grasshopper — active jumper, sound-producing  
+        • horsefly — bites exposed skin  
+    REPTILES & AMPHIBIANS  
+        • tortoise — slow grazer, hides under brush  
+        • sand lizard — sun-basking, darts between cover  
+    BIRDS  
+        • skylark — sings midair, nests on ground  
+        • kestrel — hovers before diving  
+        • quail — ground forager, quick to flush  
+        • magpie — scavenger, collects shiny items  
+    MAMMALS  
+        • field mouse — quick-moving seed eater  
+        • hare — long-legged runner, active in morning  
+        • red fox — stalks low, targets small prey  
+        • wild boar — roots under shrubs, wary of humans  
+        • badger — digs shallow dens, nocturnal omnivore
+
+AGGRESSIVE FAUNA  
+    • red fox — may bite if trapped  
+    • wild boar — charges if surprised, powerful  
+    • badger — bites when cornered  
+    • horsefly — bites persistently during heat

@@ -1,0 +1,56 @@
+NAME  
+    origin_event — collapse of Vaeronth and sealing of the valley
+
+DESCRIPTION  
+    Elyden orbits Aurenzae, a red dwarf.
+
+    It was once encircled by five moons:
+        • Taeryniel — terrestrial  
+        • Irraketh — thermal  
+        • Lovaen — atmospheric  
+        • Serunel — aquatic  
+        • Vaeronth — structural and arcane  
+
+    These bodies were visible in the sky and were named, aligned, and tracked.  
+    Their cycles governed system rhythm, environmental flux, and temporal order.
+
+    Vaeronth lost cohesion. It shattered without warning.  
+    After its failure, a sixth body appeared in the sky.
+
+    Khyrael has no glow and no reflected edge.  
+    Its surface cannot be resolved. Its orbit is slow, but inevitable.  
+    It does not align with the others.
+
+    Khyrael suppresses biological growth.  
+    It alters instinct, mutes sound, and halts pattern.  
+    Its arrival marked the end of system continuity.
+
+    After Vaeronth’s loss and Khyrael’s rise, the remaining moons dimmed.  
+    Structures failed. Language decayed. Systems no longer held cohesion.  
+    The world became unstable.
+
+    As a final act, the moons sealed a valley using tectonic force.  
+    Black ridges rose, isolating the last survivable terrain.  
+    This act drained the moons of their power.  
+    Outside the valley, temperatures fell.  
+    Most of the surface became glacial, permafrosted, or lifeless.
+
+NOTES  
+    • Most of Vaeronth’s fragments remain in orbit  
+        – They are visible as a broken ring in the upper sky  
+    • Some fragments fell and are buried deep beneath the surface  
+    • Fragments are inert and cannot be seen, touched, or collected  
+    • Their buried presence alters surrounding apex lifeforms over time
+
+    • Shards are not fragments  
+    • Shards form only inside megafauna exposed to buried fragments  
+    • Shards are not found in terrain  
+    • Shards can be used to imbue weapons and armor  
+    • Shards exhibit magical properties when correctly bound
+
+    • Following Vaeronth’s destruction, surface temperatures dropped  
+    • Most of the world is now encased in cold zones: permafrost, glacial plains, and tundra  
+    • Only one region remains climatically stable — the sealed valley
+
+FILES  
+    CELESTIAL_BODIES(5), FRAGMENTS(5), SHARDS(5), SEALED_VALLEY(5)

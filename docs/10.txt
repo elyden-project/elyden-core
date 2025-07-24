@@ -1,0 +1,66 @@
+NAME  
+    deep_evergreen_forest_biome − overgrown, sunless terrain with high biological density
+
+DESCRIPTION  
+    This forest variant features layered coniferous canopy with minimal light penetration.  
+    Soil is waterlogged, root-bound, and uneven. Fallen trunks create natural walls and crossings.  
+    Moss, fungal mats, and thick leaf rot cover most surfaces.  
+    Movement is slowed by obstacles and near-constant moisture.
+
+PROPERTIES  
+    • visibility − very low  
+    • cover − near total (trunks, moss, underbrush)  
+    • traversal − difficult (rot, slope, dense debris)  
+    • heat retention − high (ambient insulation)  
+    • elevation shift − variable (root rises, hollow pits)  
+    • water surface − pooled (non-flowing)
+
+INORGANIC MATERIALS  
+    • rotted bark  
+    • decomposed pine mulch  
+    • sapstone  
+    • clay silt (deep layer)  
+    • root-anchored stone  
+    • standing water (stagnant)
+
+FLORA  
+    TREES  
+        • pine — dominant, old growth  
+        • spruce — mid-rise, fallen trunks common  
+        • fir — low canopy, clustered  
+    SHRUBS & SUCCULENTS  
+        • tanglebriar — thorny, climbs over fallen trunks  
+        • marshleaf — edible when cooked  
+    HERBS  
+        • seepwort — grows near standing water, mild purgative  
+        • ghostroot — pale stalk, inert  
+    GRASSES  
+        • none observed  
+    FUNGI  
+        • spongecap — edible, spongy texture  
+        • corpse lichen — grows on bark, causes rash  
+        • veil fungus — obstructs airways if burned  
+        • hollowcap — bitter, inedible
+
+FAUNA  
+    INSECTS  
+        • rotfly — breeds in decay, swarms over carrion  
+        • gnat — blood-seeking, swarms in moist air  
+        • wood borer — tunneler, weakens dead trees  
+    BIRDS  
+        • wren — ground forager, active at dawn  
+        • crow — scavenger, nests in high branches  
+    MAMMALS  
+        • black bear — omnivore, active during dusk  
+        • elk — migratory grazer, avoids confrontation  
+        • gray wolf — hunts in coordinated groups  
+    REPTILES  
+        • fern snake — camouflaged, non-aggressive  
+    AMPHIBIANS  
+        • toad — mildly toxic, hides under moss
+
+AGGRESSIVE FAUNA  
+    • black bear — will charge when surprised  
+    • gray wolf — pack hunter, responds to blood scent  
+    • gnat — bites repeatedly when swarming  
+    • toad — secretes toxin on skin contact

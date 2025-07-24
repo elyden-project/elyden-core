@@ -1,0 +1,35 @@
+NAME  
+    celestial_bodies − orbital bodies observed from elyden
+
+DESCRIPTION  
+    Elyden orbits Aurenzae, a red dwarf.
+
+    Five moons were once visible in stable rotation:
+        • Taeryniel  
+        • Irraketh  
+        • Lovaen  
+        • Serunel  
+        • Vaeronth  
+
+    Each moon was observed, named, and tracked over time.  
+    Their cycles were once associated with patterns of season, memory, and survival.  
+    Vaeronth alone exhibited orbital regularity linked to continuity and logic.  
+    Its collapse marked the end of celestial influence.
+
+    After Vaeronth’s failure, a sixth object appeared:
+        • Khyrael  
+
+    Khyrael does not emit or reflect light.  
+    It does not follow the orbital rhythm of the former moons.  
+    Its arrival coincided with widespread system decay.  
+    No further alignment or influence is present.
+
+NOTES  
+    • Aurenzae remains stable and visible  
+    • Vaeronth appears as a debris ring in the upper sky  
+    • Khyrael’s motion is irregular and unsynchronized  
+    • No moon currently exhibits any measurable influence on Elyden’s surface  
+    • The sealing of the valley was the final act linked to the celestial system
+
+FILES  
+    ORIGIN_EVENT(5), SEALED_VALLEY(5), SHARDS(5)

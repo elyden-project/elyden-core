@@ -1,0 +1,54 @@
+NAME  
+    ice_biome − exposed frozen flats with refraction, ice bloom, and low biomass
+
+DESCRIPTION  
+    This biome consists of frozen, wind-polished terrain formed from thick surface ice and compacted snow.  
+    Daylight scatters across uneven crust, causing glare and visual distortion.  
+    Meltwater appears briefly near dark stone pockets or midday sun angles.  
+    No soil or rooted plants exist here.  
+    Limited biological activity is possible: microalgae, migrating scavengers, or ground-resting birds.  
+    Movement is flat but slowed by traction loss. Food and heat are minimal but not absent.
+
+PROPERTIES  
+    • visibility − high but distorted (glare, refraction)  
+    • cover − none  
+    • traversal − flat but slippery  
+    • heat retention − none  
+    • elevation shift − low (ridges only)  
+    • water surface − frozen; melt pools near stone  
+    • survivability − extremely low, but not null
+
+INORGANIC MATERIALS  
+    • clear ice — fractured with light veins  
+    • black stone — retains midday heat  
+    • dry frost — brittle and wind-blown  
+    • layered crust — thin, can conceal dips  
+    • reflective salt flecks — surface scatter  
+    • trapped air pocket — shallow and cold, brief shelter
+
+FLORA  
+    TREES  
+        • none  
+    SHRUBS  
+        • none  
+    HERBS  
+        • none  
+    FUNGI  
+        • none  
+    GRASSES  
+        • none  
+    MICROFLORA  
+        • snow algae — red or green bloom on sun-facing ice
+
+FAUNA  
+    INSECTS  
+        • glacier midge — present in melt periods, swarms in warmth  
+    BIRDS  
+        • snow petrel — lands on black stone, feeds on windblown carrion  
+    MAMMALS  
+        • arctic fox — solitary scavenger, crosses between ridges  
+        • ermine — weasel form, active during melt season
+
+AGGRESSIVE FAUNA  
+    • glacier midge — bites exposed skin in numbers  
+    • arctic fox — attacks if cornered, usually flees

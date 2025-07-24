@@ -1,0 +1,59 @@
+NAME  
+    plains_biome − open terrain with low resistance and minimal cover
+
+DESCRIPTION  
+    Plains are open, semi-arid environments with minimal slope and sparse cover.  
+    The ground is composed of compacted dust, dry clay, and intermittent gravel.  
+    Vegetation is low, scattered, and wind-hardened.  
+    Thermal loss is rapid at night. No natural shade or water retention exists.
+
+PROPERTIES  
+    • visibility − extended range  
+    • cover − minimal  
+    • traversal − unimpeded  
+    • heat retention − low  
+    • elevation shift − none  
+    • water surface − absent
+
+INORGANIC MATERIALS  
+    • flint  
+    • dust  
+    • dry clay  
+    • mineral salt (trace)  
+    • compacted silt nodules
+
+FLORA  
+    GRASSES  
+        • wild rye — edible  
+        • sand oat — edible  
+    HERBS  
+        • plantain — edible (boiled)  
+        • bitterroot — astringent, not consumed raw  
+    FUNGI  
+        • none observed  
+    TREES  
+        • none observed  
+    SHRUBS & SUCCULENTS  
+        • desert reed — edible inner pith (roasted)
+
+FAUNA  
+    INSECTS  
+        • field beetle — ground scavenger, feeds on decaying matter  
+        • sand wasp — solitary forager, nests in soil  
+        • burrowing mantis — ambush predator, attacks from concealment  
+    BIRDS  
+        • steppe hawk — solitary raptor, hunts rodents  
+        • carrion crow — scavenger, often found near remains  
+    MAMMALS  
+        • dryland gazelle — alert grazer, flees on approach  
+        • dusk hare — crepuscular herbivore, relies on speed  
+        • ridge badger — burrowing omnivore, avoids confrontation  
+    REPTILES  
+        • dust lizard — sun-basking insectivore, skittish  
+    AMPHIBIANS  
+        • none confirmed
+
+AGGRESSIVE FAUNA  
+    • plains bull — territorial grazer, charges when threatened  
+    • burrowing mantis — strikes when disturbed  
+    • sand wasp — stings defensively if provoked

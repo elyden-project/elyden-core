@@ -1,0 +1,31 @@
+NAME  
+    biome_index − known environments inside the sealed valley
+
+DESCRIPTION  
+    The following biomes are confirmed within the sealed valley.  
+    Each is an independent domain with distinct terrain and conditions.  
+    All are explorable through traversal. No access restrictions are imposed.  
+
+    Short-form keys are assigned for reference or potential mapping use.  
+    Icons are visual markers only and carry no simulation behavior.
+
+INDEX  
+    • 🌾 plains (p)  
+    • 🪨 small hills (h)  
+    • ⛰️ steep hills (g)  
+    • 🌲 evergreen forest (e)  
+    • 🪵 dead forest (f)  
+    • 🌊 river (r)  
+    • 🪱 bog (b)  
+    • 🪷 wetland (w)  
+    • 🐚 swamp (s)  
+    • 🏖️ coastal basin (c)  
+    • 🧂 salt cracks (k)  
+    • 🌋 valley (v)  
+    • 🧊 glacial belt (l)  
+    • ❄️ tundra (t)  
+    • 🕳️ crater (d)  
+    • 📉 impact shelf (m)  
+    • 🌵 dry basin (a)  
+    • 🪨 canyon (n)  
+    • 🏛️ sunken ruins (u)
