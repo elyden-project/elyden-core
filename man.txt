@@ -1,8 +1,6 @@
 
 %%% 00.txt %%%
 
-00                           Elyden Survival Codex                           00
-
 NAME  
     00 − master reference index of Elyden simulation source files
 
@@ -1536,522 +1534,479 @@ AGGRESSIVE FAUNA
 
 %%% 24_ruins_index.txt %%%
 
-RUINS & REMNANTS — INDEX
+NAME  
+    ruins_index − known structural remnants embedded within the sealed valley
 
-Each ruin listed below reflects not a past people, but a celestial function.  
-These structures stand as scars, anchors, or broken mechanisms of planetary balance.  
-They are inert, partially buried, and their meaning—like the shards—will not unlock  
-until the final sequence.
+DESCRIPTION  
+    The following ruins are relics of Vaeronth-era architecture.  
+    Each is a collapsed or preserved structure marked by unique material design.  
+    Ruins may appear across multiple biomes but remain spatially fixed once generated.  
 
-Symbols beside each denote dominant celestial association.
+    Symbols are visual markers only and carry no simulation behavior.
 
-────────────────────────────────────────────────────────
-
-☼  Auren Core  
-    Tall hollow monoliths aligned to the pulse of Elyden’s red dwarf.  
-    Rare light effects at dawn and dusk. Resonates faintly during equinoxes.
-
-🜃  Earthscript Vault  
-    Layered tectonic slates carved with pre-seismic glyphs.  
-    Found sunken in cracked hills or beneath landslide zones.
-
-🔥  Vulcan Chamber  
-    Basalt-ringed vent sealed by fused obsidian.  
-    Emits dry heat and soundless tremors. Lichen grows inwardly, not out.
-
-💧  Mist Basin  
-    Collapsed concave shrine filled with permanent vapor.  
-    Ruin stones collect condensation even during droughts.
-
-🜁  Veil Engine  
-    Spiral wind-channel towers tipped with hollow crystals.  
-    Emits quiet whistle when crossed by breeze—sound never repeats.
-
-🌙  Spall Halo  
-    Floating shard-ring in low gravity breach zone.  
-    Fragments from the shattered Magic Moon orbit in slow unison.
-
-☄️  Oblivion Mirror  
-    Surface of ice or black stone that reflects stars unseen in Elyden’s sky.  
-    Located only on deep glacier faces or high craters.
-
-🝰  Anti-Life Bulb  
-    Rooted pod with dead halo bloom. Found only in shadow-zenith regions.  
-    Repels growth, sours wind, and draws scavengers without flesh.
-
-🜔  Convergence Array  
-    Obsidian lens set in a triangulated valley.  
-    Appears inert, but reacts faintly during multi-moon alignments.
-
-┅  Null Step  
-    A staircase or ramp that descends into bedrock and terminates in nothing.  
-    No walls, no markings, no boundary between architecture and void.
-
-────────────────────────────────────────────────────────
+INDEX  
+    • ☼  Auren Core               − vertical monoliths formed from fused pillarstone  
+    • 🜃  Earthscript Vault        − stacked subsurface slates embedded with glyph channels  
+    • 🔥  Vulcan Chamber           − igneous rings surrounding dormant vent chimneys  
+    • 💧  Mist Basin              − circular basin with suspended low vapor and standing water  
+    • 🜁  Veil Engine              − spiral towers fractured along crystal-bearing tips  
+    • 🌙  Spall Halo              − suspended shard ring bent along paragravity fault  
+    • ☄️  Oblivion Mirror          − crater floor lined with smooth reflective stone  
+    • 🝰  Anti-Life Bulb           − pod-like structure with hard outer bloom and soil rejection pattern  
+    • 🜔  Convergence Array        − triangular obsidian lens set in sloped terrain  
+    • ┅  Null Step                − open architectural segment with no bottom perimeter
 
 NOTES  
-    Ruins are dormant until conditions beyond survival are met.  
-    Some house shard resonance points, but give nothing until end-sequence triggers.  
-    All fragment reactions remain amulet-only. No visible energy or changes occur.
+    • Each ruin corresponds to a simulation file (25–34)  
+    • Symbols are visual only and not linked to fragment or amulet systems  
+    • No ruin includes scripted behavior within this index
 
 %%% 25_auren_core_ruin.txt %%%
 
-RUIN  
-    Auren Core
+NAME  
+    auren_core_ruin − vertical monolith structure aligned with radial vitrification
 
-CONSTRUCTION  
-    A single vertical monolith between five and nine meters tall,  
-    built from red-black fused material not found elsewhere in Elyden.  
-    The surface is warm to the touch at midday, cold at dawn.  
-    Hollow core tunnels through vertically—narrow, smooth, seamless.  
-    Appears to have been quarried and erected post-cataclysm.  
-    Surrounding soil is vitrified in a radial starburst pattern.
+DESCRIPTION  
+    A solitary upright structure found in dry basins or exposed hardpan.  
+    Built from red-black fused material not found elsewhere in the sealed valley.  
+    The core is hollowed vertically by a narrow, seamless shaft.  
+    Surrounding soil is vitrified outward in a radial starburst.  
+    Structure is fixed and does not exhibit any movement or alteration.
 
-SURFACE SIGNS  
-    • Partial submersion in hardpan or dry basin  
-    • No inscriptions, but fluted bands near base catch fine dust  
-    • Sunlight angles cause strong flare when viewed from distance  
-    • Birds avoid landing on it; no nests or droppings  
-    • Ground often completely dry within a three-meter radius
+STRUCTURAL PROPERTIES  
+    • height: 5–9 meters  
+    • profile: monolithic, taperless  
+    • material: vitrified composite, origin unknown  
+    • core: internal bore, narrow and smooth  
+    • base interface: embedded directly in substrate without foundation
 
-INTERIOR FEATURES  
-    • Core is passable by a thin shaft, barely wide enough to reach in  
-    • Internal temperature shifts with time of day, not weather  
-    • Stone produces no echo when struck—absorbs sound entirely  
-    • Dust that enters is never expelled; no wind reaches inside
+SURFACE TRAITS  
+    • no inscriptions present  
+    • fluted lower bands collect windblown dust  
+    • flare reflection observed during specific sun angles  
+    • dry zone typically extends 3 meters from base  
+    • avian activity absent; no signs of perching or nesting
 
-DANGERS  
-    • Exposed position offers no shelter from heat or cold  
-    • Lightning strikes in storms favor the monolith with uncanny precision  
-    • Wildlife activity is absent in a wide perimeter  
-    • Standing too long within the flare shadow induces nausea or vertigo  
-    • Stone chips cannot be broken off—tools fracture first
+THERMAL CHARACTERISTICS  
+    • exterior temperature varies with diurnal cycle  
+    • interior remains sheltered from wind and airborne particles  
+    • no measurable echo response from interior shaft  
+    • surface shows no water retention
 
-FRAGMENT INTERACTION  
-    The girl's amulet vibrates faintly when within arm’s reach of the shaft.  
-    No light, no pull, no heat—only a subtle pressure in the chest.  
-    Prolonged contact makes the amulet hum against the skin  
-    and then stop, as if holding breath.
+MATERIAL STABILITY  
+    • surface resists tool damage; direct impact fractures tools  
+    • stone chips cannot be extracted by mechanical force  
+    • lightning strike marks observed during storm events
 
 NOTES  
-    The Auren Core predates speech, settlement, or survival.  
-    It does not offer warmth, nor deny it. It remains.  
-    The red sun moves across its face in a strict path—never shadowed.  
-    Some say five more cores exist, but none have been mapped.  
-    It does not respond to prayer, only presence.
+    No direct correlation confirmed between this structure and fragment activity.  
+    No inscriptions, language, or orientation markers have been identified.  
+    Multiple field reports describe identical structures, though unmapped.  
+    Current interpretations remain limited to material and positional data.
 
 %%% 26_earthscript_vault_ruin.txt %%%
 
-RUIN  
-    Earthscript Vault
+NAME  
+    earthscript_vault_ruin − stratified shale formation bearing substructural glyph seams
 
-CONSTRUCTION  
-    A shallow underlayer of stratified shale and compacted stone,  
-    exposed in eroded hillsides, dry gullies, or tectonic shears.  
-    Glyphs—neither written nor pictorial—are pressed into layered seams,  
-    running parallel with the grain of the stone. Each glyph covers  
-    several meters and repeats across faultlines, not surfaces.  
-    Stone between glyphs crumbles under pressure, but the glyphs endure.
+DESCRIPTION  
+    A shallow sublayer of compressed stone exposed in eroded ridgelines, gullies, and tectonic shear zones.  
+    The formation reveals repeated glyph-like impressions embedded along natural sedimentary grain lines.  
+    Stone between these seams is brittle and crumbles under weight, but the glyph-bearing strata remain intact.  
+    Vault segments typically appear parallel to fault planes and may extend horizontally beneath hillsides.
 
-SURFACE SIGNS  
-    • Exposed walls show clean horizontal slices, unusually regular  
-    • Stone is dry but emits deep knocks when struck  
-    • Debris slopes down unnaturally—like soil avoids covering it  
-    • No plant roots penetrate the glyph-bearing layer  
-    • Dust patterns settle in concentric ripples on approach
+STRUCTURAL PROPERTIES  
+    • orientation: lateral along faulted strata  
+    • primary material: stratified shale, partially compressed  
+    • voids: narrow horizontal seams and recessed hollows  
+    • glyph elements: embedded and continuous, not raised or carved  
+    • thickness: varies, but consistent across layers
 
-INTERIOR FEATURES  
-    • Vaults extend sideways—not inward—into the surrounding strata  
-    • Narrow shelves open between compression folds; some hollow, some sealed  
-    • Moisture collects in untouched pockets, never leaks downward  
-    • Shelves emit deep hum when walked beside during moon tremors
+SURFACE TRAITS  
+    • cut faces display unusually clean horizontal planes  
+    • outer surfaces emit muffled knocks when impacted  
+    • soil and debris resist collecting directly over glyph zones  
+    • no plant penetration in affected seams  
+    • fine dust collects in concentric deposition patterns
 
-DANGERS  
-    • Faults near glyphs are unstable—slabs may shear off unpredictably  
-    • Certain exposed glyphs spark nausea or nosebleeds when stood beside  
-    • Audible rumble may precede stone fracture but not always  
-    • Fine stone dust in air can clog throat, eyes, tools  
-    • Burrowing insects avoid the site—except for thin white larvae
+SUBSURFACE FEATURES  
+    • shelf voids extend laterally along fold compression lines  
+    • moisture trapped in sealed segments, no external drainage  
+    • interior segments remain acoustically resonant during tectonic tremors  
+    • no light absorption anomalies recorded
 
-FRAGMENT INTERACTION  
-    Amulet pulses when close to glyphs—aligned with the stone’s grain.  
-    Contact with finger and amulet held to surface produces low pressure hum.  
-    No visible reaction, no heat or glow—only the sense of being watched from beneath.
+MATERIAL STABILITY  
+    • shear fractures common near exposed glyph lines  
+    • stone dust may be airborne in enclosed sites  
+    • brittle lamina may collapse if unsupported  
+    • no observed degradation of embedded glyph structure
 
 NOTES  
-    The Vault was not carved—it was laid.  
-    Each glyph is part of a buried array, possibly planetary in scale.  
-    Some say it maps the land’s future collapse, not its past.  
-    No one remembers building it. The soil forgot—but the stone did not.
+    No fabrication evidence present; layer appears deposited, not excavated.  
+    Full extent of the glyph array is unknown.  
+    Identical structures logged across disparate elevations.  
+    Associated lifeforms avoid direct contact with glyph-bearing seams.
 
 %%% 27_vulcan_chamber_ruin.txt %%%
 
-RUIN  
-    Vulcan Chamber
+NAME  
+    vulcan_chamber_ruin − fused basalt ring structure surrounding sealed interior depression
 
-CONSTRUCTION  
-    A collapsed caldera sealed by black fused basalt,  
-    forming a ring-shaped depression with vented cracks at its edges.  
-    Central structure is indiscernible—sunken and slagged—  
-    but rim patterns suggest an engineered form melted beyond recognition.  
-    Surface retains residual warmth in all seasons.  
-    Outer crust shifts imperceptibly, producing hairline fractures.
+DESCRIPTION  
+    A ring-shaped formation located within exposed caldera depressions.  
+    Outer crust is composed of vitrified basalt, cracked along concentric vent seams.  
+    The inner section is fully enclosed, surface-melted, and resistant to excavation.  
+    Residual ground heat persists year-round, with no visible geothermal output.  
+    Entry is possible only through narrow fissures in the collapsed rim.
 
-SURFACE SIGNS  
-    • Stone radiates dry heat even during cold spells  
-    • Air above shimmer-fluctuates, distorting vertical vision  
-    • Ground is bare; no plants, no dust, no tracks—only scorched rock  
-    • Insects won’t cross the rim—neither do birds fly overhead  
-    • Sulfurous scent lingers strongest just before sundown
+STRUCTURAL PROPERTIES  
+    • configuration: circular basin, sealed center  
+    • composition: fused basalt with layered flow banding  
+    • inner material: vitrified, no identifiable stone boundaries  
+    • diameter: 15–23 meters typical  
+    • heat retention: high surface thermal inertia
+
+SURFACE TRAITS  
+    • stone radiates low dry heat regardless of season  
+    • shimmer distortion observed in rising air columns  
+    • terrain is bare; no vegetation, dust, or animal tracks  
+    • airborne fauna avoid area overhead  
+    • trace sulfur compounds detected at ground level
 
 INTERIOR FEATURES  
-    • Entry only possible through narrow crawl-like splits in rim  
-    • Inside, stone walls are rounded and smooth—liquefied then re-fused  
-    • Heat vents exhale silent drafts; air does not rise uniformly  
-    • Small objects placed inside vanish within hours—not burned, just gone  
-    • Faint red rings appear in vision after prolonged time inside
+    • internal access through crawl-width fissures at rim edge  
+    • walls smooth and rounded; re-fused from molten state  
+    • ambient airflow lacks vertical convection  
+    • thermal vents silent, with no rhythmic pulse  
+    • fine particulate matter absent from interior zone
 
-DANGERS  
-    • Chamber holds no oxygen during midday—suffocation risk  
-    • Touching central stone causes fingertip numbness, no burn  
-    • Flash heat surges sometimes triggered by seismic ripple  
-    • Wildlife carcasses nearby show no wounds—just desiccation  
-    • Once entered, directionality and balance may distort
-
-FRAGMENT INTERACTION  
-    The amulet becomes hot when lowered toward the center ring,  
-    but returns to normal if withdrawn—no damage, no discharge.  
-    A low droning sound begins only when the wearer turns their back,  
-    and stops when faced forward again.
+MATERIAL STABILITY  
+    • hairline fractures propagate under seismic stress  
+    • central floor shows no reactive discoloration or erosion  
+    • surfaces resistant to tool scoring or sample removal  
+    • inner layer exhibits low conductivity and thermal transfer
 
 NOTES  
-    The Vulcan Chamber is not volcanic. It is an echo.  
-    Something burned itself shut here—not to keep you out,  
-    but to keep itself in. The heat that remains does not rise.  
-    It waits. It remembers what fire used to be.
+    Subsurface origin unknown; no active magma source detected.  
+    Identical structures observed at high and low elevation zones.  
+    Ring symmetry and retention suggest engineered formation.  
+    No measurable magnetic field anomalies recorded during survey.
 
 %%% 28_mist_basin_ruin.txt %%%
 
-RUIN  
-    Mist Basin
+NAME  
+    mist_basin_ruin − concave depression lined with fractured ceramic and persistent low vapor
 
-CONSTRUCTION  
-    A concave depression ringed by fractured ceramic tiles,  
-    many of which are warped, melted, or partially buried.  
-    The basin holds a shallow pool of cold vapor that never disperses.  
-    Beneath the mist, stone paths vanish and reappear depending on the light.  
-    Rimstones are grooved with narrow runnels that collect condensation  
-    regardless of weather or humidity.
+DESCRIPTION  
+    A circular basin formed by uneven stone collapse and subsidence.  
+    The perimeter is edged with warped and partially buried ceramic tiling.  
+    A dense cold vapor fills the interior and remains static in all conditions.  
+    Narrow grooves in the rimstone continually collect condensation.  
+    Internal features beneath the mist are partially submerged and visually unstable.
 
-SURFACE SIGNS  
-    • Basin is always damp—footprints leave no mark in the vapor  
-    • Surrounding plants grow inwardly bent, leaning toward the center  
-    • Vapor carries no scent, yet numbs the sinuses  
-    • Stones around the edge ring lightly when tapped  
-    • No birds, no insects—only the sound of slow dripping
+STRUCTURAL PROPERTIES  
+    • shape: concave basin, circular edge  
+    • diameter: 10–14 meters typical  
+    • floor material: tile, sediment, vapor-filled hollows  
+    • rim structure: stone and ceramic, fractured with shallow runnels  
+    • elevation: lower than surrounding terrain by 1.5–2 meters
+
+SURFACE TRAITS  
+    • persistent ground moisture, unaffected by rainfall  
+    • surrounding vegetation bends inward toward the basin  
+    • rimstone produces tonal resonance when struck  
+    • air contains suspended moisture but no particulate odor  
+    • ambient noise level is reduced near basin center
 
 INTERIOR FEATURES  
-    • Mist thickens the deeper one steps—vision ends after five paces  
-    • Ground disappears underfoot—replaced by tiled channels or cold water  
-    • Sound is absorbed; speech becomes muffled and directionless  
-    • Occasional glimpses of submerged features—domes, stairs, bent poles  
-    • Water collected here is sterile, but bitter
+    • visibility limited beyond 5 meters due to static vapor  
+    • submerged features include stone platforms, steps, and partial structures  
+    • water channels are irregular and do not follow surface topology  
+    • vapor temperature consistently below ambient air  
+    • surface layers remain undisturbed under moderate foot traffic
 
-DANGERS  
-    • Prolonged exposure causes mild disorientation and cold paralysis  
-    • Falling in produces no splash—just silence and sudden darkness  
-    • Breathing vapor for too long suppresses taste and scent for hours  
-    • Some exits lead nowhere—returning takes longer than entering  
-    • No wildlife is seen—but eyes are often felt
-
-FRAGMENT INTERACTION  
-    The amulet dims slightly within the mist—its edges lose sharpness.  
-    Held above the surface, the mist swirls around it in reverse spirals.  
-    Afterward, a faint residual moisture lingers on skin for hours.
+MATERIAL STABILITY  
+    • tile segments crack under lateral stress but resist vertical pressure  
+    • water samples exhibit low organic content, high mineral saturation  
+    • ceramic fragments show melting along inner curve edges  
+    • basin walls maintain structural integrity despite erosion patterns
 
 NOTES  
-    This is not a ruin. It is a boundary.  
-    Between breath and silence. Between steps and stillness.  
-    The basin does not fill, yet it never empties.  
-    The vapor tastes of endings.
+    No animal presence recorded in or near the structure.  
+    Mist density and pool shape remain constant regardless of weather.  
+    Survey attempts show mild compass drift near the center.  
+    Underlayer architecture remains partially obscured by sediment and depth.
 
 %%% 29_veil_engine_ruin.txt %%%
 
-RUIN  
-    Veil Engine
+NAME  
+    veil_engine_ruin − radial stone-and-alloy spire formation with spiral wind-channel geometry
 
-CONSTRUCTION  
-    A cluster of thin, tapering spires arranged in a spiral or partial arc,  
-    built from white-gold alloy and porous stone.  
-    Each spire has a hollow core—cut with ridged inlets that capture wind.  
-    Some lean sharply, others stand upright, yet none have toppled.  
-    Their tips fracture light, casting broken halos even in still air.
+DESCRIPTION  
+    A formation of thin tapering spires arranged in a spiral or arc pattern.  
+    Each spire is constructed of a pale porous stone alloyed with white-gold material.  
+    Hollow inlets run through their cores, aligned to prevailing wind corridors.  
+    The terrain surrounding the structure exhibits curved wind paths and minor vegetation distortion.  
+    No toppling spires have been recorded despite sharp lean angles and fractured tips.
 
-SURFACE SIGNS  
-    • Wind shifts when walking near—changes pitch and direction  
-    • Surrounding vegetation forms irregular spiral growth patterns  
-    • Dust trails curve as if caught in invisible gyres  
-    • Stone at base hums faintly if leaned upon during gusts  
-    • Wildlife scat absent; no nesting or droppings within 30 paces
+STRUCTURAL PROPERTIES  
+    • formation type: spiral spire array  
+    • height range: 2–7 meters  
+    • material: porous limestone composite with metal trace banding  
+    • inlet design: ridged vertical bore, variable diameter  
+    • base alignment: irregular but radially consistent
+
+SURFACE TRAITS  
+    • dust movement follows non-linear swirling trails  
+    • fine white residue accumulates around spire bases  
+    • surrounding flora bends away from central spiral axis  
+    • ambient wind pitch alters while moving through arc  
+    • nesting, waste, and animal activity are absent within known range
 
 INTERIOR FEATURES  
-    • Hollow channels draw in wind—even when ambient air is calm  
-    • Entering the center of the spiral deadens all ambient sound  
-    • Small objects left inside are often relocated without visible cause  
-    • Listening into a spire returns fragmented echoes—not your own voice  
-    • Stone residue collects at base—powdery and pale
+    • core inlets remain clear of obstruction regardless of wind speed  
+    • sound dampening observed within central spiral area  
+    • reflected echoes within spires are layered and directionally inconsistent  
+    • small displaced objects found collected near spiral center  
+    • soil beneath spiral structure is dry and unusually compacted
 
-DANGERS  
-    • Sudden gusts may knock down the unbalanced or unwary  
-    • Prolonged time in the spiral center may induce vertigo or dream flashes  
-    • Gusts can strip warmth faster than expected—frostbite risk  
-    • Broken spire tips fall silently and without warning  
-    • In high wind, resonance can cause headaches, nosebleeds
-
-FRAGMENT INTERACTION  
-    Amulet hums in high frequency when wind enters from opposite direction.  
-    Held near an inlet, its sound amplifies faintly—feedback loop impossible to record.  
-    After leaving, wearer sometimes experiences distorted memory of direction traveled.
+MATERIAL STABILITY  
+    • broken tip segments found within spiral perimeter  
+    • exposed alloy striations resist corrosion  
+    • porous stone softens in moisture but hardens when dry  
+    • overall structure remains upright despite erosion and wind loading
 
 NOTES  
-    The Veil Engine does not store wind.  
-    It remembers the passage of air and returns it fractured.  
-    This is where the Air Moon once whispered commands to the ground.  
-    Now only half the message remains.
+    Wind behavior through the structure is variable but non-cyclic.  
+    Acoustic anomalies are consistent across all recorded spiral instances.  
+    No biological colonization recorded inside structural bounds.  
+    Orientation remains constant across known field sites regardless of terrain grade.
 
 %%% 30_spall_halo_ruin.txt %%%
 
-RUIN  
-    Spall Halo
+NAME  
+    spall_halo_ruin − suspended debris ring formed from lunar fragmentation above scorched terrain
 
-CONSTRUCTION  
-    A low-gravity anomaly where debris from the shattered Magic Moon  
-    continues to orbit above a fixed point—irregularly spaced, silently rotating.  
-    Fragments vary in size from fist-sized shards to house-sized slabs.  
-    None cast shadows; they emit no heat and bear no markings.  
-    Below, a wide ring of scorched earth curves outward—barren and bone-dry.
+DESCRIPTION  
+    An open-air zone where fractured orbital debris remains suspended in irregular rotation above a barren ground ring.  
+    The debris consists of stone and composite material ranging from 0.2 to 4 meters in scale.  
+    Ground beneath the halo is scorched, convex, and devoid of vegetation or dust deposition.  
+    Suspended fragments do not emit light, shadow, or measurable heat.  
+    Area remains quiet, with reduced wind and acoustic distortion near the center.
 
-SURFACE SIGNS  
-    • The sky appears slightly warped when viewed directly overhead  
-    • Sound dulls noticeably when stepping beneath the orbital path  
-    • Birds veer away long before reaching the outer ring  
-    • Dust never settles within the circle—wind patterns fail entirely  
-    • Ground temperature fluctuates by season, but not by time of day
+STRUCTURAL PROPERTIES  
+    • spatial type: aerial orbit fragment ring  
+    • ground form: outward-curved ring, scorched surface  
+    • suspended mass: irregular debris, height varies  
+    • debris motion: slow axial drift, non-uniform  
+    • symmetry: loosely radial, no fixed axis
+
+SURFACE TRAITS  
+    • ambient sound levels reduced within perimeter  
+    • avian life avoids approach  
+    • wind fails within 3-meter radius of core  
+    • dust accumulation absent inside ring boundary  
+    • light diffusion altered directly above focal point
 
 INTERIOR FEATURES  
-    • No entry structure—the Halo is open to the sky  
-    • Some fragments shift position without visible force  
-    • Gravity changes subtly near each shard—enough to alter walking pace  
-    • Voices echo differently inside the ring—delayed, layered  
-    • No visible connection exists between the floating shards
+    • no constructed structure; site is fully open to sky  
+    • some fragments shift laterally over time  
+    • minor gravitational offset zones detected beneath larger shards  
+    • reflected sound delays present at central ring  
+    • no visible tethering or field projection observed
 
-DANGERS  
-    • Standing under larger fragments for long periods induces vertigo  
-    • Sudden fragment descent has occurred—documented once, unrepeated  
-    • Amulets pulse erratically, sometimes faint, sometimes painful  
-    • Minor equipment malfunctions: compasses fail, tools seize briefly  
-    • Eyes may water or feel dried when looking directly at the fragments
-
-FRAGMENT INTERACTION  
-    Amulet emits a steady pulse when aligned beneath a specific shard.  
-    Stepping out of alignment ceases all sensation.  
-    No energy discharge, no light—just rhythm.  
-    If left inside the ring alone, some report hearing static “behind the skull.”
+MATERIAL STABILITY  
+    • fragment surfaces unmarked and non-reflective  
+    • occasional fragment descent recorded in field logs  
+    • terrain supports no structural overgrowth or water pooling  
+    • equipment calibration may require adjustment inside ring zone
 
 NOTES  
-    The Halo is not a ruin. It is an orbit that forgot its center.  
-    Shards remember their shape, but not their purpose.  
-    They float, not by power, but by consequence.  
-    This is what happens when a moon breaks—not shatters—but weeps.
+    Fragments are assumed to originate from lunar detonation event.  
+    No mechanism currently explains sustained suspension.  
+    Site behavior remains stable over multi-season observation.  
+    Ring does not conform to architectural ruin classification.
 
 %%% 31_oblivion_mirror_ruin.txt %%%
 
-RUIN  
-    Oblivion Mirror
+NAME  
+    oblivion_mirror_ruin − embedded reflective disc of unknown material set into frozen terrain
 
-CONSTRUCTION  
-    A flat disc of black stone or frozen water, perfectly circular,  
-    embedded at surface level into glacier, tundra shelf, or high-altitude crater.  
-    Diameter varies between 3 to 9 meters. Surface appears reflective,  
-    but shows no clouds, trees, or living forms—only stars.  
-    Stars do not match Elyden’s sky. They do not move.
+DESCRIPTION  
+    A circular reflective disc located in glacial shelves, tundra flats, or crater basins.  
+    Constructed of black stone or vitrified ice, flush with the surface.  
+    Diameter ranges from 3 to 9 meters.  
+    The disc reflects a consistent static starfield, unrelated to Elyden’s sky.  
+    No living forms or atmospheric elements appear in the reflection.
 
-SURFACE SIGNS  
-    • Area surrounding the mirror is quiet—snow muffles too much  
-    • Ice crust around edge remains smooth, never cracked or stepped upon  
-    • No animal prints cross the perimeter, even in deep snow  
-    • Approaching the mirror causes skin to prickle, regardless of cold  
-    • Reflected sky is always night, even at noon
+STRUCTURAL PROPERTIES  
+    • shape: perfect circle  
+    • material: vitrified surface (composition unknown)  
+    • embedded flush with terrain  
+    • location: glacier, tundra, or high-altitude crater  
+    • elevation: matches surrounding terrain
 
-INTERIOR FEATURES  
-    • No structure—only the disc  
-    • Throwing objects onto surface results in dull, soundless landing  
-    • Items left atop vanish by next dusk, without trace  
-    • Mirror sometimes “blinks”—a brief black-out and return  
-    • Reflected stars shift slightly every new moon
+SURFACE TRAITS  
+    • ice rim remains unbroken, even in tracked snow  
+    • no fauna activity within observed radius  
+    • surface shows no condensation or frost accumulation  
+    • sky in reflection is fixed to nocturnal star pattern  
+    • ambient noise reduced by surface absorption
 
-DANGERS  
-    • Staring too long induces visual noise or false movement  
-    • Some travelers report a voice—not heard, but recalled  
-    • On rare occasions, people reflected do not match current posture  
-    • Entering the disc’s center barefoot causes frostbite in seconds  
-    • No sound emitted from within 2 meters registers to those outside
+INTERFACE ZONE  
+    • contact with surface produces no auditory return  
+    • thrown objects make no rebound or sound upon impact  
+    • items left on surface disappear by next light cycle  
+    • occasional dimming observed across entire disc plane  
+    • reflected stars do not correlate with local constellations
 
-FRAGMENT INTERACTION  
-    Amulet freezes instantly when lowered to surface—frost forms on chain.  
-    Holding it over the reflection causes star points to slowly drift  
-    and form patterns not visible in any recorded sky chart.  
-    Pattern fades once amulet is moved.
+MATERIAL STABILITY  
+    • no tool marks, fracture lines, or measurable texture  
+    • material does not retain thermal imprint  
+    • surrounding substrate remains frozen and undisturbed  
+    • perimeter supports foot traffic without surface impact
 
 NOTES  
-    The mirror is not broken. It simply no longer reflects us.  
-    This is not the past or the future, but the absence of presence.  
-    The stars it shows may be our own, seen from elsewhere—  
-    or someone else's, seen from here.
+    Reflection is invariant regardless of viewer position or light conditions.  
+    No internal geometry or subsurface material has been recorded.  
+    Disc positions vary across elevations but maintain form and alignment.  
+    Function and origin remain unclassified; observed characteristics are repeatable.
 
 %%% 32_anti_life_bulb_ruin.txt %%%
 
-RUIN  
-    Anti-Life Bulb
+NAME  
+    anti_life_bulb_ruin − semi-spherical subsurface mass surrounded by sterile terrain
 
-CONSTRUCTION  
-    A semi-spherical mass rooted deep in barren ground,  
-    resembling petrified wood or fossilized resin.  
-    Its surface is dull, yellowed, and striated—no two bulbs alike.  
-    The structure leans slightly, as if drawn toward the sky’s zenith.  
-    A narrow slit runs down its face, but does not open.  
-    Ground surrounding the bulb remains sterile even after rain.
+DESCRIPTION  
+    A lopsided bulb-like formation embedded in barren ground, typically located in dry basins or exposed stone flats.  
+    The structure appears semi-spherical and consists of layered, resin-like stone with no repeating surface geometry.  
+    A vertical seam runs down the face but does not allow passage.  
+    The surrounding clearing remains without vegetation, insects, or fungal growth regardless of weather or biome.  
+    Structure displays no observable response to external inputs.
 
-SURFACE SIGNS  
-    • Soil cracks into fine networks, devoid of worms or root systems  
-    • Wind dies at the edge of its clearing, as if held outside  
-    • Faint odor of burnt meat or rot—undetectable to some  
-    • Fungi and moss avoid even shaded edges  
-    • Scavengers circle nearby but never approach
+STRUCTURAL PROPERTIES  
+    • shape: leaning bulb, rounded base  
+    • surface: matte, striated, yellowed stone  
+    • aperture: sealed vertical slit with fused perimeter  
+    • lean: ~7–12° off vertical, consistent across field sites  
+    • diameter: 2.5–4.2 meters
 
-INTERIOR FEATURES  
-    • No entry possible—slit is sealed, edges fused  
-    • Nighttime presence triggers subtle sound: not breathing, not grinding  
-    • Stone near the base is brittle; breaks into scentless black powder  
-    • Sometimes a slow throb passes through the bulb—visible in snowfall drift  
-    • Touching the surface causes a sharp pressure in teeth and jaw
+SURFACE TRAITS  
+    • ground is cracked into fine sterile webbing  
+    • surrounding soil remains inert after rainfall  
+    • no observed worm, root, or mycelial penetration  
+    • airborne movement slows sharply near clearing edge  
+    • persistent low scent of oxidized organic matter
 
-DANGERS  
-    • Animals brought near fall ill within hours  
-    • Standing within the radius too long may induce nosebleed or nausea  
-    • Sharp changes in mood reported by multiple travelers near bulb  
-    • Fire refuses to catch nearby—dies instantly or gutters to smoke  
-    • Fragments placed here do not react, but cease pulsing for days
+EXTERNAL INTERACTION  
+    • stone fragments at base crush into odorless black dust  
+    • no animal presence recorded within 10 meters  
+    • no nesting, foraging, or marking observed nearby  
+    • localized silence and low wind conditions persistent  
+    • surrounding vegetation shows abnormal gap formation
 
-FRAGMENT INTERACTION  
-    The amulet grows noticeably cold, pulling gently toward the slit.  
-    Contact induces a dull ache that vanishes when withdrawn.  
-    No pulse, no glow—only absence.  
-    After leaving, the amulet takes longer to react elsewhere.
+MATERIAL STABILITY  
+    • structure is non-reflective and shows no thermal emission  
+    • outer shell resists percussion and tool contact  
+    • powder at base is chemically inert  
+    • surrounding terrain shows no magnetic or electrical anomaly
 
 NOTES  
-    This is not decay. It is something older than death.  
-    The bulb does not want. It does not think.  
-    It silences what lives—not with malice, but with weight.  
-    It is the shadow cast by the sun when no moon remains.
+    The structure does not appear linked to known ruin types.  
+    No ingress or mechanical function detected.  
+    Field logs show no seasonal variation in presence or traits.  
+    Observed in multiple biomes with no change in form or radius.
 
 %%% 33_convergence_array_ruin.txt %%%
 
-RUIN  
-    Convergence Array
+NAME  
+    convergence_array_ruin − triangular obsidian lens formation embedded in low basin terrain
 
-CONSTRUCTION  
-    A wide, shallow valley containing three obsidian lenses,  
-    each embedded into a distinct rise—forming a perfect equilateral triangle.  
-    Lenses are half-buried, mirror-black, and nearly frictionless.  
-    No markings, no frame. Beneath each lies a hollow chamber,  
-    inaccessible except through seismic collapse.  
-    The soil between them carries no seed, no track, no echo.
+DESCRIPTION  
+    A symmetrical three-point structure situated in shallow valleys or flattened plains.  
+    Composed of three obsidian lenses, partially buried into separate mounds, aligned in an equilateral triangle.  
+    Each lens is smooth, dark, and shows no etching, mounting, or supporting framework.  
+    The region between lenses is bare and lacks plant growth, tracks, or acoustic return.  
+    Subsurface voids are presumed beneath each lens but remain inaccessible under normal conditions.
 
-SURFACE SIGNS  
-    • Approaching one lens triggers headaches or a sudden chill  
-    • Birds appear to fly around the array in wide arcs, never over  
-    • Wind swirls unpredictably when standing between two lenses  
-    • Sound inside the triangle is often mislocalized—origin unclear  
-    • Small stones sometimes roll uphill when placed near center
+STRUCTURAL PROPERTIES  
+    • arrangement: equilateral triangle  
+    • composition: frictionless obsidian lenses  
+    • lens embedment: partial, no visible seam or anchoring  
+    • region: low valley floors or collapsed hardpan  
+    • spacing: uniform between all three points
+
+SURFACE TRAITS  
+    • surface wind patterns shift between lenses  
+    • dust settles unevenly within triangle  
+    • site lacks animal tracks or seed dispersal  
+    • topsoil carries no echo return under impact  
+    • small stones sometimes shift alignment on their own
 
 INTERIOR FEATURES  
-    • Lenses cannot be moved, etched, or blackened  
-    • Occasionally reflect stars not visible above  
-    • Digging near lenses reveals shallow, sharp-edged strata  
-    • During lunar alignments, dust rises in vertical columns  
-    • Center of triangle forms a slight depression—warm to the touch
+    • subsurface beneath lenses is stratified with sharp mineral layering  
+    • central depression observed within triangular center  
+    • lens surfaces reflect selectively, inconsistent with sky position  
+    • no visible entrance or penetration into structural mass  
+    • surrounding soil appears compressed without pressure source
 
-DANGERS  
-    • Prolonged stay within array may cause time disorientation  
-    • Shadows fall in inconsistent directions—sun path altered  
-    • Glass or crystal fractures when brought too close  
-    • Livestock led through return agitated or refuse to eat  
-    • Voices heard from beneath, indistinct but patterned
-
-FRAGMENT INTERACTION  
-    Amulet flickers in and out of sensation when carried around the triangle.  
-    Standing in the exact center causes both a pulse and pressure—  
-    faint but unmistakable. No light, no change in color, no response if buried.
+MATERIAL STABILITY  
+    • lenses resist fracture, impact, and thermal variation  
+    • structure shows no response to contact or attempted marking  
+    • no organic material adheres to lens surface  
+    • exposed sections show no change across weather cycles
 
 NOTES  
-    The array was not built. It was aligned.  
-    Not to focus light or sound—but purpose.  
-    When the moons cross paths above, the ground does not remember names,  
-    but it remembers angles.
+    The array is consistent in alignment across all documented instances.  
+    Obsidian elements do not correspond to local geological types.  
+    Center zone displays topological regularity without mechanical features.  
+    Purpose and origin remain undetermined by field observation.
 
 %%% 34_null_step_ruin.txt %%%
 
-RUIN  
-    Null Step
+NAME  
+    null_step_ruin − descending substructure carved into bedrock terminating in planar void
 
-CONSTRUCTION  
-    A descending ramp or staircase carved directly into bedrock,  
-    found rarely in isolated plateaus, badlands, or glacial shelves.  
-    The descent is clean, featureless, and without material join—  
-    neither tool marks nor erosion visible. The path continues down  
-    past reasonable depth before vanishing into a matte-black plane.  
-    No doorway. No wall. Just absence where space should be.
+DESCRIPTION  
+    A narrow stairway carved directly into solid stone, found in remote plateaus, badlands, or glacial margins.  
+    The descent appears as a continuous, seamless shaft with no construction joints or visible tool marks.  
+    Surface continues past measurable depth before terminating at a matte-black plane.  
+    There is no visible threshold, door, or end wall — only a geometric boundary beyond which visibility ceases.  
+    Entrance is typically free of overgrowth, sediment, or wind-blown accumulation.
 
-SURFACE SIGNS  
-    • The entrance is often wind-scoured, but never buried  
-    • Light bends slightly near the edge, as if curving inward  
-    • Small debris stops short of the threshold, as if repelled  
-    • Wildlife avoids it—no nests, no tracks, no scat  
-    • Echoes near the mouth return prematurely or not at all  
+STRUCTURAL PROPERTIES  
+    • shape: linear stair descent, fixed width  
+    • termination: black planar boundary, depth varies  
+    • material: identical to surrounding bedrock, unsegmented  
+    • gradient: consistent shallow slope without irregularity  
+    • location: high elevation outcrops, erosion-resistant zones
+
+SURFACE TRAITS  
+    • rim and entrance remain exposed regardless of climate  
+    • small debris gathers at perimeter but halts before threshold  
+    • no animal activity or tracks within entrance zone  
+    • light diffusion bends slightly inward at step line  
+    • acoustic return inconsistent near opening
 
 INTERIOR FEATURES  
-    • Air grows still and dry within five steps  
-    • Stone temperature remains constant regardless of surface weather  
-    • Steps never accumulate dust, ash, or snow  
-    • Whispered sounds are sharper, clearer—but don’t always align with speaker  
-    • Some claim they’ve descended further than physically possible  
+    • air temperature and dryness increase after initial descent  
+    • no wind, noise, or dust recorded past third landing  
+    • step surfaces remain free of residue under all conditions  
+    • sound fidelity increases but spatial alignment distorts  
+    • lower threshold does not reflect or emit light
 
-DANGERS  
-    • Perception of distance fails after the 20th step—some return disoriented  
-    • Stepping past the final visible stair yields varied outcomes:  
-        − sudden return to the surface  
-        − loss of time  
-        − fragmentary dreams of heatless stars  
-        − nothing  
-    • Tools brought near lose sharpness, then edge  
-    • Fires extinguish immediately if carried below the 10th step  
-    • Living beings report pressure behind the eyes when turning back  
-
-FRAGMENT INTERACTION  
-    Amulet response is inconsistent.  
-    Sometimes silent, sometimes violently repelled—chain flaring cold.  
-    If placed on the final step, it may hum in pulses matching the bearer’s breath.  
-    Removed too quickly, it feels heavier than before.  
-    No light, no signal. Only weight and rhythm.
+MATERIAL STABILITY  
+    • stone resists all percussion and cutting attempts  
+    • tool contact results in dulling or material loss  
+    • thermal exposure causes no discoloration or expansion  
+    • organic materials show no degradation or reaction  
+    • boundary remains optically opaque under all wavelengths
 
 NOTES  
-    Null Step is not a ruin.  
-    It is what ruins leave behind when they forget they were built.  
-    It leads not down, but out—  
-    not to death, but to the error before life.  
-    Some say the final step is not the last.  
-    Only the last you can name.
+    No geological process explains the precision or depth of the descent.  
+    No measurable end point has been confirmed below visual boundary.  
+    Stair alignment and dimensions remain constant across known sites.  
+    Structure does not match any ruin classification but is retained for index completeness.
 
 %%% 35_characters.txt %%%
 
