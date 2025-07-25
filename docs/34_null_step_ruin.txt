@@ -1,50 +1,43 @@
-RUIN  
-    Null Step
+NAME  
+    null_step_ruin − descending substructure carved into bedrock terminating in planar void
 
-CONSTRUCTION  
-    A descending ramp or staircase carved directly into bedrock,  
-    found rarely in isolated plateaus, badlands, or glacial shelves.  
-    The descent is clean, featureless, and without material join—  
-    neither tool marks nor erosion visible. The path continues down  
-    past reasonable depth before vanishing into a matte-black plane.  
-    No doorway. No wall. Just absence where space should be.
+DESCRIPTION  
+    A narrow stairway carved directly into solid stone, found in remote plateaus, badlands, or glacial margins.  
+    The descent appears as a continuous, seamless shaft with no construction joints or visible tool marks.  
+    Surface continues past measurable depth before terminating at a matte-black plane.  
+    There is no visible threshold, door, or end wall — only a geometric boundary beyond which visibility ceases.  
+    Entrance is typically free of overgrowth, sediment, or wind-blown accumulation.
 
-SURFACE SIGNS  
-    • The entrance is often wind-scoured, but never buried  
-    • Light bends slightly near the edge, as if curving inward  
-    • Small debris stops short of the threshold, as if repelled  
-    • Wildlife avoids it—no nests, no tracks, no scat  
-    • Echoes near the mouth return prematurely or not at all  
+STRUCTURAL PROPERTIES  
+    • shape: linear stair descent, fixed width  
+    • termination: black planar boundary, depth varies  
+    • material: identical to surrounding bedrock, unsegmented  
+    • gradient: consistent shallow slope without irregularity  
+    • location: high elevation outcrops, erosion-resistant zones
+
+SURFACE TRAITS  
+    • rim and entrance remain exposed regardless of climate  
+    • small debris gathers at perimeter but halts before threshold  
+    • no animal activity or tracks within entrance zone  
+    • light diffusion bends slightly inward at step line  
+    • acoustic return inconsistent near opening
 
 INTERIOR FEATURES  
-    • Air grows still and dry within five steps  
-    • Stone temperature remains constant regardless of surface weather  
-    • Steps never accumulate dust, ash, or snow  
-    • Whispered sounds are sharper, clearer—but don’t always align with speaker  
-    • Some claim they’ve descended further than physically possible  
+    • air temperature and dryness increase after initial descent  
+    • no wind, noise, or dust recorded past third landing  
+    • step surfaces remain free of residue under all conditions  
+    • sound fidelity increases but spatial alignment distorts  
+    • lower threshold does not reflect or emit light
 
-DANGERS  
-    • Perception of distance fails after the 20th step—some return disoriented  
-    • Stepping past the final visible stair yields varied outcomes:  
-        − sudden return to the surface  
-        − loss of time  
-        − fragmentary dreams of heatless stars  
-        − nothing  
-    • Tools brought near lose sharpness, then edge  
-    • Fires extinguish immediately if carried below the 10th step  
-    • Living beings report pressure behind the eyes when turning back  
-
-FRAGMENT INTERACTION  
-    Amulet response is inconsistent.  
-    Sometimes silent, sometimes violently repelled—chain flaring cold.  
-    If placed on the final step, it may hum in pulses matching the bearer’s breath.  
-    Removed too quickly, it feels heavier than before.  
-    No light, no signal. Only weight and rhythm.
+MATERIAL STABILITY  
+    • stone resists all percussion and cutting attempts  
+    • tool contact results in dulling or material loss  
+    • thermal exposure causes no discoloration or expansion  
+    • organic materials show no degradation or reaction  
+    • boundary remains optically opaque under all wavelengths
 
 NOTES  
-    Null Step is not a ruin.  
-    It is what ruins leave behind when they forget they were built.  
-    It leads not down, but out—  
-    not to death, but to the error before life.  
-    Some say the final step is not the last.  
-    Only the last you can name.
+    No geological process explains the precision or depth of the descent.  
+    No measurable end point has been confirmed below visual boundary.  
+    Stair alignment and dimensions remain constant across known sites.  
+    Structure does not match any ruin classification but is retained for index completeness.

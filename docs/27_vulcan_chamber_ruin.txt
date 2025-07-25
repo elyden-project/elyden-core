@@ -1,43 +1,42 @@
-RUIN  
-    Vulcan Chamber
+NAME  
+    vulcan_chamber_ruin − fused basalt ring structure surrounding sealed interior depression
 
-CONSTRUCTION  
-    A collapsed caldera sealed by black fused basalt,  
-    forming a ring-shaped depression with vented cracks at its edges.  
-    Central structure is indiscernible—sunken and slagged—  
-    but rim patterns suggest an engineered form melted beyond recognition.  
-    Surface retains residual warmth in all seasons.  
-    Outer crust shifts imperceptibly, producing hairline fractures.
+DESCRIPTION  
+    A ring-shaped formation located within exposed caldera depressions.  
+    Outer crust is composed of vitrified basalt, cracked along concentric vent seams.  
+    The inner section is fully enclosed, surface-melted, and resistant to excavation.  
+    Residual ground heat persists year-round, with no visible geothermal output.  
+    Entry is possible only through narrow fissures in the collapsed rim.
 
-SURFACE SIGNS  
-    • Stone radiates dry heat even during cold spells  
-    • Air above shimmer-fluctuates, distorting vertical vision  
-    • Ground is bare; no plants, no dust, no tracks—only scorched rock  
-    • Insects won’t cross the rim—neither do birds fly overhead  
-    • Sulfurous scent lingers strongest just before sundown
+STRUCTURAL PROPERTIES  
+    • configuration: circular basin, sealed center  
+    • composition: fused basalt with layered flow banding  
+    • inner material: vitrified, no identifiable stone boundaries  
+    • diameter: 15–23 meters typical  
+    • heat retention: high surface thermal inertia
+
+SURFACE TRAITS  
+    • stone radiates low dry heat regardless of season  
+    • shimmer distortion observed in rising air columns  
+    • terrain is bare; no vegetation, dust, or animal tracks  
+    • airborne fauna avoid area overhead  
+    • trace sulfur compounds detected at ground level
 
 INTERIOR FEATURES  
-    • Entry only possible through narrow crawl-like splits in rim  
-    • Inside, stone walls are rounded and smooth—liquefied then re-fused  
-    • Heat vents exhale silent drafts; air does not rise uniformly  
-    • Small objects placed inside vanish within hours—not burned, just gone  
-    • Faint red rings appear in vision after prolonged time inside
+    • internal access through crawl-width fissures at rim edge  
+    • walls smooth and rounded; re-fused from molten state  
+    • ambient airflow lacks vertical convection  
+    • thermal vents silent, with no rhythmic pulse  
+    • fine particulate matter absent from interior zone
 
-DANGERS  
-    • Chamber holds no oxygen during midday—suffocation risk  
-    • Touching central stone causes fingertip numbness, no burn  
-    • Flash heat surges sometimes triggered by seismic ripple  
-    • Wildlife carcasses nearby show no wounds—just desiccation  
-    • Once entered, directionality and balance may distort
-
-FRAGMENT INTERACTION  
-    The amulet becomes hot when lowered toward the center ring,  
-    but returns to normal if withdrawn—no damage, no discharge.  
-    A low droning sound begins only when the wearer turns their back,  
-    and stops when faced forward again.
+MATERIAL STABILITY  
+    • hairline fractures propagate under seismic stress  
+    • central floor shows no reactive discoloration or erosion  
+    • surfaces resistant to tool scoring or sample removal  
+    • inner layer exhibits low conductivity and thermal transfer
 
 NOTES  
-    The Vulcan Chamber is not volcanic. It is an echo.  
-    Something burned itself shut here—not to keep you out,  
-    but to keep itself in. The heat that remains does not rise.  
-    It waits. It remembers what fire used to be.
+    Subsurface origin unknown; no active magma source detected.  
+    Identical structures observed at high and low elevation zones.  
+    Ring symmetry and retention suggest engineered formation.  
+    No measurable magnetic field anomalies recorded during survey.

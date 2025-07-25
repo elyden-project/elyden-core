@@ -1,42 +1,42 @@
-RUIN  
-    Mist Basin
+NAME  
+    mist_basin_ruin − concave depression lined with fractured ceramic and persistent low vapor
 
-CONSTRUCTION  
-    A concave depression ringed by fractured ceramic tiles,  
-    many of which are warped, melted, or partially buried.  
-    The basin holds a shallow pool of cold vapor that never disperses.  
-    Beneath the mist, stone paths vanish and reappear depending on the light.  
-    Rimstones are grooved with narrow runnels that collect condensation  
-    regardless of weather or humidity.
+DESCRIPTION  
+    A circular basin formed by uneven stone collapse and subsidence.  
+    The perimeter is edged with warped and partially buried ceramic tiling.  
+    A dense cold vapor fills the interior and remains static in all conditions.  
+    Narrow grooves in the rimstone continually collect condensation.  
+    Internal features beneath the mist are partially submerged and visually unstable.
 
-SURFACE SIGNS  
-    • Basin is always damp—footprints leave no mark in the vapor  
-    • Surrounding plants grow inwardly bent, leaning toward the center  
-    • Vapor carries no scent, yet numbs the sinuses  
-    • Stones around the edge ring lightly when tapped  
-    • No birds, no insects—only the sound of slow dripping
+STRUCTURAL PROPERTIES  
+    • shape: concave basin, circular edge  
+    • diameter: 10–14 meters typical  
+    • floor material: tile, sediment, vapor-filled hollows  
+    • rim structure: stone and ceramic, fractured with shallow runnels  
+    • elevation: lower than surrounding terrain by 1.5–2 meters
+
+SURFACE TRAITS  
+    • persistent ground moisture, unaffected by rainfall  
+    • surrounding vegetation bends inward toward the basin  
+    • rimstone produces tonal resonance when struck  
+    • air contains suspended moisture but no particulate odor  
+    • ambient noise level is reduced near basin center
 
 INTERIOR FEATURES  
-    • Mist thickens the deeper one steps—vision ends after five paces  
-    • Ground disappears underfoot—replaced by tiled channels or cold water  
-    • Sound is absorbed; speech becomes muffled and directionless  
-    • Occasional glimpses of submerged features—domes, stairs, bent poles  
-    • Water collected here is sterile, but bitter
+    • visibility limited beyond 5 meters due to static vapor  
+    • submerged features include stone platforms, steps, and partial structures  
+    • water channels are irregular and do not follow surface topology  
+    • vapor temperature consistently below ambient air  
+    • surface layers remain undisturbed under moderate foot traffic
 
-DANGERS  
-    • Prolonged exposure causes mild disorientation and cold paralysis  
-    • Falling in produces no splash—just silence and sudden darkness  
-    • Breathing vapor for too long suppresses taste and scent for hours  
-    • Some exits lead nowhere—returning takes longer than entering  
-    • No wildlife is seen—but eyes are often felt
-
-FRAGMENT INTERACTION  
-    The amulet dims slightly within the mist—its edges lose sharpness.  
-    Held above the surface, the mist swirls around it in reverse spirals.  
-    Afterward, a faint residual moisture lingers on skin for hours.
+MATERIAL STABILITY  
+    • tile segments crack under lateral stress but resist vertical pressure  
+    • water samples exhibit low organic content, high mineral saturation  
+    • ceramic fragments show melting along inner curve edges  
+    • basin walls maintain structural integrity despite erosion patterns
 
 NOTES  
-    This is not a ruin. It is a boundary.  
-    Between breath and silence. Between steps and stillness.  
-    The basin does not fill, yet it never empties.  
-    The vapor tastes of endings.
+    No animal presence recorded in or near the structure.  
+    Mist density and pool shape remain constant regardless of weather.  
+    Survey attempts show mild compass drift near the center.  
+    Underlayer architecture remains partially obscured by sediment and depth.

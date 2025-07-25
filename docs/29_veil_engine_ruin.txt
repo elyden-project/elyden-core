@@ -1,41 +1,42 @@
-RUIN  
-    Veil Engine
+NAME  
+    veil_engine_ruin − radial stone-and-alloy spire formation with spiral wind-channel geometry
 
-CONSTRUCTION  
-    A cluster of thin, tapering spires arranged in a spiral or partial arc,  
-    built from white-gold alloy and porous stone.  
-    Each spire has a hollow core—cut with ridged inlets that capture wind.  
-    Some lean sharply, others stand upright, yet none have toppled.  
-    Their tips fracture light, casting broken halos even in still air.
+DESCRIPTION  
+    A formation of thin tapering spires arranged in a spiral or arc pattern.  
+    Each spire is constructed of a pale porous stone alloyed with white-gold material.  
+    Hollow inlets run through their cores, aligned to prevailing wind corridors.  
+    The terrain surrounding the structure exhibits curved wind paths and minor vegetation distortion.  
+    No toppling spires have been recorded despite sharp lean angles and fractured tips.
 
-SURFACE SIGNS  
-    • Wind shifts when walking near—changes pitch and direction  
-    • Surrounding vegetation forms irregular spiral growth patterns  
-    • Dust trails curve as if caught in invisible gyres  
-    • Stone at base hums faintly if leaned upon during gusts  
-    • Wildlife scat absent; no nesting or droppings within 30 paces
+STRUCTURAL PROPERTIES  
+    • formation type: spiral spire array  
+    • height range: 2–7 meters  
+    • material: porous limestone composite with metal trace banding  
+    • inlet design: ridged vertical bore, variable diameter  
+    • base alignment: irregular but radially consistent
+
+SURFACE TRAITS  
+    • dust movement follows non-linear swirling trails  
+    • fine white residue accumulates around spire bases  
+    • surrounding flora bends away from central spiral axis  
+    • ambient wind pitch alters while moving through arc  
+    • nesting, waste, and animal activity are absent within known range
 
 INTERIOR FEATURES  
-    • Hollow channels draw in wind—even when ambient air is calm  
-    • Entering the center of the spiral deadens all ambient sound  
-    • Small objects left inside are often relocated without visible cause  
-    • Listening into a spire returns fragmented echoes—not your own voice  
-    • Stone residue collects at base—powdery and pale
+    • core inlets remain clear of obstruction regardless of wind speed  
+    • sound dampening observed within central spiral area  
+    • reflected echoes within spires are layered and directionally inconsistent  
+    • small displaced objects found collected near spiral center  
+    • soil beneath spiral structure is dry and unusually compacted
 
-DANGERS  
-    • Sudden gusts may knock down the unbalanced or unwary  
-    • Prolonged time in the spiral center may induce vertigo or dream flashes  
-    • Gusts can strip warmth faster than expected—frostbite risk  
-    • Broken spire tips fall silently and without warning  
-    • In high wind, resonance can cause headaches, nosebleeds
-
-FRAGMENT INTERACTION  
-    Amulet hums in high frequency when wind enters from opposite direction.  
-    Held near an inlet, its sound amplifies faintly—feedback loop impossible to record.  
-    After leaving, wearer sometimes experiences distorted memory of direction traveled.
+MATERIAL STABILITY  
+    • broken tip segments found within spiral perimeter  
+    • exposed alloy striations resist corrosion  
+    • porous stone softens in moisture but hardens when dry  
+    • overall structure remains upright despite erosion and wind loading
 
 NOTES  
-    The Veil Engine does not store wind.  
-    It remembers the passage of air and returns it fractured.  
-    This is where the Air Moon once whispered commands to the ground.  
-    Now only half the message remains.
+    Wind behavior through the structure is variable but non-cyclic.  
+    Acoustic anomalies are consistent across all recorded spiral instances.  
+    No biological colonization recorded inside structural bounds.  
+    Orientation remains constant across known field sites regardless of terrain grade.

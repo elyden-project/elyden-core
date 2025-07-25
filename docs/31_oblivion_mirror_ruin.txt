@@ -1,42 +1,42 @@
-RUIN  
-    Oblivion Mirror
+NAME  
+    oblivion_mirror_ruin − embedded reflective disc of unknown material set into frozen terrain
 
-CONSTRUCTION  
-    A flat disc of black stone or frozen water, perfectly circular,  
-    embedded at surface level into glacier, tundra shelf, or high-altitude crater.  
-    Diameter varies between 3 to 9 meters. Surface appears reflective,  
-    but shows no clouds, trees, or living forms—only stars.  
-    Stars do not match Elyden’s sky. They do not move.
+DESCRIPTION  
+    A circular reflective disc located in glacial shelves, tundra flats, or crater basins.  
+    Constructed of black stone or vitrified ice, flush with the surface.  
+    Diameter ranges from 3 to 9 meters.  
+    The disc reflects a consistent static starfield, unrelated to Elyden’s sky.  
+    No living forms or atmospheric elements appear in the reflection.
 
-SURFACE SIGNS  
-    • Area surrounding the mirror is quiet—snow muffles too much  
-    • Ice crust around edge remains smooth, never cracked or stepped upon  
-    • No animal prints cross the perimeter, even in deep snow  
-    • Approaching the mirror causes skin to prickle, regardless of cold  
-    • Reflected sky is always night, even at noon
+STRUCTURAL PROPERTIES  
+    • shape: perfect circle  
+    • material: vitrified surface (composition unknown)  
+    • embedded flush with terrain  
+    • location: glacier, tundra, or high-altitude crater  
+    • elevation: matches surrounding terrain
 
-INTERIOR FEATURES  
-    • No structure—only the disc  
-    • Throwing objects onto surface results in dull, soundless landing  
-    • Items left atop vanish by next dusk, without trace  
-    • Mirror sometimes “blinks”—a brief black-out and return  
-    • Reflected stars shift slightly every new moon
+SURFACE TRAITS  
+    • ice rim remains unbroken, even in tracked snow  
+    • no fauna activity within observed radius  
+    • surface shows no condensation or frost accumulation  
+    • sky in reflection is fixed to nocturnal star pattern  
+    • ambient noise reduced by surface absorption
 
-DANGERS  
-    • Staring too long induces visual noise or false movement  
-    • Some travelers report a voice—not heard, but recalled  
-    • On rare occasions, people reflected do not match current posture  
-    • Entering the disc’s center barefoot causes frostbite in seconds  
-    • No sound emitted from within 2 meters registers to those outside
+INTERFACE ZONE  
+    • contact with surface produces no auditory return  
+    • thrown objects make no rebound or sound upon impact  
+    • items left on surface disappear by next light cycle  
+    • occasional dimming observed across entire disc plane  
+    • reflected stars do not correlate with local constellations
 
-FRAGMENT INTERACTION  
-    Amulet freezes instantly when lowered to surface—frost forms on chain.  
-    Holding it over the reflection causes star points to slowly drift  
-    and form patterns not visible in any recorded sky chart.  
-    Pattern fades once amulet is moved.
+MATERIAL STABILITY  
+    • no tool marks, fracture lines, or measurable texture  
+    • material does not retain thermal imprint  
+    • surrounding substrate remains frozen and undisturbed  
+    • perimeter supports foot traffic without surface impact
 
 NOTES  
-    The mirror is not broken. It simply no longer reflects us.  
-    This is not the past or the future, but the absence of presence.  
-    The stars it shows may be our own, seen from elsewhere—  
-    or someone else's, seen from here.
+    Reflection is invariant regardless of viewer position or light conditions.  
+    No internal geometry or subsurface material has been recorded.  
+    Disc positions vary across elevations but maintain form and alignment.  
+    Function and origin remain unclassified; observed characteristics are repeatable.

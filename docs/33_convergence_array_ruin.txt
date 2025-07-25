@@ -1,42 +1,42 @@
-RUIN  
-    Convergence Array
+NAME  
+    convergence_array_ruin − triangular obsidian lens formation embedded in low basin terrain
 
-CONSTRUCTION  
-    A wide, shallow valley containing three obsidian lenses,  
-    each embedded into a distinct rise—forming a perfect equilateral triangle.  
-    Lenses are half-buried, mirror-black, and nearly frictionless.  
-    No markings, no frame. Beneath each lies a hollow chamber,  
-    inaccessible except through seismic collapse.  
-    The soil between them carries no seed, no track, no echo.
+DESCRIPTION  
+    A symmetrical three-point structure situated in shallow valleys or flattened plains.  
+    Composed of three obsidian lenses, partially buried into separate mounds, aligned in an equilateral triangle.  
+    Each lens is smooth, dark, and shows no etching, mounting, or supporting framework.  
+    The region between lenses is bare and lacks plant growth, tracks, or acoustic return.  
+    Subsurface voids are presumed beneath each lens but remain inaccessible under normal conditions.
 
-SURFACE SIGNS  
-    • Approaching one lens triggers headaches or a sudden chill  
-    • Birds appear to fly around the array in wide arcs, never over  
-    • Wind swirls unpredictably when standing between two lenses  
-    • Sound inside the triangle is often mislocalized—origin unclear  
-    • Small stones sometimes roll uphill when placed near center
+STRUCTURAL PROPERTIES  
+    • arrangement: equilateral triangle  
+    • composition: frictionless obsidian lenses  
+    • lens embedment: partial, no visible seam or anchoring  
+    • region: low valley floors or collapsed hardpan  
+    • spacing: uniform between all three points
+
+SURFACE TRAITS  
+    • surface wind patterns shift between lenses  
+    • dust settles unevenly within triangle  
+    • site lacks animal tracks or seed dispersal  
+    • topsoil carries no echo return under impact  
+    • small stones sometimes shift alignment on their own
 
 INTERIOR FEATURES  
-    • Lenses cannot be moved, etched, or blackened  
-    • Occasionally reflect stars not visible above  
-    • Digging near lenses reveals shallow, sharp-edged strata  
-    • During lunar alignments, dust rises in vertical columns  
-    • Center of triangle forms a slight depression—warm to the touch
+    • subsurface beneath lenses is stratified with sharp mineral layering  
+    • central depression observed within triangular center  
+    • lens surfaces reflect selectively, inconsistent with sky position  
+    • no visible entrance or penetration into structural mass  
+    • surrounding soil appears compressed without pressure source
 
-DANGERS  
-    • Prolonged stay within array may cause time disorientation  
-    • Shadows fall in inconsistent directions—sun path altered  
-    • Glass or crystal fractures when brought too close  
-    • Livestock led through return agitated or refuse to eat  
-    • Voices heard from beneath, indistinct but patterned
-
-FRAGMENT INTERACTION  
-    Amulet flickers in and out of sensation when carried around the triangle.  
-    Standing in the exact center causes both a pulse and pressure—  
-    faint but unmistakable. No light, no change in color, no response if buried.
+MATERIAL STABILITY  
+    • lenses resist fracture, impact, and thermal variation  
+    • structure shows no response to contact or attempted marking  
+    • no organic material adheres to lens surface  
+    • exposed sections show no change across weather cycles
 
 NOTES  
-    The array was not built. It was aligned.  
-    Not to focus light or sound—but purpose.  
-    When the moons cross paths above, the ground does not remember names,  
-    but it remembers angles.
+    The array is consistent in alignment across all documented instances.  
+    Obsidian elements do not correspond to local geological types.  
+    Center zone displays topological regularity without mechanical features.  
+    Purpose and origin remain undetermined by field observation.

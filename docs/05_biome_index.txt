@@ -1,6 +1,3 @@
-NAME  
-    biome_index − known environments inside the sealed valley
-
 DESCRIPTION  
     The following biomes are confirmed within the sealed valley.  
     Each is an independent domain with distinct terrain and conditions.  
@@ -12,20 +9,23 @@ DESCRIPTION
 INDEX  
     • 🌾 plains (p)  
     • 🪨 small hills (h)  
-    • ⛰️ steep hills (g)  
+    • 🗻 steep hills (H)  
     • 🌲 evergreen forest (e)  
-    • 🪵 dead forest (f)  
+    • 🌳 deep evergreen forest (E)  
+    • 🍁 deciduous forest (d)  
+    • 🎋 deep deciduous forest (D)  
+    • 🪵 mixed forest (f)  
     • 🌊 river (r)  
-    • 🪱 bog (b)  
-    • 🪷 wetland (w)  
+    • 🌼 meadow (m)  
+    • 🎍 deep meadow (M)  
     • 🐚 swamp (s)  
-    • 🏖️ coastal basin (c)  
-    • 🧂 salt cracks (k)  
-    • 🌋 valley (v)  
-    • 🧊 glacial belt (l)  
-    • ❄️ tundra (t)  
-    • 🕳️ crater (d)  
-    • 📉 impact shelf (m)  
-    • 🌵 dry basin (a)  
-    • 🪨 canyon (n)  
-    • 🏛️ sunken ruins (u)
+    • 🪷 lake (~)  
+    • 🏔️ unclimbable mountains (^)  
+    • ❄️ ice (i)  
+    • 🌫️ tundra (t)  
+    • 🧊 glacier (g)  
+    • 🏜️ badlands (z)
+NOTES  
+    • Each entry corresponds exactly to biome source files 06–23  
+    • Icons are visual only—do not affect traversal, resource yield, or simulation behavior  
+    • Short-form ASCII keys are authoritative for biome mapping and world logic

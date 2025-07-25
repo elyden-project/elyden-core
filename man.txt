@@ -1,92 +1,79 @@
 
 %%% 00.txt %%%
 
-00.txt                           Elyden Survival Codex                           00.txt
+00                           Elyden Survival Codex                           00
 
 NAME  
-    00.txt − master reference index of Elyden simulation source files
+    00 − master reference index of Elyden simulation source files
 
 DESCRIPTION  
-    This file maps all original content files (01–49.txt) to their content domains,  
+    This file maps all original content files (01–49) to their content domains,  
     supporting reclassification, renaming, and modular access.
 
 FILE MAP  
-    01.txt  — Collapse Overview  
-              → The Collapse, Vaeronth’s fall, system decay, fragment interference
+    Index of canonical source files for Elyden survival simulation.  
+    Each entry is sorted by page number, filename, and descriptive scope.  
+    Filenames are system references only; page numbers are simulation-internal.  
 
-    02.txt  — Sealed Valley  
-              → Isolated biome mechanics, thermal wall, ecological shift
+    [pagenum] - [filename] - description
 
-    03.txt  — Celestial Bodies  
-              → Aurenzae, six moons, lunar rhythms, survival influence
-
-    04.txt  — Fragments  
-              → Lunar shard behavior, pressure anomalies, amulet effects
-
-    05.txt  — Biome Index Summary  
-              → Terrain classification, symbols, function overview
-
-    06.txt  — Plains Biome  
-    07.txt  — Small Hills Biome  
-    08.txt  — Steep Hills Biome  
-    09.txt  — Evergreen Forest Biome  
-    10.txt  — Deep Evergreen Forest Biome  
-    11.txt  — Deciduous Forest Biome  
-    12.txt  — Deep Deciduous Forest Biome  
-    13.txt  — Mixed Forest Biome  
-    14.txt  — River Biome  
-    15.txt  — Meadow Biome  
-    16.txt  — Swamp Biome  
-    17.txt  — Deep Meadow Biome  
-    18.txt  — Lake Biome  
-    19.txt  — Unclimbable Mountains Biome  
-    20.txt  — Ice Biome  
-    21.txt  — Tundra Biome  
-    22.txt  — Glacier Biome  
-    23.txt  — Badlands Biome  
-              → Full terrain breakdowns, flora/fauna, survival logic
-
-    24.txt  — Ruins Index  
-    25.txt  — Auren Core Ruin  
-    26.txt  — Earthscript Vault Ruin  
-    27.txt  — Vulcan Chamber Ruin  
-    28.txt  — Mist Basin Ruin  
-    29.txt  — Veil Engine Ruin  
-    30.txt  — Spall Halo Ruin  
-    31.txt  — Oblivion Mirror Ruin  
-    32.txt  — Anti-Life Bulb Ruin  
-    33.txt  — Convergence Array Ruin  
-    34.txt  — Null Step Ruin  
-              → Celestial structures, ruin traits, shard interaction, amulet distortion
-
-    35.txt  — Characters  
-    36.txt  — Mirrane  
-    37.txt  — Thea  
-    38.txt  — Starting Gear  
-    39.txt  — Inventory Limits  
-    40.txt  — Progression  
-              → Role traits, gear logic, growth through survival
-
-    41.txt  — Survival Behavior  
-    42.txt  — Amulet Behavior  
-    43.txt  — Control Model  
-    44.txt  — Combat Scope  
-    45.txt  — Sensory Priority  
-    46.txt  — Crafting  
-    47.txt  — Fragments  
-    48.txt  — Shards  
-    49.txt  — Ruins  
-              → Simulation loop systems; biome, resonance, and death logic
+    01  - 01_origin_event              - The Collapse, Vaeronth’s fall, system decay  
+    02  - 02_sealed_valley             - Tectonic isolation, ecosystem enclosure  
+    03  - 03_celestial_bodies          - Aurenzae, lunar structure, orbital effects  
+    04  - 04_fragments                 - Vaeronth remnants, terrain anomalies  
+    05  - 05_biome_index               - Terrain classification and key assignments  
+    06  - 06_plains_biome              - Open terrain with low resistance and minimal cover  
+    07  - 07_small_hills_biome         - Low elevation rise with mixed sediment and vegetation  
+    08  - 08_steep_hills_biome         - Elevated ridgelines with exposed mineral and tree growth  
+    09  - 09_evergreen_forest_biome    - Densely wooded terrain with partial canopy and persistent moisture  
+    10  - 10_deep_evergreen_forest_biome - Overgrown, sunless terrain with high biological density  
+    11  - 11_deciduous_forest_biome    - Seasonal broadleaf terrain with soft undergrowth and high forage yield  
+    12  - 12_deep_deciduous_forest_biome - Dense, aged forest with decayed growth and limited light  
+    13  - 13_mixed_forest_biome        - Transitional forest zone with coniferous and deciduous overlap  
+    14  - 14_river_biome               - Freshwater corridor with variable depth and riparian vegetation  
+    15  - 15_meadow_biome              - Open grassland with high light exposure and minimal cover  
+    16  - 16_swamp_biome               - Wetland basin with anaerobic decay and shifting ground  
+    17  - 17_deep_meadow_biome         - Dense overgrowth with poor visibility and acoustic distortion  
+    18  - 18_lake_biome                - Freshwater basin with geothermal influence and stable margins  
+    19  - 19_unclimbable_mountains_biome - Extreme vertical terrain with fractured stone and wind shear  
+    20  - 20_ice_biome                 - Exposed frozen flats with refraction and low biomass  
+    21  - 21_tundra_biome              - Cold plains with shallow root depth and seasonal thaw  
+    22  - 22_glacier_biome             - Elevated ice shelf with unstable footing and meltwater channels  
+    23  - 23_badlands_biome            - Sun-blasted terrain with high erosion and lethal exposure  
+    24  - 24_ruins_index               - Ruin classification and sorting key  
+    25  - 25_auren_core_ruin           - Core destabilization chamber  
+    26  - 26_earthscript_vault_ruin    - Subterranean library and collapse vault  
+    27  - 27_vulcan_chamber_ruin       - Volcanic nexus under fracture plate  
+    28  - 28_mist_basin_ruin           - Low-visibility basin with suspended dustfall  
+    29  - 29_veil_engine_ruin          - Flow regulator with nonfunctional barriers  
+    30  - 30_spall_halo_ruin           - Crater ring saturated with shard bleed  
+    31  - 31_oblivion_mirror_ruin      - Reflective basin of collapsed memory  
+    32  - 32_anti_life_bulb_ruin       - Non-sustaining void architecture  
+    33  - 33_convergence_array_ruin    - Gravitic node interfacing aligned shards  
+    34  - 34_null_step_ruin            - Spatial discontinuity platform  
+    35  - 35_characters                - Indexed personae and dialogue logic  
+    36  - 36_mirrane                   - Player identity container  
+    37  - 37_thea                      - Companion behavior and sensory extension  
+    38  - 38_starting_gear             - Default loadout and survival start state  
+    39  - 39_inventory_limits          - Carry weight and slot enforcement  
+    40  - 40_progression               - Role traits and environmental interaction rules  
+    41  - 41_survival_behavior         - Threats, shelter use, traversal effects  
+    42  - 42_amulet_behavior           - Pressure response, pulse resonance  
+    43  - 43_control_model             - Input filtering and action queue control  
+    44  - 44_combat_scope              - Allowed conflict systems and limits  
+    45  - 45_sensory_priority          - What is perceived first and how  
+    46  - 46_crafting                  - Material combination and structure rules  
+    47  - 47_fragments                 - World-embedded shard systems  
+    48  - 48_shards                    - Collectible shard taxonomy and resonance states  
+    49  - 49_ruins                     - Ruin integration logic and traversal behavior
 
 NOTES  
     This index governs all file classifications for Elyden’s world logic.  
-    Structure mirrors the system’s own fragmentation.  
-    Use this to maintain file naming consistency across biome, ruin, and behavior maps.
+    Structure reflects functional segmentation by domain.  
+    Use this file to maintain reference integrity across all documents.
 
 FILES  
     BIOMES(5), CHARACTERS(5), RUINS(5), FRAGMENTS(5), CRAFTING(5)
-
-Elyden                                  July 2025                                  00.txt
 
 %%% 01_origin_event.txt %%%
 
@@ -248,9 +235,6 @@ FILES
 
 %%% 05_biome_index.txt %%%
 
-NAME  
-    biome_index − known environments inside the sealed valley
-
 DESCRIPTION  
     The following biomes are confirmed within the sealed valley.  
     Each is an independent domain with distinct terrain and conditions.  
@@ -262,24 +246,26 @@ DESCRIPTION
 INDEX  
     • 🌾 plains (p)  
     • 🪨 small hills (h)  
-    • ⛰️ steep hills (g)  
+    • 🗻 steep hills (H)  
     • 🌲 evergreen forest (e)  
-    • 🪵 dead forest (f)  
+    • 🌳 deep evergreen forest (E)  
+    • 🍁 deciduous forest (d)  
+    • 🎋 deep deciduous forest (D)  
+    • 🪵 mixed forest (f)  
     • 🌊 river (r)  
-    • 🪱 bog (b)  
-    • 🪷 wetland (w)  
+    • 🌼 meadow (m)  
+    • 🎍 deep meadow (M)  
     • 🐚 swamp (s)  
-    • 🏖️ coastal basin (c)  
-    • 🧂 salt cracks (k)  
-    • 🌋 valley (v)  
-    • 🧊 glacial belt (l)  
-    • ❄️ tundra (t)  
-    • 🕳️ crater (d)  
-    • 📉 impact shelf (m)  
-    • 🌵 dry basin (a)  
-    • 🪨 canyon (n)  
-    • 🏛️ sunken ruins (u)
-
+    • 🪷 lake (~)  
+    • 🏔️ unclimbable mountains (^)  
+    • ❄️ ice (i)  
+    • 🌫️ tundra (t)  
+    • 🧊 glacier (g)  
+    • 🏜️ badlands (z)
+NOTES  
+    • Each entry corresponds exactly to biome source files 06–23  
+    • Icons are visual only—do not affect traversal, resource yield, or simulation behavior  
+    • Short-form ASCII keys are authoritative for biome mapping and world logic
 %%% 06_plains_biome.txt %%%
 
 NAME  

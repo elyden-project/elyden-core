@@ -1,42 +1,42 @@
-RUIN  
-    Spall Halo
+NAME  
+    spall_halo_ruin − suspended debris ring formed from lunar fragmentation above scorched terrain
 
-CONSTRUCTION  
-    A low-gravity anomaly where debris from the shattered Magic Moon  
-    continues to orbit above a fixed point—irregularly spaced, silently rotating.  
-    Fragments vary in size from fist-sized shards to house-sized slabs.  
-    None cast shadows; they emit no heat and bear no markings.  
-    Below, a wide ring of scorched earth curves outward—barren and bone-dry.
+DESCRIPTION  
+    An open-air zone where fractured orbital debris remains suspended in irregular rotation above a barren ground ring.  
+    The debris consists of stone and composite material ranging from 0.2 to 4 meters in scale.  
+    Ground beneath the halo is scorched, convex, and devoid of vegetation or dust deposition.  
+    Suspended fragments do not emit light, shadow, or measurable heat.  
+    Area remains quiet, with reduced wind and acoustic distortion near the center.
 
-SURFACE SIGNS  
-    • The sky appears slightly warped when viewed directly overhead  
-    • Sound dulls noticeably when stepping beneath the orbital path  
-    • Birds veer away long before reaching the outer ring  
-    • Dust never settles within the circle—wind patterns fail entirely  
-    • Ground temperature fluctuates by season, but not by time of day
+STRUCTURAL PROPERTIES  
+    • spatial type: aerial orbit fragment ring  
+    • ground form: outward-curved ring, scorched surface  
+    • suspended mass: irregular debris, height varies  
+    • debris motion: slow axial drift, non-uniform  
+    • symmetry: loosely radial, no fixed axis
+
+SURFACE TRAITS  
+    • ambient sound levels reduced within perimeter  
+    • avian life avoids approach  
+    • wind fails within 3-meter radius of core  
+    • dust accumulation absent inside ring boundary  
+    • light diffusion altered directly above focal point
 
 INTERIOR FEATURES  
-    • No entry structure—the Halo is open to the sky  
-    • Some fragments shift position without visible force  
-    • Gravity changes subtly near each shard—enough to alter walking pace  
-    • Voices echo differently inside the ring—delayed, layered  
-    • No visible connection exists between the floating shards
+    • no constructed structure; site is fully open to sky  
+    • some fragments shift laterally over time  
+    • minor gravitational offset zones detected beneath larger shards  
+    • reflected sound delays present at central ring  
+    • no visible tethering or field projection observed
 
-DANGERS  
-    • Standing under larger fragments for long periods induces vertigo  
-    • Sudden fragment descent has occurred—documented once, unrepeated  
-    • Amulets pulse erratically, sometimes faint, sometimes painful  
-    • Minor equipment malfunctions: compasses fail, tools seize briefly  
-    • Eyes may water or feel dried when looking directly at the fragments
-
-FRAGMENT INTERACTION  
-    Amulet emits a steady pulse when aligned beneath a specific shard.  
-    Stepping out of alignment ceases all sensation.  
-    No energy discharge, no light—just rhythm.  
-    If left inside the ring alone, some report hearing static “behind the skull.”
+MATERIAL STABILITY  
+    • fragment surfaces unmarked and non-reflective  
+    • occasional fragment descent recorded in field logs  
+    • terrain supports no structural overgrowth or water pooling  
+    • equipment calibration may require adjustment inside ring zone
 
 NOTES  
-    The Halo is not a ruin. It is an orbit that forgot its center.  
-    Shards remember their shape, but not their purpose.  
-    They float, not by power, but by consequence.  
-    This is what happens when a moon breaks—not shatters—but weeps.
+    Fragments are assumed to originate from lunar detonation event.  
+    No mechanism currently explains sustained suspension.  
+    Site behavior remains stable over multi-season observation.  
+    Ring does not conform to architectural ruin classification.

@@ -1,43 +1,40 @@
-RUIN  
-    Auren Core
+NAME  
+    auren_core_ruin − vertical monolith structure aligned with radial vitrification
 
-CONSTRUCTION  
-    A single vertical monolith between five and nine meters tall,  
-    built from red-black fused material not found elsewhere in Elyden.  
-    The surface is warm to the touch at midday, cold at dawn.  
-    Hollow core tunnels through vertically—narrow, smooth, seamless.  
-    Appears to have been quarried and erected post-cataclysm.  
-    Surrounding soil is vitrified in a radial starburst pattern.
+DESCRIPTION  
+    A solitary upright structure found in dry basins or exposed hardpan.  
+    Built from red-black fused material not found elsewhere in the sealed valley.  
+    The core is hollowed vertically by a narrow, seamless shaft.  
+    Surrounding soil is vitrified outward in a radial starburst.  
+    Structure is fixed and does not exhibit any movement or alteration.
 
-SURFACE SIGNS  
-    • Partial submersion in hardpan or dry basin  
-    • No inscriptions, but fluted bands near base catch fine dust  
-    • Sunlight angles cause strong flare when viewed from distance  
-    • Birds avoid landing on it; no nests or droppings  
-    • Ground often completely dry within a three-meter radius
+STRUCTURAL PROPERTIES  
+    • height: 5–9 meters  
+    • profile: monolithic, taperless  
+    • material: vitrified composite, origin unknown  
+    • core: internal bore, narrow and smooth  
+    • base interface: embedded directly in substrate without foundation
 
-INTERIOR FEATURES  
-    • Core is passable by a thin shaft, barely wide enough to reach in  
-    • Internal temperature shifts with time of day, not weather  
-    • Stone produces no echo when struck—absorbs sound entirely  
-    • Dust that enters is never expelled; no wind reaches inside
+SURFACE TRAITS  
+    • no inscriptions present  
+    • fluted lower bands collect windblown dust  
+    • flare reflection observed during specific sun angles  
+    • dry zone typically extends 3 meters from base  
+    • avian activity absent; no signs of perching or nesting
 
-DANGERS  
-    • Exposed position offers no shelter from heat or cold  
-    • Lightning strikes in storms favor the monolith with uncanny precision  
-    • Wildlife activity is absent in a wide perimeter  
-    • Standing too long within the flare shadow induces nausea or vertigo  
-    • Stone chips cannot be broken off—tools fracture first
+THERMAL CHARACTERISTICS  
+    • exterior temperature varies with diurnal cycle  
+    • interior remains sheltered from wind and airborne particles  
+    • no measurable echo response from interior shaft  
+    • surface shows no water retention
 
-FRAGMENT INTERACTION  
-    The girl's amulet vibrates faintly when within arm’s reach of the shaft.  
-    No light, no pull, no heat—only a subtle pressure in the chest.  
-    Prolonged contact makes the amulet hum against the skin  
-    and then stop, as if holding breath.
+MATERIAL STABILITY  
+    • surface resists tool damage; direct impact fractures tools  
+    • stone chips cannot be extracted by mechanical force  
+    • lightning strike marks observed during storm events
 
 NOTES  
-    The Auren Core predates speech, settlement, or survival.  
-    It does not offer warmth, nor deny it. It remains.  
-    The red sun moves across its face in a strict path—never shadowed.  
-    Some say five more cores exist, but none have been mapped.  
-    It does not respond to prayer, only presence.
+    No direct correlation confirmed between this structure and fragment activity.  
+    No inscriptions, language, or orientation markers have been identified.  
+    Multiple field reports describe identical structures, though unmapped.  
+    Current interpretations remain limited to material and positional data.
