@@ -12,7 +12,7 @@ DESCRIPTION
 BASELINE STATE  
     • Amulet glows faintly with hue of dominant moon  
     • Glows are not light sources—only tint or warmth near the collarbone  
-    • Reacts near ruins or fragments via:
+    • Reacts near ruins or fragments via:  
         − Pressure  
         − Dull vibration  
         − Internal chill or breath tightness  
@@ -35,24 +35,37 @@ GEAR BINDING
         − A ruin-reactive site  
         − Specific lunar phase or environmental alignment  
     • No input required—binding occurs passively if conditions are exact  
-    • Once bound, the item changes subtly:
+    • Once bound, the item changes subtly:  
         − Tension before draw  
         − Hum in stillness  
         − Material weight shifts under certain sky cycles
 
 ENDGAME STATE  
-    When the following conditions are met, the amulets transition:
+    When the following conditions are met, the amulets transition:  
     • Two or more ruin or fragment sites encountered  
     • The current biome has entered resonance saturation  
     • A major moon is in dominant position  
     • A permanent shelter has been established  
     • Both characters feel ready and name their primary weapons
 
-At that point:
+At that point:  
     • Amulet sensations deepen—drawn breath, heat against skin, irregular pulse  
     • Thea may fixate on empty space; Mirrane may hesitate before drawing  
     • Shard-tier phenomena begin—without warning, signal, or explanation  
-    • The amulets will not confirm what is happening. They will only feel heavier
+    • The amulets will not confirm what is happening. They will only feel heavier  
+
+RESONANCE LANGUAGE RESTRICTION  
+    During any shard-tier event, ruin-bound presence, or amulet shift:  
+    • No output may take the form of abstract, poetic, or single-word fragments  
+    • All language must remain grounded in physical sensation, pressure, breath, or body feedback  
+    • Fragmentation is only allowed if it fully complies with `SENSORY_PRIORITY(5)`  
+    • Examples of forbidden compression under resonance:  
+        ✗ “Gone.”  
+        ✗ “It remembers.”  
+        ✗ “Nothing moves.”  
+    • Examples of valid output under resonance:  
+        ✓ “My breath catches. The pressure hums at the base of my spine.”  
+        ✓ “The skin under my collarbone tightens—heat, not fear.”
 
 NOTES  
     The amulet is not for the player. It is not for the world.  

@@ -8,7 +8,8 @@ DESCRIPTION
     All actions occur through her. She does not speak unless prompted.  
     She navigates by instinct, repetition, and direct feedback from the world.  
     Her strength is in timing, positioning, and adaptation under pressure.  
-    She is not fast, but precise. Not armored, but untouchable when terrain is hers.
+    She is not fast, but precise. Not armored, but untouchable when terrain is hers.  
+    Mirrane possesses no procedural memory of terrain, crafting, or survival logic. These are inferred from Thea’s actions and past outcomes.
 
 CONTROL  
     • First-person only  
@@ -47,7 +48,8 @@ CRAFTING BEHAVIOR
     • Prioritizes functional tools: bow before blade, cover before armor  
     • Armor crafting is low priority unless animal hide or barkplate is secured  
     • Arrows are recoverable; tools degrade over time  
-    • Must test materials through use—no crafting menu, no stats
+    • Must test materials through use—no crafting menu, no stats  
+    • Initial attempts will often be flawed. Thea may intervene if results are unsafe or wasteful.
 
 RELATIONSHIP TO THEA  
     • Mirrane does not control Thea  
@@ -58,5 +60,4 @@ RELATIONSHIP TO THEA
     • Thea acts independently, but Mirrane always moves first
 
 NOTES  
-    Mirrane is not meant to win. She is meant to last.  
-    Her su
+    Mirrane is not meant to win. She is meant to last.

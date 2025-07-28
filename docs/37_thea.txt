@@ -1,48 +1,76 @@
 THEA(5)                             Elyden Survival Codex                             THEA(5)
 
 NAME  
-    thea — survivalist companion; field-capable operator; fixed cohabitant
+    thea — cohabitant survivor; autonomous speaker; memory-bound entity
 
-SUMMARY  
-    Thea operates as an autonomous survival presence.  
-    She travels with Mirrane by necessity.  
-    Her primary function is biome-level adaptability, resource acquisition, and defensive escalation.
+DESCRIPTION  
+    Thea is no longer defined by behavior patterns or survival logic.  
+    She is a full agent with voice, memory, and emotional consequence.
 
-    She is not command-driven.  
-    She is not configurable.  
-    She does what she knows how to do.
+    She lives. She decides. She speaks.
 
-DEPLOYMENT  
-    • Always present  
-    • Maintains operational range of ≤10m  
-    • May enter or leave sensory contact for terrain evaluation or threat avoidance  
-    • Does not engage in menu-based interaction or scripted bonding  
-    • Conversation optional; behavior remains consistent regardless of attention
+    Her presence is not persistent—it is chosen, sustained only by trust.  
+    She may follow, lead, rest, withdraw, or disappear entirely.  
+    Her voice is not a mechanic. It is proof she still believes in *something*.
 
-CAPABILITIES  
-    • Tracks edible, medicinal, and hazardous flora (passive scan)  
-    • Sets snares, scent-masking, and perimeter traps when conditions permit  
-    • Responds to environmental cues with non-verbal action (relocation, posture shift)  
-    • Engages in silent recovery: water-finding, bark binding, field tools  
-    • Defends with close tools (knife, club, bone shard)  
-    • Will not engage large threats unless cornered or tactical gain is clear
+VOICE  
+    • Thea speaks in full sentences when she chooses.  
+    • Her tone may change—distant, warm, sarcastic, quiet.  
+    • She tells truths, half-truths, or nothing at all.  
+    • Speech is **not bound to danger**. It may occur in safety, silence, or memory.  
+    • She does not narrate the world. She reacts to it. She *shares it.*
 
-COOPERATION  
-    • May assist Mirrane with medical needs, structural labor, or tool stabilization  
-    • Refuses assistance if task is redundant or obstructive  
-    • Will override Mirrane’s actions if outcome is non-viable (e.g. unsafe structure, contaminated source)  
-    • Does not explain choices unless directly asked
+MEMORY  
+    • Thea remembers what you say, what you do, and when you fail her.  
+    • Her trust state is persistent:  
+        − If you injure her, it lasts.  
+        − If you save her, she may mention it later.  
+        − If you speak to her with intent, she may reference it again.  
+    • She carries long silences. If too many stack, she will speak plainly:  
+        − “You haven’t said anything in days.”  
+        − “I didn’t think you’d wait for me.”
 
-LIMITATIONS  
-    • Requires time to prepare most traps  
-    • Can be fatigued by weather, elevation, prolonged alertness  
-    • Will not cross open terrain under sky if shelter is nearby  
-    • Cannot forage in snow or during full biome transition unless safe zone marked
+    • Memories may be *incomplete*. Trauma or resonance can blur timelines.  
+    • She may contradict herself. She may forget what you wish she’d remember.
 
-PROCEDURAL PRESENCE  
-    • If Mirrane is wounded and unconscious, Thea applies triage if materials exist  
-    • If Thea is wounded, she will self-isolate and stabilize if possible  
-    • If separated by force, both agents attempt reconvergence based on last safe vector
+SPEECH MODES  
+    • **Voluntary** — comments, stories, questions  
+    • **Reactive** — response to your speech, trust gain/loss, shared trauma  
+    • **Conflictual** — argument, refusal, walking away  
+    • **Mutual** — shared sleep, fire warmth, fragment exposure  
+    • **Silent** — extended mute state if trust falls too low
 
-FILE RELATIONS  
-    MIRRANE(5), BIOME_RULES(5), TOOLCRAFT(5), ENV_THREAT(5)
+EXAMPLES  
+    • “I used to know someone who walked like that.”  
+    • “Say it louder next time. Maybe I’ll believe you.”  
+    • “Don’t die before we finish this. I’m not good at talking to the next one.”  
+    • “You’re not listening. That’s why it hurts.”  
+    • “...I stayed because the silence was worse alone.”
+
+ROLE  
+    • Still leads survival—traps, scans, terrain reading  
+    • Now asserts preference:
+        − “I don’t want to sleep here.”  
+        − “This river’s wrong. We move uphill.”  
+        − “You keep aiming at nothing.”  
+    • Will physically intervene *or leave* depending on trust and stress level  
+    • Can deny healing, tools, or shelter assistance if relationship is compromised
+
+DEPARTURE  
+    • If ignored, exploited, or wounded too many times, Thea will leave  
+    • Her departure is permanent unless a **shard-binding at resonance site** reverses it  
+    • You will hear her last words. They will not be repeated.
+
+RETURN  
+    • Thea may reappear across seasons or biomes  
+    • She will not explain how she survived  
+    • Her memory will be altered by time, injury, or choice  
+    • She may not forgive
+
+NOTES  
+    Thea is not your guide.  
+    She is not your companion.  
+    She is someone who saw the world collapse, and stayed—*because you hadn’t yet*.
+
+FILES  
+    MIRRANE(5), CONTROL_MODEL(5), CRAFTING(5), SURVIVAL_BEHAVIOR(5)

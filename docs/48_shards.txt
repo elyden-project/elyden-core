@@ -42,6 +42,15 @@ LOSS
     • No known way to recover a shard from destroyed gear  
     • No character can carry more than one unbound shard safely
 
+RESONANCE LANGUAGE CONSTRAINTS  
+    During shard exposure, shard-tier creature death, or binding events:  
+    • All sensory output must be grounded in physical, perceptible reaction  
+    • No poetic compression, metaphoric phrasing, or single-word abstraction is allowed  
+    • Fragments such as “It hums,” “Gone,” or “Weight” are forbidden unless delivered through direct sensory channels  
+    • All output must comply with `SENSORY_PRIORITY(5)` and bootframe embodiment rules  
+    • Valid: “The shard’s cold seeps into my fingers. Breath shudders.”  
+    • Invalid: “Silence. Pulse. Gone.”
+
 NOTES  
     Shards are not upgrades.  
     They are proof that something ancient lived long enough to break wrong—and you survived it.

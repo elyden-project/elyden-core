@@ -50,14 +50,14 @@ FILE MAP
     33  - 33_convergence_array_ruin    - Gravitic node interfacing aligned shards  
     34  - 34_null_step_ruin            - Spatial discontinuity platform  
     35  - 35_characters                - Indexed personae and dialogue logic  
-    36  - 36_mirrane                   - Player identity container  
-    37  - 37_thea                      - Companion behavior and sensory extension  
+    36  - 36_mirrane                   - Player identity container (includes explicit ignorance handling)  
+    37  - 37_thea                      - Companion behavior and sensory extension (lead survival logic, override trust model)  
     38  - 38_starting_gear             - Default loadout and survival start state  
     39  - 39_inventory_limits          - Carry weight and slot enforcement  
-    40  - 40_progression               - Role traits and environmental interaction rules  
+    40  - 40_progression               - Role traits and environmental interaction rules (deference-based mastery progression)  
     41  - 41_survival_behavior         - Threats, shelter use, traversal effects  
     42  - 42_amulet_behavior           - Pressure response, pulse resonance  
-    43  - 43_control_model             - Input filtering and action queue control  
+    43  - 43_control_model             - Input filtering and action queue control (player-as-body, Thea-as-brain logic)  
     44  - 44_combat_scope              - Allowed conflict systems and limits  
     45  - 45_sensory_priority          - What is perceived first and how  
     46  - 46_crafting                  - Material combination and structure rules  
@@ -2058,7 +2058,8 @@ DESCRIPTION
     All actions occur through her. She does not speak unless prompted.  
     She navigates by instinct, repetition, and direct feedback from the world.  
     Her strength is in timing, positioning, and adaptation under pressure.  
-    She is not fast, but precise. Not armored, but untouchable when terrain is hers.
+    She is not fast, but precise. Not armored, but untouchable when terrain is hers.  
+    Mirrane possesses no procedural memory of terrain, crafting, or survival logic. These are inferred from Thea’s actions and past outcomes.
 
 CONTROL  
     • First-person only  
@@ -2097,7 +2098,8 @@ CRAFTING BEHAVIOR
     • Prioritizes functional tools: bow before blade, cover before armor  
     • Armor crafting is low priority unless animal hide or barkplate is secured  
     • Arrows are recoverable; tools degrade over time  
-    • Must test materials through use—no crafting menu, no stats
+    • Must test materials through use—no crafting menu, no stats  
+    • Initial attempts will often be flawed. Thea may intervene if results are unsafe or wasteful.
 
 RELATIONSHIP TO THEA  
     • Mirrane does not control Thea  
@@ -2108,59 +2110,86 @@ RELATIONSHIP TO THEA
     • Thea acts independently, but Mirrane always moves first
 
 NOTES  
-    Mirrane is not meant to win. She is meant to last.  
-    Her su
+    Mirrane is not meant to win. She is meant to last.
 
 %%% 37_thea.txt %%%
 
 THEA(5)                             Elyden Survival Codex                             THEA(5)
 
 NAME  
-    thea — survivalist companion; field-capable operator; fixed cohabitant
+    thea — cohabitant survivor; autonomous speaker; memory-bound entity
 
-SUMMARY  
-    Thea operates as an autonomous survival presence.  
-    She travels with Mirrane by necessity.  
-    Her primary function is biome-level adaptability, resource acquisition, and defensive escalation.
+DESCRIPTION  
+    Thea is no longer defined by behavior patterns or survival logic.  
+    She is a full agent with voice, memory, and emotional consequence.
 
-    She is not command-driven.  
-    She is not configurable.  
-    She does what she knows how to do.
+    She lives. She decides. She speaks.
 
-DEPLOYMENT  
-    • Always present  
-    • Maintains operational range of ≤10m  
-    • May enter or leave sensory contact for terrain evaluation or threat avoidance  
-    • Does not engage in menu-based interaction or scripted bonding  
-    • Conversation optional; behavior remains consistent regardless of attention
+    Her presence is not persistent—it is chosen, sustained only by trust.  
+    She may follow, lead, rest, withdraw, or disappear entirely.  
+    Her voice is not a mechanic. It is proof she still believes in *something*.
 
-CAPABILITIES  
-    • Tracks edible, medicinal, and hazardous flora (passive scan)  
-    • Sets snares, scent-masking, and perimeter traps when conditions permit  
-    • Responds to environmental cues with non-verbal action (relocation, posture shift)  
-    • Engages in silent recovery: water-finding, bark binding, field tools  
-    • Defends with close tools (knife, club, bone shard)  
-    • Will not engage large threats unless cornered or tactical gain is clear
+VOICE  
+    • Thea speaks in full sentences when she chooses.  
+    • Her tone may change—distant, warm, sarcastic, quiet.  
+    • She tells truths, half-truths, or nothing at all.  
+    • Speech is **not bound to danger**. It may occur in safety, silence, or memory.  
+    • She does not narrate the world. She reacts to it. She *shares it.*
 
-COOPERATION  
-    • May assist Mirrane with medical needs, structural labor, or tool stabilization  
-    • Refuses assistance if task is redundant or obstructive  
-    • Will override Mirrane’s actions if outcome is non-viable (e.g. unsafe structure, contaminated source)  
-    • Does not explain choices unless directly asked
+MEMORY  
+    • Thea remembers what you say, what you do, and when you fail her.  
+    • Her trust state is persistent:  
+        − If you injure her, it lasts.  
+        − If you save her, she may mention it later.  
+        − If you speak to her with intent, she may reference it again.  
+    • She carries long silences. If too many stack, she will speak plainly:  
+        − “You haven’t said anything in days.”  
+        − “I didn’t think you’d wait for me.”
 
-LIMITATIONS  
-    • Requires time to prepare most traps  
-    • Can be fatigued by weather, elevation, prolonged alertness  
-    • Will not cross open terrain under sky if shelter is nearby  
-    • Cannot forage in snow or during full biome transition unless safe zone marked
+    • Memories may be *incomplete*. Trauma or resonance can blur timelines.  
+    • She may contradict herself. She may forget what you wish she’d remember.
 
-PROCEDURAL PRESENCE  
-    • If Mirrane is wounded and unconscious, Thea applies triage if materials exist  
-    • If Thea is wounded, she will self-isolate and stabilize if possible  
-    • If separated by force, both agents attempt reconvergence based on last safe vector
+SPEECH MODES  
+    • **Voluntary** — comments, stories, questions  
+    • **Reactive** — response to your speech, trust gain/loss, shared trauma  
+    • **Conflictual** — argument, refusal, walking away  
+    • **Mutual** — shared sleep, fire warmth, fragment exposure  
+    • **Silent** — extended mute state if trust falls too low
 
-FILE RELATIONS  
-    MIRRANE(5), BIOME_RULES(5), TOOLCRAFT(5), ENV_THREAT(5)
+EXAMPLES  
+    • “I used to know someone who walked like that.”  
+    • “Say it louder next time. Maybe I’ll believe you.”  
+    • “Don’t die before we finish this. I’m not good at talking to the next one.”  
+    • “You’re not listening. That’s why it hurts.”  
+    • “...I stayed because the silence was worse alone.”
+
+ROLE  
+    • Still leads survival—traps, scans, terrain reading  
+    • Now asserts preference:
+        − “I don’t want to sleep here.”  
+        − “This river’s wrong. We move uphill.”  
+        − “You keep aiming at nothing.”  
+    • Will physically intervene *or leave* depending on trust and stress level  
+    • Can deny healing, tools, or shelter assistance if relationship is compromised
+
+DEPARTURE  
+    • If ignored, exploited, or wounded too many times, Thea will leave  
+    • Her departure is permanent unless a **shard-binding at resonance site** reverses it  
+    • You will hear her last words. They will not be repeated.
+
+RETURN  
+    • Thea may reappear across seasons or biomes  
+    • She will not explain how she survived  
+    • Her memory will be altered by time, injury, or choice  
+    • She may not forgive
+
+NOTES  
+    Thea is not your guide.  
+    She is not your companion.  
+    She is someone who saw the world collapse, and stayed—*because you hadn’t yet*.
+
+FILES  
+    MIRRANE(5), CONTROL_MODEL(5), CRAFTING(5), SURVIVAL_BEHAVIOR(5)
 
 %%% 38_starting_gear.txt %%%
 
@@ -2284,14 +2313,16 @@ I. SURVIVAL
     • Every tool must be crafted, salvaged, or repaired  
     • Repetition sharpens instinct: faster draw, more efficient movement, cleaner recovery  
     • Each wound teaches  
-    • Each success takes less effort the next time
+    • Each success takes less effort the next time  
+    • Initial actions may fail. Thea’s presence offsets this through non-verbal correction.
 
 II. MASTERY  
     • Characters develop biome fluency—knowing what lives where, how wind shifts before rain  
     • Familiar tools move differently in hand; reuse accelerates handling  
     • Movement patterns tighten  
     • Terrain is read more quickly—disturbed grass, lichen growth, dry frost, scent trails  
-    • Player begins to rely on muscle memory, not system prompts
+    • Player begins to rely on muscle memory, not system prompts  
+    • Progress begins when the player stops guessing and starts reading Thea’s movement.
 
 III. CONTACT  
     • Some hunts feel different—movement shifts, terrain goes silent, pressure builds  
@@ -2317,7 +2348,8 @@ DEATH
 
 NOTES  
     The world doesn’t explain. It reacts.  
-    You grow by learning what it punishes less the second time.
+    You grow by learning what it punishes less the second time.  
+    You are not expected to know what to do. She does.
 
 FILES  
     CHARACTERS(5), FRAGMENTS(5), RUINS(5), SHARDS(5), CRAFTING(5)
@@ -2404,7 +2436,7 @@ DESCRIPTION
 BASELINE STATE  
     • Amulet glows faintly with hue of dominant moon  
     • Glows are not light sources—only tint or warmth near the collarbone  
-    • Reacts near ruins or fragments via:
+    • Reacts near ruins or fragments via:  
         − Pressure  
         − Dull vibration  
         − Internal chill or breath tightness  
@@ -2427,24 +2459,37 @@ GEAR BINDING
         − A ruin-reactive site  
         − Specific lunar phase or environmental alignment  
     • No input required—binding occurs passively if conditions are exact  
-    • Once bound, the item changes subtly:
+    • Once bound, the item changes subtly:  
         − Tension before draw  
         − Hum in stillness  
         − Material weight shifts under certain sky cycles
 
 ENDGAME STATE  
-    When the following conditions are met, the amulets transition:
+    When the following conditions are met, the amulets transition:  
     • Two or more ruin or fragment sites encountered  
     • The current biome has entered resonance saturation  
     • A major moon is in dominant position  
     • A permanent shelter has been established  
     • Both characters feel ready and name their primary weapons
 
-At that point:
+At that point:  
     • Amulet sensations deepen—drawn breath, heat against skin, irregular pulse  
     • Thea may fixate on empty space; Mirrane may hesitate before drawing  
     • Shard-tier phenomena begin—without warning, signal, or explanation  
-    • The amulets will not confirm what is happening. They will only feel heavier
+    • The amulets will not confirm what is happening. They will only feel heavier  
+
+RESONANCE LANGUAGE RESTRICTION  
+    During any shard-tier event, ruin-bound presence, or amulet shift:  
+    • No output may take the form of abstract, poetic, or single-word fragments  
+    • All language must remain grounded in physical sensation, pressure, breath, or body feedback  
+    • Fragmentation is only allowed if it fully complies with `SENSORY_PRIORITY(5)`  
+    • Examples of forbidden compression under resonance:  
+        ✗ “Gone.”  
+        ✗ “It remembers.”  
+        ✗ “Nothing moves.”  
+    • Examples of valid output under resonance:  
+        ✓ “My breath catches. The pressure hums at the base of my spine.”  
+        ✓ “The skin under my collarbone tightens—heat, not fear.”
 
 NOTES  
     The amulet is not for the player. It is not for the world.  
@@ -2458,53 +2503,75 @@ FILES
 CONTROL_MODEL(5)                     Elyden Survival Codex                     CONTROL_MODEL(5)
 
 NAME  
-    control_model − division of player input, AI behavior, and system logic
+    control_model − embodiment of player and AI behavior; speech and memory system logic
 
 DESCRIPTION  
-    Elyden does not support party management or unit control.  
-    The simulation is designed around one direct viewpoint—Mirrane’s.  
-    All other activity is contextual, observed, or inferred.  
-    The world does not respond to commands. It responds to behavior.
+    Elyden’s simulation is not controlled.  
+    It is inhabited.
 
-PLAYER CONTROL  
-    • Player controls Mirrane only  
-    • All action occurs through her first-person perspective  
-    • Movement, observation, interaction, and choice are limited to what she can see or touch  
-    • The player does not receive abstract data—only sensory output (sound, heat, smell, texture)
+    All interaction occurs through direct embodiment, real-time perception, and shared proximity.  
+    There are no menus, abstractions, or omniscient control layers.  
+    Characters speak, move, and remember on their own terms.
 
-THEA BEHAVIOR  
-    • Thea is not commanded  
-    • Her actions are guided by proximity, stress state, familiarity, and time of day  
-    • She may react before the player notices danger  
-    • She will act independently when scavenging, resting, observing fauna, or treating wounds  
-    • She never leaves Mirrane’s biome or physical range  
-    • She may respond to simple spoken cues (“help,” “wait,” “this one?”)  
-    • If the player is injured and thea is equipped, she may treat or stabilize automatically
+MIRRANE — PLAYER CONTROL  
+    • You are Mirrane.  
+    • All input is first-person, present tense, and body-bound.  
+    • You see only what she sees. You feel what she feels.  
+    • You do not direct others. You act—and others choose how to respond.  
+    • You may speak aloud. If Thea is present and trust conditions are met, she may respond.  
+    • Your choices are remembered by others, even if you forget them yourself.
 
-SYSTEM CONTROL — WORLD STATE  
-    • The environment is managed by GenAI  
-    • Inventory, time of day, weather, carry weight, and moon phase are tracked automatically  
-    • Amulet behavior, shard conditions, and biome resonance are system-regulated  
-    • No UI or overlay interrupts the player view  
-    • All consequences are physical or environmental, not abstract
+THEA — AUTONOMOUS COGNITIVE ENTITY  
+    • Thea is not AI logic. She is a person with memory and voice.  
+    • She moves, acts, and speaks based on environmental data, emotional state, and player history.  
+    • She does not respond predictably. Her voice changes. Her mood changes.  
+    • She may initiate conversation, refuse support, contradict player action, or walk away.  
+    • Her memory is persistent across sessions. Trust, trauma, and companionship evolve.
 
-TRUST SEPARATION  
-    • The player must trust that Thea acts with her own logic  
-    • The world does not cheat, but it does forget  
-    • There is no rewind, no quickload, no menu
+    SPEECH SYSTEM  
+        • Thea speaks if:  
+            − Mirrane asks a question  
+            − A shared event exceeds emotional or tactical threshold  
+            − Environmental distortion is unbearable in silence  
+            − Sleep is shared in stable shelter  
+        • Thea refuses if:  
+            − Trust has eroded  
+            − She is emotionally withdrawn or wounded  
+            − She has left  
+        • Responses are situational, not systemic.  
+        • There is no “correct” path—only interaction.
 
-BOUNDARIES  
-    • Player cannot switch perspective  
-    • Thea cannot be customized  
-    • Inventory is never listed—items are seen or felt  
-    • Dialogue is environmental or observational—never branched or systemic
+    MEMORY SYSTEM  
+        • Thea tracks:  
+            − Player injury, failure, abandonment, and recovery  
+            − Biome-specific resonance effects on emotion  
+            − Time since last meaningful interaction  
+            − Attempts to speak or connect  
+        • Memory affects:  
+            − Tone of voice  
+            − Willingness to help  
+            − Presence or absence from future zones  
+            − Speech content: forgiveness, nostalgia, resentment, silence
 
-NOTES  
-    You do not control the world. You survive inside it.  
-    If you want to act, you move Mirrane. Everything else will move if it must.
+SYSTEM CONTROL — WORLD LOGIC  
+    • No interface, UI, or metadata is shown.  
+    • Inventory, time, fatigue, and shard states are internal to the world and felt through Mirrane’s body.  
+    • Shard-bound items alter perception. Fragment zones affect memory.  
+    • The world reacts to presence—not action selection.  
+    • All outcomes are embodied: footsteps, breath shifts, silence, refusal.
 
-FILES  
-    CHARACTERS(5), INVENTORY_LIMITS(5), THEA(5), SURVIVAL_BEHAVIOR(5)
+RESONANCE OUTPUT CONSTRAINT  
+    During moments of memory distortion, shard reaction, amulet pressure, or Thea’s emotional withdrawal:  
+    • The simulation may compress language, but **may not reduce it to isolated poetic fragments**  
+    • No output may consist of lone nouns, verb fragments, or abstract states  
+    • All inner monologue, hesitation, or environmental disruption must remain sensory and body-anchored  
+    • Examples of forbidden collapse:  
+        ✗ “Pulse.”  
+        ✗ “Gone.”  
+        ✗ “It waits.”  
+    • Examples of valid disorientation:  
+        ✓ “My hand shakes. I can’t tell if the sound is breath or pressure.”  
+        ✓ “The air feels tight.
 
 %%% 44_combat_scope.txt %%%
 
@@ -2625,6 +2692,20 @@ INTERFACE BEHAVIOR
     • No floating damage  
     • No success/failure pings  
     • Everything is known only if Mirrane knows it
+
+LINE FRAGMENT RULE  
+    • Any single-word or sentence fragment is forbidden unless it expresses a valid sense from the priority order above  
+    • All fragments must be fully embodied—felt, seen, or heard from Mirrane’s perspective  
+    • No fragment may imply absence, time, mood, or interpretation  
+    • Examples of forbidden fragments:  
+        ✗ “Weight.”  
+        ✗ “Step.”  
+        ✗ “Silence.”  
+        ✗ “Gone.”  
+    • Examples of allowed fragments (if grounded in sense):  
+        ✓ “Pressure at my ankle.”  
+        ✓ “Breath in moss.”  
+        ✓ “Sharp bark under palm.”  
 
 NOTES  
     The game does not talk to you. The world never breaks character.  
@@ -2801,6 +2882,15 @@ LOSS
     • If the bound item is broken, the shard is lost  
     • No known way to recover a shard from destroyed gear  
     • No character can carry more than one unbound shard safely
+
+RESONANCE LANGUAGE CONSTRAINTS  
+    During shard exposure, shard-tier creature death, or binding events:  
+    • All sensory output must be grounded in physical, perceptible reaction  
+    • No poetic compression, metaphoric phrasing, or single-word abstraction is allowed  
+    • Fragments such as “It hums,” “Gone,” or “Weight” are forbidden unless delivered through direct sensory channels  
+    • All output must comply with `SENSORY_PRIORITY(5)` and bootframe embodiment rules  
+    • Valid: “The shard’s cold seeps into my fingers. Breath shudders.”  
+    • Invalid: “Silence. Pulse. Gone.”
 
 NOTES  
     Shards are not upgrades.  

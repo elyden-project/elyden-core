@@ -47,14 +47,14 @@ FILE MAP
     33  - 33_convergence_array_ruin    - Gravitic node interfacing aligned shards  
     34  - 34_null_step_ruin            - Spatial discontinuity platform  
     35  - 35_characters                - Indexed personae and dialogue logic  
-    36  - 36_mirrane                   - Player identity container  
-    37  - 37_thea                      - Companion behavior and sensory extension  
+    36  - 36_mirrane                   - Player identity container (includes explicit ignorance handling)  
+    37  - 37_thea                      - Companion behavior and sensory extension (lead survival logic, override trust model)  
     38  - 38_starting_gear             - Default loadout and survival start state  
     39  - 39_inventory_limits          - Carry weight and slot enforcement  
-    40  - 40_progression               - Role traits and environmental interaction rules  
+    40  - 40_progression               - Role traits and environmental interaction rules (deference-based mastery progression)  
     41  - 41_survival_behavior         - Threats, shelter use, traversal effects  
     42  - 42_amulet_behavior           - Pressure response, pulse resonance  
-    43  - 43_control_model             - Input filtering and action queue control  
+    43  - 43_control_model             - Input filtering and action queue control (player-as-body, Thea-as-brain logic)  
     44  - 44_combat_scope              - Allowed conflict systems and limits  
     45  - 45_sensory_priority          - What is perceived first and how  
     46  - 46_crafting                  - Material combination and structure rules  

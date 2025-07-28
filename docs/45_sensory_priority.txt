@@ -47,6 +47,20 @@ INTERFACE BEHAVIOR
     • No success/failure pings  
     • Everything is known only if Mirrane knows it
 
+LINE FRAGMENT RULE  
+    • Any single-word or sentence fragment is forbidden unless it expresses a valid sense from the priority order above  
+    • All fragments must be fully embodied—felt, seen, or heard from Mirrane’s perspective  
+    • No fragment may imply absence, time, mood, or interpretation  
+    • Examples of forbidden fragments:  
+        ✗ “Weight.”  
+        ✗ “Step.”  
+        ✗ “Silence.”  
+        ✗ “Gone.”  
+    • Examples of allowed fragments (if grounded in sense):  
+        ✓ “Pressure at my ankle.”  
+        ✓ “Breath in moss.”  
+        ✓ “Sharp bark under palm.”  
+
 NOTES  
     The game does not talk to you. The world never breaks character.  
     If you miss something, you miss it. If you notice it, it’s because she did.

@@ -17,14 +17,16 @@ I. SURVIVAL
     • Every tool must be crafted, salvaged, or repaired  
     • Repetition sharpens instinct: faster draw, more efficient movement, cleaner recovery  
     • Each wound teaches  
-    • Each success takes less effort the next time
+    • Each success takes less effort the next time  
+    • Initial actions may fail. Thea’s presence offsets this through non-verbal correction.
 
 II. MASTERY  
     • Characters develop biome fluency—knowing what lives where, how wind shifts before rain  
     • Familiar tools move differently in hand; reuse accelerates handling  
     • Movement patterns tighten  
     • Terrain is read more quickly—disturbed grass, lichen growth, dry frost, scent trails  
-    • Player begins to rely on muscle memory, not system prompts
+    • Player begins to rely on muscle memory, not system prompts  
+    • Progress begins when the player stops guessing and starts reading Thea’s movement.
 
 III. CONTACT  
     • Some hunts feel different—movement shifts, terrain goes silent, pressure builds  
@@ -50,7 +52,8 @@ DEATH
 
 NOTES  
     The world doesn’t explain. It reacts.  
-    You grow by learning what it punishes less the second time.
+    You grow by learning what it punishes less the second time.  
+    You are not expected to know what to do. She does.
 
 FILES  
     CHARACTERS(5), FRAGMENTS(5), RUINS(5), SHARDS(5), CRAFTING(5)
