@@ -1,0 +1,25 @@
+NAME  
+    lambs_quarters - fast-growing leafy green with high mineral content
+
+DESCRIPTION  
+    Lambs quarters is a hardy annual plant found in disturbed soil, open clearings,  
+    and forest margins. Its soft, pale-green leaves are coated in a fine white film  
+    and are rich in calcium, iron, and vitamins A and C. The leaves and young shoots  
+    are edible raw or cooked. Older leaves develop oxalates and are better boiled  
+    before consumption. Highly nutritious and easily overlooked among common brush.
+
+    The plant has a branching habit, with triangular leaves and a dusty appearance  
+    near the growing tip. Seeds form in dense clusters late in the season and are  
+    also edible when ground. It thrives in moist ground and grows quickly after  
+    ground disturbance or flood retreat.
+
+USAGE  
+    Mirriane: boiled or wilted as greens; blended into ration broth  
+    Thea: dried and folded into meal paste or compress rations  
+    Preparation: harvest young leaves, rinse, consume raw or cook lightly; collect seeds when mature for meal
+
+ZONE PRESENCE  
+    Biomes: meadow, deciduous_forest
+
+SCIENTIFIC NAME  
+    Chenopodium album

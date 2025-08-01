@@ -1,0 +1,30 @@
+NAME  
+    volcanic_slope - geothermal incline with exposed vents and unstable crust
+
+DESCRIPTION  
+    Volcanic slopes are thermally active zones where geothermal pressure  
+    reaches the surface. Rock is fractured, blackened, and irregular in  
+    shape. Steam vents and minor outgassing occur without fixed pattern.  
+    Vegetation is absent. Soil is replaced by brittle ash or fused slag.
+
+    Movement is limited. Crust layers may collapse or shear with heat  
+    variation. Visibility is compromised by particulate haze. Chemical  
+    residue clings to clothing and equipment.
+
+    Wildlife is absent. No foraging is possible. No structures survive.  
+    The terrain resists mapping due to thermal distortion and flux.
+
+    Volcanic slopes appear near valley faults, calderas, or buried  
+    geothermal ridges. Ground temperature may exceed survivable limits  
+    without warning.
+
+    Short-term survival is possible with thermal gear and planned withdrawal.
+    No shelter or sustenance is available.
+
+ZONE TRAITS  
+    - Mobility:       obstructed  
+    - Visibility:     blocked  
+    - Cover:          none  
+    - Water Access:   absent  
+    - Forage Density: none  
+    - Threat Level:   extreme

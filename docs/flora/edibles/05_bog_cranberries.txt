@@ -1,0 +1,25 @@
+NAME  
+    bog_cranberries - tart red fruit growing on creeping wetland vine
+
+DESCRIPTION  
+    Bog cranberries are low-growing vines found in cold, acidic wetlands.  
+    The plants produce small red berries that ripen late in the season.  
+    Fruits are high in moisture, mildly astringent, and provide essential  
+    vitamins in foraging scenarios. While sharp in taste, they are safe  
+    to eat raw and can be mashed, dried, or preserved. The vines often form  
+    mats across peat beds or shallow lake margins.
+
+    Leaves are small and evergreen. Flowers appear pink in spring.  
+    Berries grow close to the ground and are best harvested before snowfall.  
+    The fruit’s acidic nature makes it resistant to quick spoilage.
+
+USAGE  
+    Mirriane: consumed raw for hydration during field movement  
+    Thea: mashed and packed into blended travel rations  
+    Preparation: rinse clean, crush if storing, or dry for later use
+
+ZONE PRESENCE  
+    Biomes: swamp, lake, flood_hollow
+
+SCIENTIFIC NAME  
+    Vaccinium oxycoccos

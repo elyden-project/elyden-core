@@ -1,0 +1,32 @@
+NAME  
+    ash_field - sterile flatland with particulate soil and residual heat
+
+DESCRIPTION  
+    Ash fields are barren zones coated in fine volcanic residue.  
+    The surface is light, unstable, and wind-sensitive. Layers shift  
+    with air movement, obscuring depth and any buried terrain.  
+    Ground temperature varies by exposure and may retain latent heat  
+    from past eruptions.
+
+    No vegetation survives. Soil offers no nutrients or anchoring.  
+    Water evaporates or pools briefly before sinking. Movement is  
+    physically possible but slow due to footing inconsistency  
+    and particulate drag.
+
+    Wildlife avoids ash fields. No tracks are recorded. Pressure  
+    changes may trigger minor subsidence. Visibility ranges from  
+    clear to fully occluded during wind events.
+
+    Ash fields appear near volcanic slopes, collapse basins, or  
+    areas subjected to past thermal venting.
+
+    Short-term survival is possible with thermal gear and planned withdrawal.
+    No shelter or sustenance is available.
+
+ZONE TRAITS  
+    - Mobility:       poor  
+    - Visibility:     variable  
+    - Cover:          none  
+    - Water Access:   absent  
+    - Forage Density: none  
+    - Threat Level:   high

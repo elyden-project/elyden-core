@@ -1,0 +1,52 @@
+NAME  
+    flora_poisons_index - toxic flora prepared for trapcraft, sedation, or disruption
+
+DESCRIPTION  
+    This index lists plants with bioactive or toxic compounds suitable for use  
+    in baiting, coating, or field interference. All entries are based on real  
+    species historically known for poison or irritant properties.
+
+    Applications include sedative preparations, blister agents, or  
+    neurotoxic extracts. Effects depend on dosage and method of delivery.
+
+INDEXED ENTRIES
+
+    hemlock_root
+        Biomes:          flood_hollow, lake, swamp
+        Scientific Name: Conium maculatum
+
+    wolfsbane
+        Biomes:          wet_slope, evergreen_forest
+        Scientific Name: Aconitum napellus
+
+    belladonna
+        Biomes:          mixed_forest, deciduous_forest
+        Scientific Name: Atropa belladonna
+
+    bloodroot
+        Biomes:          deciduous_forest, hills
+        Scientific Name: Sanguinaria canadensis
+
+    cowbane
+        Biomes:          swamp, lake
+        Scientific Name: Cicuta virosa
+
+    devils_club
+        Biomes:          mixed_forest, hills
+        Scientific Name: Oplopanax horridus
+
+    white_snakeroot
+        Biomes:          mixed_forest, badlands
+        Scientific Name: Ageratina altissima
+
+    baneberry
+        Biomes:          evergreen_forest, wet_slope
+        Scientific Name: Actaea pachypoda
+
+    thorn_apple
+        Biomes:          plains, badlands
+        Scientific Name: Datura stramonium
+
+    water_hemlock
+        Biomes:          flood_hollow, swamp
+        Scientific Name: Cicuta maculata

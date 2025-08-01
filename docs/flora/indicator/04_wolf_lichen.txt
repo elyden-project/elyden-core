@@ -1,0 +1,24 @@
+NAME  
+    wolf_lichen - bright toxic lichen marking exposed, nutrient-poor slopes and mineral imbalance
+
+DESCRIPTION  
+    Wolf lichen is a vivid yellow-green fruticose lichen that grows on sun-exposed bark,  
+    rock, and decaying wood. Its presence indicates low-nutrient substrates and high UV exposure.  
+    Often found where trees are stunted or dying, or where soil chemistry prevents dense undergrowth.  
+    Contains vulpinic acid - mildly toxic to fauna, avoided by most grazers.
+
+    Grows in dry, open highland areas or cold forest fringes with minimal canopy.  
+    Lichen forms tufts or drapes over rough bark and stone.  
+    Its brightness contrasts with surrounding decay, making it useful for identifying stressed zones.  
+    Not edible or usable as fuel.
+
+USAGE  
+    Mirriane: noted when evaluating timberline decline or hillside stability  
+    Thea: observed for root exposure and terrain stress around shelter or trap sites  
+    Preparation: not collected - visible in color patches on stumps, rock, or shallow soil
+
+ZONE PRESENCE  
+    Biomes: hills, evergreen_forest
+
+SCIENTIFIC NAME  
+    Letharia vulpina

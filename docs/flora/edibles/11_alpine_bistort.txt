@@ -1,0 +1,25 @@
+NAME  
+    alpine_bistort - starchy mountain plant with edible root and shoot
+
+DESCRIPTION  
+    Alpine bistort is a short, hardy perennial found in cold alpine and tundra regions.  
+    It produces a thick, knotted root rich in starch, and a small pink or white flower  
+    spike on a simple upright stem. The root is the primary food source, dug and  
+    boiled or dried into meal. Young leaves are edible raw but become tough with age.  
+    The plant grows in clusters, often near glacial margins or exposed stone breaks.
+
+    It tolerates frost and poor soil, relying on short growing windows and stored energy.  
+    The root can be mistaken for similar plants but has a distinctive pinkish tone  
+    and knotty segments. Difficult to harvest in frozen soil, but high in survival value  
+    due to its carbohydrate density and cold resilience.
+
+USAGE  
+    Mirriane: root boiled and mashed for ration base  
+    Thea: dried and stored as fallback starch additive  
+    Preparation: dig root with tool, scrub clean, boil thoroughly or dry to grind into powder
+
+ZONE PRESENCE  
+    Biomes: tundra, glacier
+
+SCIENTIFIC NAME  
+    Bistorta vivipara

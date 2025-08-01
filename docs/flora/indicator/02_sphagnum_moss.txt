@@ -1,0 +1,23 @@
+NAME  
+    sphagnum_moss - moisture-retaining moss used to identify saturation and unstable ground
+
+DESCRIPTION  
+    Sphagnum is a spongy, absorbent moss that grows in thick mats over wet ground,  
+    especially where drainage is poor. Its structure retains water many times its own weight,  
+    forming peat over time. Its presence signals high water retention, hidden subsurface flow,  
+    or bog-like terrain that may shift under load.
+
+    Grows in low depressions, stagnant wetlands, and on floating mats near lake edges.  
+    Color ranges from pale green to reddish brown depending on moisture and sun exposure.  
+    Often covers root hummocks, obscuring depth and ground consistency.
+
+USAGE  
+    Mirriane: identifies unstable footing and hidden water channels; avoided for shelter placement  
+    Thea: used to track displaced terrain where prey or people may have recently crossed  
+    Preparation: not harvested - observed in patches to assess ground saturation and root cover
+
+ZONE PRESENCE  
+    Biomes: flood_hollow, swamp
+
+SCIENTIFIC NAME  
+    Sphagnum palustre

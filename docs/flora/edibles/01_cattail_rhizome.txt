@@ -1,0 +1,24 @@
+NAME  
+    cattail_rhizome - starchy wetland root with high survival value
+
+DESCRIPTION  
+    Cattail rhizomes grow horizontally beneath shallow water in marshes and lake margins.  
+    They are thick, fibrous roots rich in starch and edible tissue. When harvested, the  
+    rhizomes can be peeled and boiled to produce a dense, nutritious pulp. Drying and  
+    grinding yield a coarse meal useful in survival rations. Spoilage is rapid if left  
+    wet after harvesting. Best gathered in cool, low-flow water.
+
+    The plant’s above-ground features include tall, spear-like leaves and a dark brown  
+    cylindrical flower spike. Rhizomes grow from the base of mature stalks and often  
+    run in networks along the mud layer.
+
+USAGE  
+    Mirriane: cooked for rations or dried into portable flour  
+    Thea: field-prepared; apportioned into paste or used as starch binder  
+    Preparation: pull root from base, strip outer skin, boil or dry immediately
+
+ZONE PRESENCE  
+    Biomes: flood_hollow, swamp, lake
+
+SCIENTIFIC NAME  
+    Typha latifolia

@@ -1,0 +1,25 @@
+NAME  
+    belladonna - sedative and deliriant used in disruption traps or target disorientation
+
+DESCRIPTION  
+    Belladonna is a branching herbaceous plant with dull green leaves and dark purple berries.  
+    It contains tropane alkaloids, including atropine and scopolamine, which interfere with  
+    nerve signaling and can induce blurred vision, confusion, and slowed response time.  
+    Low doses may disorient or sedate; higher doses cause paralysis or hallucination.  
+    Highly toxic if ingested.
+
+    Found in forest understories with partial shade and loose soil.  
+    Grows up to 1.5 meters tall. Berries are glossy, round, and deceptively sweet-looking.  
+    Roots and leaves also contain active compounds. Toxin is fat-soluble;  
+    care must be taken to avoid contact with eyes or broken skin.
+
+USAGE  
+    Mirriane: dried and ground for contact poison or low-dose bait tainting  
+    Thea: used in confusion-based traps or infused into decoys to slow pursuit  
+    Preparation: collect whole plant, dry in low light, crush berry or leaf into powder or infusion
+
+ZONE PRESENCE  
+    Biomes: mixed_forest, deciduous_forest
+
+SCIENTIFIC NAME  
+    Atropa belladonna

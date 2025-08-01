@@ -1,0 +1,25 @@
+NAME  
+    bush_weed - resinous herb used for sedation and pain dulling in recovery
+
+DESCRIPTION  
+    Bush weed is a coarse, upright-growing plant with sharply lobed, serrated leaves  
+    and a strong scent. Its dried leaves and flowering tops can be smoked or steeped  
+    to induce mild sedation, reduce pain, and ease muscle tension. Effects include  
+    slowed reflexes, lowered anxiety, and improved rest under field recovery conditions.  
+    It is not curative but useful for managing exhaustion and injury stress.
+
+    Grows in open soil with full sun exposure, often along disturbed clearings or  
+    the edge of mixed forests. Flowering tops exude a sticky resin when mature.  
+    Plants reach up to two meters in height and spread laterally when unharvested.  
+    Seeds are edible if roasted but not gathered for food in field use.
+
+USAGE  
+    Mirriane: smoked during rest periods or infused to assist post-exertion recovery  
+    Thea: added to bait preparations to dull enemy coordination or delay pursuit  
+    Preparation: dry upper leaves and flower bracts in shade; store sealed from light and moisture
+
+ZONE PRESENCE  
+    Biomes: meadow, mixed_forest, hills
+
+SCIENTIFIC NAME  
+    Cannabis sativa

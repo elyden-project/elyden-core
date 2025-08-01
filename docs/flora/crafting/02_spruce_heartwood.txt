@@ -1,0 +1,24 @@
+NAME  
+    spruce_heartwood - straight-grained conifer core used for shafts, frames, and planking
+
+DESCRIPTION  
+    Spruce produces a pale, lightweight heartwood with excellent directional strength.  
+    It splits cleanly and holds shape under moderate load, making it suitable for arrow shafts,  
+    struts, sled runners, and framed structures. It is not as dense as yew, but easier to  
+    gather, season, and shape. Should be used dry; fresh-cut spruce may warp or split unevenly.
+
+    Grows in dense, cold-tolerant stands at elevation or northern slope.  
+    Bark is scaly and flaking; needles are four-sided and clustered around the branch.  
+    Heartwood lies beneath the pale sap layer and should be taken from trunks or large limbs  
+    above root flare. Burns poorly and is not suitable as kindling.
+
+USAGE  
+    Mirriane: used for arrow shafts or pack frame rails  
+    Thea: selected for sledgework or strut reinforcement in field construction  
+    Preparation: split from trunk core, strip bark, dry flat or in bundle with airflow
+
+ZONE PRESENCE  
+    Biomes: evergreen_forest, glacier
+
+SCIENTIFIC NAME  
+    Picea abies

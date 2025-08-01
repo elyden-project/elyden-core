@@ -1,0 +1,53 @@
+NAME  
+    flora_medicinal_index - field flora used for salve, clotting, and minor intervention
+
+DESCRIPTION  
+    This index lists plants prepared and applied to manage bleeding, bruising,  
+    inflammation, and other minor conditions. Materials include bark, lichen,  
+    resins, leaf matter, freshwater algae, and certain fungi.
+
+    Entries are grouped by use rather than species.  
+    Some may also appear in other indexes depending on preparation or context.
+
+INDEXED ENTRIES
+
+    willow_bark
+        Biomes:          plains, flood_hollow, deciduous_forest
+        Scientific Name: Salix alba
+
+    yarrow
+        Biomes:          meadow, plains
+        Scientific Name: Achillea millefolium
+
+    frost_spurge
+        Biomes:          frost_sink, tundra
+        Scientific Name: Euphorbia cyparissias
+
+    bush_weed
+        Biomes:          meadow, mixed_forest, hills
+        Scientific Name: Cannabis sativa
+
+    bandage_lichen
+        Biomes:          tundra, unclimbable_ridge
+        Scientific Name: Usnea barbata
+
+    calendula_flower
+        Biomes:          deciduous_forest, volcanic_slope
+        Scientific Name: Calendula officinalis
+
+    tinder_fungus
+        Biomes:          deciduous_forest
+        Scientific Name: Fomes fomentarius
+
+    cladophora_algae
+        Biomes:          lake, flood_hollow, swamp
+        Scientific Name: Cladophora glomerata
+
+    plantain_leaf
+        Biomes:          meadow, wet_slope
+        Scientific Name: Plantago major
+
+    comfrey_root
+        Biomes:          meadow, flood_hollow
+        Scientific Name: Symphytum officinale
+

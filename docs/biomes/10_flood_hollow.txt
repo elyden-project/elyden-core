@@ -1,0 +1,29 @@
+NAME  
+    flood_hollow - low basin with seasonal water saturation and dense vegetation
+
+DESCRIPTION  
+    Flood hollows are terrain depressions that collect water during  
+    melt or rainfall cycles. Drainage is inconsistent. Pools form  
+    in nested basins, intercut by root structures and soft ground.  
+    During dry periods, the zone becomes muddy but remains impassable  
+    at depth.
+
+    Vegetation is thick and uneven. Growth includes tall grasses,  
+    reed systems, and water-adapted brush. Tree density is low but  
+    surface clutter is high. Movement is impeded. Slope direction  
+    may be unclear due to basin warping.
+
+    Wildlife includes waders, submerged foragers, and short-range  
+    ambush species. Visibility is unreliable. Still water masks  
+    motion and terrain hazards.
+
+    Flood hollows typically appear between meadow zones and  
+    geothermal water discharge paths.
+
+ZONE TRAITS  
+    - Mobility:       poor  
+    - Visibility:     blocked  
+    - Cover:          dense  
+    - Water Access:   seasonal  
+    - Forage Density: moderate  
+    - Threat Level:   moderate

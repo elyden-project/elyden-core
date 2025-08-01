@@ -1,0 +1,24 @@
+NAME  
+    snowbed_willow - prostrate alpine shrub marking cold-locked terrain and persistent snow cover
+
+DESCRIPTION  
+    Snowbed willow is a creeping woody plant that hugs the ground in wind-scoured alpine zones.  
+    Its growth signals extended snow cover, minimal soil depth, and extreme cold retention.  
+    Presence suggests long seasonal frost and weak melt cycles, often near glacial margins or  
+    permanent ice shelf edges.
+
+    Found in tundra flats, ice shelf margins, and other high-exposure coldplate zones.  
+    Plants rarely exceed a few centimeters in height. Leaves are rounded and waxy,  
+    appearing briefly during thaw windows. Root systems are shallow, spreading laterally.  
+    Growth density reflects duration of seasonal exposure.
+
+USAGE  
+    Mirriane: used to mark glacial edges and determine traversal risk or thermal loss zones  
+    Thea: avoids for trap placement - indicates poor coverage, low pressure, and extreme exposure  
+    Preparation: not harvested - read from low coverage and survival density in frostbound terrain
+
+ZONE PRESENCE  
+    Biomes: tundra, ice_shelf
+
+SCIENTIFIC NAME  
+    Salix herbacea

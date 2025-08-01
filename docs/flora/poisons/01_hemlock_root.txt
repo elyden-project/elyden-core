@@ -1,0 +1,25 @@
+NAME  
+    hemlock_root - neurotoxic taproot used for sedative baiting and lethal coatings
+
+DESCRIPTION  
+    Hemlock is a tall, hollow-stemmed plant with finely divided leaves and small white  
+    umbrella-shaped flowers. The root contains potent alkaloids, primarily coniine,  
+    which cause progressive paralysis and respiratory failure. All parts are toxic,  
+    but the root is most concentrated and traditionally used in sedative-laced bait  
+    or blade coatings. Handling should be done with barrier material.
+
+    Grows in moist lowland zones with high seasonal runoff or standing water.  
+    Root is pale, tapering, and sometimes mistaken for edible wild parsnip.  
+    Best harvested after flowering. Extremely dangerous if ingested unintentionally.  
+    Odor is strong and mouse-like when fresh.
+
+USAGE  
+    Mirriane: mixed into bait residue or applied in trace to arrow fletch seams  
+    Thea: used for paralytic trap-lacing or mixed into tissue-targeted toxin packs  
+    Preparation: dig carefully, rinse with gloves or bark, air-dry root segments in shade; store sealed
+
+ZONE PRESENCE  
+    Biomes: flood_hollow, lake, swamp
+
+SCIENTIFIC NAME  
+    Conium maculatum

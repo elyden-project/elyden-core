@@ -1,0 +1,25 @@
+NAME  
+    birch_peel - flammable bark sheet used for ignition, insulation, and moisture barrier
+
+DESCRIPTION  
+    Birch trees produce thin outer bark that peels in horizontal strips.  
+    This bark contains volatile oils that ignite readily, even when wet.  
+    Used for firestarting, temporary wrapping, or as a vapor barrier in tool construction.  
+    Bark is flexible when fresh, curls and stiffens when dry. Not edible. Not load-bearing.
+
+    Found on mature birch trunks in cool forests and upland slopes.  
+    Bark is pale with horizontal lenticels and separates easily in dry air.  
+    Best collected from downed trees or natural shedding, not by stripping live trunks.  
+    Should be stored flat or rolled to avoid cracking.
+
+USAGE  
+    Mirriane: torn into firestarting strips or wrapped around dry tinder  
+    Thea: used to line pack interiors or seal moisture-prone trap components  
+    Preparation: peel flat sections, dry lightly if damp, cut to shape or fold
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest, hills
+
+SCIENTIFIC NAME  
+    Betula pendula
+

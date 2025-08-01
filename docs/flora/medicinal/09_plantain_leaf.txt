@@ -1,0 +1,24 @@
+NAME  
+    plantain_leaf - broadleaf plant used to reduce inflammation and draw out skin irritants
+
+DESCRIPTION  
+    Plantain is a low-growing herb with wide, oval leaves and deep parallel veins.  
+    The leaves can be crushed and applied directly to insect stings, shallow cuts,  
+    or skin irritation to reduce inflammation and promote minor healing.  
+    It is also chewed and applied as a spit poultice for quick relief in the field.  
+    Plantain is one of the most accessible and widely tolerated survival plants.
+
+    Found in meadows, disturbed clearings, and along paths.  
+    Leaves grow in a rosette at the base and regenerate quickly when harvested.  
+    Does not store well unless dried flat. Loses strength if exposed to heat.
+
+USAGE  
+    Mirriane: chewed and applied to bites or minor abrasions during travel  
+    Thea: dried and packed into skin-layer wraps for slow-release contact treatment  
+    Preparation: harvest outer leaves, rinse clean, use fresh or dry flat in shade
+
+ZONE PRESENCE  
+    Biomes: meadow, wet_slope
+
+SCIENTIFIC NAME  
+    Plantago major

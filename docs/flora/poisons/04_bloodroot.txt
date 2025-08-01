@@ -1,0 +1,25 @@
+NAME  
+    bloodroot - blistering root compound used in topical irritant traps and forced movement zones
+
+DESCRIPTION  
+    Bloodroot is a low forest plant with rounded leaves and white flowers.  
+    Its thick underground rhizome produces a red-orange sap containing sanguinarine,  
+    an alkaloid that causes skin irritation, tissue necrosis, or blistering on contact.  
+    The sap is used to flush targets from hiding, trigger forced movement,  
+    or prevent repeated use of paths and cover.
+
+    Found in shaded slopes or wooded hillsides.  
+    Emerges early in season and dies back by high heat.  
+    Sap is extracted by slicing root while fresh.  
+    Potency fades once dried; best used within a day unless preserved in fat or wax.
+
+USAGE  
+    Mirriane: applied to arrow shafts to trigger skin pain or grip loss  
+    Thea: packed into tripline vents or folded into foliage bait along ambush corridors  
+    Preparation: dig root, slice open, express fluid into wrap or smear directly onto delivery surface
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest, hills
+
+SCIENTIFIC NAME  
+    Sanguinaria canadensis

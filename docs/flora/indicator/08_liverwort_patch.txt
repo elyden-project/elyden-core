@@ -1,0 +1,24 @@
+NAME  
+    liverwort_patch - low spongy ground cover indicating chemical imbalance and geothermal moisture
+
+DESCRIPTION  
+    Liverworts are flat, leafless plants that form mats in highly humid, low-light environments.  
+    Their presence often marks acidic, mineral-rich ground or geothermal seepage zones.  
+    Growth suggests consistent surface saturation and chemical disturbance, especially in areas  
+    of volcanic activity or rotted substrate.
+
+    Found in swamp margins, near hot ground vents, or in decaying root beds.  
+    Liverworts appear as green, irregular lobed carpets with no upright stem.  
+    Sensitive to heat shifts and exposure. Will retreat rapidly from disturbed terrain  
+    or dry air intrusion.
+
+USAGE  
+    Mirriane: identifies unsuitable ground for resting or storage due to acidity or rot  
+    Thea: used to confirm moisture escape paths or potential gas seep locations  
+    Preparation: not collected - observed as terrain warning at microhabitat scale
+
+ZONE PRESENCE  
+    Biomes: swamp, volcanic_slope
+
+SCIENTIFIC NAME  
+    Marchantia polymorpha

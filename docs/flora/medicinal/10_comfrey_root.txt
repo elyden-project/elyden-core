@@ -1,0 +1,25 @@
+NAME  
+    comfrey_root - thick healing root used to promote tissue recovery and bone stabilization
+
+DESCRIPTION  
+    Comfrey is a perennial herb with large, bristled leaves and thick tapering roots.  
+    The root contains allantoin, a compound known to support cell regeneration and  
+    reduce inflammation. When grated or pulped, it forms a dense paste that can be  
+    packed against bruises, sprains, or fractured areas to promote healing.  
+    Not for internal use. Overuse may cause liver stress due to pyrrolizidine alkaloids.
+
+    Comfrey grows in moist, nutrient-rich soil near seasonal flood zones or meadow margins.  
+    Its leaves are large and hairy with a pronounced midrib. Flowers are tubular and  
+    range from purple to white. Roots are black on the outside and creamy within.  
+    Should be harvested from second-year plants for highest compound concentration.
+
+USAGE  
+    Mirriane: grated root packed over joint sprains or bow arm tension injuries  
+    Thea: mashed into field poultice binder for use in deep-tissue trap wounds  
+    Preparation: scrub and peel root, crush into pulp, apply as wet mass or mix with wrap filler
+
+ZONE PRESENCE  
+    Biomes: meadow, flood_hollow
+
+SCIENTIFIC NAME  
+    Symphytum officinale

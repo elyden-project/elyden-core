@@ -1,0 +1,25 @@
+NAME  
+    firethorn_berry - clustered red fruit from thorn-bearing scrub
+
+DESCRIPTION  
+    Firethorn is a dense, thorn-covered shrub that produces small red to orange berries  
+    in tightly packed clusters. It grows along disturbed slopes, rocky margins, and  
+    post-burn zones where undergrowth is sparse. The berries are high in moisture  
+    and carbohydrates but mildly irritating when raw. In small quantities, they are  
+    safe; larger amounts may cause stomach upset unless cooked or dried.
+
+    Shrubs can grow over two meters in height. Thorns are sharp and rigid,  
+    making harvest hazardous without gloves or a stripping cloth. The plant  
+    also serves as a natural barrier, often used instinctively by animals  
+    for cover or nesting protection.
+
+USAGE  
+    Mirriane: harvested carefully and consumed in small amounts for hydration  
+    Thea: dried and blended into ration filler or bait paste  
+    Preparation: strip berry clusters with cloth or tool to avoid puncture; cook or dry to reduce irritation
+
+ZONE PRESENCE  
+    Biomes: ash_field, evergreen_forest, wet_slope
+
+SCIENTIFIC NAME  
+    Pyracantha coccinea

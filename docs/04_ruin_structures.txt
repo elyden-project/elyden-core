@@ -1,0 +1,44 @@
+NAME  
+    ruin_structures - surviving monuments to the celestial order
+
+DESCRIPTION  
+    Seven ruin sites remain across the sealed valley. Each corresponds  
+    to one of the known celestial bodies: the star Aurenzae, the five  
+    moons, and the anomaly Khyrael. These are not natural formations.  
+    They were constructed by the ancient elemental races that once  
+    inhabited the valley.
+
+    The ruins were monuments - aligned to sky cycles, elemental  
+    influence, and orbital rhythm. The ancient people named the  
+    celestial bodies and built each structure to honor one of them.  
+    These sites were not ceremonial. They were part of a working  
+    system that regulated environmental balance through resonance.
+
+    During the final alignment, the monuments were activated. They  
+    harnessed the last energy of the moons to seal the valley and  
+    raise its mountains. This act drained the celestial system. The  
+    collapse followed. Civilization ended. Only the monuments remain.
+
+    The ruins are now dormant. No text, signal, or mechanism survives.  
+    Each is partially buried, fractured, or overgrown. They are still  
+    structurally aligned - to star angle, seasonal shift, and orbit  
+    position - but they do not glow, respond, or move. Their role in  
+    the present is not understood.
+
+    Ruin access is limited by distance, cold, and terrain. Most are  
+    surrounded by hostile zones or isolated beyond safe travel.  
+    Reaching them requires preparation. Interacting with them does  
+    not involve puzzles or ritual. Entry is the challenge.
+
+    Each ruin corresponds to:
+
+        Aurenzae   - fault-rooted slant in the southern horizon  
+        Taeryniel  - monolithic vault partially collapsed near uplands  
+        Irraketh   - broken ring of heat-scored stone in ash field  
+        Lovaen     - tilted spire scattered across a ridge fracture  
+        Serunel    - basin-carved trench crossed by glacial runoff  
+        Vaeronth   - sunken plate obscured by ring debris and silence  
+        Khyrael    - distortion zone with no visible architecture
+
+    All other traces of the ancient world have vanished. These ruins  
+    are the last structures tied to the celestial order.

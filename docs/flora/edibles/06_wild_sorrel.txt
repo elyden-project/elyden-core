@@ -1,0 +1,25 @@
+NAME  
+    wild_sorrel - tangy leaf plant high in moisture and trace minerals
+
+DESCRIPTION  
+    Wild sorrel is a low-growing herbaceous plant with soft, arrow-shaped leaves.  
+    It thrives in disturbed soil, meadows, and light-exposed clearings.  
+    The leaves have a sharp, lemon-like flavor due to oxalic acid, making them  
+    useful in small quantities for appetite stimulation and hydration.  
+    Though nutritious, sorrel should not be consumed in large amounts over time  
+    due to its mild anti-nutritional effects.
+
+    Grows in clustered rosettes with smooth, bright green leaves and thin stems.  
+    Most tender when harvested early in the season. Often found near stones or  
+    along the edge of grass zones where tree cover breaks.
+
+USAGE  
+    Mirriane: chewed fresh to reduce thirst and stimulate alertness  
+    Thea: steeped into infusion to ease fatigue symptoms  
+    Preparation: rinse thoroughly; consume raw, steep as tea, or dry in single layers
+
+ZONE PRESENCE  
+    Biomes: meadow, plains
+
+SCIENTIFIC NAME  
+    Rumex acetosa

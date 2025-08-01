@@ -1,0 +1,24 @@
+NAME  
+    reindeer_lichen - frost-tolerant lichen indicating cold, low-nutrient permafrost terrain
+
+DESCRIPTION  
+    Reindeer lichen forms dense, branching mats over bare soil, rock, or thin frost.  
+    Its pale grey-green color and coral-like texture make it visible across flat open ground.  
+    Indicates poor nutrient levels, permanent frost presence, and long-term ground stability.  
+    Will not grow in disturbed or melt-prone zones.
+
+    Found in windswept tundra and permafrost basins.  
+    Grows slowly and recovers poorly after trampling.  
+    Presence in dense mats suggests stable cold biome conditions  
+    with minimal surface runoff and low decay activity.
+
+USAGE  
+    Mirriane: used to confirm permanent cold zone boundaries or plan high-ground travel  
+    Thea: noted as footprint-sensitive terrain; signs of disruption indicate movement or passage  
+    Preparation: not collected or processed - read from surface coverage and density
+
+ZONE PRESENCE  
+    Biomes: tundra, frost_sink
+
+SCIENTIFIC NAME  
+    Cladonia rangiferina

@@ -1,0 +1,25 @@
+NAME  
+    bluegrass_seeds - clustered grass seed used for coarse meal and ration filler
+
+DESCRIPTION  
+    Bluegrass is a common wild grass forming dense mats in open terrain.  
+    During late-season dry periods, its upper stalks develop compact seed heads  
+    that can be stripped and processed into a coarse, low-oil meal. Though not  
+    calorie-rich, the seeds offer bulk and can extend limited rations.  
+    Most effective when ground and cooked into paste or dry cakes.
+
+    Growth occurs in patches across open meadows and light wood margins.  
+    Blades are narrow and deep green. Seed heads emerge upright, branching  
+    in narrow fans. Harvesting is done by stripping the upper stalk by hand  
+    or blade and separating chaff.
+
+USAGE  
+    Mirriane: ground into flatbread or added to broth as filler  
+    Thea: mixed into travel paste for sustained low-energy periods  
+    Preparation: strip seed heads, dry if needed, winnow to remove husks, crush or grind before use
+
+ZONE PRESENCE  
+    Biomes: plains, meadow, deciduous_forest
+
+SCIENTIFIC NAME  
+    Poa pratensis

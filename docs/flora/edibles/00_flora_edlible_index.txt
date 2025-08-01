@@ -1,0 +1,58 @@
+NAME  
+    flora_edible_index - nutrient-yielding flora across Elyden biomes
+
+DESCRIPTION  
+    The following flora may be foraged and consumed directly or with  
+    minimal preparation. All listed entries are grounded in real-world  
+    analogs and selected for survivability within the sealed valley.  
+    Nutritional value varies by species and biome.
+
+    No cultivation is assumed. Items are seasonal, scattered, and  
+    subject to spoilage unless treated.
+
+INDEXED ENTRIES
+
+    cattail_rhizome
+        Biomes:          flood_hollow, swamp, lake
+        Scientific Name: Typha latifolia
+
+    nettles
+        Biomes:          mixed_forest, deciduous_forest, wet_slope
+        Scientific Name: Urtica dioica
+
+    tundra_willow_bark
+        Biomes:          tundra, glacier
+        Scientific Name: Salix arctica
+
+    bluegrass_seeds
+        Biomes:          plains, meadow, deciduous_forest
+        Scientific Name: Poa pratensis
+
+    bog_cranberries
+        Biomes:          swamp, lake, flood_hollow
+        Scientific Name: Vaccinium oxycoccos
+
+    wild_sorrel
+        Biomes:          meadow, plains
+        Scientific Name: Rumex acetosa
+
+    hazelnuts
+        Biomes:          deciduous_forest, mixed_forest
+        Scientific Name: Corylus avellana
+
+    firethorn_berry
+        Biomes:          ash_field, evergreen_forest, wet_slope
+        Scientific Name: Pyracantha coccinea
+
+    rose_hip
+        Biomes:          mixed_forest, hills
+        Scientific Name: Rosa canina
+
+    lambs_quarters
+        Biomes:          meadow, deciduous_forest
+        Scientific Name: Chenopodium album
+
+    alpine_bistort
+        Biomes:          tundra, glacier
+        Scientific Name: Bistorta vivipara
+

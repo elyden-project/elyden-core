@@ -1,0 +1,25 @@
+NAME  
+    baneberry - cardio-depressant berry used in lethal bait or delayed disruption
+
+DESCRIPTION  
+    Baneberry is a low woodland plant with divided leaves and clustered berries.  
+    The berries contain cardiogenic toxins that slow heart rate, disrupt muscle coordination,  
+    and induce vomiting or collapse. In small doses, effects are delayed and subtle;  
+    in concentrated form or quantity, fatal to small prey. Berries are visually attractive  
+    and often mistaken for edible fruit.
+
+    Grows in moist, shaded forest zones with loose soil.  
+    Red or white berries appear late in the cycle and persist into early frost.  
+    Leaves are deeply serrated and slightly hairy. Root and stem are also toxic,  
+    but less potent than berries. Toxin is stable once dried or pulped.
+
+USAGE  
+    Mirriane: crushed into smear for lure trails or scent masking  
+    Thea: embedded into baitballs or dried and concealed within decay traps  
+    Preparation: collect whole berry clusters, dry or pulp, store in bark wrap or sealed pouch
+
+ZONE PRESENCE  
+    Biomes: evergreen_forest, wet_slope
+
+SCIENTIFIC NAME  
+    Actaea pachypoda

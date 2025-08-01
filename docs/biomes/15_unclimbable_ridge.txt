@@ -1,0 +1,28 @@
+NAME  
+    unclimbable_ridge - tectonic wall enclosing the valley’s outer limit
+
+DESCRIPTION  
+    The unclimbable ridge is a continuous vertical formation encircling  
+    the valley. It was raised during the collapse by deep tectonic shift.  
+    Faces are sheer, fractured, and without scalable features. No path  
+    leads beyond. No descent has been recorded.
+
+    The ridge blocks all visible horizon. Light behavior changes  
+    near the boundary due to angle and particulate drift.  
+    Wind speed intensifies along upper slopes and circulates  
+    downward into interior basins.
+
+    No vegetation grows. Surface ice forms seasonally on shaded  
+    sections. Rockfall is unpredictable. Seismic echoes may  
+    persist for minutes after distant impact.
+
+    Wildlife does not approach. No structures, ruins, or  
+    thermal activity are found within its band.
+
+ZONE TRAITS  
+    - Mobility:       none  
+    - Visibility:     blocked  
+    - Cover:          none  
+    - Water Access:   absent  
+    - Forage Density: none  
+    - Threat Level:   extreme

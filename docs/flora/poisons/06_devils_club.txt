@@ -1,0 +1,25 @@
+NAME  
+    devils_club - thorn-covered stem used for forced movement traps and area denial
+
+DESCRIPTION  
+    Devil’s club is a large, woody shrub covered in sharp spines along its stems  
+    and undersides of broad leaves. The thorns cause puncture wounds, embed easily,  
+    and may introduce mild irritants that lead to inflammation or infection.  
+    Commonly used to block trail access, protect caches, or inflict disabling injury  
+    in close-range traps.
+
+    Found in dense, humid forest underlayers and slope margins.  
+    Reaches over two meters in height. Leaves are wide and palmate,  
+    resembling maple. Thick stalks snap cleanly when dry but retain spine structure.  
+    Direct contact should be avoided without layered protection.
+
+USAGE  
+    Mirriane: layered across narrow gaps or used as thorn backing on ground traps  
+    Thea: bound into tripline lashes or folded under foliage cover near kill zones  
+    Preparation: harvest with bark gloves, strip into panels, bind while fresh, dry flat if stored
+
+ZONE PRESENCE  
+    Biomes: mixed_forest, hills
+
+SCIENTIFIC NAME  
+    Oplopanax horridus

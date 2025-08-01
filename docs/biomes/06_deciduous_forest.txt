@@ -1,0 +1,29 @@
+NAME  
+    deciduous_forest - seasonal broadleaf canopy with layered undergrowth
+
+DESCRIPTION  
+    Deciduous forests are dominated by broadleaf trees that shed foliage  
+    cyclically. Canopy cover is variable throughout the year, allowing  
+    significant light during bare periods and near-total shadow under  
+    full growth. Leaf litter accumulates rapidly, softening ground noise  
+    and obscuring surface detail.
+
+    Soil is richer than in coniferous zones, supporting layered growth  
+    including shrubs, ferns, and intermittent fungi. Water retention is  
+    moderate. Movement is steady but navigation is hindered by visual  
+    repetition and obscured terrain contours.
+
+    Wildlife includes nesters, climbers, and patterned ground foragers.  
+    Activity levels rise with canopy exposure. Predation is opportunistic.  
+    Sound clarity depends on foliage density and time of year.
+
+    Deciduous forests appear in lower elevations, typically downstream  
+    from geothermal sources or near transitional meadows.
+
+ZONE TRAITS  
+    - Mobility:       moderate  
+    - Visibility:     variable  
+    - Cover:          moderate  
+    - Water Access:   moderate  
+    - Forage Density: moderate  
+    - Threat Level:   moderate

@@ -1,0 +1,26 @@
+NAME  
+    tamarisk_wand - flexible woody stem used for trap arms and lightweight framing
+
+DESCRIPTION  
+    Tamarisk is a shrubby plant found in saline flats and drainage-prone lowlands.  
+    It produces long, slender stems that remain springy even when dried, making them  
+    ideal for tension arms, light trap triggers, or temporary frame extensions.  
+    Bark is thin and peels easily. Wood is not strong but holds shape under light  
+    force and rebounds cleanly when bent. Growth is dense and often forms thickets  
+    near flood retreats or exposed sediment layers.
+
+    Harvested stems are best taken before full lignification sets in.  
+    Older stalks become brittle and prone to snapping.  
+    The wood burns poorly and is not used for fuel.  
+    Surface grain is smooth; can be shaved or notched without splitting.
+
+USAGE  
+    Mirriane: selected for frame extensions or backup shaft cores in emergency repair  
+    Thea: used as spring arms or flexible lash anchors in trap constructions  
+    Preparation: cut near base, strip bark, dry straight or bind into curve under tension
+
+ZONE PRESENCE  
+    Biomes: flood_hollow, badlands
+
+SCIENTIFIC NAME  
+    Tamarix ramosissima

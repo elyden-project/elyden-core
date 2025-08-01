@@ -1,0 +1,55 @@
+NAME  
+    flora_crafting_index - flora used for construction, fiberwork, resin, or fire support
+
+DESCRIPTION  
+    This index lists plants that yield combustible, structural, or binding material.  
+    Each entry reflects real-world flora adapted to local collection and reuse.
+
+    Items include wood for shaping, bark for cordage, fibrous stalks,  
+    natural resins, and desiccated matter suitable for fire starting.  
+    Entries are grouped by use, not classification or origin.
+
+    Some materials may appear in other indexes depending on preparation,  
+    season, or condition. Only dry-gathered specimens are assumed viable.
+
+INDEXED ENTRIES
+
+    yew_stavewood
+        Biomes:          evergreen_forest, hills
+        Scientific Name: Taxus baccata
+
+    spruce_heartwood
+        Biomes:          evergreen_forest, glacier
+        Scientific Name: Picea abies
+
+    cordgrass_fiber
+        Biomes:          flood_hollow, swamp, lake
+        Scientific Name: Spartina alterniflora
+
+    birch_peel
+        Biomes:          deciduous_forest, hills
+        Scientific Name: Betula pendula
+
+    liana_bark
+        Biomes:          wet_slope, mixed_forest
+        Scientific Name: Berchemia scandens
+
+    bulrush_stalk
+        Biomes:          lake, flood_hollow, swamp
+        Scientific Name: Schoenoplectus acutus
+
+    mullein_leaf
+        Biomes:          meadow, plains
+        Scientific Name: Verbascum thapsus
+
+    sagebrush_stalk
+        Biomes:          plains, hills, badlands
+        Scientific Name: Artemisia tridentata
+
+    pine_tree
+        Biomes:          evergreen_forest, hills
+        Scientific Name: Pinus sylvestris
+
+    tamarisk_wand
+        Biomes:          flood_hollow, badlands
+        Scientific Name: Tamarix ramosissima

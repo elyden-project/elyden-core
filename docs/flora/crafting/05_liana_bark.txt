@@ -1,0 +1,24 @@
+NAME  
+    liana_bark - flexible woody vine used for cordage, binding, and strapping
+
+DESCRIPTION  
+    Lianas are long, climbing vines that form tough, fibrous outer layers.  
+    When stripped and soaked, the bark can be twisted into rope, lashings, or  
+    tool grips. The fiber is not load-bearing but holds well under tension.  
+    Used for trap construction, bundled wrappings, or temporary fastenings.
+
+    Found in canopy margins and humid forest underlayers.  
+    Vines climb tree trunks and sprawl laterally under foliage.  
+    Bark is dark, striated, and splits cleanly when scored.  
+    Best harvested before drying sets in, then coiled or laid flat.
+
+USAGE  
+    Mirriane: twisted into light cord or tied around fletching bundles  
+    Thea: braided into snare triggers or wrapped around tool hafts for grip  
+    Preparation: cut sections under tension, strip bark with draw, soak if stiff, twist or press flat
+
+ZONE PRESENCE  
+    Biomes: wet_slope, mixed_forest
+
+SCIENTIFIC NAME  
+    Berchemia scandens

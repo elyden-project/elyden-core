@@ -1,0 +1,29 @@
+NAME  
+    tundra - cold flatland with frozen subsoil and minimal vegetation
+
+DESCRIPTION  
+    Tundra zones are open, wind-exposed regions underlain by  
+    permafrost. Soil is shallow and locked for most of the year.  
+    Vegetation is limited to mosses, lichens, and small cushion  
+    plants. No trees survive. Color and motion are minimal.
+
+    Surface thaw may occur briefly during geothermal surges or  
+    seasonal light exposure. Drainage is poor; ice forms shallow  
+    crusts above saturated ground. Terrain is flat but uneven  
+    due to frost heave.
+
+    Wildlife includes burrowers, cold-adapted grazers, and  
+    occasional transient predators. Animal presence is sparse.  
+    Visibility is high in clear weather but compromised by  
+    snow drift or fog.
+
+    Tundra appears near the glacial edge or in elevation zones  
+    where thermal reach is minimal.
+
+ZONE TRAITS  
+    - Mobility:       moderate  
+    - Visibility:     clear  
+    - Cover:          none  
+    - Water Access:   unreliable  
+    - Forage Density: low  
+    - Threat Level:   moderate

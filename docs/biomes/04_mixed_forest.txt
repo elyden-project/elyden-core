@@ -1,0 +1,29 @@
+NAME  
+    mixed_forest - transitional canopy zone with interlaced deciduous and evergreen growth
+
+DESCRIPTION  
+    Mixed forests occur where coniferous and broadleaf species coexist  
+    due to overlapping temperature bands or irregular soil conditions.  
+    These zones are structurally dense with layered vegetation, fallen  
+    timber, and seasonal undergrowth. Ground visibility is limited.
+
+    The canopy is inconsistent. Light penetration varies by section.  
+    Moisture is retained longer than in plains or hills, supporting  
+    fungi, mosses, and invertebrate biomass. Noise dampening is high.  
+    Movement is possible but slow.
+
+    Fauna density is moderate. Most species rely on cover, ambush  
+    behavior, or canopy nesting. Tracks and den signs may be  
+    obscured by leaf debris. Navigation without fixed landmarks  
+    is unreliable.
+
+    Mixed forests typically form between evergreen slopes and  
+    deciduous lowlands, or along soil shifts in geothermal zones.
+
+ZONE TRAITS  
+    - Mobility:       obstructed  
+    - Visibility:     intermittent  
+    - Cover:          dense  
+    - Water Access:   moderate  
+    - Forage Density: moderate  
+    - Threat Level:   variable

@@ -1,0 +1,24 @@
+NAME  
+    frost_spurge - cold-zone plant with caustic sap used to sterilize wounds
+
+DESCRIPTION  
+    Frost spurge is a low, sprawling plant with narrow needle-like leaves and pale stems.  
+    It thrives in nutrient-poor, wind-exposed permafrost terrain. When cut, the plant  
+    releases a milky white sap that is chemically irritating. Applied carefully, this sap  
+    can be used to sterilize small wounds or kill surface parasites. Overuse causes skin damage.  
+    Gloves or cloth are recommended when harvesting.
+
+    Spurge forms dense mats close to the ground. Its stem tips often redden in late season.  
+    Animals avoid it, and it rarely grows near forageable flora. Active compounds remain  
+    stable in dry or frozen form.
+
+USAGE  
+    Mirriane: sap applied to thorn wounds or to sterilize knife edges  
+    Thea: used sparingly in blade coating or on trap barbs to prevent rot  
+    Preparation: snip stem tip, express sap directly; store in bark wrap or absorbent cloth
+
+ZONE PRESENCE  
+    Biomes: frost_sink, tundra
+
+SCIENTIFIC NAME  
+    Euphorbia cyparissias

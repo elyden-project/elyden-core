@@ -1,0 +1,29 @@
+NAME  
+    evergreen_forest - high-canopy coniferous zone with minimal undergrowth
+
+DESCRIPTION  
+    Evergreen forests form in colder elevation bands where broadleaf  
+    species cannot survive. The canopy is dominated by conifers with  
+    needle foliage, high vertical structure, and limited seasonal change.  
+    Light penetration is low. Ground vegetation is sparse and patchy.
+
+    Soil is acidic and retains moisture inconsistently. Organic debris  
+    accumulates slowly. Underfoot terrain is often dry, rootbound,  
+    and uneven. Movement is possible but visibility is reduced in  
+    all directions.
+
+    Wildlife is adapted for cold, camouflage, and stillness. Fauna  
+    tend toward solitary behavior. Tracks are infrequent. Sounds  
+    are muffled. Threat presence is difficult to verify without  
+    direct sighting.
+
+    Evergreen zones commonly form above mixed forest lines or along  
+    high interior slopes exposed to seasonal frost.
+
+ZONE TRAITS  
+    - Mobility:       obstructed  
+    - Visibility:     blocked  
+    - Cover:          dense  
+    - Water Access:   unreliable  
+    - Forage Density: low  
+    - Threat Level:   high

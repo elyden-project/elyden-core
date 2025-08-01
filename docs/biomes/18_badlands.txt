@@ -1,0 +1,28 @@
+NAME  
+    badlands - eroded terrain with fractured sediment and unstable elevation
+
+DESCRIPTION  
+    Badlands are dry, degraded zones formed by prolonged erosion and  
+    runoff. Terrain consists of cracked clay, loose sediment, and  
+    exposed strata. Vegetation is nearly absent. Soil structure is  
+    discontinuous and collapses under weight or rainfall.
+
+    Elevation shifts rapidly in short distances. Ravines and ridges  
+    alternate without pattern. Water does not accumulate. Surface  
+    is often dusty, hard-packed, or brittle. Wind exposure is high.  
+    Movement is slow and unsteady.
+
+    Wildlife is minimal, limited to scavengers and burrowers.  
+    Visual landmarks are few. Ambient noise is carried far.  
+    Shelter is rare and unstable.
+
+    Badlands form in failed slopes, fossil basins, or long-term  
+    drain zones where nutrients never return.
+
+ZONE TRAITS  
+    - Mobility:       obstructed  
+    - Visibility:     clear  
+    - Cover:          none  
+    - Water Access:   absent  
+    - Forage Density: none  
+    - Threat Level:   moderate

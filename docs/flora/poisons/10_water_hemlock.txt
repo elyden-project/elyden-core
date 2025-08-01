@@ -1,0 +1,24 @@
+NAME  
+    water_hemlock - high-potency neurotoxin used for kill traps and bait targeting small game
+
+DESCRIPTION  
+    Water hemlock is a tall, hollow-stemmed plant with umbrella-shaped clusters of white flowers.  
+    It contains cicutoxin, a fast-acting neurotoxin that causes violent convulsions,  
+    respiratory failure, and death. The root and lower stem hold the highest concentration.  
+    Used for lethal bait preparation or high-fatality traps. Must be handled with extreme caution.
+
+    Found along water margins, flood basins, and stagnant wetland edges.  
+    Roots are thick and chambered, sometimes confused with edible tubers.  
+    Odor is sharp and oily when cut. Toxicity remains in dried or aged specimens.  
+    Causes death in small animals within minutes of ingestion.
+
+USAGE  
+    Mirriane: traced onto arrowheads or left in surface bait for predator interference  
+    Thea: core component in spring barbs, wound-channel lures, or shallow pit traps  
+    Preparation: harvest with bark barrier or wrapped blade, slice root, dry under airflow; never expose open skin
+
+ZONE PRESENCE  
+    Biomes: flood_hollow, swamp
+
+SCIENTIFIC NAME  
+    Cicuta maculata

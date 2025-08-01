@@ -1,0 +1,29 @@
+NAME  
+    swamp - waterlogged lowland with unstable footing and high biomass
+
+DESCRIPTION  
+    Swamps are saturated zones where groundwater or runoff collects  
+    faster than it drains. Vegetation includes dense reeds, tangled  
+    root systems, moss mats, and submerged debris. Tree growth is  
+    stunted or irregular. Soil is loose or fully submerged.
+
+    Movement is unpredictable. Surface stability varies with rainfall,  
+    melt cycles, and geothermal flow. Visibility is compromised by  
+    vegetation and elevation shifts. Standing water supports insect  
+    blooms and microbial heat traps.
+
+    Wildlife is opportunistic, amphibious, or semi-buried. Noise levels  
+    are high but not reliable for detection. Encounters may occur at  
+    close range with little warning. Navigation requires caution and  
+    visual memory.
+
+    Swamps typically form near lake margins, blocked hollows, or  
+    shallow geothermal gradients with poor slope.
+
+ZONE TRAITS  
+    - Mobility:       poor  
+    - Visibility:     blocked  
+    - Cover:          dense  
+    - Water Access:   present  
+    - Forage Density: high  
+    - Threat Level:   high

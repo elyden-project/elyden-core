@@ -1,0 +1,27 @@
+NAME  
+    frost_sink - enclosed depression with persistent cold and trapped permafrost
+
+DESCRIPTION  
+    Frost sinks are internal basins where cold air and runoff settle  
+    without circulation. Temperatures remain below freezing year-round.  
+    Ground is locked in permafrost. Snow accumulates but does not thaw.  
+    Vegetation is absent or fossilized.
+
+    Movement is possible but dangerous. Slopes are brittle and descend  
+    into flat zones with unstable ice crusts. Visibility is reduced by  
+    shadow and particle reflection. Sound is muted.
+
+    Wildlife avoids these regions. No known burrowers or surface  
+    species persist. Structural remnants from pre-collapse periods  
+    may be buried beneath snow layers but are inaccessible.
+
+    Frost sinks appear as collapsed hollows within ridgelines or  
+    low points in interior glacial spill zones.
+
+ZONE TRAITS  
+    - Mobility:       obstructed  
+    - Visibility:     blocked  
+    - Cover:          none  
+    - Water Access:   frozen  
+    - Forage Density: none  
+    - Threat Level:   high

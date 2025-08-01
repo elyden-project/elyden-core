@@ -1,0 +1,28 @@
+NAME  
+    wet_slope - geothermal incline with persistent moisture and unstable terrain
+
+DESCRIPTION  
+    Wet slopes form along inclines where geothermal condensation  
+    accumulates without draining. Surface material remains damp  
+    year-round. Vegetation is limited to moss layers, root nets,  
+    and moisture-tolerant shrubs clinging to angled ground.
+
+    Soil is soft, fractured, and prone to slippage. Rocks loosen  
+    under minimal pressure. Mist layers reduce visibility. Movement  
+    requires caution and deliberate route selection.
+
+    Wildlife is rare and limited to small burrowers, insects, and  
+    ridge-dwelling opportunists. Predators avoid the zone due to  
+    noise propagation and poor footing.
+
+    Wet slopes occur near volcanic gradients, steam-fed gullies,  
+    or fractured geothermal veins. They often border swamp margins  
+    or lead into flood hollows.
+
+ZONE TRAITS  
+    - Mobility:       poor  
+    - Visibility:     intermittent  
+    - Cover:          sparse  
+    - Water Access:   present  
+    - Forage Density: low  
+    - Threat Level:   low

@@ -1,0 +1,26 @@
+NAME  
+    tinder_fungus - shelf fungus used for wound drying, cauterization prep, and firestarting
+
+DESCRIPTION  
+    Tinder fungus refers to the fruiting body of *Fomes fomentarius*,  
+    a hard, hoof-shaped shelf fungus found on dead or dying trees.  
+    It has a dry, fibrous core that absorbs moisture and blood,  
+    making it useful for field dressings where no cloth is available.  
+    When processed and dried, it also takes and holds a spark,  
+    allowing dual use as both wound pack and ignition starter.
+
+    Grows on hardwood trunks, especially birch or beech, in cool forest zones.  
+    The outer rind is grey and hard; the inner flesh is brown and layered.  
+    Can be sliced into flat pads when fresh, then dried for storage or use.  
+    Must be removed from host tree with a knife or wedge.
+
+USAGE  
+    Mirriane: shaved and dried for firestarting or packed against abrasions  
+    Thea: crushed and folded into delayed cauterant wraps or trap igniters  
+    Preparation: cut from trunk, slice through core, dry fully before carrying
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest
+
+SCIENTIFIC NAME  
+    Fomes fomentarius

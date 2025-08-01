@@ -1,0 +1,28 @@
+NAME  
+    meadow - open lowland with seasonal growth and shallow biodiversity
+
+DESCRIPTION  
+    Meadows are low-lying open zones with periodic moisture retention  
+    and fast-growing surface vegetation. Grasses dominate, supported  
+    by scattered herbs and low flowering species during brief bloom  
+    periods. Tree growth is suppressed due to thin soil and hydrology.
+
+    Water collects in shallow basins after melt or condensation cycles,  
+    but drains quickly. Soil is soft and prone to saturation. Movement  
+    is easy when dry but can become unstable during thaw or rainfall.
+
+    Wildlife includes small grazers, foragers, and airborne insect  
+    clusters. Predation is low but visibility is compromised by grass  
+    height and terrain undulation. Cover is deceptive-low to the ground  
+    but enough to obscure movement.
+
+    Meadows occur near flood hollows, lake outlets, or as internal  
+    pockets between forest and plain.
+
+ZONE TRAITS  
+    - Mobility:       open  
+    - Visibility:     intermittent  
+    - Cover:          sparse  
+    - Water Access:   seasonal  
+    - Forage Density: moderate  
+    - Threat Level:   low

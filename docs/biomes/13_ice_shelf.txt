@@ -1,0 +1,32 @@
+NAME  
+    ice_shelf - static frost zone with brittle crust and sublayer voids
+
+DESCRIPTION  
+    Ice shelves are broad, stable formations of hardened frost.  
+    Unlike glaciers, they do not flow or deform under pressure.  
+    Surfaces are flat but fragile, often covering hollow zones  
+    formed by gas pockets or past melt. Cracks propagate without  
+    warning.
+
+    Light is uniform and sound carries far. Depth perception is  
+    poor due to whiteout conditions. No vegetation exists.  
+    Wind exposure is constant. Snowfall layers are shallow  
+    and rarely accumulate.
+
+    Wildlife is nonexistent. Movement across the shelf is possible  
+    with caution but offers no concealment or resource. Shelters  
+    cannot be built. Any fall or pressure failure is unrecoverable.
+
+    Ice shelves appear at the northern rim or in uplifted  
+    interior plateaus beyond geothermal reach.
+
+    Short-term survival is possible with thermal gear and planned withdrawal.
+    No shelter or sustenance is available.
+
+ZONE TRAITS  
+    - Mobility:       obstructed  
+    - Visibility:     clear  
+    - Cover:          none  
+    - Water Access:   frozen  
+    - Forage Density: none  
+    - Threat Level:   high

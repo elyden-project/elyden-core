@@ -1,0 +1,32 @@
+NAME  
+    valley_overview - last habitable terrain following planetary collapse
+
+DESCRIPTION  
+    The sealed valley is the only region where life remains viable.  
+    It was enclosed by tectonic force during the final lunar alignment.  
+    Surrounding ridges were raised outward, forming an impassable  
+    mountain boundary. Outside the valley, the world is lost beneath  
+    deep permafrost, moving glacier, and atmospheric ruin.
+
+    The interior forms a compact supercontinental basin. Biomes are  
+    compressed into narrow transitions. Plains and meadows dominate  
+    low elevations. Forest belts rise in layered rings-evergreen,  
+    deciduous, and mixed. Small and steep hills are frequent, often  
+    leading to river-fed wetlands, swamps, or glacial runoff.
+
+    Thermal energy is maintained by deep geothermal pressure.  
+    No solar heat cycle remains strong enough to sustain climate.  
+    Volcanic zones are active but unevenly distributed. The land  
+    is warm, but fragile. Some vents are exposed. Others sit below  
+    lakebeds, swamps, or subsurface stone.
+
+    Glacial presence remains along outer walls and northern bands.  
+    Ice migrates in slow pressure waves but does not reach interior  
+    systems. Tundra conditions appear near fault scars and rising  
+    massifs. Badlands and stripped subsoil zones mark regions of  
+    former rupture.
+
+    No working structures survive. Ruins dot the interior in varied  
+    states of erosion and overgrowth. Most are anonymous. Some are  
+    half-buried or flooded. None are in use.
+

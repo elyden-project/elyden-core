@@ -1,0 +1,26 @@
+NAME  
+    sagebrush_stalk - brittle shrub stem used for fast ignition and loose tinder
+
+DESCRIPTION  
+    Sagebrush is a woody, drought-adapted shrub found across arid and wind-stripped terrain.  
+    Its stems dry into hollow, brittle stalks that snap cleanly and ignite rapidly, making  
+    them ideal for firestarting or padding tinder bundles. It is not suitable for structure  
+    or load-bearing use. Growth is low and branching, with narrow leaves and a pungent scent  
+    when disturbed. Found scattered along open slopes or exposed basins.
+
+    Harvested stems burn hot and fast with minimal smoke.  
+    Ineffective when damp and should be stored in dry wrap.  
+    Adds volume to tinder but offers no sustained heat.  
+    Collection is easiest by hand during dry season. 
+
+USAGE  
+    Mirriane: bundled as fast-ignition tinder in firestarter kits  
+    Thea: burned in surface traps to generate quick smoke bursts  
+    Preparation: snap dry stalks at base, remove side shoots, store loosely in dry wrap
+
+ZONE PRESENCE  
+    Biomes: plains, hills, badlands
+
+SCIENTIFIC NAME  
+    Artemisia tridentata
+

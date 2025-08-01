@@ -1,0 +1,26 @@
+NAME  
+    hills - uneven terrain with low soil stability and limited vegetation
+
+DESCRIPTION  
+    Hills are moderate elevation zones defined by irregular slopes,  
+    patchy soil retention, and surface instability. Vegetation is  
+    mixed and typically sparse, with low shrubs, lichen, and  
+    occasional stunted trees on plateaus or shaded slopes.
+
+    Wind exposure is high. Water runoff is rapid. Soil erosion  
+    is common on steeper grades, exposing sublayers of rock or  
+    fractured sediment. Movement is viable but requires caution  
+    on loose gradients or fractured ledges.
+
+    Wildlife tends to follow ridge lines or settle in wind-sheltered  
+    depressions. Visibility varies with terrain profile. Sound  
+    travels unevenly across slopes. Hills may form natural corridors  
+    between enclosed basins or provide access to adjacent ridgelines.
+
+ZONE TRAITS  
+    - Mobility:       variable  
+    - Visibility:     intermittent  
+    - Cover:          sparse  
+    - Water Access:   unreliable  
+    - Forage Density: low  
+    - Threat Level:   moderate

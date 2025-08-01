@@ -1,0 +1,24 @@
+NAME  
+    haircap_moss - upright moss species indicating cold retention and moderate water access
+
+DESCRIPTION  
+    Haircap moss forms dense vertical colonies of stiff, green shoots with pointed tips.  
+    It favors damp soil and shaded forest margins where temperature remains low and  
+    moisture is steady but not saturated. Its structure resists frost and insulates  
+    shallow root networks, making it a reliable marker of cold persistence and canopy cover.
+
+    Found beneath deciduous or coniferous trees in highland zones and frost basins.  
+    Colonies grow thickly over stone, soil, or rotting wood.  
+    Often the first sign of ground thaw near permafrost boundaries.  
+    Avoids heavily trampled or compacted terrain.
+
+USAGE  
+    Mirriane: used to track cold-edge habitat or predict thaw basin melt timing  
+    Thea: observed for cover dynamics around traps; its disturbance may reveal passage  
+    Preparation: not harvested - examined for density and moisture content across slope or ridge
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest, frost_sink
+
+SCIENTIFIC NAME  
+    Polytrichum commune

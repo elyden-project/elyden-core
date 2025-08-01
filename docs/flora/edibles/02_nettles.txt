@@ -1,0 +1,24 @@
+NAME  
+    nettles - iron-rich leafy stalk with stinging hairs
+
+DESCRIPTION  
+    Nettles are fast-growing herbaceous plants found along semi-shaded forest margins  
+    and moist slopes. They are identified by their serrated leaves and fine stinging  
+    hairs which deliver a mild irritant on contact. Once boiled or dried, the stingers  
+    are neutralized and the leaves become a nutrient-rich food source high in iron,  
+    vitamins, and protein.
+
+    Nettles grow in clusters, often near disturbed soil or water runoff paths.  
+    Harvesting is safest with gloves or cloth. Leaves are best taken young and tender.  
+    Also usable for tea or dried additive in ration mixes.
+
+USAGE  
+    Mirriane: boiled for food; brewed into mineral tea  
+    Thea: dried and packed into field poultice layers  
+    Preparation: submerge leaves in boiling water for 3–5 minutes; dry flat if storing
+
+ZONE PRESENCE  
+    Biomes: mixed_forest, deciduous_forest, wet_slope
+
+SCIENTIFIC NAME  
+    Urtica dioica

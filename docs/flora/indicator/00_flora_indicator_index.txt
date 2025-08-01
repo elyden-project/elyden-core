@@ -1,0 +1,54 @@
+NAME  
+    flora_indicator_index - non-harvestable flora used to assess terrain and environmental stability
+
+DESCRIPTION  
+    This index lists real-world plants whose presence indicates local terrain,  
+    water content, mineral bias, or long-term biome conditions. These species  
+    are not harvested but noted for their diagnostic value in field observation.
+
+    Their growth patterns may signal permafrost zones, glacial movement,  
+    wetland saturation, soil acidity, or geothermal activity.  
+    Recognizing these markers improves route planning and long-term survival.
+
+INDEXED ENTRIES
+
+    reindeer_lichen
+        Biomes:          tundra, frost_sink
+        Scientific Name: Cladonia rangiferina
+
+    sphagnum_moss
+        Biomes:          flood_hollow, swamp
+        Scientific Name: Sphagnum palustre
+
+    horsetail_fern
+        Biomes:          lake, flood_hollow
+        Scientific Name: Equisetum arvense
+
+    wolf_lichen
+        Biomes:          hills, evergreen_forest
+        Scientific Name: Letharia vulpina
+
+    clubmoss
+        Biomes:          evergreen_forest, glacier
+        Scientific Name: Lycopodium clavatum
+
+    polypody_fern
+        Biomes:          wet_slope, mixed_forest
+        Scientific Name: Polypodium vulgare
+
+    haircap_moss
+        Biomes:          deciduous_forest, frost_sink
+        Scientific Name: Polytrichum commune
+
+    liverwort_patch
+        Biomes:          swamp, volcanic_slope
+        Scientific Name: Marchantia polymorpha
+
+    field_sedge
+        Biomes:          plains, meadow
+        Scientific Name: Carex praegracilis
+
+    snowbed_willow
+        Biomes:          tundra, ice_shelf
+        Scientific Name: Salix herbacea
+

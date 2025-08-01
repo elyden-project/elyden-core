@@ -1,29 +1,29 @@
 NAME  
-    sealed_valley − the last survivable region in elyden
+    sealed_valley - record of the last survivable region
 
 DESCRIPTION  
-    The sealed valley is a tectonically isolated zone formed after the loss of Vaeronth.  
-    The remaining moons generated sufficient force to raise volcanic ridges around a  
-    temperate land basin. This perimeter is stable and defines the bounds of viable life.  
+    After Vaeronth collapsed, the moons fell out of rhythm. Weather  
+    systems became unstable. Permafrost spread. Temperatures dropped  
+    faster than they could recover. Most of the planet became  
+    uninhabitable.
 
-    Outside the ridges: sustained glacial overrun, cryogenic wind, and inactive biosystems.  
-    Inside: disrupted seasonal flow, partial ecosystem retention, and fragmented weather loops.
+    In their last known alignment, the surviving moons triggered a  
+    tectonic shift. A deep valley was sealed by rising ridges.  
+    The basin became cut off from the rest of the world.
 
-    The valley is not monitored. It is not maintained.  
-    It is the only remaining region where structures, growth, and active motion persist.
+    The sealed valley is the last region where the environment still  
+    works. Heat is retained. Weather repeats. Plants grow. Cycles  
+    respond to the seasons. Life continues.
 
-    No external paths remain. No crossings are confirmed.  
-    This region defines the upper limit of post-collapse survival.
+    Outside the valley, collapse is unchecked. Most of the surface is  
+    frozen, scorched, or lifeless. Weather is erratic. Signals no  
+    longer follow pattern. Time is difficult to track.
 
-NOTES  
-    • Ridge perimeter is composed of cooled volcanic stone  
-    • Active geothermal zones exist: steam fissures and subsurface lakes  
-    • Local weather is unstable but non-lethal  
-    • Environmental pressure is elevated; ecosystems are unstable
+    Civilization did not survive. The systems inside the valley held,  
+    but language, order, and memory degraded. The cause is not fully  
+    understood. The presence of Khyrael continued after the sealing  
+    and is believed to have interfered with continuity.
 
-    • No ruins beyond the seal are accessible  
-    • Surface beyond the valley is permafrosted and non-viable  
-    • No recorded entry or exit has occurred since sealing
-
-FILES  
-    ORIGIN_EVENT(5), BIOMES(5), FRAGMENTS(5), SHARDS(5)
+    The valley was sealed by lunar alignment. The remaining moons  
+    acted in final resonance to isolate the basin. No further  
+    alignment has occurred since.

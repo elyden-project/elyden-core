@@ -1,0 +1,24 @@
+NAME  
+    clubmoss - low creeping plant used to identify undisturbed ground and deep-root forest stability
+
+DESCRIPTION  
+    Clubmoss is a primitive vascular plant with dense, scale-like leaves and creeping stems.  
+    It thrives in undisturbed, stable soils and slow-changing microclimates.  
+    Its presence suggests minimal erosion, consistent shade, and intact root systems.  
+    Easily disrupted by trampling or soil shift.
+
+    Found beneath evergreen canopy or along glacier-fed forest margins.  
+    Forms low mats or upright tufts resembling miniature conifers.  
+    Reproduction is slow; recovery after disturbance takes multiple seasons.  
+    Once common, now sparse in exposed or high-trafficked regions.
+
+USAGE  
+    Mirriane: used to confirm ground stability or select untouched paths  
+    Thea: indicates zones where traps may persist undetected due to low wildlife passage  
+    Preparation: not harvested - read from intact ground cover and growth density
+
+ZONE PRESENCE  
+    Biomes: evergreen_forest, glacier
+
+SCIENTIFIC NAME  
+    Lycopodium clavatum

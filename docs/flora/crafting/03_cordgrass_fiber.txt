@@ -1,0 +1,24 @@
+NAME  
+    cordgrass_fiber - long-bladed grass stripped into cordage and binder wrap
+
+DESCRIPTION  
+    Cordgrass is a tall, salt-tolerant grass with narrow, fibrous blades.  
+    The leaves contain long cellulose strands that can be split and twisted  
+    into light cord, wrap ties, or bundle lashings. Fibers are coarse when dry  
+    but flexible if soaked. Used for temporary bindings, braidline, or net backing.
+
+    Grows in dense stands along wet margins and brackish inlets.  
+    Blades reach waist height, taper to a sharp edge, and remain upright in shallow water.  
+    Harvested by cutting at the base and stripping outer sheath. Best used green or soaked  
+    before twist. Not suitable for fine textiles or heavy tension.
+
+USAGE  
+    Mirriane: stripped for field lashings and binding forage packs  
+    Thea: twisted into net loops or trip tension lines in wet terrain  
+    Preparation: cut at stalk base, split with thumb or blade, soak or twist to bind
+
+ZONE PRESENCE  
+    Biomes: flood_hollow, swamp, lake
+
+SCIENTIFIC NAME  
+    Spartina alterniflora

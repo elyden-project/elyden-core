@@ -1,0 +1,23 @@
+NAME  
+    polypody_fern - shallow-rooting epiphyte used to identify damp, shaded slopes and canopy drip zones
+
+DESCRIPTION  
+    Polypody fern grows in small clusters along rocky outcrops, mossy trunks, or decaying logs.  
+    It prefers areas with steady humidity and filtered light, often near slopes that collect  
+    rainfall or along volcanic ridgelines. Presence indicates consistent condensation,  
+    low wind exposure, and a stable mid-canopy environment.
+
+    Found in mixed forest understory, on wet slopes, or at the base of moss-coated trees.  
+    Fronds are narrow, deeply lobed, and evergreen. Roots form shallow mats and do not penetrate  
+    deeply into soil, making the plant sensitive to drying or surface disruption.
+
+USAGE  
+    Mirriane: used to locate long-drip canopy zones for shelter or fresh condensation collection  
+    Thea: marks terrain that holds humidity - good for scent-based tracking or moisture traps  
+    Preparation: not collected - read from placement and frond density on rock or trunk
+
+ZONE PRESENCE  
+    Biomes: wet_slope, mixed_forest
+
+SCIENTIFIC NAME  
+    Polypodium vulgare

@@ -1,0 +1,25 @@
+NAME  
+    rose_hip - vitamin-rich fruit from wild rose shrubs
+
+DESCRIPTION  
+    Rose hips are the bulbous seed pods that form after the petals of wild roses fall.  
+    They are rich in vitamin C and can be foraged in late season, especially after the first frost.  
+    The outer skin is firm and waxy; inside is a pulp containing fine hairs and seeds.  
+    Eaten raw in small amounts or boiled into syrup or tea. The hairs are irritating  
+    and should be removed if possible. Rose hips are a high-value survival forage  
+    where fruiting plants are otherwise scarce.
+
+    The shrub has thorny stems, serrated leaves, and pink to pale white flowers.  
+    Found along forest edges, hillsides, and stone breaks. Fruit ripens to deep orange  
+    or red and remains attached into early frost periods.
+
+USAGE  
+    Mirriane: steeped as nutrient tea or chewed fresh during travel  
+    Thea: mashed and reduced into medicinal paste or ration additive  
+    Preparation: slice open and remove seeds if time allows; dry whole for storage or boil fresh into infusion
+
+ZONE PRESENCE  
+    Biomes: mixed_forest, hills
+
+SCIENTIFIC NAME  
+    Rosa canina

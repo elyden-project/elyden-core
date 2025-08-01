@@ -1,0 +1,24 @@
+NAME  
+    willow_bark - salicylate-rich bark used in poultice treatment for pain and inflammation
+
+DESCRIPTION  
+    Willow is a deciduous tree or shrub with long, narrow leaves and flexible branches.  
+    The inner bark contains salicin, a natural compound that reduces pain and swelling  
+    when applied topically or infused. Stripped bark can be used in field treatments  
+    for muscle strain, bruising, and joint stress. Not suitable for internal use without refinement.
+
+    Grows along rivers, lake margins, and lowland plains where water is consistent.  
+    Bark is harvested from young branches or twigs, avoiding damage to the trunk.  
+    Best gathered in spring or early thaw when sap begins to rise.  
+    Tannin content requires bark to be cured or boiled before application.
+
+USAGE  
+    Mirriane: used in limb wrappings during cold exposure or after overdraw strain  
+    Thea: ground into paste for trapline bruising recovery or shared among wounded followers  
+    Preparation: strip bark with bone edge or nail, soak or simmer into pulp, apply warm
+
+ZONE PRESENCE  
+    Biomes: plains, flood_hollow, deciduous_forest
+
+SCIENTIFIC NAME  
+    Salix alba

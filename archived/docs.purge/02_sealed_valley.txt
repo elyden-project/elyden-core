@@ -1,0 +1,29 @@
+NAME  
+    sealed_valley − the last survivable region in elyden
+
+DESCRIPTION  
+    The sealed valley is a tectonically isolated zone formed after the loss of Vaeronth.  
+    The remaining moons generated sufficient force to raise volcanic ridges around a  
+    temperate land basin. This perimeter is stable and defines the bounds of viable life.  
+
+    Outside the ridges: sustained glacial overrun, cryogenic wind, and inactive biosystems.  
+    Inside: disrupted seasonal flow, partial ecosystem retention, and fragmented weather loops.
+
+    The valley is not monitored. It is not maintained.  
+    It is the only remaining region where structures, growth, and active motion persist.
+
+    No external paths remain. No crossings are confirmed.  
+    This region defines the upper limit of post-collapse survival.
+
+NOTES  
+    • Ridge perimeter is composed of cooled volcanic stone  
+    • Active geothermal zones exist: steam fissures and subsurface lakes  
+    • Local weather is unstable but non-lethal  
+    • Environmental pressure is elevated; ecosystems are unstable
+
+    • No ruins beyond the seal are accessible  
+    • Surface beyond the valley is permafrosted and non-viable  
+    • No recorded entry or exit has occurred since sealing
+
+FILES  
+    ORIGIN_EVENT(5), BIOMES(5), FRAGMENTS(5), SHARDS(5)

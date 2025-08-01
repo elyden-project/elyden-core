@@ -1,0 +1,43 @@
+NAME  
+    biome_index - stable terrain zones observed within the sealed valley
+
+DESCRIPTION  
+    The valley contains multiple distinct biomes shaped by post-collapse  
+    climate patterns and geothermal persistence. Each zone is a response  
+    to failed planetary rhythms and residual tectonic heat.
+
+    Biomes do not represent difficulty or progression. Conditions vary  
+    locally by elevation, slope, water retention, canopy cover, and  
+    seasonal exposure. No region is guaranteed safe or sustainable.
+
+    The biomes below are canon. Additional zones may exist at margins  
+    or as transient anomalies.
+
+LIST  
+
+    CORE ZONES  
+        Plains             - open, flat terrain with minimal vegetation  
+        Meadow             - seasonal lowland with shallow-rooted grasses  
+        Hills              - uneven terrain with limited soil retention  
+        Mixed Forest       - canopy zone with both evergreen and deciduous species  
+        Evergreen Forest   - conifer-dense highland, low light, cold retention  
+        Deciduous Forest   - broadleaf forest with seasonal foliage cycles  
+
+    WET AND TRANSITIONAL  
+        Swamp              - waterlogged flatland with poor drainage  
+        Lake               - static freshwater body, often geothermal-fed  
+        Wet Slope          - condensation-fed incline near volcanic bands  
+        Flood Hollow       - seasonal depression trapping meltwater  
+
+    COLD REGIONS  
+        Tundra             - frozen subsoil zone with minimal plant structure  
+        Glacier            - moving ice mass at elevation margins  
+        Ice Shelf          - stable frost layer at outer periphery  
+        Frost Sink         - internal basin with permanent permafrost  
+        Unclimbable Ridge  - tectonic boundary beyond which no traversal is possible  
+
+    HEAT-STRESSED AND DISTRESSED  
+        Volcanic Slope     - vented terrain with geothermal instability  
+        Ash Field          - sterile basin exposed to thermal decay and particulate  
+        Badlands           - fractured, eroded ground with poor water retention  
+

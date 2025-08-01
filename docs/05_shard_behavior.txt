@@ -1,0 +1,33 @@
+NAME  
+    shard_behavior - inert celestial fragments retained by megafauna
+
+DESCRIPTION  
+    Shards are small fragments of Vaeronth, the moon associated with  
+    structural order and arcane resonance. After Vaeronth collapsed,  
+    its remnants dispersed into planetary orbit. Most debris became  
+    part of the ring structure that now surrounds Elyden.
+
+    A minority of fragments reached the surface. These pieces are  
+    inert, dense, and structurally irregular. They do not emit light,  
+    react to stimuli, or show internal energy. No known device has  
+    succeeded in altering or replicating a shard.
+
+    Shards are no longer found on open ground. They are now retained  
+    exclusively within megafauna - large, rare organisms that have  
+    adapted to survive the collapse. A shard is released only when  
+    such a creature is killed. No other method of extraction has  
+    proven successful.
+
+    When recovered, shards can be bound to a single item: a weapon  
+    or a piece of armor. The process does not require tools, heat,  
+    or ritual. Contact is sufficient. The item becomes altered.  
+    Functionality improves in ways that support survival.
+
+    Shards are consumed on use. They cannot be reused, broken down,  
+    or extracted once applied. Each item can receive only one shard.
+
+    The internal structure of shards appears crystalline under  
+    magnification, though patterns differ between samples. All  
+    share physical properties: weight, hardness, and fracture  
+    resistance well beyond native materials. No atmospheric or  
+    biological effect has been recorded from exposure.

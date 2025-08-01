@@ -1,0 +1,25 @@
+NAME  
+    hazelnuts - high-fat seasonal nut from deciduous shrub
+
+DESCRIPTION  
+    Hazelnuts grow on compact, multi-stemmed shrubs found in forest margins and  
+    temperate woodlands. The nuts form inside fibrous outer husks and hard inner shells.  
+    When fully ripe, they fall to the ground and can be collected for their high  
+    fat and caloric content. Hazelnuts can be eaten raw, roasted, or ground into  
+    paste or flour. Their oil content makes them valuable for survival scenarios  
+    requiring dense energy with minimal volume.
+
+    The plant has rounded, serrated leaves and produces catkins in early spring.  
+    Nuts ripen in late season. Squirrels and foragers often compete for fallen yield.  
+    Best collected after husks begin to dry but before shell rot sets in.
+
+USAGE  
+    Mirriane: roasted and stored as travel ration; also ground into mash  
+    Thea: crushed and added to composite meal blends or bait materials  
+    Preparation: remove outer husk, crack shell with tool, dry kernel for storage or roast immediately
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest, mixed_forest
+
+SCIENTIFIC NAME  
+    Corylus avellana

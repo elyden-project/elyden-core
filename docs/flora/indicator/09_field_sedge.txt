@@ -1,0 +1,23 @@
+NAME  
+    field_sedge - wiry grasslike plant marking compacted ground and seasonal dryness
+
+DESCRIPTION  
+    Field sedge is a short, tufted plant with narrow, stiff blades and triangular stems.  
+    It grows in open terrain with compacted soil and tolerates mild drought, indicating  
+    hardened surfaces and intermittent water stress. Its presence suggests shallow root  
+    penetration, trampling, or long-term grazing pressure.
+
+    Found in meadows, grasslands, and plains with light runoff and shallow water retention.  
+    Growth forms dense clumps that resist disturbance. Lacks flowering display;  
+    spreads primarily by underground rhizome. Color fades to grey or yellow in dry periods.
+
+USAGE  
+    Mirriane: used to evaluate pack routes and determine ground pressure from animal traffic  
+    Thea: observed for predicting prey movement across bottlenecks or hardened path margins  
+    Preparation: not harvested - observed in clump density and growth angles
+
+ZONE PRESENCE  
+    Biomes: plains, meadow
+
+SCIENTIFIC NAME  
+    Carex praegracilis

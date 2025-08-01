@@ -1,0 +1,24 @@
+NAME  
+    bulrush_stalk - tall wetland stalk used for matting, insulation, and shaft padding
+
+DESCRIPTION  
+    Bulrushes are tall, hollow-stemmed wetland plants with smooth vertical stalks.  
+    When dried, the stalks are lightweight, flexible, and easy to bundle.  
+    Used for padding in arrow quivers, pack insulation, woven barriers, or mat flooring.  
+    Not strong enough for load-bearing construction, but useful as filler or soft-layer backing.
+
+    Found in clusters along lake edges, stagnant shallows, and seasonal flood zones.  
+    Stalks grow over a meter tall and terminate in brown or tufted seed heads.  
+    Best harvested late in the season when stems are dry and pale.  
+    Must be dried upright or flattened under weight to avoid warping.
+
+USAGE  
+    Mirriane: layered in quivers or used to line carrying slings  
+    Thea: crushed and woven into insulation wraps or concealed trap padding  
+    Preparation: cut at base, peel if needed, dry in shade, bundle flat or twist into coil
+
+ZONE PRESENCE  
+    Biomes: lake, flood_hollow, swamp
+
+SCIENTIFIC NAME  
+    Schoenoplectus acutus

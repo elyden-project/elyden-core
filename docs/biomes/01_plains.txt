@@ -1,0 +1,28 @@
+NAME  
+    plains - open lowland terrain with sparse vegetation and high exposure
+
+DESCRIPTION  
+    Plains are flat or gently rolling open regions with minimal elevation  
+    change. Vegetation is discontinuous and dominated by hardy grasses,  
+    root clusters, and seasonal moss layers. Canopy cover is absent.  
+    Soil is shallow, brittle, and prone to wind stripping.
+
+    Plains are subject to temperature volatility due to exposure.  
+    Daytime warmth can accumulate briefly under direct light, but  
+    ground heat is quickly lost. Wind shear is common. Surface  
+    water is rare except during melt or runoff.
+
+    Wildlife is limited to fast-moving grazers, subterranean feeders,  
+    and insect swarms during short warm windows. Natural cover is  
+    nonexistent. Any travel across plains is visible and unprotected.
+
+    Plains typically appear between basin forests and marginal ridgelines,  
+    or as internal corridors linking lowland zones.
+
+ZONE TRAITS  
+    - Mobility:       open  
+    - Visibility:     clear  
+    - Cover:          none  
+    - Water Access:   seasonal  
+    - Forage Density: low  
+    - Threat Level:   low

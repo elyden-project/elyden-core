@@ -1,0 +1,25 @@
+NAME  
+    mullein_leaf - broad, woolly leaf used for wrap insulation and fire-start padding
+
+DESCRIPTION  
+    Mullein is a tall, flowering herb with large fuzzy leaves that grow in a basal rosette.  
+    The leaf surface is covered in dense trichomes, making it highly absorbent and soft to the touch.  
+    When dried, mullein leaves provide lightweight insulation and are useful for wrapping, lining,  
+    or as padding in packs and containers. Though flammable, they are more valuable as material  
+    than direct fuel. Not edible. Inhalation of smoke is discouraged.
+
+    Found in disturbed soil, exposed slopes, or meadow edge zones.  
+    Leaves grow low to the ground in early stages, followed by a tall central flowering spike.  
+    Harvest before flowering for best texture. Dry flat to preserve leaf shape and flexibility.
+
+USAGE  
+    Mirriane: packed into quivers or wrapped around gear to reduce rattle and absorb moisture  
+    Thea: layered inside sling padding or used to line poultice wraps for thermal stability  
+    Preparation: gather outer leaves before stalk develops, press and dry away from sunlight, fold gently if stored
+
+ZONE PRESENCE  
+    Biomes: meadow, plains
+
+SCIENTIFIC NAME  
+    Verbascum thapsus
+

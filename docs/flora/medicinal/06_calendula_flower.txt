@@ -1,0 +1,24 @@
+NAME  
+    calendula_flower - bright field bloom used for skin healing and topical inflammation reduction
+
+DESCRIPTION  
+    Calendula is a flowering herb with golden-orange petals arranged in concentric rings.  
+    The flower heads are rich in flavonoids and triterpenes, used in field infusions or  
+    poultices to reduce surface swelling, soothe burns, and accelerate skin recovery.  
+    Non-toxic and safe for external use. Not a sedative or painkiller.
+
+    Grows in disturbed soil, open forest margins, and low volcanic slope clearings.  
+    Blooms seasonally and dies back in cold cycles. Petals are gathered fresh or  
+    dried under shade. Infusion has a mild earthy odor. Application is topical only.  
+    Ingesting large amounts may cause nausea.
+
+USAGE  
+    Mirriane: used to treat arrow friction burns, bow-hand blistering, or sun-exposed skin  
+    Thea: added to poultice layers for wound sealing and shallow burn recovery  
+    Preparation: remove petals, crush gently, apply as wet mass or steep in cooled water for rinse
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest, volcanic_slope
+
+SCIENTIFIC NAME  
+    Calendula officinalis

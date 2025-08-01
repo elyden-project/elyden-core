@@ -1,0 +1,25 @@
+NAME  
+    cowbane - convulsant neurotoxin used in lethal baiting and immobilization traps
+
+DESCRIPTION  
+    Cowbane is a tall, grasslike plant with thick stems and small white flower clusters.  
+    It contains cicutoxin, a highly potent compound that causes muscle spasms,  
+    tremors, and respiratory failure when ingested. Toxin acts rapidly, often within minutes.  
+    Roots are most dangerous but all parts are toxic. Typically used in bait-based traps  
+    or crushed into short-delay kill coatings.
+
+    Grows in standing water, shallow swamps, and wet margins of lakes.  
+    Leaves are divided and resemble parsley or wild carrot.  
+    Root has a strong odor and may be mistaken for edible tubers.  
+    Even handling raw root may cause absorption through skin.
+
+USAGE  
+    Mirriane: minced into animal bait or smeared at trail convergence points  
+    Thea: loaded into pressure-activated barbs or tissue-piercing spikebeds  
+    Preparation: harvest with bark or cloth barrier, wash root, crush and bind; do not expose to heat
+
+ZONE PRESENCE  
+    Biomes: swamp, lake
+
+SCIENTIFIC NAME  
+    Cicuta virosa

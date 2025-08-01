@@ -1,0 +1,24 @@
+NAME  
+    yew_stavewood - dense, flexible wood used for shaping bows and tool cores
+
+DESCRIPTION  
+    Yew is a slow-growing conifer with reddish heartwood valued for its strength and  
+    elasticity. Its wood carves cleanly and resists cracking under tension, making it  
+    ideal for bow construction, hafts, or reinforced bindings. Best harvested in dry,  
+    cold conditions when sap content is low. Outer layers are brittle and should be  
+    removed to expose the workable inner stave.
+
+    The tree grows in scattered highland margins and forest transition zones.  
+    Bark is thin and scaly. Needles are dark and flattened. Mature specimens may  
+    yield one or two usable branches per season. Not suited for firewood or fiber.
+
+USAGE  
+    Mirriane: primary bow material; shaped, dried, and wrapped for limb stiffness  
+    Thea: cut into narrow hafts or spike inserts for close weapon cores  
+    Preparation: remove sapwood, split and season for at least one cycle before shaping
+
+ZONE PRESENCE  
+    Biomes: evergreen_forest, hills
+
+SCIENTIFIC NAME  
+    Taxus baccata

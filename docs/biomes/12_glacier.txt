@@ -1,0 +1,32 @@
+NAME  
+    glacier - moving ice mass with fractured surfaces and unstable depth
+
+DESCRIPTION  
+    Glaciers are dense, slow-moving bodies of compressed ice.  
+    They occupy outer elevations where geothermal heat fails to  
+    reach. Surfaces are layered, cracked, and reshaped by melt,  
+    refreeze, and internal pressure. No vegetation survives.  
+    All features appear temporary.
+
+    Travel is hazardous. Surface traction is minimal. Deep  
+    fissures are obscured by snow crust or light distortion.  
+    Sound is reflected irregularly. Light is diffuse, causing  
+    directional disorientation.
+
+    Wildlife is absent except for rare transients crossing  
+    between thermal zones. Ice shifts can be silent or  
+    catastrophic. No stable shelter exists.
+
+    Glaciers form the outermost barrier between the valley  
+    and the uninhabitable regions beyond.
+
+    Short-term survival is possible with thermal gear and planned withdrawal.
+    No shelter or sustenance is available.
+
+ZONE TRAITS  
+    - Mobility:       impassable  
+    - Visibility:     intermittent  
+    - Cover:          none  
+    - Water Access:   frozen  
+    - Forage Density: none  
+    - Threat Level:   extreme

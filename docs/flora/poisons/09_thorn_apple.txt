@@ -1,0 +1,25 @@
+NAME  
+    thorn_apple - deliriant seedpod used for disruption, confusion, or bait disorientation
+
+DESCRIPTION  
+    Thorn apple is a fast-growing herbaceous plant with trumpet-shaped flowers  
+    and spiked seedpods. It contains tropane alkaloids such as scopolamine and atropine,  
+    which interfere with memory, balance, and perception. Ingested in low doses,  
+    it causes confusion and motor disruption. In higher doses, may induce delirium or collapse.  
+    Not stable under heat; best used raw or in cool preparation.
+
+    Found in disturbed ground, field margins, and nutrient-poor soil.  
+    Grows low and wide with spreading leaves and prominent white or violet flowers.  
+    Seedpods are round and covered in stiff thorns. All parts are toxic,  
+    but seed pulp is the most potent. Odor is faintly bitter when crushed.
+
+USAGE  
+    Mirriane: ground into paste for arrow smear or leaf wraps targeting control animals  
+    Thea: seeded into misdirection bait or dispersed into campfire coals for confusion onset  
+    Preparation: gather mature pods, split, remove seeds, dry in shade, grind into coarse powder
+
+ZONE PRESENCE  
+    Biomes: plains, badlands
+
+SCIENTIFIC NAME  
+    Datura stramonium

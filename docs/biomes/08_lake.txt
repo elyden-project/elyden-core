@@ -1,0 +1,28 @@
+NAME  
+    lake - static freshwater body with exposed perimeter and unstable margins
+
+DESCRIPTION  
+    Lakes form in natural depressions where geothermal melt or rainfall  
+    accumulates. Most are isolated, shallow, and irregular in shape.  
+    Water clarity varies with depth and sediment content. Shorelines  
+    are uneven, shifting between firm banks, saturated soil, and silt  
+    shelves prone to collapse.
+
+    Vegetation is minimal along the interior edge but denser at outflow  
+    zones. Surrounding ground may freeze seasonally, forming partial ice  
+    layers that obscure depth and footing.
+
+    Fauna include water-bound scavengers, submerged foragers, and  
+    migratory feeders. Surface stillness masks movement. Visibility  
+    is clear in open water but compromised near banks.
+
+    Lakes are uncommon and usually appear at the base of hills, near  
+    geothermal pockets, or within sealed depressions.
+
+ZONE TRAITS  
+    - Mobility:       obstructed  
+    - Visibility:     clear (open) / blocked (shore)  
+    - Cover:          none  
+    - Water Access:   present  
+    - Forage Density: low  
+    - Threat Level:   moderate

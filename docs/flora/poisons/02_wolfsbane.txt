@@ -1,0 +1,25 @@
+NAME  
+    wolfsbane - cardiac toxin used for bladed traps, delayed kill coatings, or terminal bait
+
+DESCRIPTION  
+    Wolfsbane is a tall perennial herb with hooded purple-blue flowers and deeply  
+    lobed leaves. All parts contain aconitine, a fast-acting neurotoxin that disrupts  
+    heart rhythm and nerve conduction. Traditionally used in arrow poison and  
+    lethal baiting. Toxin absorbs through skin and mucous - gloves are required  
+    when handling raw plant or extract.
+
+    Found in cold, shaded slopes and moisture-rich forest bands.  
+    Plants grow from underground tubers and flower in late season.  
+    Common near highland water runoffs. Root and flower are most potent.  
+    Toxin degrades in heat; must be preserved cool and dry if powdered.
+
+USAGE  
+    Mirriane: applied to bladed arrowheads or used for last-shot kill delay  
+    Thea: crushed and sealed into meat baits or bound into puncture trap grooves  
+    Preparation: harvest whole plant with stem intact, air-dry, crush tuber or flower and apply directly
+
+ZONE PRESENCE  
+    Biomes: wet_slope, evergreen_forest
+
+SCIENTIFIC NAME  
+    Aconitum napellus

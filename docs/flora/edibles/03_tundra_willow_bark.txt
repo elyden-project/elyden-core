@@ -1,0 +1,24 @@
+NAME  
+    tundra_willow_bark - fibrous bark with trace sugar and survival fiber
+
+DESCRIPTION  
+    A low, shrubby form of willow found in permafrost zones and glacial margins.  
+    Its bark can be stripped in narrow coils and chewed for limited nutritional value,  
+    offering trace sugars and fibrous bulk to delay starvation symptoms. The bark has  
+    a bitter flavor and slightly astringent quality. Though not a primary food source,  
+    it remains one of the few edible materials available in cold barren zones.
+
+    Growth is sprawling and close to the ground. Leaves are narrow and sparse.  
+    Bark is smooth when young, darkens and roughens with age. Best gathered from  
+    younger stems near thaw pockets.
+
+USAGE  
+    Mirriane: chewed to suppress hunger and extend ration intervals  
+    Thea: ignored unless dried and stored as emergency fallback  
+    Preparation: strip bark in coils with knife or fingernail; chew raw or dry flat
+
+ZONE PRESENCE  
+    Biomes: tundra, glacier
+
+SCIENTIFIC NAME  
+    Salix arctica
