@@ -3440,7 +3440,7 @@ ZONE PRESENCE
 
 SCIENTIFIC NAME  
     Verbascum thapsus
-%%% flora/crafting/09_pine_pitch.txt %%%
+%%% flora/crafting/09_pine_tree.txt %%%
 
 NAME  
     pine_tree - resinous highland conifer used for pitch and fire support
