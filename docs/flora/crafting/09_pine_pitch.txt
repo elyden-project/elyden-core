@@ -13,11 +13,11 @@ DESCRIPTION
     Collection is safest in dry weather from downed trees or mature specimens.  
     Pine wood is unsuitable for load-bearing use due to warping and splinter risk.  
     Resin and pitch are not interchangeable but derived from the same source.
-    
+
 USAGE  
-    Mirriane: applied as sealant to arrowheads, shaft joints, and bow wrappings; pitch used to coat fire bundles  
-    Thea: mixed resin used in trap adhesives or spark paste; pitch layered on trap surfaces for ignition delay  
-    Preparation: scrape resin with bone or bark edge, warm to soften; for pitch, strip bark in flakes, render over fire, and store cool in bark wrap
+    Used as: resin sealant, spark paste base, fire bundle coating, ignition delay layer  
+    Limitations: pitch is brittle when cold; resin flow is seasonal and localized  
+    Preparation: scrape resin with bone or bark edge, warm to soften; render pitch from bark flakes over flame and store cool in wrap
 
 ZONE PRESENCE  
     Biomes: evergreen_forest, hills

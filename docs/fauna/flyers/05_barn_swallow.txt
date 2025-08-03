@@ -1,0 +1,21 @@
+NAME  
+    barn_swallow - small aerial insectivore common near open plains and water bodies
+
+DESCRIPTION  
+    The barn swallow is a small bird characterized by its slender body and deeply forked tail.  
+    It feeds on flying insects and is frequently found near plains, lakes, and open fields.  
+    Barn swallows build mud nests on sheltered structures or cliff faces, often near water sources.
+
+    Their rapid, acrobatic flight aids in catching prey mid-air. They migrate seasonally and are known  
+    for their distinctive twittering calls.
+
+USAGE  
+    Used as: minor meat source; feathers for small-scale crafting or insulation  
+    Limitations: very small size limits meat yield; fast flight reduces capture chances  
+    Preparation: trap at nesting sites or rest locations; pluck feathers carefully; cook thoroughly
+
+ZONE PRESENCE  
+    Biomes: plains, lake
+
+SCIENTIFIC NAME  
+    Hirundo rustica

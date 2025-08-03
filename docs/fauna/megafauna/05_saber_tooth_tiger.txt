@@ -1,0 +1,21 @@
+NAME  
+    saber_tooth_tiger - formidable Ice Age predator inhabiting badlands and swamp biomes
+
+DESCRIPTION  
+    The saber tooth tiger, characterized by elongated canine teeth, is a large carnivore  
+    adapted to hunting in diverse terrains including badlands and swampy regions.  
+    It relies on ambush tactics and powerful forelimbs to subdue prey, primarily large herbivores.
+
+    This species is solitary or hunts in small family groups.  
+    Encounters are extremely dangerous due to its strength and lethal weaponry.
+
+USAGE  
+    Used as: source of meat, hide, and bone for survival tools  
+    Limitations: highly aggressive and territorial; hunting requires extreme caution  
+    Preparation: avoid live confrontation; utilize traps or ambush strategies; process carefully post-harvest
+
+ZONE PRESENCE  
+    Biomes: badlands, swamp
+
+SCIENTIFIC NAME  
+    Smilodon fatalis

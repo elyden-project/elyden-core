@@ -1,0 +1,65 @@
+NAME  
+    flyers_index - winged fauna with navigational, environmental, or survival relevance
+
+DESCRIPTION  
+    Flyers are aerial organisms encountered across varied elevations and biomes.  
+    Most are birds, though behavior and role vary by size, migratory pattern, or territorial range.  
+    Some are trappable at rest or during low-flight intervals; others serve as signal or orientation markers.
+
+    Yield may include meat, feathers, or bone. However, most flyer species are not primary food sources.  
+    Movement often correlates with thermal shifts, predator avoidance, or seasonal transitions.
+
+    Entry files document altitude behavior, landing conditions, and biome constraints.  
+    Each species is grounded in real-world taxonomy. No fictional morphologies are used.
+
+INDEXED ENTRIES
+
+    barred_owl  
+        Size: Medium  
+        Biomes: evergreen_forest, hills  
+        Scientific Name: Strix varia
+
+    red_tailed_hawk  
+        Size: Medium  
+        Biomes: plains, badlands  
+        Scientific Name: Buteo jamaicensis
+
+    greylag_goose  
+        Size: Medium  
+        Biomes: lake, meadow  
+        Scientific Name: Anser anser
+
+    mottled_duck  
+        Size: Medium  
+        Biomes: swamp, lake  
+        Scientific Name: Anas fulvigula
+
+    barn_swallow  
+        Size: Small  
+        Biomes: plains, lake  
+        Scientific Name: Hirundo rustica
+
+    black_billed_magpie  
+        Size: Small  
+        Biomes: mixed_forest, deciduous_forest  
+        Scientific Name: Pica hudsonia
+
+    crow  
+        Size: Small  
+        Biomes: plains, swamp  
+        Scientific Name: Corvus brachyrhynchos
+
+    peregrine_falcon  
+        Size: Medium  
+        Biomes: badlands, glacier  
+        Scientific Name: Falco peregrinus
+
+    snowy_owl  
+        Size: Medium  
+        Biomes: tundra, ice_shelf  
+        Scientific Name: Bubo scandiacus
+
+    rock_pigeon  
+        Size: Small  
+        Biomes: hills, ruins  
+        Scientific Name: Columba livia

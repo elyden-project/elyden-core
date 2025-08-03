@@ -1,20 +1,21 @@
 NAME  
-    yarrow - flowering plant used for clotting and surface wound treatment
+    yarrow - aromatic leaf and flower used for clotting, swelling, and wound packing
 
 DESCRIPTION  
-    Yarrow is a perennial herb known for its feathery leaves and dense white or pink flower heads.  
-    It grows in dry grasslands, meadows, and disturbed open soil. The leaves contain compounds  
-    that promote clotting and have mild antiseptic properties. Crushed fresh, they can be applied  
-    directly to cuts and abrasions to slow bleeding and reduce surface infection risk.
+    Yarrow is a hardy herb with feathery leaves and small white flower clusters.  
+    It grows in open meadows and disturbed plains. The plant contains compounds  
+    that encourage blood clotting and reduce surface inflammation. Crushed leaves  
+    are used to pack shallow wounds, while flower infusions may ease skin irritation  
+    and reduce localized swelling.
 
-    The plant stands 30–60 cm tall with flat-topped inflorescences. Leaves are finely divided  
-    and aromatic when crushed. Flowering occurs in late season. It is often overlooked due to  
-    its soft appearance but is valued in field dressing kits.
+    The entire plant has a sharp, slightly bitter scent.  
+    Leaves should be taken before flowering for best potency.  
+    Flowers are collected dry for steeping or blending into compresses.
 
 USAGE  
-    Mirriane: leaves crushed and applied directly to cuts  
-    Thea: dried and folded into wound pack layers or ground into poultice binder  
-    Preparation: harvest flowering tops and upper leaves, use fresh or dry in shade for storage
+    Used as: wound pack, bruise dressing, floral infusion for minor swelling  
+    Limitations: loses effectiveness when wet-packed too long; not for deep punctures  
+    Preparation: crush fresh leaves for clotting, dry flowers for infusions or field poultice mix
 
 ZONE PRESENCE  
     Biomes: meadow, plains

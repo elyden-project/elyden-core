@@ -1,0 +1,20 @@
+NAME  
+    beaver - medium-sized semi-aquatic rodent known for dam-building and fur
+
+DESCRIPTION  
+    Beavers inhabit lakes, rivers, and flood hollows, constructing dams and lodges from wood and mud.  
+    They feed on bark, aquatic plants, and tree shoots. Beavers have large incisors adapted for felling trees, which influence local ecology significantly.
+
+    Their dense, waterproof fur is highly valued for insulation, and their meat provides a moderate protein source.  
+    Beavers are primarily nocturnal and cautious around human activity.
+
+USAGE  
+    Used as: source of insulating fur, moderate meat supply, ecological engineer indicators  
+    Limitations: requires trapping knowledge; nocturnal habits reduce daytime availability  
+    Preparation: trap near water activity; skin carefully to preserve fur; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: lake, flood_hollow
+
+SCIENTIFIC NAME  
+    Castor canadensis

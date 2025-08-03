@@ -1,0 +1,21 @@
+NAME  
+    common_toad - resilient amphibian inhabiting wet slopes and flood hollows, used as supplemental protein
+
+DESCRIPTION  
+    The common toad is a terrestrial amphibian found near water bodies such as wetlands and moist slopes.  
+    It feeds primarily on invertebrates and small insects. Toads secrete mild toxins through their skin,  
+    which deters many predators. Their thick, warty skin provides protection and moisture retention.
+
+    Toad meat can be consumed cautiously, typically after thorough cooking to avoid toxin effects.  
+    They are captured using traps or by hand during nocturnal activity periods.
+
+USAGE  
+    Used as: supplemental meat source, small-game catch in wet habitats  
+    Limitations: skin secretions require removal or thorough cooking; small size limits yield  
+    Preparation: trap or hand-capture at night; skin carefully; cook thoroughly to neutralize toxins
+
+ZONE PRESENCE  
+    Biomes: wet_slope, flood_hollow
+
+SCIENTIFIC NAME  
+    Bufo bufo

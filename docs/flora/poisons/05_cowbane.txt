@@ -1,22 +1,21 @@
 NAME  
-    cowbane - convulsant neurotoxin used in lethal baiting and immobilization traps
+    cowbane - highly toxic wetland root used for lethal bait and ingestion disruption
 
 DESCRIPTION  
-    Cowbane is a tall, grasslike plant with thick stems and small white flower clusters.  
-    It contains cicutoxin, a highly potent compound that causes muscle spasms,  
-    tremors, and respiratory failure when ingested. Toxin acts rapidly, often within minutes.  
-    Roots are most dangerous but all parts are toxic. Typically used in bait-based traps  
-    or crushed into short-delay kill coatings.
+    Cowbane is a tall, hollow-stemmed plant resembling wild carrot,  
+    growing in saturated wetlands and lake margins. Its roots contain cicutoxin,  
+    a fast-acting neurotoxin that induces convulsions, respiratory failure,  
+    and death when ingested. The toxin affects central nervous system signaling  
+    and is particularly potent in root material during early growth cycles.
 
-    Grows in standing water, shallow swamps, and wet margins of lakes.  
-    Leaves are divided and resemble parsley or wild carrot.  
-    Root has a strong odor and may be mistaken for edible tubers.  
-    Even handling raw root may cause absorption through skin.
+    The plant has finely divided leaves and white umbel flowers.  
+    Roots are pale, segmented, and carrot-like but exude a yellowish sap when cut.  
+    Safe handling requires gloves; toxic compounds may transfer through skin cracks or mucous contact.
 
 USAGE  
-    Mirriane: minced into animal bait or smeared at trail convergence points  
-    Thea: loaded into pressure-activated barbs or tissue-piercing spikebeds  
-    Preparation: harvest with bark or cloth barrier, wash root, crush and bind; do not expose to heat
+    Used as: lethal bait tamper, small-dose ration disruptor, neurotoxic pulp agent  
+    Limitations: rapid onset makes dosage control difficult; not contact-effective  
+    Preparation: extract root, rinse, slice thin; mash or suspend in neutral base for target delivery
 
 ZONE PRESENCE  
     Biomes: swamp, lake

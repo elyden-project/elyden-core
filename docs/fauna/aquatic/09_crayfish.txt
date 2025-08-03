@@ -1,0 +1,21 @@
+NAME  
+    crayfish - small freshwater crustacean inhabiting lakes and swamps, used for protein and bait
+
+DESCRIPTION  
+    Crayfish are small, freshwater crustaceans that live in lakes, swamps, and slow-moving streams.  
+    They feed on detritus, small invertebrates, and plant matter. Crayfish burrow into mud and hide under rocks or vegetation.  
+    Their exoskeletons provide limited protection but are molted regularly.
+
+    Crayfish are abundant in shallow water zones with ample cover. They are commonly trapped using baited cages or by hand.  
+    Meat is delicate and rich in protein but should be cooked thoroughly.
+
+USAGE  
+    Used as: supplemental protein source, live or processed bait for fishing  
+    Limitations: small size yields limited meat; molting cycle affects availability  
+    Preparation: trap or catch by hand; remove shell if preferred; cook thoroughly before consumption
+
+ZONE PRESENCE  
+    Biomes: lake, swamp
+
+SCIENTIFIC NAME  
+    Faxonius virilis

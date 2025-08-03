@@ -14,9 +14,9 @@ DESCRIPTION
     Best collected after husks begin to dry but before shell rot sets in.
 
 USAGE  
-    Mirriane: roasted and stored as travel ration; also ground into mash  
-    Thea: crushed and added to composite meal blends or bait materials  
-    Preparation: remove outer husk, crack shell with tool, dry kernel for storage or roast immediately
+    Used as: high-energy forage, roasted kernel, paste or flour base for compact rations  
+    Limitations: shell rot after ripening if left exposed; vulnerable to animal competition  
+    Preparation: remove fibrous husk, crack shell, dry or roast kernel before storage or use
 
 ZONE PRESENCE  
     Biomes: deciduous_forest, mixed_forest

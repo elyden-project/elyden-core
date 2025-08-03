@@ -1,0 +1,24 @@
+NAME  
+    swallow - aerial insectivore used to detect wind shifts and barometric change
+
+DESCRIPTION  
+    The swallow is a fast, looping flyer that feeds on insects over water and open terrain.  
+    Flight altitude lowers before storms or high-pressure collapse.  
+    Sudden absence from lake zones often precedes rain or cold front movement.
+
+    Typically nests in rock faces or abandoned structures.  
+    Groups disperse widely in clear weather and concentrate tightly before system shifts.
+
+USAGE  
+    Used as: real-time marker for wind direction, storm onset, and low thermal drift  
+    Limitations: difficult to track individually; requires wide visibility for flight path assessment  
+    Observation: monitor density, elevation, and direction changes during late daylight hours
+
+ZONE PRESENCE  
+    Biomes: hills, lake
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Hirundo rustica

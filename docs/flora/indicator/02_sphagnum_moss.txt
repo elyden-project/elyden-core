@@ -1,20 +1,21 @@
 NAME  
-    sphagnum_moss - moisture-retaining moss used to identify saturation and unstable ground
+    sphagnum_moss - moisture-retaining moss indicating peat formation and standing saturation
 
 DESCRIPTION  
-    Sphagnum is a spongy, absorbent moss that grows in thick mats over wet ground,  
-    especially where drainage is poor. Its structure retains water many times its own weight,  
-    forming peat over time. Its presence signals high water retention, hidden subsurface flow,  
-    or bog-like terrain that may shift under load.
+    Sphagnum moss forms dense, spongy mats in lowland wetlands, shallow basins,  
+    and poorly drained flood zones. It has a bright green to reddish tone depending  
+    on acidity and saturation level. Each plant absorbs many times its weight in  
+    water, creating stable, slow-draining environments ideal for bog succession.
 
-    Grows in low depressions, stagnant wetlands, and on floating mats near lake edges.  
-    Color ranges from pale green to reddish brown depending on moisture and sun exposure.  
-    Often covers root hummocks, obscuring depth and ground consistency.
+    Its presence signifies long-term water retention, poor drainage, and acidic soil.  
+    Areas dominated by sphagnum are difficult to traverse and prone to deep-rooted  
+    instability. Below the moss layer, anaerobic conditions and organic buildup  
+    may produce methane or concealed pockets of unstable peat.
 
 USAGE  
-    Mirriane: identifies unstable footing and hidden water channels; avoided for shelter placement  
-    Thea: used to track displaced terrain where prey or people may have recently crossed  
-    Preparation: not harvested - observed in patches to assess ground saturation and root cover
+    Indicator of: persistent wetland saturation, high water table, acidic anaerobic soil  
+    Limitations: surface may appear solid but often hides soft substrate  
+    Observation: avoid crossing large mats; growth suggests impassable or dangerous ground
 
 ZONE PRESENCE  
     Biomes: flood_hollow, swamp

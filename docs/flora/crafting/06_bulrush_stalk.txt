@@ -13,9 +13,9 @@ DESCRIPTION
     Must be dried upright or flattened under weight to avoid warping.
 
 USAGE  
-    Mirriane: layered in quivers or used to line carrying slings  
-    Thea: crushed and woven into insulation wraps or concealed trap padding  
-    Preparation: cut at base, peel if needed, dry in shade, bundle flat or twist into coil
+    Used as: quiver padding, mat insulation, soft-layer filler, concealed wrap backing  
+    Limitations: structurally weak; will split under stress if used while green  
+    Preparation: cut at base, peel if needed, dry under shade, store bundled or pressed flat
 
 ZONE PRESENCE  
     Biomes: lake, flood_hollow, swamp

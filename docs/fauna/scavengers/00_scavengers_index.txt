@@ -1,0 +1,66 @@
+NAME  
+    scavengers_index - opportunistic fauna that feed on carrion, waste, or field residue
+
+DESCRIPTION  
+    Scavengers are non-predatory organisms that consume decaying material, discarded remains,  
+    or abandoned field kill. Most avoid conflict and operate on the margins of active zones.  
+    Their presence often signals recent death, biome stress, or predatory activity.
+
+    Scavengers are typically nocturnal or crepuscular. Tracks may be shallow, inconsistent,  
+    or overlaid with prey prints. Behavioral patterns include delayed approach,  
+    object interference, or trap theft. Visibility is low; audio signals may be masked.
+
+    These species are rarely hunted. Value lies in observation, bait control, and environmental read.  
+    Entry files document interaction logic, yield (if applicable), and terrain disruption risk.
+
+INDEXED ENTRIES
+
+    raven  
+        Size: Medium  
+        Biomes: badlands, deciduous_forest  
+        Scientific Name: Corvus corax
+
+    raccoon  
+        Size: Small  
+        Biomes: swamp, lake  
+        Scientific Name: Procyon lotor
+
+    skunk  
+        Size: Small  
+        Biomes: meadow, mixed_forest  
+        Scientific Name: Mephitis mephitis
+
+    striped_hyena  
+        Size: Medium  
+        Biomes: volcanic_slope, badlands  
+        Scientific Name: Hyaena hyaena
+
+    vulture  
+        Size: Medium  
+        Biomes: ash_field, wet_slope  
+        Scientific Name: Gyps fulvus
+
+    badger  
+        Size: Small  
+        Biomes: plains, hills  
+        Scientific Name: Taxidea taxus
+
+    weasel  
+        Size: Tiny  
+        Biomes: meadow, plains  
+        Scientific Name: Mustela nivalis
+
+    crow  
+        Size: Small  
+        Biomes: plains, flood_hollow  
+        Scientific Name: Corvus brachyrhynchos
+
+    opossum  
+        Size: Small  
+        Biomes: deciduous_forest  
+        Scientific Name: Didelphis virginiana
+
+    carrion_beetle  
+        Size: Tiny  
+        Biomes: swamp, frost_sink  
+        Scientific Name: Nicrophorus vespilloides

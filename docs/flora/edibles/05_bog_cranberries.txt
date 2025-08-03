@@ -14,9 +14,9 @@ DESCRIPTION
     The fruit’s acidic nature makes it resistant to quick spoilage.
 
 USAGE  
-    Mirriane: consumed raw for hydration during field movement  
-    Thea: mashed and packed into blended travel rations  
-    Preparation: rinse clean, crush if storing, or dry for later use
+    Used as: raw forage fruit, vitamin supplement, mashable ration additive  
+    Limitations: low caloric value; limited yield per area  
+    Preparation: rinse to clean, crush for storage, or dry whole for later use
 
 ZONE PRESENCE  
     Biomes: swamp, lake, flood_hollow

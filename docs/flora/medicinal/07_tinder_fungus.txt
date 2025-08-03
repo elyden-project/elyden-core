@@ -1,23 +1,21 @@
 NAME  
-    tinder_fungus - shelf fungus used for wound drying, cauterization prep, and firestarting
+    tinder_fungus - bracket fungus used for drying wounds and reducing surface infection
 
 DESCRIPTION  
-    Tinder fungus refers to the fruiting body of *Fomes fomentarius*,  
-    a hard, hoof-shaped shelf fungus found on dead or dying trees.  
-    It has a dry, fibrous core that absorbs moisture and blood,  
-    making it useful for field dressings where no cloth is available.  
-    When processed and dried, it also takes and holds a spark,  
-    allowing dual use as both wound pack and ignition starter.
+    Tinder fungus is a hard, hoof-shaped polypore that grows on birch and other hardwoods.  
+    Though often associated with fire-starting, its inner flesh has traditional use in drying  
+    shallow wounds and reducing microbial load. The sterile layer can be shaved into strips  
+    or flakes and applied as a semi-dry barrier or compress insert. It inhibits surface  
+    contamination while allowing airflow to damaged tissue.
 
-    Grows on hardwood trunks, especially birch or beech, in cool forest zones.  
-    The outer rind is grey and hard; the inner flesh is brown and layered.  
-    Can be sliced into flat pads when fresh, then dried for storage or use.  
-    Must be removed from host tree with a knife or wedge.
+    The fruiting body is brown and woody on the outside, with a soft tan interior.  
+    Collection is safest from standing or freshly fallen trunks. Older specimens may be  
+    insect-infested or too rigid to use.
 
 USAGE  
-    Mirriane: shaved and dried for firestarting or packed against abrasions  
-    Thea: crushed and folded into delayed cauterant wraps or trap igniters  
-    Preparation: cut from trunk, slice through core, dry fully before carrying
+    Used as: wound-drying pad, field dressing insert, or antiseptic layer in bandage stack  
+    Limitations: ineffective when wet; outer crust must be removed before use  
+    Preparation: slice inner layer into flat strips, press lightly onto clean surface, bind securely
 
 ZONE PRESENCE  
     Biomes: deciduous_forest

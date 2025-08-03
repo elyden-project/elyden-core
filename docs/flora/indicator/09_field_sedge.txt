@@ -1,20 +1,21 @@
 NAME  
-    field_sedge - wiry grasslike plant marking compacted ground and seasonal dryness
+    field_sedge - narrow-bladed grasslike plant indicating compacted soil and seasonal surface runoff
 
 DESCRIPTION  
-    Field sedge is a short, tufted plant with narrow, stiff blades and triangular stems.  
-    It grows in open terrain with compacted soil and tolerates mild drought, indicating  
-    hardened surfaces and intermittent water stress. Its presence suggests shallow root  
-    penetration, trampling, or long-term grazing pressure.
+    Field sedge forms dense clumps in open terrain where water gathers and drains cyclically.  
+    Its narrow, upright leaves resemble coarse grass but grow in tighter clusters,  
+    often marking trails, depressions, or low-gradient runoff lines. The plant tolerates  
+    trampling and poor soil aeration, making it one of the first species to recolonize  
+    after disturbance or seasonal pooling.
 
-    Found in meadows, grasslands, and plains with light runoff and shallow water retention.  
-    Growth forms dense clumps that resist disturbance. Lacks flowering display;  
-    spreads primarily by underground rhizome. Color fades to grey or yellow in dry periods.
+    Presence indicates moderate moisture availability, compacted or clay-rich soil,  
+    and past hydrological activity. It grows along flood retreat paths, shallow drainage  
+    channels, or meadow basins that dry between wet seasons.
 
 USAGE  
-    Mirriane: used to evaluate pack routes and determine ground pressure from animal traffic  
-    Thea: observed for predicting prey movement across bottlenecks or hardened path margins  
-    Preparation: not harvested - observed in clump density and growth angles
+    Indicator of: compacted ground, former pooling zones, intermittent water flow  
+    Limitations: disappears in well-drained or shaded canopy terrain  
+    Observation: track alignment tool for runoff modeling and soil saturation memory
 
 ZONE PRESENCE  
     Biomes: plains, meadow

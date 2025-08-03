@@ -1,0 +1,24 @@
+NAME  
+    wolverine - aggressive small predator adapted to frozen highlands and evergreen forests
+
+DESCRIPTION  
+    The wolverine is a muscular, wide-ranging scavenger and predator.  
+    Despite its small size, it exhibits intense aggression and can displace larger animals from kills.  
+    It preys on weakened grazers, scavenges carcasses, and raids caches using strength and tenacity.
+
+    Tracks are heavy for its size and often follow ridge lines or snow drift edges.  
+    Dens are dug into tree roots or rock piles. Its pelt is extremely resistant to frost and moisture.
+
+USAGE  
+    Used as: high-performance pelt for outerwear trim or mitts, teeth for charms or bindings  
+    Limitations: highly aggressive when cornered; not trap-reliable; best hunted by bait concealment  
+    Preparation: skin with reinforced gloves; dry and stretch pelt carefully to retain texture
+
+ZONE PRESENCE  
+    Biomes: frost_sink, evergreen_forest
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Gulo gulo

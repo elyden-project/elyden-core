@@ -1,0 +1,23 @@
+NAME  
+    northern_pike - ambush freshwater predator known for sharp teeth and rapid strikes
+
+DESCRIPTION  
+    The northern pike is a large, torpedo-shaped fish found in lakes and slow-moving waters.  
+    It prefers heavily vegetated zones where it hides motionless, waiting to ambush prey.  
+    Its sharp, backward-facing teeth secure slippery fish and amphibians.  
+    The species is solitary and highly territorial, with a strong seasonal feeding pattern.
+
+    Pike require clear, oxygen-rich water and are sensitive to pollution or temperature extremes.  
+    Spawning occurs in shallow flooded vegetation during spring thaw.  
+    Northern pike are prized for meat but require careful cleaning due to numerous small bones.
+
+USAGE  
+    Used as: fresh meat source, high-protein catch for survival diet  
+    Limitations: flesh contains many fine bones; not suitable for immediate consumption without preparation  
+    Preparation: catch by spear or trap; gut and clean promptly; fillet carefully to avoid bones; cook thoroughly
+
+ZONE PRESENCE  
+    Biomes: lake, flood_hollow
+
+SCIENTIFIC NAME  
+    Esox lucius

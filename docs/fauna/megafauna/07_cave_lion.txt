@@ -1,0 +1,21 @@
+NAME  
+    cave_lion - large Pleistocene predator occupying tundra and mixed forest biomes
+
+DESCRIPTION  
+    The cave lion is a powerful big cat adapted to cold environments.  
+    It hunts large herbivores using stealth and strength.  
+    Typically solitary or in small family groups, it dominates its territory with fierce aggression.
+
+    Cave lions rely on dense cover and ambush tactics.  
+    Their pelts provide insulation and protection, while meat is a valuable resource.
+
+USAGE  
+    Used as: source of meat, insulating hide, and bone for tools  
+    Limitations: dangerous and aggressive; requires careful hunting methods  
+    Preparation: stalk with caution; use traps or coordinated hunts; process fully after harvest
+
+ZONE PRESENCE  
+    Biomes: tundra, mixed_forest
+
+SCIENTIFIC NAME  
+    Panthera spelaea

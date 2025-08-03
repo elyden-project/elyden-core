@@ -13,13 +13,12 @@ DESCRIPTION
     Harvest before flowering for best texture. Dry flat to preserve leaf shape and flexibility.
 
 USAGE  
-    Mirriane: packed into quivers or wrapped around gear to reduce rattle and absorb moisture  
-    Thea: layered inside sling padding or used to line poultice wraps for thermal stability  
-    Preparation: gather outer leaves before stalk develops, press and dry away from sunlight, fold gently if stored
+    Used as: insulation wrap, gear lining, quiver padding, fire-start backing  
+    Limitations: loses structure if sun-dried; smoke is irritating if burned  
+    Preparation: gather outer leaves before flowering, press and dry in shade, fold gently if stored
 
 ZONE PRESENCE  
     Biomes: meadow, plains
 
 SCIENTIFIC NAME  
     Verbascum thapsus
-

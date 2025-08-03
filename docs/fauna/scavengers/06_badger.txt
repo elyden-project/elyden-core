@@ -1,0 +1,25 @@
+NAME  
+    badger - solitary digger and scavenger active across plains and low hills
+
+DESCRIPTION  
+    The badger is a stocky, clawed mammal that forages alone for insects, carrion, and root bulbs.  
+    It excavates burrows and scrap dens with powerful forelimbs and avoids conflict through evasion or sudden aggression.  
+    Active during twilight or overcast periods, it is rarely seen in open daylight.
+
+    Tracks show low, wide spacing with deep front claw imprints.  
+    Signs include overturned turf, scattered shells, and shallow dig lines near carrion fields.  
+    Badgers avoid noise and respond poorly to sudden movement.
+
+USAGE  
+    Used as: compact pelt for mitts or wrap trim; teeth or claws for charms and tool grip; bait for predators  
+    Limitations: aggressive when cornered; may destroy trap lines if improperly baited  
+    Preparation: skin while fresh; claws must be removed with joint intact; dry hide away from sun
+
+ZONE PRESENCE  
+    Biomes: plains, hills
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Taxidea taxus

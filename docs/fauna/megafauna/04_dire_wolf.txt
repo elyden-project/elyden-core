@@ -1,0 +1,21 @@
+NAME  
+    dire_wolf - large Pleistocene predator inhabiting mixed forests and plains
+
+DESCRIPTION  
+    The dire wolf is a formidable carnivore larger than modern wolves, adapted to hunting in open and wooded areas.  
+    It preys on large herbivores using pack tactics and strong jaws.  
+    Dire wolves maintain territories and display both solitary and pack behaviors.
+
+    Their remains provide meat and bone resources but hunting live specimens is highly dangerous.  
+    Coordinated hunting strategies are necessary for survival.
+
+USAGE  
+    Used as: source of meat and bone material for tools  
+    Limitations: highly dangerous; pack behavior complicates hunting  
+    Preparation: avoid direct confrontation; use traps and cooperative hunting; fully process carcass
+
+ZONE PRESENCE  
+    Biomes: mixed_forest, plains
+
+SCIENTIFIC NAME  
+    Aenocyon dirus

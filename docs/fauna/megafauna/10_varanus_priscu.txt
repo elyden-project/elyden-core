@@ -1,0 +1,21 @@
+NAME  
+    varanus_priscu - large cold-adapted monitor lizard inhabiting swamp and flood hollow biomes
+
+DESCRIPTION  
+    Varanus priscu is an extinct giant monitor lizard species adapted to cold freshwater wetlands.  
+    It exhibits semi-aquatic behavior, hunting fish, amphibians, and small mammals.  
+    The species has thick, scaly skin and a powerful muscular build suited for ambush predation.
+
+    It favors geothermal areas within swamp and flood hollow zones to maintain body temperature.  
+    Its formidable size and aggressive hunting make it a top predator in its niche.
+
+USAGE  
+    Used as: source of large meat yield, durable hide for crafting, and bone for tools  
+    Limitations: aquatic habitat complicates hunting; aggressive and territorial behavior  
+    Preparation: trap near water; use caution during approach; skin and process with care
+
+ZONE PRESENCE  
+    Biomes: swamp, flood_hollow
+
+SCIENTIFIC NAME  
+    Varanus priscu

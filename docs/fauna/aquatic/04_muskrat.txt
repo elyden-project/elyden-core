@@ -1,0 +1,21 @@
+NAME  
+    muskrat - small semi-aquatic rodent valued for fur and meat in wetland zones
+
+DESCRIPTION  
+    Muskrats inhabit marshes, lakes, and slow streams where they build burrows or lodges.  
+    They feed on aquatic plants, roots, and occasionally small animals.  
+    Muskrats are primarily nocturnal and are active year-round, using thick fur for insulation.
+
+    Their pelts provide essential warmth in cold environments, while their meat is a moderate protein source.  
+    Trapping muskrats is common, using baited snares or cage traps near feeding areas.
+
+USAGE  
+    Used as: fur source for insulation, meat for survival protein  
+    Limitations: small size yields limited meat; trapping requires knowledge of habitat  
+    Preparation: trap near vegetation zones; skin carefully to preserve fur; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: lake, swamp
+
+SCIENTIFIC NAME  
+    Ondatra zibethicus

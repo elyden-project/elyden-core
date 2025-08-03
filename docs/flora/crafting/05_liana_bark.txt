@@ -13,9 +13,9 @@ DESCRIPTION
     Best harvested before drying sets in, then coiled or laid flat.
 
 USAGE  
-    Mirriane: twisted into light cord or tied around fletching bundles  
-    Thea: braided into snare triggers or wrapped around tool hafts for grip  
-    Preparation: cut sections under tension, strip bark with draw, soak if stiff, twist or press flat
+    Used as: flexible cordage, light lashings, tool grip wrappings, snare triggers  
+    Limitations: weak under prolonged load; stiffens if fully dried before use  
+    Preparation: cut under tension, strip bark with draw, soak to soften, twist or braid while damp
 
 ZONE PRESENCE  
     Biomes: wet_slope, mixed_forest

@@ -1,0 +1,26 @@
+NAME  
+    carrion_beetle - decomposer insect active in decay-rich swamp and frost zones
+
+DESCRIPTION  
+    The carrion beetle is a small, hard-shelled insect that feeds on decaying flesh,  
+    bone marrow, and organic waste. It is among the first responders to exposed carcasses,  
+    tunneling into soft tissue and laying eggs in sinew or muscle pockets.
+
+    Its presence signals advanced decomposition and microbial onset.  
+    Beetles operate in clusters beneath remains or shallow cover.  
+    Wing casings are dark, ridged, and resilient. Activity is low during freeze, high in thaw and saturation.
+
+USAGE  
+    Used as: bait attractant for trapcraft; locational signal for marrow-bearing remains;  
+    in extreme scarcity, dried and crushed for protein supplementation  
+    Limitations: minimal yield; risk of spoilage and contamination; must be processed separately from food stores  
+    Preparation: gather with bark scoop or ash pan; dry thoroughly in shaded airflow; store sealed
+
+ZONE PRESENCE  
+    Biomes: swamp, frost_sink
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Nicrophorus vespilloides

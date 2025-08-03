@@ -1,0 +1,24 @@
+NAME  
+    chickadee - vocal canopy bird used to gauge subfreezing air and static pressure zones
+
+DESCRIPTION  
+    The chickadee emits a two-note call that shortens with cold and sharpens under pressure drop.  
+    Its presence in evergreen forest indicates stable cover; abrupt silence or high clustering  
+    signals overhead movement or predator treeline breach.
+
+    Active during early light and midday. Travels in small groups between low branches.  
+    Frequently observed during foraging bursts or canopy rests.
+
+USAGE  
+    Used as: call modulation tracker for pressure, predator, or skyborne shift  
+    Limitations: soft call may be masked by snow drift or canopy creak; requires close listening  
+    Observation: note change in call spacing, tone compression, or synchronized hush across zone
+
+ZONE PRESENCE  
+    Biomes: evergreen_forest
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Poecile atricapillus

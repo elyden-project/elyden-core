@@ -1,0 +1,22 @@
+NAME  
+    greylag_goose - large migratory waterfowl common in wetlands and meadow margins
+
+DESCRIPTION  
+    The greylag goose is a robust waterfowl species found in lakes, swamps, and meadow edges.  
+    It feeds on grasses, aquatic plants, and small invertebrates. Geese are social birds, often seen  
+    in flocks during migration and nesting seasons. Their loud calls serve as early warning signals  
+    for nearby threats.
+
+    Greylag geese nest on islands, reed beds, or isolated shorelines. They molt annually and are vulnerable  
+    during flightless periods. Meat is dense and fatty, suitable for survival rations.
+
+USAGE  
+    Used as: meat source, feather supply for insulation or crafting, natural alarm signal  
+    Limitations: seasonal availability; flighty and wary behavior complicate hunting  
+    Preparation: trap or hunt during molting or nesting; pluck feathers carefully; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: lake, meadow
+
+SCIENTIFIC NAME  
+    Anser anser

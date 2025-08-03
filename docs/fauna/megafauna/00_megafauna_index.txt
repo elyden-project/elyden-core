@@ -1,0 +1,66 @@
+NAME  
+    megafauna_index - rare solitary organisms of extreme scale and ecological dominance
+
+DESCRIPTION  
+    Megafauna are biologically extreme, cold-adapted organisms surviving in isolated zones  
+    across the sealed valley. They exhibit solitary behavior, fixed territorial range, and  
+    metabolic resilience to frozen terrain or geothermal transition bands.
+
+    All species are grounded in Ice Age fossil record or derived from extant genera scaled  
+    to plausible upper limits. Each is biologically self-consistent. No fantasy traits,  
+    symbolic naming, or speculative hybrids are used.
+
+    These organisms are always classified as Gigantic. Encounters are rare and dangerous.  
+    Each entry specifies known biomes and behavior patterns. Hunting is not advised.
+
+INDEXED ENTRIES
+
+    woolly_mammoth  
+        Size: Gigantic  
+        Biomes: tundra, frost_sink, glacier  
+        Scientific Name: Mammuthus primigenius
+
+    cave_bear  
+        Size: Gigantic  
+        Biomes: hills, evergreen_forest  
+        Scientific Name: Ursus spelaeus
+
+    woolly_rhinoceros  
+        Size: Gigantic  
+        Biomes: tundra, frost_sink  
+        Scientific Name: Coelodonta antiquitatis
+
+    dire_wolf  
+        Size: Gigantic  
+        Biomes: mixed_forest, plains  
+        Scientific Name: Aenocyon dirus
+
+    saber_tooth_tiger  
+        Size: Gigantic  
+        Biomes: badlands, swamp  
+        Scientific Name: Smilodon fatalis
+
+    short_faced_bear  
+        Size: Gigantic  
+        Biomes: mixed_forest, hills  
+        Scientific Name: Arctodus simus
+
+    cave_lion  
+        Size: Gigantic  
+        Biomes: tundra, mixed_forest  
+        Scientific Name: Panthera spelaea
+
+    steppe_bison  
+        Size: Gigantic  
+        Biomes: plains, meadow  
+        Scientific Name: Bison priscus
+
+    dinornis  
+        Size: Gigantic  
+        Biomes: swamp, flood_hollow  
+        Scientific Name: Dinornis novaezealandiae
+
+    varanus_priscu  
+        Size: Gigantic  
+        Biomes: swamp, flood_hollow  
+        Scientific Name: Varanus priscu

@@ -1,0 +1,21 @@
+NAME  
+    pond_turtle - semi-aquatic reptile inhabiting lakes and flood hollows, valued for meat and shell material
+
+DESCRIPTION  
+    The pond turtle is a medium-sized freshwater turtle found in lakes, flood hollows, and slow-moving water.  
+    It forages on aquatic plants, invertebrates, and carrion. The species basks on logs or banks to regulate body temperature.  
+    The hard carapace provides protection from predators and can be used as a survival tool or container.
+
+    Pond turtles lay eggs on sandy or muddy banks. They are slow-moving and vulnerable during nesting seasons.  
+    Meat is dense and nutritious but requires thorough cooking to avoid parasites.
+
+USAGE  
+    Used as: meat source, shell material for tools or containers  
+    Limitations: slow movement makes capture feasible; risk of parasites if undercooked  
+    Preparation: capture by hand or trap; clean and cook meat thoroughly; prepare shell by drying or curing
+
+ZONE PRESENCE  
+    Biomes: lake, flood_hollow
+
+SCIENTIFIC NAME  
+    Emys orbicularis

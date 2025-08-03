@@ -1,0 +1,21 @@
+NAME  
+    red_tailed_hawk - widespread raptor known for soaring flight and keen eyesight
+
+DESCRIPTION  
+    The red-tailed hawk is a medium-sized bird of prey common in open plains and badlands.  
+    It hunts small mammals, reptiles, and birds, using soaring flight to scan for prey from above.  
+    Its distinctive reddish tail is visible during flight and serves as a territorial signal.
+
+    Red-tailed hawks nest in tall trees or cliff ledges and are active mainly during daylight hours.  
+    They are adaptable to a range of habitats but prefer open terrain with scattered perches.
+
+USAGE  
+    Used as: environmental indicator of prey abundance; occasional source of feathers or small meat portions  
+    Limitations: low meat yield; active flight and wary nature make capture difficult  
+    Preparation: capture by netting or after natural death; feathers used for crafting or insulation
+
+ZONE PRESENCE  
+    Biomes: plains, badlands
+
+SCIENTIFIC NAME  
+    Buteo jamaicensis

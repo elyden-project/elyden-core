@@ -14,9 +14,9 @@ DESCRIPTION
     or blade and separating chaff.
 
 USAGE  
-    Mirriane: ground into flatbread or added to broth as filler  
-    Thea: mixed into travel paste for sustained low-energy periods  
-    Preparation: strip seed heads, dry if needed, winnow to remove husks, crush or grind before use
+    Used as: coarse meal for flatbread, ration filler, or travel paste base  
+    Limitations: low in fat and protein; must be ground or cooked before digestion  
+    Preparation: strip seed heads, winnow to remove husks, dry if needed, then crush or grind
 
 ZONE PRESENCE  
     Biomes: plains, meadow, deciduous_forest

@@ -14,9 +14,9 @@ DESCRIPTION
     or red and remains attached into early frost periods.
 
 USAGE  
-    Mirriane: steeped as nutrient tea or chewed fresh during travel  
-    Thea: mashed and reduced into medicinal paste or ration additive  
-    Preparation: slice open and remove seeds if time allows; dry whole for storage or boil fresh into infusion
+    Used as: vitamin-rich infusion, fruit mash, survival forage during frost season  
+    Limitations: inner hairs cause throat irritation; seed removal recommended  
+    Preparation: slice open to remove seeds when possible; dry whole or boil into tea or paste
 
 ZONE PRESENCE  
     Biomes: mixed_forest, hills

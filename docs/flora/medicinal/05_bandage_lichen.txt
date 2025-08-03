@@ -1,22 +1,21 @@
 NAME  
-    bandage_lichen - fibrous pale lichen used for wrapping wounds and absorbing fluid
+    bandage_lichen - antiseptic lichen used for dressing wounds and preventing surface infection
 
 DESCRIPTION  
-    Bandage lichen is a soft, elastic growth found on bark and stone in high-altitude,  
-    clean-air environments. It forms light, tangled mats that are strong when dry and  
-    pliable when damp. Its structure wicks moisture from shallow cuts and protects  
-    against surface exposure. It is not adhesive but holds shape well when layered  
-    with bark or cord.
+    Bandage lichen is a pale green-grey fruticose lichen that grows in dry, cold zones  
+    along high ridgelines and exposed tundra surfaces. It contains usnic acid, a compound  
+    with antimicrobial properties, making it useful as a sterile field dressing.  
+    When applied directly, it suppresses bacterial growth and protects shallow abrasions  
+    or cuts from further exposure.
 
-    Often seen in wind-scoured terrain, it appears pale green or grey with branching  
-    threads. Best harvested dry, then rinsed before use. When clean, it can be packed  
-    directly over wounds or folded into layered wraps. Not edible and loses structure  
-    if burned or overheated.
+    The lichen hangs in strands from rock or wood and has a coarse, fibrous texture.  
+    It is best used dry and layered between cloth or bark to hold it in place.  
+    Growth is slow and should be harvested sparingly to avoid overcollection.
 
 USAGE  
-    Mirriane: wrapped around minor wounds or joints to reduce abrasion  
-    Thea: packed under compresses or used as poultice filler in cold zones  
-    Preparation: gather gently by hand, rinse in clean water, apply dry or damp
+    Used as: antimicrobial wound dressing, sterile layer in compress wraps  
+    Limitations: not suitable for deep wounds or where moisture will saturate it  
+    Preparation: collect dry from wood or stone, press flat into clean layer before applying
 
 ZONE PRESENCE  
     Biomes: tundra, unclimbable_ridge

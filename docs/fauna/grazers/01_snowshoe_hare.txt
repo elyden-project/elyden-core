@@ -1,0 +1,24 @@
+NAME  
+    snowshoe_hare - small seasonal grazer used for meat, hide, and trap calibration
+
+DESCRIPTION  
+    Snowshoe hares are fast-moving, cold-adapted lagomorphs found in forest and meadow  
+    terrain. Their large hind feet distribute weight for traversal across snow, and their  
+    coat shifts from brown to white with season, aiding in camouflage. They are a primary  
+    small-game target and foundational to basic trap systems.
+
+    Snowshoe hares are solitary and crepuscular. They rest in shallow depressions and  
+    emerge to forage on twigs, bark, grasses, or low shoots. Movement is erratic under  
+    threat. Tracks are easily identified by rear-foot spread and bounding patterns.  
+    Yield is limited, but recovery is simple. Hide is thin but useful for cold-layer patching.
+
+USAGE  
+    Used as: field meat source, hide for insulation patches, trap calibration target  
+    Limitations: small size limits yield; fragile hide requires careful processing  
+    Preparation: trap or stalk; skin promptly; dry hide flat; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: meadow, mixed_forest
+
+SCIENTIFIC NAME  
+    Lepus americanus

@@ -1,0 +1,24 @@
+NAME  
+    tree_frog - vocal amphibian used to assess humidity and lowland air shifts
+
+DESCRIPTION  
+    The tree frog emits a pulsing trill that rises in frequency with heat and moisture.  
+    Its call is a primary sound layer in wet biomes and diminishes sharply before cold fronts,  
+    predator proximity, or ambient pressure drops. Silence from frog clusters often precedes storm onset.
+
+    Found clinging to reeds, bark, or stone near pooled water.  
+    Active primarily at dusk and after rainfall. Movement is minimal; most detection is acoustic.
+
+USAGE  
+    Used as: ambient indicator for rain onset, lowland thermal change, or swamp predator presence  
+    Limitations: call may be masked by wind; overlapping sound with other amphibians  
+    Observation: noted for abrupt call cut-off, staggered timing, or lack of nightly return
+
+ZONE PRESENCE  
+    Biomes: swamp, wet_slope
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Hyla versicolor

@@ -1,21 +1,21 @@
 NAME  
-    haircap_moss - upright moss species indicating cold retention and moderate water access
+    haircap_moss - upright moss indicating cold moisture, acidic soil, and freeze retention
 
 DESCRIPTION  
-    Haircap moss forms dense vertical colonies of stiff, green shoots with pointed tips.  
-    It favors damp soil and shaded forest margins where temperature remains low and  
-    moisture is steady but not saturated. Its structure resists frost and insulates  
-    shallow root networks, making it a reliable marker of cold persistence and canopy cover.
+    Haircap moss forms dense, upright colonies with stiff green stalks and  
+    star-shaped tips. It prefers undisturbed soil with persistent cold moisture,  
+    often appearing near melt runoffs, frost pockets, or shaded forest depressions.  
+    The plant retains water effectively and remains upright even during frost exposure,  
+    making it a useful marker of ground-level thermal buffering.
 
-    Found beneath deciduous or coniferous trees in highland zones and frost basins.  
-    Colonies grow thickly over stone, soil, or rotting wood.  
-    Often the first sign of ground thaw near permafrost boundaries.  
-    Avoids heavily trampled or compacted terrain.
+    Growth indicates low pH, shaded persistence, and low wind exposure.  
+    It thrives in regions where surface water seeps or evaporates slowly.  
+    Easily distinguished by its vertical form and fine cap structures at stem tips.
 
 USAGE  
-    Mirriane: used to track cold-edge habitat or predict thaw basin melt timing  
-    Thea: observed for cover dynamics around traps; its disturbance may reveal passage  
-    Preparation: not harvested - examined for density and moisture content across slope or ridge
+    Indicator of: frost sink behavior, cold moisture retention, acidic substrate  
+    Limitations: vulnerable to foot disturbance; dies back in dry upland terrain  
+    Observation: signals long freeze duration and unreliable ground thaw
 
 ZONE PRESENCE  
     Biomes: deciduous_forest, frost_sink

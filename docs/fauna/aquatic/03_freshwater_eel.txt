@@ -1,0 +1,22 @@
+NAME  
+    freshwater_eel - elongated nocturnal predator inhabiting swampy and slow-moving waters
+
+DESCRIPTION  
+    The freshwater eel is a slender, snake-like fish that favors swamp and lake margins with dense cover.  
+    Primarily active at night, it preys on small fish, amphibians, and invertebrates.  
+    Eels migrate seasonally to spawning grounds, often requiring unobstructed waterways.  
+    Their skin is slimy and tough, requiring thorough cleaning before consumption.
+
+    Eels provide a rich, fatty meat valuable for survival nutrition. Their slippery bodies  
+    make capture challenging, commonly requiring specialized traps or hand retrieval.
+
+USAGE  
+    Used as: fatty protein source, high-calorie catch for extended energy needs  
+    Limitations: requires careful handling to remove slime; capture methods are specialized  
+    Preparation: trap or snare in cover zones; skin thoroughly; gut and clean before cooking
+
+ZONE PRESENCE  
+    Biomes: swamp, lake
+
+SCIENTIFIC NAME  
+    Anguilla rostrata

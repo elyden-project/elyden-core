@@ -13,9 +13,9 @@ DESCRIPTION
     yield one or two usable branches per season. Not suited for firewood or fiber.
 
 USAGE  
-    Mirriane: primary bow material; shaped, dried, and wrapped for limb stiffness  
-    Thea: cut into narrow hafts or spike inserts for close weapon cores  
-    Preparation: remove sapwood, split and season for at least one cycle before shaping
+    Used as: bow limbs, weapon hafts, structural inserts requiring elastic strength  
+    Limitations: sapwood must be removed; wood must be seasoned or it will split  
+    Preparation: cut from main branch, split longitudinally, and dry through one full freeze-thaw cycle
 
 ZONE PRESENCE  
     Biomes: evergreen_forest, hills

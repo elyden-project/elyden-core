@@ -1,0 +1,21 @@
+NAME  
+    wild_goat - medium-sized herbivore inhabiting badlands and hills, valued for meat and hide
+
+DESCRIPTION  
+    Wild goats are agile, sure-footed herbivores found on rocky slopes and badlands.  
+    They feed on shrubs, grasses, and lichens. Known for climbing ability and territoriality,  
+    goats form small herds led by dominant males.
+
+    Meat is lean and moderate in quantity. Hides are durable and used for clothing or shelter.  
+    Hunting requires patience due to their agility and cautious nature.
+
+USAGE  
+    Used as: meat source, durable hide for clothing and shelter  
+    Limitations: wary and agile; terrain makes hunting difficult  
+    Preparation: stalk or trap; skin carefully; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: badlands, hills
+
+SCIENTIFIC NAME  
+    Capra aegagrus

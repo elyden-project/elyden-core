@@ -1,21 +1,21 @@
 NAME  
-    wolf_lichen - bright toxic lichen marking exposed, nutrient-poor slopes and mineral imbalance
+    wolf_lichen - bright green lichen indicating clean air, open exposure, and dry bark substrate
 
 DESCRIPTION  
-    Wolf lichen is a vivid yellow-green fruticose lichen that grows on sun-exposed bark,  
-    rock, and decaying wood. Its presence indicates low-nutrient substrates and high UV exposure.  
-    Often found where trees are stunted or dying, or where soil chemistry prevents dense undergrowth.  
-    Contains vulpinic acid - mildly toxic to fauna, avoided by most grazers.
+    Wolf lichen is a bushy, fluorescent yellow-green lichen that grows on bark,  
+    deadwood, and exposed rock in well-ventilated, dry climates. Its presence reflects  
+    high air quality, strong solar exposure, and unshaded conditions, typically  
+    along ridgelines, sparse evergreen stands, or wind-exposed slopes.
 
-    Grows in dry, open highland areas or cold forest fringes with minimal canopy.  
-    Lichen forms tufts or drapes over rough bark and stone.  
-    Its brightness contrasts with surrounding decay, making it useful for identifying stressed zones.  
-    Not edible or usable as fuel.
+    The lichen prefers dry, acidic substrates and does not tolerate pollution or  
+    deep canopy. Its coloration makes it visible from distance, and it often appears  
+    first on weathered trees in transition zones. Abundant growth may signal poor soil  
+    retention and surface desiccation.
 
 USAGE  
-    Mirriane: noted when evaluating timberline decline or hillside stability  
-    Thea: observed for root exposure and terrain stress around shelter or trap sites  
-    Preparation: not collected - visible in color patches on stumps, rock, or shallow soil
+    Indicator of: high solar exposure, dry slope climate, and low atmospheric pollution  
+    Limitations: absent under heavy canopy or in saturated zones  
+    Observation: useful for tracing ridgeline dryness and open terrain stability
 
 ZONE PRESENCE  
     Biomes: hills, evergreen_forest

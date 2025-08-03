@@ -1,0 +1,21 @@
+NAME  
+    woodchuck - small burrowing rodent found in hills and meadow biomes
+
+DESCRIPTION  
+    Woodchucks, also known as groundhogs, inhabit open fields, hills, and meadows.  
+    They feed on grasses, herbs, and crops. Known for extensive burrow systems used  
+    for shelter and breeding.
+
+    Their meat is edible and a protein source in survival. Active during daylight.  
+    Capture via baited snares or pit traps.
+
+USAGE  
+    Used as: small game meat, trap target for protein  
+    Limitations: small yield; wary behavior demands stealth or traps  
+    Preparation: trap near burrows; skin and gut promptly; cook thoroughly
+
+ZONE PRESENCE  
+    Biomes: hills, meadow
+
+SCIENTIFIC NAME  
+    Marmota monax

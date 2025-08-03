@@ -1,0 +1,25 @@
+NAME  
+    stoat - agile cold-adapted hunter of rodents and small birds
+
+DESCRIPTION  
+    The stoat is a tiny, fast-moving mustelid active across tundra and meadow terrain.  
+    It preys on voles, eggs, and nesting birds, using burrows, snow tunnels, and rock gaps for cover.  
+    In cold seasons, its fur shifts to pure white, making it difficult to detect in snow-covered ground.
+
+    Stoats are solitary and highly territorial.  
+    Their pelts are prized for trim and fine insulation, especially during winter molt.  
+    Tracks are small and bounding, often found near field edge or stream burrows.
+
+USAGE  
+    Used as: fine pelt for glove or hood lining, light bone tools, and charm materials  
+    Limitations: small yield; requires specific traps or winter tracking skill  
+    Preparation: skin with curved blade; dry stretched flat; preserve fur density during storage
+
+ZONE PRESENCE  
+    Biomes: tundra, meadow
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Mustela erminea

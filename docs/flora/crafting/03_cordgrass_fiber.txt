@@ -13,9 +13,9 @@ DESCRIPTION
     before twist. Not suitable for fine textiles or heavy tension.
 
 USAGE  
-    Mirriane: stripped for field lashings and binding forage packs  
-    Thea: twisted into net loops or trip tension lines in wet terrain  
-    Preparation: cut at stalk base, split with thumb or blade, soak or twist to bind
+    Used as: field cordage, bundle lashings, net backing, or perimeter line  
+    Limitations: fiber weakens if fully dry; unsuitable for load-bearing tension  
+    Preparation: cut at base, split with thumb or blade, soak or twist while green
 
 ZONE PRESENCE  
     Biomes: flood_hollow, swamp, lake

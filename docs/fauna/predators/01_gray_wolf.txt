@@ -1,0 +1,25 @@
+NAME  
+    gray_wolf - territorial pack predator common to forests and plains
+
+DESCRIPTION  
+    The gray wolf is a social carnivore known for coordinated hunting and strong territorial patterns.  
+    It preys on deer, smaller grazers, and carrion, often using pack movement to corner or exhaust targets.  
+    Wolves communicate through scent, posture, and vocalization. Lone individuals may scavenge or test weaker prey.
+
+    Signs of presence include clustered spoor, territorial marking, and sudden quiet among signals.  
+    While direct confrontation is risky, wolves may be trapped, tracked, or baited if necessary.  
+    Their pelts offer high insulation value and are commonly taken in winter months.
+
+USAGE  
+    Used as: source of warm pelt, bone for tools, and occasional meat in constrained conditions  
+    Limitations: dangerous in packs; requires trapline familiarity or elevated terrain advantage  
+    Preparation: skin carefully to preserve fur; dry thoroughly; bones may be split or shaped
+
+ZONE PRESENCE  
+    Biomes: mixed_forest, plains
+
+SIZE  
+    Medium
+
+SCIENTIFIC NAME  
+    Canis lupus

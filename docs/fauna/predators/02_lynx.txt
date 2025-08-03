@@ -1,0 +1,25 @@
+NAME  
+    lynx - solitary forest ambush predator adapted to cold terrain
+
+DESCRIPTION  
+    The lynx is a medium-sized feline with powerful legs, tufted ears, and thick insulating fur.  
+    It hunts by stealth and sudden ambush, preying on hares, birds, and small grazers.  
+    Prefers dense cover, rocky outcrops, and glacial fringe zones where it can move silently and unseen.
+
+    Lynx are solitary and elusive, rarely vocal unless challenged.  
+    Tracks are rounded and widely spaced, often found near prey corridors or stone breaks.  
+    Its pelt is among the most valued for warmth due to density and weather resistance.
+
+USAGE  
+    Used as: high-value winter pelt, soft sinew cordage, and bone implements  
+    Limitations: extremely elusive; hunting requires tracking skill and silence  
+    Preparation: skin carefully to preserve ear and tail features; flesh and stretch hide with minimal exposure
+
+ZONE PRESENCE  
+    Biomes: evergreen_forest, glacier
+
+SIZE  
+    Medium
+
+SCIENTIFIC NAME  
+    Lynx lynx

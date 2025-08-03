@@ -1,0 +1,25 @@
+NAME  
+    raven - intelligent scavenger associated with carrion and human detritus
+
+DESCRIPTION  
+    The raven is a large, black-feathered corvid known for problem-solving and memory.  
+    It frequents disturbed terrain and kill sites, often appearing shortly after predator departure.  
+    Ravens scavenge flesh, bone fragments, and bait remnants. They also cache food in tree hollows or debris.
+
+    Their calls may signal carcass location or shift in predator activity.  
+    Ravens travel in pairs or small groups and may follow humans discreetly.  
+    Recognized by sharp croaks, wide wing span, and soaring spiral movement.
+
+USAGE  
+    Used as: indicator species for fresh kills or predatory zones; feathers for fletching  
+    Limitations: not typically hunted; wary and aerial; may steal from unguarded traps  
+    Preparation: collect dropped feathers; if downed, skin immediately to preserve wing structure
+
+ZONE PRESENCE  
+    Biomes: badlands, deciduous_forest
+
+SIZE  
+    Medium
+
+SCIENTIFIC NAME  
+    Corvus corax

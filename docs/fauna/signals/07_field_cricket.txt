@@ -1,0 +1,24 @@
+NAME  
+    field_cricket - rhythmic ground insect used to detect surface vibration and temperature plateau
+
+DESCRIPTION  
+    The field cricket produces a steady chirp by wing stridulation, rising in frequency with warmth.  
+    Chirping halts with footstep vibration, approaching fauna, or rapid ambient shift.  
+    Absence of sound may indicate predator presence, seismic instability, or nocturnal wind shift.
+
+    Found beneath leaf litter, soil cracks, or along stone edge.  
+    Sound is clearest at dusk and tapers with cold onset or surface moisture.
+
+USAGE  
+    Used as: vibration alert for ground movement or transition; temperature stability proxy during dusk halt  
+    Limitations: can be masked by wind or overrun by other insect species  
+    Observation: listen for pattern dropouts, sector silence, or multi-node offset
+
+ZONE PRESENCE  
+    Biomes: meadow, hills
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Gryllus campestris

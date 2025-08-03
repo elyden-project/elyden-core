@@ -1,0 +1,25 @@
+NAME  
+    opossum - nocturnal marsupial scavenger active in forest debris and edge zones
+
+DESCRIPTION  
+    The opossum is a small, slow-moving omnivore that feeds on carrion, insects, fallen fruit, and refuse.  
+    It forages under leaf litter, log piles, and along runoff margins, often appearing after dusk.  
+    Known for feigned death behavior and resistance to spoiled meat.
+
+    Tracks are hand-like with long rear toes.  
+    Dens are found in hollow logs, root tangles, or abandoned burrows.  
+    Frequently seen after predator activity or near disturbed camps.
+
+USAGE  
+    Used as: light pelt for small garment lining; bone for fine picks or splinters; indirect bait indicator  
+    Limitations: low material yield; foul odor if alarmed; easily startled and prone to freeze-response  
+    Preparation: skin carefully to preserve tail and underfur; dry hide in shaded ventilation
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Didelphis virginiana

@@ -14,9 +14,9 @@ DESCRIPTION
     along the edge of grass zones where tree cover breaks.
 
 USAGE  
-    Mirriane: chewed fresh to reduce thirst and stimulate alertness  
-    Thea: steeped into infusion to ease fatigue symptoms  
-    Preparation: rinse thoroughly; consume raw, steep as tea, or dry in single layers
+    Used as: chewable moisture source, stimulant forage, tea base for fatigue  
+    Limitations: high quantities may impair mineral absorption over time  
+    Preparation: rinse thoroughly; consume raw, steep into infusion, or dry in single layers
 
 ZONE PRESENCE  
     Biomes: meadow, plains

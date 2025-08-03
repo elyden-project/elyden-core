@@ -1,0 +1,25 @@
+NAME  
+    striped_hyena - nocturnal bone-scavenger active along volcanic margins and badland slopes
+
+DESCRIPTION  
+    The striped hyena is a medium-sized scavenger with powerful jaws and a coarse, bristled mane.  
+    It feeds primarily on sinew, cartilage, and marrow from long-abandoned kills.  
+    Prefers isolation, often trailing predators to access remains once danger has passed.
+
+    Tracks are broad with visible claw impressions and a loping rear-weighted gait.  
+    Dens are shallow burrows or crevices in ash deposits and eroded rock.  
+    Activity is marked by scattered bone fragments, dragged remains, and suppressed field noise.
+
+USAGE  
+    Used as: environmental indicator for stale kills or carrion zones; hide usable if cleaned thoroughly  
+    Limitations: difficult to approach without alert; poor yield unless skinned immediately  
+    Preparation: avoid spooking into spray-marking; clean hide aggressively; bones may be salvageable
+
+ZONE PRESENCE  
+    Biomes: volcanic_slope, badlands
+
+SIZE  
+    Medium
+
+SCIENTIFIC NAME  
+    Hyaena hyaena

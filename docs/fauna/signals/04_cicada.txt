@@ -1,0 +1,24 @@
+NAME  
+    cicada - seasonal drone emitter used to monitor heat stability and canopy silence
+
+DESCRIPTION  
+    The cicada produces a high-volume, continuous drone during warm stable periods.  
+    Its sound ceases immediately with sudden shade, wind drop, or predator disturbance.  
+    Silence is a key indicator of thermal collapse or tree-line movement.
+
+    Found on tree trunks, bark splits, or within leaf clusters.  
+    Activity peaks midday and vanishes at dusk. Easily masked by high wind or rain.
+
+USAGE  
+    Used as: ambient temperature floor indicator; drone cutoff used to track arboreal threat proximity  
+    Limitations: seasonal; absent during cold cycle or after heavy weather disruption  
+    Observation: watch for patterned cutout, fragmented return, or asymmetric canopy silence
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest, mixed_forest
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Magicicada septendecim

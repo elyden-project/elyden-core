@@ -1,0 +1,21 @@
+NAME  
+    peregrine_falcon - fast aerial predator found in badlands and glacier zones
+
+DESCRIPTION  
+    The peregrine falcon is a medium-sized raptor known for its incredible diving speed and hunting prowess.  
+    It preys primarily on medium-sized birds, capturing them in mid-air with swift strikes.  
+    Peregrines nest on cliffs and rocky outcrops, favoring open landscapes like badlands and glacier margins.
+
+    Their presence indicates healthy avian populations and open hunting grounds. Meat yield is minimal but feathers  
+    are valued for crafting.
+
+USAGE  
+    Used as: indicator of avian prey abundance, source of feathers for crafting  
+    Limitations: small meat yield; fast flight and wary nature reduce hunting success  
+    Preparation: trap at nesting sites or collect feathers post-mortem; cook any meat thoroughly if consumed
+
+ZONE PRESENCE  
+    Biomes: badlands, glacier
+
+SCIENTIFIC NAME  
+    Falco peregrinus

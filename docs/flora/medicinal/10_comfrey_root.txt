@@ -1,22 +1,20 @@
 NAME  
-    comfrey_root - thick healing root used to promote tissue recovery and bone stabilization
+    comfrey_root - fibrous root used for bone-set poultice and swelling reduction
 
 DESCRIPTION  
-    Comfrey is a perennial herb with large, bristled leaves and thick tapering roots.  
-    The root contains allantoin, a compound known to support cell regeneration and  
-    reduce inflammation. When grated or pulped, it forms a dense paste that can be  
-    packed against bruises, sprains, or fractured areas to promote healing.  
-    Not for internal use. Overuse may cause liver stress due to pyrrolizidine alkaloids.
+    Comfrey is a perennial herb with large hairy leaves and thick tapering roots.  
+    The root contains allantoin, a compound believed to promote cell repair and reduce  
+    swelling. It is traditionally mashed into a wet poultice and applied to sprains,  
+    bruises, or bone-setting wraps to stabilize and support external recovery.
 
-    Comfrey grows in moist, nutrient-rich soil near seasonal flood zones or meadow margins.  
-    Its leaves are large and hairy with a pronounced midrib. Flowers are tubular and  
-    range from purple to white. Roots are black on the outside and creamy within.  
-    Should be harvested from second-year plants for highest compound concentration.
+    The plant grows in moist, open ground and produces bell-shaped purple flowers.  
+    Roots are dark on the outside and pale inside, harvested in late season for maximum potency.  
+    Not consumed due to risk of liver damage when taken internally.
 
 USAGE  
-    Mirriane: grated root packed over joint sprains or bow arm tension injuries  
-    Thea: mashed into field poultice binder for use in deep-tissue trap wounds  
-    Preparation: scrub and peel root, crush into pulp, apply as wet mass or mix with wrap filler
+    Used as: ground poultice for bruising, sprains, or external bone support  
+    Limitations: not suitable for open wounds; internal use discouraged  
+    Preparation: dig and scrub root, slice and mash into wet paste, apply with cloth or bark backing
 
 ZONE PRESENCE  
     Biomes: meadow, flood_hollow

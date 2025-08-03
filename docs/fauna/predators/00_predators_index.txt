@@ -1,0 +1,67 @@
+NAME  
+    predators_index - active hunting fauna that stalk, ambush, or pursue prey
+
+DESCRIPTION  
+    Predators are carnivorous or omnivorous organisms that pursue live prey.  
+    They exhibit territorial, solitary, or pack-based hunting behavior depending on species and biome.  
+    Most represent direct threats to field survival and must be tracked or avoided.
+
+    Presence is often indicated by silence among signal species, spoor, scent marks, or cached kills.  
+    Encounters are typically non-recoverable without preparation or terrain advantage.  
+    Some species can be baited, avoided, or forced into retreat; others will engage without hesitation.
+
+    Predators are not hunted for resource yield in standard scenarios.  
+    Engagement is discouraged unless driven by starvation, injury, or environmental constraint.  
+    Entry files specify aggression logic, biome coverage, and avoidance protocols.
+
+INDEXED ENTRIES
+
+    gray_wolf  
+        Size: Medium  
+        Biomes: mixed_forest, plains  
+        Scientific Name: Canis lupus
+
+    lynx  
+        Size: Medium  
+        Biomes: evergreen_forest, glacier  
+        Scientific Name: Lynx lynx
+
+    red_fox  
+        Size: Small  
+        Biomes: meadow, hills  
+        Scientific Name: Vulpes vulpes
+
+    wolverine  
+        Size: Small  
+        Biomes: frost_sink, evergreen_forest  
+        Scientific Name: Gulo gulo
+
+    cougar  
+        Size: Large  
+        Biomes: hills, badlands  
+        Scientific Name: Puma concolor
+
+    polar_bear  
+        Size: Massive  
+        Biomes: ice_shelf, glacier  
+        Scientific Name: Ursus maritimus
+
+    golden_eagle  
+        Size: Medium  
+        Biomes: badlands, plains  
+        Scientific Name: Aquila chrysaetos
+
+    brown_bear  
+        Size: Massive  
+        Biomes: deciduous_forest, swamp  
+        Scientific Name: Ursus arctos
+
+    coyote  
+        Size: Medium  
+        Biomes: plains, mixed_forest  
+        Scientific Name: Canis latrans
+
+    stoat  
+        Size: Tiny  
+        Biomes: tundra, meadow  
+        Scientific Name: Mustela erminea

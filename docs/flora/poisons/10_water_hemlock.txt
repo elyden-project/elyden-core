@@ -1,21 +1,19 @@
 NAME  
-    water_hemlock - high-potency neurotoxin used for kill traps and bait targeting small game
+    water_hemlock - highly toxic wetland root used in lethal bait and disruption traps
 
 DESCRIPTION  
-    Water hemlock is a tall, hollow-stemmed plant with umbrella-shaped clusters of white flowers.  
-    It contains cicutoxin, a fast-acting neurotoxin that causes violent convulsions,  
-    respiratory failure, and death. The root and lower stem hold the highest concentration.  
-    Used for lethal bait preparation or high-fatality traps. Must be handled with extreme caution.
+    Water hemlock is a perennial herbaceous plant with hollow, grooved stems and compound leaves.  
+    It thrives in swampy and floodplain environments. The root contains cicutoxin, a potent neurotoxin  
+    that causes violent convulsions and rapid death when ingested. The plant’s sap is also toxic  
+    but less concentrated than root extracts.
 
-    Found along water margins, flood basins, and stagnant wetland edges.  
-    Roots are thick and chambered, sometimes confused with edible tubers.  
-    Odor is sharp and oily when cut. Toxicity remains in dried or aged specimens.  
-    Causes death in small animals within minutes of ingestion.
+    Found primarily in flood hollows and swamp biomes. Identification is critical due to similarity  
+    with edible water parsnip. Harvesting roots requires caution and protective tools.
 
 USAGE  
-    Mirriane: traced onto arrowheads or left in surface bait for predator interference  
-    Thea: core component in spring barbs, wound-channel lures, or shallow pit traps  
-    Preparation: harvest with bark barrier or wrapped blade, slice root, dry under airflow; never expose open skin
+    Used as: lethal bait agent, ingestion poison, neurotoxic disruption tool  
+    Limitations: toxic only when ingested; handling risks due to sap exposure  
+    Preparation: excavate roots carefully, clean thoroughly, mash or blend into bait medium
 
 ZONE PRESENCE  
     Biomes: flood_hollow, swamp

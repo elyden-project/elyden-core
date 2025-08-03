@@ -1,0 +1,21 @@
+NAME  
+    black_billed_magpie - medium-small omnivorous bird common in mixed and deciduous forests
+
+DESCRIPTION  
+    The black-billed magpie is a noisy, highly intelligent bird with a long tail and black-and-white plumage.  
+    It occupies forest edges, open woodlands, and mixed forest biomes. Magpies feed on insects, small mammals,  
+    carrion, and plant material. They are known to scavenge near human activity and natural carcasses.
+
+    Magpies are territorial and often form small groups. Their vocalizations are complex, serving as communication  
+    and alarm signals. Feathers are occasionally used for crafting or insulation.
+
+USAGE  
+    Used as: minor meat source, feathers for insulation or tool decoration  
+    Limitations: limited meat yield; wary and noisy behavior complicates stealth capture  
+    Preparation: trap or snare in wooded edges; pluck feathers; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: mixed_forest, deciduous_forest
+
+SCIENTIFIC NAME  
+    Pica hudsonia

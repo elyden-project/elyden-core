@@ -1,22 +1,21 @@
 NAME  
-    wolfsbane - cardiac toxin used for bladed traps, delayed kill coatings, or terminal bait
+    wolfsbane - fast-acting neurotoxic herb used in dart coating and fatal baitwork
 
 DESCRIPTION  
-    Wolfsbane is a tall perennial herb with hooded purple-blue flowers and deeply  
-    lobed leaves. All parts contain aconitine, a fast-acting neurotoxin that disrupts  
-    heart rhythm and nerve conduction. Traditionally used in arrow poison and  
-    lethal baiting. Toxin absorbs through skin and mucous - gloves are required  
-    when handling raw plant or extract.
+    Wolfsbane is a tall herbaceous plant with deeply cut leaves and hooded purple-blue flowers.  
+    All parts contain aconitine, a highly potent alkaloid that affects nerve transmission  
+    and cardiac rhythm. Exposure through ingestion or open wounds can lead to paralysis or death.  
+    It is most effective when concentrated in liquid form or used as a contact toxin.
 
-    Found in cold, shaded slopes and moisture-rich forest bands.  
-    Plants grow from underground tubers and flower in late season.  
-    Common near highland water runoffs. Root and flower are most potent.  
-    Toxin degrades in heat; must be preserved cool and dry if powdered.
+    Found in moist, shaded slopes and evergreen margins.  
+    Roots and flowers contain the highest toxin levels.  
+    Harvesting must be done with full hand protection; absorption through skin is possible.  
+    Processing into usable extract requires minimal heat and dilution with inert binder.
 
 USAGE  
-    Mirriane: applied to bladed arrowheads or used for last-shot kill delay  
-    Thea: crushed and sealed into meat baits or bound into puncture trap grooves  
-    Preparation: harvest whole plant with stem intact, air-dry, crush tuber or flower and apply directly
+    Used as: dart coating, ingestion poison, or lethal trap application  
+    Limitations: high volatility; exposure risk during harvest and handling  
+    Preparation: grind root or flower, suspend in liquid base, bind to delivery medium; avoid skin contact
 
 ZONE PRESENCE  
     Biomes: wet_slope, evergreen_forest

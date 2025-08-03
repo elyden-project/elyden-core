@@ -14,9 +14,9 @@ DESCRIPTION
     due to its carbohydrate density and cold resilience.
 
 USAGE  
-    Mirriane: root boiled and mashed for ration base  
-    Thea: dried and stored as fallback starch additive  
-    Preparation: dig root with tool, scrub clean, boil thoroughly or dry to grind into powder
+    Used as: boiled starch source, dried fallback ration, or meal additive  
+    Limitations: root is difficult to extract from frozen or compacted ground  
+    Preparation: dig root with blade or spike, scrub clean, boil until soft or dry and grind
 
 ZONE PRESENCE  
     Biomes: tundra, glacier

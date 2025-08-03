@@ -1,22 +1,23 @@
 NAME  
-    bush_weed - resinous herb used for sedation and pain dulling in recovery
+    bush_weed - multipurpose plant used for pain calming, ration additive, and fiber draw
 
 DESCRIPTION  
-    Bush weed is a coarse, upright-growing plant with sharply lobed, serrated leaves  
-    and a strong scent. Its dried leaves and flowering tops can be smoked or steeped  
-    to induce mild sedation, reduce pain, and ease muscle tension. Effects include  
-    slowed reflexes, lowered anxiety, and improved rest under field recovery conditions.  
-    It is not curative but useful for managing exhaustion and injury stress.
+    Bush weed is a tall, branching herb with coarse leaves, clustered seed heads,  
+    and a fibrous stalk. It grows rapidly in disturbed soils and meadow margins.  
+    Dried leaves and flowers may be burned or smoked in low doses for mild pain  
+    management, calming effect, or sleep induction. Seeds and leaves are also edible  
+    in small quantities and added to ration pastes for bulk and oil. The stalk produces  
+    a stringy fiber that can be drawn for rough cord or textile backing.
 
-    Grows in open soil with full sun exposure, often along disturbed clearings or  
-    the edge of mixed forests. Flowering tops exude a sticky resin when mature.  
-    Plants reach up to two meters in height and spread laterally when unharvested.  
-    Seeds are edible if roasted but not gathered for food in field use.
+    The plant has serrated palmate leaves and a strong scent.  
+    Leaf and flower potency declines after seeding. Stalks should be retted  
+    or soaked before fiber use. High intake of smoke or seed can impair clarity.
 
 USAGE  
-    Mirriane: smoked during rest periods or infused to assist post-exertion recovery  
-    Thea: added to bait preparations to dull enemy coordination or delay pursuit  
-    Preparation: dry upper leaves and flower bracts in shade; store sealed from light and moisture
+    Used as: low-grade smoke inhalant for calming or discomfort relief; ration bulk oil source;  
+             fiber draw material for cordage  
+    Limitations: overuse affects focus; raw fiber weak unless processed  
+    Preparation: dry leaves for burning or paste; crack seed in blend; soak stalk for fiber separation
 
 ZONE PRESENCE  
     Biomes: meadow, mixed_forest, hills

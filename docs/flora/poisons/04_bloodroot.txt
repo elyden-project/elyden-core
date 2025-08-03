@@ -1,22 +1,20 @@
 NAME  
-    bloodroot - blistering root compound used in topical irritant traps and forced movement zones
+    bloodroot - caustic root used for skin disruption and blister-field deterrent
 
 DESCRIPTION  
-    Bloodroot is a low forest plant with rounded leaves and white flowers.  
-    Its thick underground rhizome produces a red-orange sap containing sanguinarine,  
-    an alkaloid that causes skin irritation, tissue necrosis, or blistering on contact.  
-    The sap is used to flush targets from hiding, trigger forced movement,  
-    or prevent repeated use of paths and cover.
+    Bloodroot is a small forest herb with single-lobed leaves and white spring flowers.  
+    Its thick rhizome exudes a red-orange sap containing sanguinarine, a cytotoxic alkaloid  
+    that destroys surface tissue on contact. Applied topically, the sap induces blistering,  
+    inflammation, and tissue necrosis. Not intended for ingestion—internal use is highly toxic.
 
-    Found in shaded slopes or wooded hillsides.  
-    Emerges early in season and dies back by high heat.  
-    Sap is extracted by slicing root while fresh.  
-    Potency fades once dried; best used within a day unless preserved in fat or wax.
+    Found in deciduous forest floors and rocky upland slopes.  
+    Rhizomes grow horizontally beneath shallow soil and must be cut to activate sap flow.  
+    The plant should be processed immediately after harvest to retain potency.
 
 USAGE  
-    Mirriane: applied to arrow shafts to trigger skin pain or grip loss  
-    Thea: packed into tripline vents or folded into foliage bait along ambush corridors  
-    Preparation: dig root, slice open, express fluid into wrap or smear directly onto delivery surface
+    Used as: blister trap component, surface irritant for repellents, field marker paste  
+    Limitations: causes permanent scarring; ineffective when dried; dangerous if inhaled or ingested  
+    Preparation: slice fresh rhizome and collect sap; apply with bone or bark tool to contact surface
 
 ZONE PRESENCE  
     Biomes: deciduous_forest, hills

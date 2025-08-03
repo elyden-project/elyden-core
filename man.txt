@@ -856,6 +856,2317 @@ ZONE TRAITS
     - Forage Density: none  
     - Threat Level:   moderate
 
+%%% fauna/aquatic/00_aquatic_index.txt %%%
+
+NAME  
+    aquatic_index - water-bound and semi-aquatic fauna inhabiting lakes, swamps, and runoff zones
+
+DESCRIPTION  
+    Aquatic fauna include fish, amphibians, reptiles, and semi-submerged mammals.  
+    These species reside in or near water bodies and are encountered along shorelines,  
+    flood zones, or submerged terrain. Most are forageable using traps, spears, or direct hand retrieval.
+
+    Movement and yield vary with water temperature, flow, and clarity.  
+    Some species are nocturnal or responsive to geothermal cycles.  
+    Presence may indicate water stability, forage density, or surface disruption.
+
+    Entry files document harvest method, biome constraints, and behavioral rhythm.  
+    All organisms are grounded in real-world analogs. No symbolic or hybrid species are used.
+
+INDEXED ENTRIES
+
+    northern_pike  
+        Size: Medium  
+        Biomes: lake, flood_hollow  
+        Scientific Name: Esox lucius
+
+    brown_trout  
+        Size: Medium  
+        Biomes: lake, wet_slope  
+        Scientific Name: Salmo trutta
+
+    freshwater_eel  
+        Size: Medium  
+        Biomes: swamp, lake  
+        Scientific Name: Anguilla rostrata
+
+    muskrat  
+        Size: Small  
+        Biomes: lake, swamp  
+        Scientific Name: Ondatra zibethicus
+
+    bullfrog  
+        Size: Small  
+        Biomes: swamp, flood_hollow  
+        Scientific Name: Lithobates catesbeianus
+
+    common_toad  
+        Size: Small  
+        Biomes: wet_slope, flood_hollow  
+        Scientific Name: Bufo bufo
+
+    northern_water_snake  
+        Size: Small  
+        Biomes: swamp, lake  
+        Scientific Name: Nerodia sipedon
+
+    pond_turtle  
+        Size: Medium  
+        Biomes: lake, flood_hollow  
+        Scientific Name: Emys orbicularis
+
+    crayfish  
+        Size: Tiny  
+        Biomes: lake, swamp  
+        Scientific Name: Faxonius virilis
+
+    river_otter  
+        Size: Medium  
+        Biomes: lake, flood_hollow  
+        Scientific Name: Lontra canadensis
+
+%%% fauna/aquatic/01_northern_pike.txt %%%
+
+NAME  
+    northern_pike - ambush freshwater predator known for sharp teeth and rapid strikes
+
+DESCRIPTION  
+    The northern pike is a large, torpedo-shaped fish found in lakes and slow-moving waters.  
+    It prefers heavily vegetated zones where it hides motionless, waiting to ambush prey.  
+    Its sharp, backward-facing teeth secure slippery fish and amphibians.  
+    The species is solitary and highly territorial, with a strong seasonal feeding pattern.
+
+    Pike require clear, oxygen-rich water and are sensitive to pollution or temperature extremes.  
+    Spawning occurs in shallow flooded vegetation during spring thaw.  
+    Northern pike are prized for meat but require careful cleaning due to numerous small bones.
+
+USAGE  
+    Used as: fresh meat source, high-protein catch for survival diet  
+    Limitations: flesh contains many fine bones; not suitable for immediate consumption without preparation  
+    Preparation: catch by spear or trap; gut and clean promptly; fillet carefully to avoid bones; cook thoroughly
+
+ZONE PRESENCE  
+    Biomes: lake, flood_hollow
+
+SCIENTIFIC NAME  
+    Esox lucius
+
+%%% fauna/aquatic/02_brown_trout.txt %%%
+
+NAME  
+    brown_trout - adaptable freshwater fish prized for firm flesh and active behavior
+
+DESCRIPTION  
+    Brown trout inhabit cool lakes and streams, favoring areas with moderate current  
+    and ample cover such as submerged logs or rocky ledges. They feed opportunistically  
+    on insects, smaller fish, and crustaceans. The species tolerates a range of water qualities  
+    but requires oxygen-rich environments for spawning and juvenile survival.
+
+    Brown trout spawn in gravel beds during late autumn. Their flesh is firm and richly flavored,  
+    making them a valued food source in survival contexts. Careful cleaning is necessary to remove bones.
+
+USAGE  
+    Used as: nutritious meat source, dietary staple for survival  
+    Limitations: contains pin bones; requires preparation to avoid choking hazards  
+    Preparation: capture with spear or trap; gut and clean immediately; fillet carefully; cook thoroughly
+
+ZONE PRESENCE  
+    Biomes: lake, wet_slope
+
+SCIENTIFIC NAME  
+    Salmo trutta
+
+%%% fauna/aquatic/03_freshwater_eel.txt %%%
+
+NAME  
+    freshwater_eel - elongated nocturnal predator inhabiting swampy and slow-moving waters
+
+DESCRIPTION  
+    The freshwater eel is a slender, snake-like fish that favors swamp and lake margins with dense cover.  
+    Primarily active at night, it preys on small fish, amphibians, and invertebrates.  
+    Eels migrate seasonally to spawning grounds, often requiring unobstructed waterways.  
+    Their skin is slimy and tough, requiring thorough cleaning before consumption.
+
+    Eels provide a rich, fatty meat valuable for survival nutrition. Their slippery bodies  
+    make capture challenging, commonly requiring specialized traps or hand retrieval.
+
+USAGE  
+    Used as: fatty protein source, high-calorie catch for extended energy needs  
+    Limitations: requires careful handling to remove slime; capture methods are specialized  
+    Preparation: trap or snare in cover zones; skin thoroughly; gut and clean before cooking
+
+ZONE PRESENCE  
+    Biomes: swamp, lake
+
+SCIENTIFIC NAME  
+    Anguilla rostrata
+
+%%% fauna/aquatic/04_muskrat.txt %%%
+
+NAME  
+    muskrat - small semi-aquatic rodent valued for fur and meat in wetland zones
+
+DESCRIPTION  
+    Muskrats inhabit marshes, lakes, and slow streams where they build burrows or lodges.  
+    They feed on aquatic plants, roots, and occasionally small animals.  
+    Muskrats are primarily nocturnal and are active year-round, using thick fur for insulation.
+
+    Their pelts provide essential warmth in cold environments, while their meat is a moderate protein source.  
+    Trapping muskrats is common, using baited snares or cage traps near feeding areas.
+
+USAGE  
+    Used as: fur source for insulation, meat for survival protein  
+    Limitations: small size yields limited meat; trapping requires knowledge of habitat  
+    Preparation: trap near vegetation zones; skin carefully to preserve fur; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: lake, swamp
+
+SCIENTIFIC NAME  
+    Ondatra zibethicus
+
+%%% fauna/aquatic/05_bullfrog.txt %%%
+
+NAME  
+    bullfrog - large amphibian common in wetlands, valued for meat and signaling
+
+DESCRIPTION  
+    The bullfrog is a robust amphibian found in swamp, flood hollow, and lake environments.  
+    It feeds on insects, small fish, and occasionally other amphibians. Its loud call is a common  
+    nighttime signal in wetland zones. Bullfrogs have thick skin and strong legs adapted for jumping  
+    and swimming.
+
+    Bullfrog meat is edible and can supplement protein intake. They are often caught by hand or with traps.  
+    Their presence indicates healthy aquatic ecosystems.
+
+USAGE  
+    Used as: supplementary meat source, environmental indicator species  
+    Limitations: limited meat yield per individual; capture requires active pursuit  
+    Preparation: catch by hand or trap; remove skin and legs; cook thoroughly before consumption
+
+ZONE PRESENCE  
+    Biomes: swamp, flood_hollow
+
+SCIENTIFIC NAME  
+    Lithobates catesbeianus
+
+%%% fauna/aquatic/06_common_toad.txt %%%
+
+NAME  
+    common_toad - resilient amphibian inhabiting wet slopes and flood hollows, used as supplemental protein
+
+DESCRIPTION  
+    The common toad is a terrestrial amphibian found near water bodies such as wetlands and moist slopes.  
+    It feeds primarily on invertebrates and small insects. Toads secrete mild toxins through their skin,  
+    which deters many predators. Their thick, warty skin provides protection and moisture retention.
+
+    Toad meat can be consumed cautiously, typically after thorough cooking to avoid toxin effects.  
+    They are captured using traps or by hand during nocturnal activity periods.
+
+USAGE  
+    Used as: supplemental meat source, small-game catch in wet habitats  
+    Limitations: skin secretions require removal or thorough cooking; small size limits yield  
+    Preparation: trap or hand-capture at night; skin carefully; cook thoroughly to neutralize toxins
+
+ZONE PRESENCE  
+    Biomes: wet_slope, flood_hollow
+
+SCIENTIFIC NAME  
+    Bufo bufo
+
+%%% fauna/aquatic/07_northern_water_snake.txt %%%
+
+NAME  
+    northern_water_snake - non-venomous aquatic snake inhabiting swamps and lakes, active predator of fish and amphibians
+
+DESCRIPTION  
+    The northern water snake is a robust, non-venomous serpent common in swamp and lake biomes.  
+    It hunts by ambush and active pursuit, feeding primarily on fish, amphibians, and small aquatic animals.  
+    The snake is excellent at swimming and often basks on rocks or logs near the water's edge.
+
+    Though non-venomous, it can deliver a painful bite if provoked. Skin is patterned in dark bands providing camouflage.  
+    Its presence indicates a healthy aquatic ecosystem.
+
+USAGE  
+    Used as: source of supplemental protein and skin material for small-scale crafting  
+    Limitations: small meat yield; biting risk during capture; skin requires preparation to soften  
+    Preparation: capture with care; skin and gut promptly; dry or smoke skin for use; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: swamp, lake
+
+SCIENTIFIC NAME  
+    Nerodia sipedon
+
+%%% fauna/aquatic/08_pond_turtle.txt %%%
+
+NAME  
+    pond_turtle - semi-aquatic reptile inhabiting lakes and flood hollows, valued for meat and shell material
+
+DESCRIPTION  
+    The pond turtle is a medium-sized freshwater turtle found in lakes, flood hollows, and slow-moving water.  
+    It forages on aquatic plants, invertebrates, and carrion. The species basks on logs or banks to regulate body temperature.  
+    The hard carapace provides protection from predators and can be used as a survival tool or container.
+
+    Pond turtles lay eggs on sandy or muddy banks. They are slow-moving and vulnerable during nesting seasons.  
+    Meat is dense and nutritious but requires thorough cooking to avoid parasites.
+
+USAGE  
+    Used as: meat source, shell material for tools or containers  
+    Limitations: slow movement makes capture feasible; risk of parasites if undercooked  
+    Preparation: capture by hand or trap; clean and cook meat thoroughly; prepare shell by drying or curing
+
+ZONE PRESENCE  
+    Biomes: lake, flood_hollow
+
+SCIENTIFIC NAME  
+    Emys orbicularis
+
+%%% fauna/aquatic/09_crayfish.txt %%%
+
+NAME  
+    crayfish - small freshwater crustacean inhabiting lakes and swamps, used for protein and bait
+
+DESCRIPTION  
+    Crayfish are small, freshwater crustaceans that live in lakes, swamps, and slow-moving streams.  
+    They feed on detritus, small invertebrates, and plant matter. Crayfish burrow into mud and hide under rocks or vegetation.  
+    Their exoskeletons provide limited protection but are molted regularly.
+
+    Crayfish are abundant in shallow water zones with ample cover. They are commonly trapped using baited cages or by hand.  
+    Meat is delicate and rich in protein but should be cooked thoroughly.
+
+USAGE  
+    Used as: supplemental protein source, live or processed bait for fishing  
+    Limitations: small size yields limited meat; molting cycle affects availability  
+    Preparation: trap or catch by hand; remove shell if preferred; cook thoroughly before consumption
+
+ZONE PRESENCE  
+    Biomes: lake, swamp
+
+SCIENTIFIC NAME  
+    Faxonius virilis
+
+%%% fauna/aquatic/10_river_otter.txt %%%
+
+NAME  
+    river_otter - medium-sized semi-aquatic mammal inhabiting lakes and flood hollows, valued for fur and meat
+
+DESCRIPTION  
+    The river otter is a social, agile mammal found along lakeshores and floodplains.  
+    It feeds primarily on fish, amphibians, and crustaceans, using agile swimming and diving to capture prey.  
+    Otters build dens near water and maintain scent-marked territories.
+
+    Their dense, waterproof fur provides valuable insulation. Meat yield is moderate but nutritionally dense.  
+    Otters are wary of humans and require stealth or traps for effective harvest.
+
+USAGE  
+    Used as: source of fur for insulation and waterproofing, and moderate protein supply  
+    Limitations: elusive behavior complicates capture; requires specialized trapping  
+    Preparation: trap near water edges; skin carefully to preserve fur; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: lake, flood_hollow
+
+SCIENTIFIC NAME  
+    Lontra canadensis
+
+%%% fauna/fauna_index.txt %%%
+
+NAME  
+    fauna_index - overview of fauna classification by survival function
+
+DESCRIPTION  
+    Fauna within the sealed valley are grouped by behavioral role and survival impact.  
+    No taxonomy is used. All names refer to real-world species or grounded variants.  
+    Classification reflects field interaction, not biological lineage.
+
+CATEGORY STRUCTURE  
+
+    grazers/  
+        Herbivores that feed on vegetation or low-growth flora.  
+        Includes prey species used for meat, hide, or bone.  
+        Behavior is non-aggressive unless provoked.
+
+    predators/  
+        Organisms that stalk or chase prey.  
+        Includes solitary or territorial hunters.  
+        Encounters may be lethal. Behavior varies by zone and season.
+
+    scavengers/  
+        Opportunists that consume carrion, waste, or kill remnants.  
+        Presence may indicate recent kills or biome stress.  
+        May interfere with stealth or storage.
+
+    signals/  
+        Small ambient organisms used to detect disruption or movement.  
+        Includes birds, insects, and minor fauna with reliable behavioral shifts.  
+        Not hunted. Used for navigation or hazard anticipation.
+
+    aquatic/  
+        Fauna residing in lakes, swamps, or flood basins.  
+        Includes fish, amphibians, and semi-submerged foragers.  
+        Yield and behavior vary with water temperature and flow.
+
+    flyers/  
+        Winged organisms. Includes raptors, ambient birds, and seasonal migrators.  
+        Used for resource yield, navigation, or alarm behavior.  
+        Generally difficult to hunt unless grounded.
+
+    megafauna/  
+        Gigantic apex organisms from pre-collapse ecosystems.  
+        Extremely rare. High lethality.  
+        Each specimen occupies a distinct territory. Avoid engagement.
+
+
+%%% fauna/flyers/00_flyers_index.txt %%%
+
+NAME  
+    flyers_index - winged fauna with navigational, environmental, or survival relevance
+
+DESCRIPTION  
+    Flyers are aerial organisms encountered across varied elevations and biomes.  
+    Most are birds, though behavior and role vary by size, migratory pattern, or territorial range.  
+    Some are trappable at rest or during low-flight intervals; others serve as signal or orientation markers.
+
+    Yield may include meat, feathers, or bone. However, most flyer species are not primary food sources.  
+    Movement often correlates with thermal shifts, predator avoidance, or seasonal transitions.
+
+    Entry files document altitude behavior, landing conditions, and biome constraints.  
+    Each species is grounded in real-world taxonomy. No fictional morphologies are used.
+
+INDEXED ENTRIES
+
+    barred_owl  
+        Size: Medium  
+        Biomes: evergreen_forest, hills  
+        Scientific Name: Strix varia
+
+    red_tailed_hawk  
+        Size: Medium  
+        Biomes: plains, badlands  
+        Scientific Name: Buteo jamaicensis
+
+    greylag_goose  
+        Size: Medium  
+        Biomes: lake, meadow  
+        Scientific Name: Anser anser
+
+    mottled_duck  
+        Size: Medium  
+        Biomes: swamp, lake  
+        Scientific Name: Anas fulvigula
+
+    barn_swallow  
+        Size: Small  
+        Biomes: plains, lake  
+        Scientific Name: Hirundo rustica
+
+    black_billed_magpie  
+        Size: Small  
+        Biomes: mixed_forest, deciduous_forest  
+        Scientific Name: Pica hudsonia
+
+    crow  
+        Size: Small  
+        Biomes: plains, swamp  
+        Scientific Name: Corvus brachyrhynchos
+
+    peregrine_falcon  
+        Size: Medium  
+        Biomes: badlands, glacier  
+        Scientific Name: Falco peregrinus
+
+    snowy_owl  
+        Size: Medium  
+        Biomes: tundra, ice_shelf  
+        Scientific Name: Bubo scandiacus
+
+    rock_pigeon  
+        Size: Small  
+        Biomes: hills, ruins  
+        Scientific Name: Columba livia
+
+%%% fauna/flyers/01_barred_owl.txt %%%
+
+NAME  
+    barred_owl - medium-sized nocturnal predator and environmental indicator in forested hills
+
+DESCRIPTION  
+    The barred owl is a nocturnal raptor found in mixed evergreen and deciduous forests,  
+    often in hilly terrain. It hunts small mammals, birds, and amphibians using silent flight and keen hearing.  
+    Its distinctive call serves as a natural environmental cue, indicating low human disturbance and healthy prey populations.
+
+    Barred owls roost during daylight in dense canopy and are highly territorial.  
+    They do not migrate and rely on stable habitat structure for nesting and hunting.
+
+USAGE  
+    Used as: indicator species for forest ecosystem health; occasional source of feathers and meat in survival scenarios  
+    Limitations: low yield; nocturnal behavior reduces hunting opportunities  
+    Preparation: trap with specialized methods or harvest after natural death; feathers useful for insulation or decoration
+
+ZONE PRESENCE  
+    Biomes: evergreen_forest, hills
+
+SCIENTIFIC NAME  
+    Strix varia
+
+%%% fauna/flyers/02_red_tailed_hawk.txt %%%
+
+NAME  
+    red_tailed_hawk - widespread raptor known for soaring flight and keen eyesight
+
+DESCRIPTION  
+    The red-tailed hawk is a medium-sized bird of prey common in open plains and badlands.  
+    It hunts small mammals, reptiles, and birds, using soaring flight to scan for prey from above.  
+    Its distinctive reddish tail is visible during flight and serves as a territorial signal.
+
+    Red-tailed hawks nest in tall trees or cliff ledges and are active mainly during daylight hours.  
+    They are adaptable to a range of habitats but prefer open terrain with scattered perches.
+
+USAGE  
+    Used as: environmental indicator of prey abundance; occasional source of feathers or small meat portions  
+    Limitations: low meat yield; active flight and wary nature make capture difficult  
+    Preparation: capture by netting or after natural death; feathers used for crafting or insulation
+
+ZONE PRESENCE  
+    Biomes: plains, badlands
+
+SCIENTIFIC NAME  
+    Buteo jamaicensis
+
+%%% fauna/flyers/03_greylag_goose.txt %%%
+
+NAME  
+    greylag_goose - large migratory waterfowl common in wetlands and meadow margins
+
+DESCRIPTION  
+    The greylag goose is a robust waterfowl species found in lakes, swamps, and meadow edges.  
+    It feeds on grasses, aquatic plants, and small invertebrates. Geese are social birds, often seen  
+    in flocks during migration and nesting seasons. Their loud calls serve as early warning signals  
+    for nearby threats.
+
+    Greylag geese nest on islands, reed beds, or isolated shorelines. They molt annually and are vulnerable  
+    during flightless periods. Meat is dense and fatty, suitable for survival rations.
+
+USAGE  
+    Used as: meat source, feather supply for insulation or crafting, natural alarm signal  
+    Limitations: seasonal availability; flighty and wary behavior complicate hunting  
+    Preparation: trap or hunt during molting or nesting; pluck feathers carefully; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: lake, meadow
+
+SCIENTIFIC NAME  
+    Anser anser
+
+%%% fauna/flyers/04_mottled_duck.txt %%%
+
+NAME  
+    mottled_duck - medium-sized waterfowl inhabiting swamps and lakes with dense vegetation
+
+DESCRIPTION  
+    The mottled duck is a freshwater duck commonly found in swampy and lake biomes with thick aquatic plants.  
+    It feeds on seeds, aquatic invertebrates, and plant matter. Mottled ducks are non-migratory and tend  
+    to remain within localized territories throughout the year.
+
+    They nest near water’s edge in concealed vegetation. Their camouflaged plumage offers protection  
+    against predators. Meat is moderate in quantity and considered palatable in survival contexts.
+
+USAGE  
+    Used as: supplemental meat source, feathers for insulation or crafting  
+    Limitations: limited yield per individual; wary and fast-moving  
+    Preparation: trap or shoot in concealed areas; pluck feathers for use; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: swamp, lake
+
+SCIENTIFIC NAME  
+    Anas fulvigula
+
+%%% fauna/flyers/05_barn_swallow.txt %%%
+
+NAME  
+    barn_swallow - small aerial insectivore common near open plains and water bodies
+
+DESCRIPTION  
+    The barn swallow is a small bird characterized by its slender body and deeply forked tail.  
+    It feeds on flying insects and is frequently found near plains, lakes, and open fields.  
+    Barn swallows build mud nests on sheltered structures or cliff faces, often near water sources.
+
+    Their rapid, acrobatic flight aids in catching prey mid-air. They migrate seasonally and are known  
+    for their distinctive twittering calls.
+
+USAGE  
+    Used as: minor meat source; feathers for small-scale crafting or insulation  
+    Limitations: very small size limits meat yield; fast flight reduces capture chances  
+    Preparation: trap at nesting sites or rest locations; pluck feathers carefully; cook thoroughly
+
+ZONE PRESENCE  
+    Biomes: plains, lake
+
+SCIENTIFIC NAME  
+    Hirundo rustica
+
+%%% fauna/flyers/06_black_billed_magpie.txt %%%
+
+NAME  
+    black_billed_magpie - medium-small omnivorous bird common in mixed and deciduous forests
+
+DESCRIPTION  
+    The black-billed magpie is a noisy, highly intelligent bird with a long tail and black-and-white plumage.  
+    It occupies forest edges, open woodlands, and mixed forest biomes. Magpies feed on insects, small mammals,  
+    carrion, and plant material. They are known to scavenge near human activity and natural carcasses.
+
+    Magpies are territorial and often form small groups. Their vocalizations are complex, serving as communication  
+    and alarm signals. Feathers are occasionally used for crafting or insulation.
+
+USAGE  
+    Used as: minor meat source, feathers for insulation or tool decoration  
+    Limitations: limited meat yield; wary and noisy behavior complicates stealth capture  
+    Preparation: trap or snare in wooded edges; pluck feathers; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: mixed_forest, deciduous_forest
+
+SCIENTIFIC NAME  
+    Pica hudsonia
+
+%%% fauna/flyers/07_crow.txt %%%
+
+NAME  
+    crow - medium-small omnivorous bird common in plains and swamp biomes
+
+DESCRIPTION  
+    The crow is a noisy, highly intelligent bird with black plumage and a strong beak.  
+    It occupies plains, swamp, and forest edge biomes. Crows feed on insects, small animals,  
+    carrion, and plant material. They often scavenge and interact with human activity remnants.
+
+    Crows are territorial and social, known for complex vocalizations and adaptive behavior.  
+    Feathers are occasionally used for insulation or decoration.
+
+USAGE  
+    Used as: minor meat source, feathers for insulation or tool decoration  
+    Limitations: limited meat yield; wary and vocal behavior complicates stealth capture  
+    Preparation: trap or snare in open or wooded areas; pluck feathers; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: plains, swamp
+
+SCIENTIFIC NAME  
+    Corvus brachyrhynchos
+
+%%% fauna/flyers/08_peregrine_falcon.txt %%%
+
+NAME  
+    peregrine_falcon - fast aerial predator found in badlands and glacier zones
+
+DESCRIPTION  
+    The peregrine falcon is a medium-sized raptor known for its incredible diving speed and hunting prowess.  
+    It preys primarily on medium-sized birds, capturing them in mid-air with swift strikes.  
+    Peregrines nest on cliffs and rocky outcrops, favoring open landscapes like badlands and glacier margins.
+
+    Their presence indicates healthy avian populations and open hunting grounds. Meat yield is minimal but feathers  
+    are valued for crafting.
+
+USAGE  
+    Used as: indicator of avian prey abundance, source of feathers for crafting  
+    Limitations: small meat yield; fast flight and wary nature reduce hunting success  
+    Preparation: trap at nesting sites or collect feathers post-mortem; cook any meat thoroughly if consumed
+
+ZONE PRESENCE  
+    Biomes: badlands, glacier
+
+SCIENTIFIC NAME  
+    Falco peregrinus
+
+%%% fauna/flyers/09_snowy_owl.txt %%%
+
+NAME  
+    snowy_owl - large cold-adapted raptor inhabiting tundra and ice shelf zones
+
+DESCRIPTION  
+    The snowy owl is a robust, white-feathered bird of prey adapted to arctic and subarctic environments.  
+    It hunts primarily small mammals and birds, relying on keen eyesight and silent flight.  
+    Snowy owls nest on ground level in tundra regions and are known for seasonal migratory patterns.
+
+    Their presence indicates stable cold environments with available prey. Feathers provide excellent insulation.
+
+USAGE  
+    Used as: source of feathers for insulation and limited meat in survival scenarios  
+    Limitations: low meat yield; migratory behavior affects availability  
+    Preparation: trap during non-migratory periods; pluck feathers carefully; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: tundra, ice_shelf
+
+SCIENTIFIC NAME  
+    Bubo scandiacus
+
+%%% fauna/flyers/10_rock_pigeon.txt %%%
+
+NAME  
+    rock_pigeon - small urban-adapted bird found in hills and ruins
+
+DESCRIPTION  
+    The rock pigeon is a compact bird commonly found in rocky outcrops, ruins, and hillsides.  
+    It feeds on seeds, grains, and small invertebrates. Pigeons are highly adaptable and often live near human structures.  
+    Their flocking behavior and abundance make them a reliable food source where available.
+
+    Meat yield is moderate for size, and feathers can be used for insulation or crafting.  
+    Capture is often by traps or snaring in roosting areas.
+
+USAGE  
+    Used as: source of meat, feathers for insulation or small tools  
+    Limitations: wary of human presence; moderate meat yield per individual  
+    Preparation: trap or snare near roosts; pluck feathers; cook thoroughly before consumption
+
+ZONE PRESENCE  
+    Biomes: hills, ruins
+
+SCIENTIFIC NAME  
+    Columba livia
+
+%%% fauna/grazers/00_grazers_index.txt %%%
+
+NAME  
+    grazers_index - non-predatory herbivorous fauna used for food, hide, or field tracking
+
+DESCRIPTION  
+    Grazers are herbivorous animals that feed on grasses, bark, aquatic plants, or ground flora.  
+    They do not pursue prey and are not inherently aggressive.  
+    Most are hunted for meat, hide, or field material, and are ranked by yield, behavior, and risk.
+
+    Movement is terrain-dependent. Some species migrate seasonally across multiple biomes.  
+    Others are solitary and territorial. Sound, track depth, and pellet morphology are used  
+    to confirm presence in low-visibility zones. Trapping, stalking, or cooperative pursuit  
+    are primary harvest methods. Entry files note weapon compatibility and dressing logic.
+
+    Species range from trap-compatible small mammals to large herd-yielding ruminants.  
+    Each exhibits real-world behavior and survival-relevant traits.  
+    No symbolic naming or invented physiology is used.
+
+INDEXED ENTRIES
+
+    snowshoe_hare  
+        Size: Small  
+        Biomes: meadow, mixed_forest  
+        Scientific Name: Lepus americanus
+
+    elk  
+        Size: Large  
+        Biomes: deciduous_forest, hills  
+        Scientific Name: Cervus canadensis
+
+    musk_ox  
+        Size: Large  
+        Biomes: tundra, frost_sink  
+        Scientific Name: Ovibos moschatus
+
+    roe_deer  
+        Size: Medium  
+        Biomes: meadow, plains, deciduous_forest  
+        Scientific Name: Capreolus capreolus
+
+    ptarmigan  
+        Size: Small  
+        Biomes: tundra, mixed_forest  
+        Scientific Name: Lagopus muta
+
+    beaver  
+        Size: Medium  
+        Biomes: lake, flood_hollow  
+        Scientific Name: Castor canadensis
+
+    woodchuck  
+        Size: Small  
+        Biomes: hills, meadow  
+        Scientific Name: Marmota monax
+
+    wild_goat  
+        Size: Medium  
+        Biomes: badlands, hills  
+        Scientific Name: Capra aegagrus
+
+    bison  
+        Size: Massive  
+        Biomes: plains  
+        Scientific Name: Bison bison
+
+    moose  
+        Size: Massive  
+        Biomes: swamp, evergreen_forest  
+        Scientific Name: Alces alces
+
+%%% fauna/grazers/01_snowshoe_hare.txt %%%
+
+NAME  
+    snowshoe_hare - small seasonal grazer used for meat, hide, and trap calibration
+
+DESCRIPTION  
+    Snowshoe hares are fast-moving, cold-adapted lagomorphs found in forest and meadow  
+    terrain. Their large hind feet distribute weight for traversal across snow, and their  
+    coat shifts from brown to white with season, aiding in camouflage. They are a primary  
+    small-game target and foundational to basic trap systems.
+
+    Snowshoe hares are solitary and crepuscular. They rest in shallow depressions and  
+    emerge to forage on twigs, bark, grasses, or low shoots. Movement is erratic under  
+    threat. Tracks are easily identified by rear-foot spread and bounding patterns.  
+    Yield is limited, but recovery is simple. Hide is thin but useful for cold-layer patching.
+
+USAGE  
+    Used as: field meat source, hide for insulation patches, trap calibration target  
+    Limitations: small size limits yield; fragile hide requires careful processing  
+    Preparation: trap or stalk; skin promptly; dry hide flat; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: meadow, mixed_forest
+
+SCIENTIFIC NAME  
+    Lepus americanus
+
+%%% fauna/grazers/02_elk.txt %%%
+
+NAME  
+    elk - large migratory herbivore valued for meat, hide, and antler use
+
+DESCRIPTION  
+    Elk are large, social cervids inhabiting deciduous forests and hilly terrain.  
+    They migrate seasonally, feeding on grasses, shrubs, and tree bark.  
+    Bulls grow distinctive antlers annually, which are shed after the rutting season.  
+    Elk are a primary source of large game meat and durable hide.
+
+    Their social structure includes herds led by dominant males during mating season.  
+    Tracks are deep and widely spaced, indicating large body mass.  
+    Elk can be wary and fast, requiring coordinated hunting or trapping strategies.
+
+USAGE  
+    Used as: primary meat source, durable hide for clothing and shelter, antler material for tools  
+    Limitations: high risk during pursuit; requires teamwork or trap use; antler collection seasonal  
+    Preparation: hunt or trap; field dress promptly; cure hide thoroughly; harvest antlers after shedding
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest, hills
+
+SCIENTIFIC NAME  
+    Cervus canadensis
+
+%%% fauna/grazers/03_musk_ox.txt %%%
+
+NAME  
+    musk_ox - large tundra grazer with thick insulating coat, adapted for cold environments
+
+DESCRIPTION  
+    Musk oxen are massive herbivores native to tundra and frost sink biomes.  
+    They possess a dense undercoat called qiviut, which provides exceptional insulation.  
+    Musk oxen graze on grasses, mosses, and lichens, often forming defensive circles  
+    against predators. Their horns are curved and robust, used in intraspecific combat.
+
+    Musk oxen are typically found in small herds and migrate seasonally within the valley.  
+    Their slow movement and heavy build make them vulnerable to coordinated hunting.  
+    Fur and hide are valuable for warmth, while meat is rich and substantial.
+
+USAGE  
+    Used as: high-calorie meat source, insulated hide for cold weather clothing, horn tools  
+    Limitations: difficult to approach due to herd defense; requires strong weapons or traps  
+    Preparation: coordinated hunt recommended; skin to preserve fur layers; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: tundra, frost_sink
+
+SCIENTIFIC NAME  
+    Ovibos moschatus
+
+%%% fauna/grazers/04_roe_deer.txt %%%
+
+NAME  
+    roe_deer - medium-sized, agile herbivore occupying meadows, plains, and deciduous forests
+
+DESCRIPTION  
+    Roe deer are small to medium-sized cervids found in open and mixed habitats.  
+    They browse on a variety of low-growing vegetation including grasses, leaves, and shoots.  
+    Known for their alertness and speed, roe deer are solitary or live in small groups.  
+    They produce shallow tracks and tend to avoid deep forest interiors.
+
+    Their hides are thinner and more delicate than larger cervids but are suitable for light clothing and coverings.  
+    Meat yield is moderate and requires careful butchering to maximize.
+
+USAGE  
+    Used as: source of lean meat, hide for light garment making, small bone tools  
+    Limitations: wary and elusive; smaller size limits total yield  
+    Preparation: stalk or trap; skin carefully to avoid hide damage; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: meadow, plains, deciduous_forest
+
+SCIENTIFIC NAME  
+    Capreolus capreolus
+
+%%% fauna/grazers/05_ptarmigan.txt %%%
+
+NAME  
+    ptarmigan - small ground bird adapted to tundra and mixed forest environments
+
+DESCRIPTION  
+    The ptarmigan is a compact bird with seasonal plumage that shifts from brown in summer to white in winter for camouflage.  
+    It feeds on buds, leaves, and insects, relying on low vegetation for cover. Ptarmigans are mostly ground-dwelling and display short flights to evade predators.
+
+    Their presence indicates healthy tundra or mixed forest edge ecosystems.  
+    Meat yield is small but valuable as a protein source during scarce seasons.
+
+USAGE  
+    Used as: small game meat, feathers for insulation or small craft uses  
+    Limitations: limited meat yield; seasonal plumage requires attention during hunting  
+    Preparation: trap or hunt; pluck feathers carefully; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: tundra, mixed_forest
+
+SCIENTIFIC NAME  
+    Lagopus muta
+
+%%% fauna/grazers/06_beaver.txt %%%
+
+NAME  
+    beaver - medium-sized semi-aquatic rodent known for dam-building and fur
+
+DESCRIPTION  
+    Beavers inhabit lakes, rivers, and flood hollows, constructing dams and lodges from wood and mud.  
+    They feed on bark, aquatic plants, and tree shoots. Beavers have large incisors adapted for felling trees, which influence local ecology significantly.
+
+    Their dense, waterproof fur is highly valued for insulation, and their meat provides a moderate protein source.  
+    Beavers are primarily nocturnal and cautious around human activity.
+
+USAGE  
+    Used as: source of insulating fur, moderate meat supply, ecological engineer indicators  
+    Limitations: requires trapping knowledge; nocturnal habits reduce daytime availability  
+    Preparation: trap near water activity; skin carefully to preserve fur; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: lake, flood_hollow
+
+SCIENTIFIC NAME  
+    Castor canadensis
+
+%%% fauna/grazers/07_woodchuck.txt %%%
+
+NAME  
+    woodchuck - small burrowing rodent found in hills and meadow biomes
+
+DESCRIPTION  
+    Woodchucks, also known as groundhogs, inhabit open fields, hills, and meadows.  
+    They feed on grasses, herbs, and crops. Known for extensive burrow systems used  
+    for shelter and breeding.
+
+    Their meat is edible and a protein source in survival. Active during daylight.  
+    Capture via baited snares or pit traps.
+
+USAGE  
+    Used as: small game meat, trap target for protein  
+    Limitations: small yield; wary behavior demands stealth or traps  
+    Preparation: trap near burrows; skin and gut promptly; cook thoroughly
+
+ZONE PRESENCE  
+    Biomes: hills, meadow
+
+SCIENTIFIC NAME  
+    Marmota monax
+
+%%% fauna/grazers/08_wild_goat.txt %%%
+
+NAME  
+    wild_goat - medium-sized herbivore inhabiting badlands and hills, valued for meat and hide
+
+DESCRIPTION  
+    Wild goats are agile, sure-footed herbivores found on rocky slopes and badlands.  
+    They feed on shrubs, grasses, and lichens. Known for climbing ability and territoriality,  
+    goats form small herds led by dominant males.
+
+    Meat is lean and moderate in quantity. Hides are durable and used for clothing or shelter.  
+    Hunting requires patience due to their agility and cautious nature.
+
+USAGE  
+    Used as: meat source, durable hide for clothing and shelter  
+    Limitations: wary and agile; terrain makes hunting difficult  
+    Preparation: stalk or trap; skin carefully; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: badlands, hills
+
+SCIENTIFIC NAME  
+    Capra aegagrus
+
+%%% fauna/grazers/09_bison.txt %%%
+
+NAME  
+    bison - massive grazing mammal inhabiting plains, a high-yield source of meat and hide
+
+DESCRIPTION  
+    Bison are large, herd-forming mammals occupying open plains.  
+    They graze primarily on grasses and sedges. Their thick hides provide  
+    protection from predators and harsh weather, making them a critical resource.
+
+    Bison herds are migratory with seasonal movements tied to forage availability.  
+    Hunting requires coordinated effort due to their size and strength.
+
+USAGE  
+    Used as: primary meat source, thick hide for shelter and clothing  
+    Limitations: dangerous to approach; requires teamwork or traps  
+    Preparation: hunt with coordinated effort; field dress promptly; cure hides carefully
+
+ZONE PRESENCE  
+    Biomes: plains
+
+SCIENTIFIC NAME  
+    Bison bison
+
+%%% fauna/grazers/10_moose.txt %%%
+
+NAME  
+    moose - massive cold-adapted herbivore found in swamps and evergreen forests
+
+DESCRIPTION  
+    Moose are large solitary herbivores inhabiting swampy and forested areas.  
+    They feed on aquatic vegetation, shrubs, and young trees. Their large antlers  
+    are shed annually and are used for defense and display during mating season.
+
+    Moose have thick fur and a high fat content, aiding survival in cold climates.  
+    They are generally solitary except during breeding season and can be dangerous if provoked.
+
+USAGE  
+    Used as: substantial meat source, insulating hide, antler material for tools  
+    Limitations: large size requires significant effort to hunt; aggressive when threatened  
+    Preparation: hunt with caution; field dress quickly; process hide and antlers for use
+
+ZONE PRESENCE  
+    Biomes: swamp, evergreen_forest
+
+SCIENTIFIC NAME  
+    Alces alces
+
+%%% fauna/megafauna/00_megafauna_index.txt %%%
+
+NAME  
+    megafauna_index - rare solitary organisms of extreme scale and ecological dominance
+
+DESCRIPTION  
+    Megafauna are biologically extreme, cold-adapted organisms surviving in isolated zones  
+    across the sealed valley. They exhibit solitary behavior, fixed territorial range, and  
+    metabolic resilience to frozen terrain or geothermal transition bands.
+
+    All species are grounded in Ice Age fossil record or derived from extant genera scaled  
+    to plausible upper limits. Each is biologically self-consistent. No fantasy traits,  
+    symbolic naming, or speculative hybrids are used.
+
+    These organisms are always classified as Gigantic. Encounters are rare and dangerous.  
+    Each entry specifies known biomes and behavior patterns. Hunting is not advised.
+
+INDEXED ENTRIES
+
+    woolly_mammoth  
+        Size: Gigantic  
+        Biomes: tundra, frost_sink, glacier  
+        Scientific Name: Mammuthus primigenius
+
+    cave_bear  
+        Size: Gigantic  
+        Biomes: hills, evergreen_forest  
+        Scientific Name: Ursus spelaeus
+
+    woolly_rhinoceros  
+        Size: Gigantic  
+        Biomes: tundra, frost_sink  
+        Scientific Name: Coelodonta antiquitatis
+
+    dire_wolf  
+        Size: Gigantic  
+        Biomes: mixed_forest, plains  
+        Scientific Name: Aenocyon dirus
+
+    saber_tooth_tiger  
+        Size: Gigantic  
+        Biomes: badlands, swamp  
+        Scientific Name: Smilodon fatalis
+
+    short_faced_bear  
+        Size: Gigantic  
+        Biomes: mixed_forest, hills  
+        Scientific Name: Arctodus simus
+
+    cave_lion  
+        Size: Gigantic  
+        Biomes: tundra, mixed_forest  
+        Scientific Name: Panthera spelaea
+
+    steppe_bison  
+        Size: Gigantic  
+        Biomes: plains, meadow  
+        Scientific Name: Bison priscus
+
+    dinornis  
+        Size: Gigantic  
+        Biomes: swamp, flood_hollow  
+        Scientific Name: Dinornis novaezealandiae
+
+    varanus_priscu  
+        Size: Gigantic  
+        Biomes: swamp, flood_hollow  
+        Scientific Name: Varanus priscu
+
+%%% fauna/megafauna/01_woolly_mammoth.txt %%%
+
+NAME  
+    woolly_mammoth - colossal Ice Age herbivore adapted to tundra and frost sink biomes
+
+DESCRIPTION  
+    The woolly mammoth is a massive, shaggy-coated proboscidean with thick fur and long, curved tusks.  
+    It grazes on grasses, shrubs, and low trees in cold tundra environments.  
+    Mammoths migrate seasonally following forage availability and sheltering in geothermal transition zones.
+
+    Their enormous size provides resilience against predators and environmental extremes.  
+    Mammoth remains yield substantial meat, bone, and hide, but hunting is dangerous and requires planning.
+
+USAGE  
+    Used as: critical source of bulk meat, durable hide, bone tools, and fuel from fat reserves  
+    Limitations: solitary behavior and size make hunting hazardous; requires coordinated effort  
+    Preparation: hunt with large-scale traps; field dress and process with heavy tools; preserve hides in cold conditions
+
+ZONE PRESENCE  
+    Biomes: tundra, frost_sink, glacier
+
+SCIENTIFIC NAME  
+    Mammuthus primigenius
+
+
+%%% fauna/megafauna/02_cave_bear.txt %%%
+
+NAME  
+    cave_bear - massive Pleistocene ursid inhabiting hills and evergreen forests
+
+DESCRIPTION  
+    The cave bear is a large, solitary bear species adapted to cold forested and hilly regions.  
+    It primarily forages on vegetation but may opportunistically scavenge.  
+    Cave bears hibernate in caves or rocky shelters during long winters.
+
+    Their thick fur and robust build provide insulation and strength in harsh climates.  
+    Cave bear hides offer durable material for clothing and shelter.  
+    Hunting is risky due to their size and defensive behavior.
+
+USAGE  
+    Used as: source of heavy meat, insulating hide, and bone for tools or weapons  
+    Limitations: dangerous to approach; requires strong weapons and tactics  
+    Preparation: stalk cautiously; use coordinated hunting; fully process carcass for maximum yield
+
+ZONE PRESENCE  
+    Biomes: hills, evergreen_forest
+
+SCIENTIFIC NAME  
+    Ursus spelaeus
+
+%%% fauna/megafauna/03_woolly_rhinoceros.txt %%%
+
+NAME  
+    woolly_rhinoceros - large Ice Age herbivore adapted to tundra and frost sink zones
+
+DESCRIPTION  
+    The woolly rhinoceros is a heavily built mammal covered with thick fur and equipped with two prominent horns.  
+    It grazes on grasses and shrubs within cold tundra environments.  
+    Adapted to harsh climates with a dense undercoat and powerful limbs for traversing snow.
+
+    Usually solitary and territorial. Provides substantial meat and durable hide.  
+    Hunting requires careful planning due to its aggressive defense mechanisms.
+
+USAGE  
+    Used as: source of meat, insulating hide, and horn material for tools  
+    Limitations: aggressive behavior; dangerous to hunt  
+    Preparation: hunt with caution; field dress immediately; cure hides properly for preservation
+
+ZONE PRESENCE  
+    Biomes: tundra, frost_sink
+
+SCIENTIFIC NAME  
+    Coelodonta antiquitatis
+
+%%% fauna/megafauna/04_dire_wolf.txt %%%
+
+NAME  
+    dire_wolf - large Pleistocene predator inhabiting mixed forests and plains
+
+DESCRIPTION  
+    The dire wolf is a formidable carnivore larger than modern wolves, adapted to hunting in open and wooded areas.  
+    It preys on large herbivores using pack tactics and strong jaws.  
+    Dire wolves maintain territories and display both solitary and pack behaviors.
+
+    Their remains provide meat and bone resources but hunting live specimens is highly dangerous.  
+    Coordinated hunting strategies are necessary for survival.
+
+USAGE  
+    Used as: source of meat and bone material for tools  
+    Limitations: highly dangerous; pack behavior complicates hunting  
+    Preparation: avoid direct confrontation; use traps and cooperative hunting; fully process carcass
+
+ZONE PRESENCE  
+    Biomes: mixed_forest, plains
+
+SCIENTIFIC NAME  
+    Aenocyon dirus
+
+%%% fauna/megafauna/05_saber_tooth_tiger.txt %%%
+
+NAME  
+    saber_tooth_tiger - formidable Ice Age predator inhabiting badlands and swamp biomes
+
+DESCRIPTION  
+    The saber tooth tiger, characterized by elongated canine teeth, is a large carnivore  
+    adapted to hunting in diverse terrains including badlands and swampy regions.  
+    It relies on ambush tactics and powerful forelimbs to subdue prey, primarily large herbivores.
+
+    This species is solitary or hunts in small family groups.  
+    Encounters are extremely dangerous due to its strength and lethal weaponry.
+
+USAGE  
+    Used as: source of meat, hide, and bone for survival tools  
+    Limitations: highly aggressive and territorial; hunting requires extreme caution  
+    Preparation: avoid live confrontation; utilize traps or ambush strategies; process carefully post-harvest
+
+ZONE PRESENCE  
+    Biomes: badlands, swamp
+
+SCIENTIFIC NAME  
+    Smilodon fatalis
+
+%%% fauna/megafauna/06_short_faced_bear.txt %%%
+
+NAME  
+    short_faced_bear - enormous Pleistocene carnivore inhabiting mixed forests and hills
+
+DESCRIPTION  
+    The short-faced bear is a massive bear species known for its size and power.  
+    It was an apex predator and scavenger capable of taking down large prey or dominating carcasses.  
+    Adapted to cold forested and hilly terrain, it had long limbs suited for fast pursuit.
+
+    Solitary and highly territorial, it posed a significant threat to humans and other animals alike.  
+    Its thick fur and muscle mass aided survival in harsh conditions.
+
+USAGE  
+    Used as: source of large meat quantities, thick hide for insulation, and bone for heavy tools  
+    Limitations: extremely dangerous; requires coordinated hunting and strong weapons  
+    Preparation: hunt with caution and strategy; field dress thoroughly; preserve materials properly
+
+ZONE PRESENCE  
+    Biomes: mixed_forest, hills
+
+SCIENTIFIC NAME  
+    Arctodus simus
+
+%%% fauna/megafauna/07_cave_lion.txt %%%
+
+NAME  
+    cave_lion - large Pleistocene predator occupying tundra and mixed forest biomes
+
+DESCRIPTION  
+    The cave lion is a powerful big cat adapted to cold environments.  
+    It hunts large herbivores using stealth and strength.  
+    Typically solitary or in small family groups, it dominates its territory with fierce aggression.
+
+    Cave lions rely on dense cover and ambush tactics.  
+    Their pelts provide insulation and protection, while meat is a valuable resource.
+
+USAGE  
+    Used as: source of meat, insulating hide, and bone for tools  
+    Limitations: dangerous and aggressive; requires careful hunting methods  
+    Preparation: stalk with caution; use traps or coordinated hunts; process fully after harvest
+
+ZONE PRESENCE  
+    Biomes: tundra, mixed_forest
+
+SCIENTIFIC NAME  
+    Panthera spelaea
+
+%%% fauna/megafauna/08_steppe_bison.txt %%%
+
+NAME  
+    steppe_bison - large herbivore of plains and meadow biomes, known for herd behavior
+
+DESCRIPTION  
+    The steppe bison is a massive grazing mammal forming large herds across open plains and meadows.  
+    It feeds on grasses and sedges, migrating seasonally to optimize forage access.  
+    Known for their defensive herding tactics and powerful horns used against predators.
+
+    Bison provide substantial meat and hide yields. Hunting requires coordination due to herd size and strength.
+
+USAGE  
+    Used as: primary meat source, durable hide for shelter and clothing  
+    Limitations: aggressive when threatened; requires coordinated hunts  
+    Preparation: employ group hunting strategies; field dress quickly; cure hides for preservation
+
+ZONE PRESENCE  
+    Biomes: plains, meadow
+
+SCIENTIFIC NAME  
+    Bison priscus
+
+%%% fauna/megafauna/09_dinornis.txt %%%
+
+dinornis
+%%% fauna/megafauna/10_varanus_priscu.txt %%%
+
+NAME  
+    varanus_priscu - large cold-adapted monitor lizard inhabiting swamp and flood hollow biomes
+
+DESCRIPTION  
+    Varanus priscu is an extinct giant monitor lizard species adapted to cold freshwater wetlands.  
+    It exhibits semi-aquatic behavior, hunting fish, amphibians, and small mammals.  
+    The species has thick, scaly skin and a powerful muscular build suited for ambush predation.
+
+    It favors geothermal areas within swamp and flood hollow zones to maintain body temperature.  
+    Its formidable size and aggressive hunting make it a top predator in its niche.
+
+USAGE  
+    Used as: source of large meat yield, durable hide for crafting, and bone for tools  
+    Limitations: aquatic habitat complicates hunting; aggressive and territorial behavior  
+    Preparation: trap near water; use caution during approach; skin and process with care
+
+ZONE PRESENCE  
+    Biomes: swamp, flood_hollow
+
+SCIENTIFIC NAME  
+    Varanus priscu
+
+%%% fauna/predators/00_predators_index.txt %%%
+
+NAME  
+    predators_index - active hunting fauna that stalk, ambush, or pursue prey
+
+DESCRIPTION  
+    Predators are carnivorous or omnivorous organisms that pursue live prey.  
+    They exhibit territorial, solitary, or pack-based hunting behavior depending on species and biome.  
+    Most represent direct threats to field survival and must be tracked or avoided.
+
+    Presence is often indicated by silence among signal species, spoor, scent marks, or cached kills.  
+    Encounters are typically non-recoverable without preparation or terrain advantage.  
+    Some species can be baited, avoided, or forced into retreat; others will engage without hesitation.
+
+    Predators are not hunted for resource yield in standard scenarios.  
+    Engagement is discouraged unless driven by starvation, injury, or environmental constraint.  
+    Entry files specify aggression logic, biome coverage, and avoidance protocols.
+
+INDEXED ENTRIES
+
+    gray_wolf  
+        Size: Medium  
+        Biomes: mixed_forest, plains  
+        Scientific Name: Canis lupus
+
+    lynx  
+        Size: Medium  
+        Biomes: evergreen_forest, glacier  
+        Scientific Name: Lynx lynx
+
+    red_fox  
+        Size: Small  
+        Biomes: meadow, hills  
+        Scientific Name: Vulpes vulpes
+
+    wolverine  
+        Size: Small  
+        Biomes: frost_sink, evergreen_forest  
+        Scientific Name: Gulo gulo
+
+    cougar  
+        Size: Large  
+        Biomes: hills, badlands  
+        Scientific Name: Puma concolor
+
+    polar_bear  
+        Size: Massive  
+        Biomes: ice_shelf, glacier  
+        Scientific Name: Ursus maritimus
+
+    golden_eagle  
+        Size: Medium  
+        Biomes: badlands, plains  
+        Scientific Name: Aquila chrysaetos
+
+    brown_bear  
+        Size: Massive  
+        Biomes: deciduous_forest, swamp  
+        Scientific Name: Ursus arctos
+
+    coyote  
+        Size: Medium  
+        Biomes: plains, mixed_forest  
+        Scientific Name: Canis latrans
+
+    stoat  
+        Size: Tiny  
+        Biomes: tundra, meadow  
+        Scientific Name: Mustela erminea
+
+%%% fauna/predators/01_gray_wolf.txt %%%
+
+NAME  
+    gray_wolf - territorial pack predator common to forests and plains
+
+DESCRIPTION  
+    The gray wolf is a social carnivore known for coordinated hunting and strong territorial patterns.  
+    It preys on deer, smaller grazers, and carrion, often using pack movement to corner or exhaust targets.  
+    Wolves communicate through scent, posture, and vocalization. Lone individuals may scavenge or test weaker prey.
+
+    Signs of presence include clustered spoor, territorial marking, and sudden quiet among signals.  
+    While direct confrontation is risky, wolves may be trapped, tracked, or baited if necessary.  
+    Their pelts offer high insulation value and are commonly taken in winter months.
+
+USAGE  
+    Used as: source of warm pelt, bone for tools, and occasional meat in constrained conditions  
+    Limitations: dangerous in packs; requires trapline familiarity or elevated terrain advantage  
+    Preparation: skin carefully to preserve fur; dry thoroughly; bones may be split or shaped
+
+ZONE PRESENCE  
+    Biomes: mixed_forest, plains
+
+SIZE  
+    Medium
+
+SCIENTIFIC NAME  
+    Canis lupus
+
+%%% fauna/predators/02_lynx.txt %%%
+
+NAME  
+    lynx - solitary forest ambush predator adapted to cold terrain
+
+DESCRIPTION  
+    The lynx is a medium-sized feline with powerful legs, tufted ears, and thick insulating fur.  
+    It hunts by stealth and sudden ambush, preying on hares, birds, and small grazers.  
+    Prefers dense cover, rocky outcrops, and glacial fringe zones where it can move silently and unseen.
+
+    Lynx are solitary and elusive, rarely vocal unless challenged.  
+    Tracks are rounded and widely spaced, often found near prey corridors or stone breaks.  
+    Its pelt is among the most valued for warmth due to density and weather resistance.
+
+USAGE  
+    Used as: high-value winter pelt, soft sinew cordage, and bone implements  
+    Limitations: extremely elusive; hunting requires tracking skill and silence  
+    Preparation: skin carefully to preserve ear and tail features; flesh and stretch hide with minimal exposure
+
+ZONE PRESENCE  
+    Biomes: evergreen_forest, glacier
+
+SIZE  
+    Medium
+
+SCIENTIFIC NAME  
+    Lynx lynx
+
+%%% fauna/predators/03_red_fox.txt %%%
+
+NAME  
+    red_fox - agile small predator occupying meadow and hill zones
+
+DESCRIPTION  
+    The red fox is a quick, sharp-sensed omnivore that preys on rodents, birds, and insects.  
+    It scavenges opportunistically and adapts well to variable conditions, including exposed slopes and meadow margins.  
+    Known for silent movement and territorial marking, it often caches food and avoids direct conflict.
+
+    Foxes are active during twilight hours and rarely stay in one place.  
+    Tracks are narrow and direct. Dens may be found in rock hollows or under dense brush.  
+    Pelts are light but insulating, valued for trim or inner lining.
+
+USAGE  
+    Used as: pelt for layered clothing, sinew for fine wrap, and bait in trapcraft  
+    Limitations: not aggressive; must be snared or stalked with patience  
+    Preparation: skin with care to preserve tail and neck ridge; dry quickly in cold shade
+
+ZONE PRESENCE  
+    Biomes: meadow, hills
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Vulpes vulpes
+
+%%% fauna/predators/04_wolverine.txt %%%
+
+NAME  
+    wolverine - aggressive small predator adapted to frozen highlands and evergreen forests
+
+DESCRIPTION  
+    The wolverine is a muscular, wide-ranging scavenger and predator.  
+    Despite its small size, it exhibits intense aggression and can displace larger animals from kills.  
+    It preys on weakened grazers, scavenges carcasses, and raids caches using strength and tenacity.
+
+    Tracks are heavy for its size and often follow ridge lines or snow drift edges.  
+    Dens are dug into tree roots or rock piles. Its pelt is extremely resistant to frost and moisture.
+
+USAGE  
+    Used as: high-performance pelt for outerwear trim or mitts, teeth for charms or bindings  
+    Limitations: highly aggressive when cornered; not trap-reliable; best hunted by bait concealment  
+    Preparation: skin with reinforced gloves; dry and stretch pelt carefully to retain texture
+
+ZONE PRESENCE  
+    Biomes: frost_sink, evergreen_forest
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Gulo gulo
+
+%%% fauna/predators/05_cougar.txt %%%
+
+NAME  
+    cougar - solitary stalk predator ranging across hills and badlands
+
+DESCRIPTION  
+    The cougar is a large, muscular feline adapted to rugged and open terrain.  
+    It hunts by stealth, using elevation and cover to approach prey silently before pouncing with force.  
+    Targets include medium-sized grazers and ground birds. Cougars are reclusive and difficult to track directly.
+
+    Signs of presence include kill remains cached under debris, scratch marks on rock, and scat at trail edges.  
+    Prefers ledges, overhangs, and wind-shadowed paths for movement.
+
+USAGE  
+    Used as: flexible pelt for midweight gear, claws and teeth for binding tools  
+    Limitations: ambush risk in rough terrain; responds violently if surprised  
+    Preparation: skin with long cuts along limbs; flesh carefully; dry under cover to retain flexibility
+
+ZONE PRESENCE  
+    Biomes: hills, badlands
+
+SIZE  
+    Large
+
+SCIENTIFIC NAME  
+    Puma concolor
+
+%%% fauna/predators/06_polar_bear.txt %%%
+
+NAME  
+    polar_bear - massive arctic predator dominating ice shelf and glacial margins
+
+DESCRIPTION  
+    The polar bear is a solitary apex predator adapted to extreme cold and aquatic foraging.  
+    It hunts seals, scavenges carcasses, and stalks across ice sheets and snowfields.  
+    Its white coat and silent tread make it difficult to detect in open terrain.
+
+    Encounters are rare but deadly. Polar bears do not fear humans and may pursue across long distances.  
+    Their hides are thick, oil-rich, and resistant to wind and moisture. Flesh and fat provide emergency sustenance.
+
+USAGE  
+    Used as: extreme-weather pelt, bone for heavy tools, fat for fuel or sealant  
+    Limitations: immense danger in open terrain; cannot be trapped reliably; must be baited or led into deadfall  
+    Preparation: skin carefully to preserve hide integrity; fat must be rendered quickly to avoid spoilage
+
+ZONE PRESENCE  
+    Biomes: ice_shelf, glacier
+
+SIZE  
+    Massive
+
+SCIENTIFIC NAME  
+    Ursus maritimus
+
+%%% fauna/predators/07_golden_eagle.txt %%%
+
+NAME  
+    golden_eagle - territorial raptor soaring over plains and badlands
+
+DESCRIPTION  
+    The golden eagle is a large bird of prey that hunts small mammals and birds from altitude.  
+    It uses thermals and high ridgelines to glide silently and strike with precision.  
+    Nests are built on cliff edges or tall crags, reused over seasons and fiercely defended.
+
+    Sightings are rare at ground level unless feeding or resting.  
+    Feathers are long and aerodynamic, suitable for fletching. Bones are light and durable.
+
+USAGE  
+    Used as: feather source for arrows and signal vanes; talons and bone in light toolwork  
+    Limitations: not hunted directly; specimens taken only from natural deaths or nest falls  
+    Preparation: collect feathers carefully; bones must be dried slowly to prevent cracking
+
+ZONE PRESENCE  
+    Biomes: badlands, plains
+
+SIZE  
+    Medium
+
+SCIENTIFIC NAME  
+    Aquila chrysaetos
+
+%%% fauna/predators/08_brown_bear.txt %%%
+
+NAME  
+    brown_bear - massive omnivore occupying forested lowlands and wet terrain
+
+DESCRIPTION  
+    The brown bear is a powerful solitary forager with wide dietary flexibility.  
+    It feeds on roots, fish, carrion, and occasionally smaller grazers.  
+    It navigates dense vegetation and swamp channels with surprising speed.
+
+    Tracks are broad with visible claw impressions.  
+    Dens are dug into soil banks or found beneath fallen timber.  
+    Aggression is seasonal and territory-driven. Encounter avoidance is preferred.
+
+USAGE  
+    Used as: dense hide for outerwear, fat for fuel or sealing, and bone for durable implements  
+    Limitations: highly dangerous when startled or near food; not trap-compatible  
+    Preparation: harvest from distance or bait into snare corridor; dry hide slowly to avoid rot
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest, swamp
+
+SIZE  
+    Massive
+
+SCIENTIFIC NAME  
+    Ursus arctos
+
+%%% fauna/predators/09_coyote.txt %%%
+
+NAME  
+    coyote - opportunistic predator and scavenger active across open and forested zones
+
+DESCRIPTION  
+    The coyote is a medium-sized carnivore known for its adaptability and varied diet.  
+    It hunts rodents, birds, and small ungulates, and scavenges readily from kills or camps.  
+    Coyotes often operate alone or in loose pairs, howling to signal territory or coordinate.
+
+    Tracks are narrow and straight. Active during twilight and night hours.  
+    Their alertness and erratic behavior make trapping unreliable without bait or distraction.
+
+USAGE  
+    Used as: light pelt for inner linings, bone for small implements, sinew for cordage  
+    Limitations: wary and evasive; best taken at bait points or from elevated blind  
+    Preparation: skin carefully to retain tail and flank; dry quickly in shaded airflow
+
+ZONE PRESENCE  
+    Biomes: plains, mixed_forest
+
+SIZE  
+    Medium
+
+SCIENTIFIC NAME  
+    Canis latrans
+
+%%% fauna/predators/10_stoat.txt %%%
+
+NAME  
+    stoat - agile cold-adapted hunter of rodents and small birds
+
+DESCRIPTION  
+    The stoat is a tiny, fast-moving mustelid active across tundra and meadow terrain.  
+    It preys on voles, eggs, and nesting birds, using burrows, snow tunnels, and rock gaps for cover.  
+    In cold seasons, its fur shifts to pure white, making it difficult to detect in snow-covered ground.
+
+    Stoats are solitary and highly territorial.  
+    Their pelts are prized for trim and fine insulation, especially during winter molt.  
+    Tracks are small and bounding, often found near field edge or stream burrows.
+
+USAGE  
+    Used as: fine pelt for glove or hood lining, light bone tools, and charm materials  
+    Limitations: small yield; requires specific traps or winter tracking skill  
+    Preparation: skin with curved blade; dry stretched flat; preserve fur density during storage
+
+ZONE PRESENCE  
+    Biomes: tundra, meadow
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Mustela erminea
+
+%%% fauna/scavengers/00_scavengers_index.txt %%%
+
+NAME  
+    scavengers_index - opportunistic fauna that feed on carrion, waste, or field residue
+
+DESCRIPTION  
+    Scavengers are non-predatory organisms that consume decaying material, discarded remains,  
+    or abandoned field kill. Most avoid conflict and operate on the margins of active zones.  
+    Their presence often signals recent death, biome stress, or predatory activity.
+
+    Scavengers are typically nocturnal or crepuscular. Tracks may be shallow, inconsistent,  
+    or overlaid with prey prints. Behavioral patterns include delayed approach,  
+    object interference, or trap theft. Visibility is low; audio signals may be masked.
+
+    These species are rarely hunted. Value lies in observation, bait control, and environmental read.  
+    Entry files document interaction logic, yield (if applicable), and terrain disruption risk.
+
+INDEXED ENTRIES
+
+    raven  
+        Size: Medium  
+        Biomes: badlands, deciduous_forest  
+        Scientific Name: Corvus corax
+
+    raccoon  
+        Size: Small  
+        Biomes: swamp, lake  
+        Scientific Name: Procyon lotor
+
+    skunk  
+        Size: Small  
+        Biomes: meadow, mixed_forest  
+        Scientific Name: Mephitis mephitis
+
+    striped_hyena  
+        Size: Medium  
+        Biomes: volcanic_slope, badlands  
+        Scientific Name: Hyaena hyaena
+
+    vulture  
+        Size: Medium  
+        Biomes: ash_field, wet_slope  
+        Scientific Name: Gyps fulvus
+
+    badger  
+        Size: Small  
+        Biomes: plains, hills  
+        Scientific Name: Taxidea taxus
+
+    weasel  
+        Size: Tiny  
+        Biomes: meadow, plains  
+        Scientific Name: Mustela nivalis
+
+    crow  
+        Size: Small  
+        Biomes: plains, flood_hollow  
+        Scientific Name: Corvus brachyrhynchos
+
+    opossum  
+        Size: Small  
+        Biomes: deciduous_forest  
+        Scientific Name: Didelphis virginiana
+
+    carrion_beetle  
+        Size: Tiny  
+        Biomes: swamp, frost_sink  
+        Scientific Name: Nicrophorus vespilloides
+
+%%% fauna/scavengers/01_raven.txt %%%
+
+NAME  
+    raven - intelligent scavenger associated with carrion and human detritus
+
+DESCRIPTION  
+    The raven is a large, black-feathered corvid known for problem-solving and memory.  
+    It frequents disturbed terrain and kill sites, often appearing shortly after predator departure.  
+    Ravens scavenge flesh, bone fragments, and bait remnants. They also cache food in tree hollows or debris.
+
+    Their calls may signal carcass location or shift in predator activity.  
+    Ravens travel in pairs or small groups and may follow humans discreetly.  
+    Recognized by sharp croaks, wide wing span, and soaring spiral movement.
+
+USAGE  
+    Used as: indicator species for fresh kills or predatory zones; feathers for fletching  
+    Limitations: not typically hunted; wary and aerial; may steal from unguarded traps  
+    Preparation: collect dropped feathers; if downed, skin immediately to preserve wing structure
+
+ZONE PRESENCE  
+    Biomes: badlands, deciduous_forest
+
+SIZE  
+    Medium
+
+SCIENTIFIC NAME  
+    Corvus corax
+
+%%% fauna/scavengers/02_raccoon.txt %%%
+
+NAME  
+    raccoon - dexterous forager active along swamp and lake margins
+
+DESCRIPTION  
+    The raccoon is a nocturnal scavenger recognized by its nimble forepaws and masked face.  
+    It feeds on carrion, shellfish, insects, and discarded waste near waterlines.  
+    Frequently disrupts traps, caches, and bait stations during night foraging.
+
+    Tracks show five-fingered prints and shallow gait trails.  
+    Common signs include overturned stones, scattered refuse, or claw marks on bark near water.  
+    Dens are established in tree hollows, burrows, or reed beds.
+
+USAGE  
+    Used as: pelt for trim or small garments; bone for fine tools; bait detection proxy  
+    Limitations: destructive to unattended gear; must be trapped carefully with protected trigger zones  
+    Preparation: skin cautiously to preserve hands and tail; air-dry in shade to retain fur
+
+ZONE PRESENCE  
+    Biomes: swamp, lake
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Procyon lotor
+
+%%% fauna/scavengers/03_skunk.txt %%%
+
+NAME  
+    skunk - scent-defensive scavenger active in forest margins and meadow zones
+
+DESCRIPTION  
+    The skunk is a small, slow-moving omnivore recognized by its bold stripe and potent chemical defense.  
+    It feeds on carrion, insects, eggs, and spoiled forage.  
+    Mostly nocturnal, it investigates open dens, overturned traps, and decaying matter in low-traffic areas.
+
+    Tracks are narrow with arched claws. Presence often betrayed by odor trace before visual contact.  
+    Dens are shallow burrows or sheltered under roots and debris.  
+    Rarely aggressive unless startled or confined.
+
+USAGE  
+    Used as: pelt with care (only when unsprayed); warning species; trap disruption signal  
+    Limitations: strong defensive spray contaminates materials; must be killed instantly to preserve skin  
+    Preparation: avoid bladder rupture; skin with rear isolation; cure hide outdoors with air circulation
+
+ZONE PRESENCE  
+    Biomes: meadow, mixed_forest
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Mephitis mephitis
+
+%%% fauna/scavengers/04_striped_hyena.txt %%%
+
+NAME  
+    striped_hyena - nocturnal bone-scavenger active along volcanic margins and badland slopes
+
+DESCRIPTION  
+    The striped hyena is a medium-sized scavenger with powerful jaws and a coarse, bristled mane.  
+    It feeds primarily on sinew, cartilage, and marrow from long-abandoned kills.  
+    Prefers isolation, often trailing predators to access remains once danger has passed.
+
+    Tracks are broad with visible claw impressions and a loping rear-weighted gait.  
+    Dens are shallow burrows or crevices in ash deposits and eroded rock.  
+    Activity is marked by scattered bone fragments, dragged remains, and suppressed field noise.
+
+USAGE  
+    Used as: environmental indicator for stale kills or carrion zones; hide usable if cleaned thoroughly  
+    Limitations: difficult to approach without alert; poor yield unless skinned immediately  
+    Preparation: avoid spooking into spray-marking; clean hide aggressively; bones may be salvageable
+
+ZONE PRESENCE  
+    Biomes: volcanic_slope, badlands
+
+SIZE  
+    Medium
+
+SCIENTIFIC NAME  
+    Hyaena hyaena
+
+%%% fauna/scavengers/05_vulture.txt %%%
+
+NAME  
+    vulture - thermal-gliding carrion bird found in ash fields and wet slopes
+
+DESCRIPTION  
+    The vulture is a large, bald-headed bird specialized in locating and consuming carrion.  
+    It soars at high altitudes, scanning for carcasses and predator kills.  
+    Feeds communally when safe, but flees rapidly if approached.
+
+    Presence signals exposed remains or biome stress.  
+    Vultures roost on high perches or stone outcrops, descending only after scent or signal confirms safety.  
+    Flight pattern is slow and circling, often used to locate scavenging zones from afar.
+
+USAGE  
+    Used as: indicator species for field death; long feathers may be repurposed for fletching or marking  
+    Limitations: not hunted for food; flesh carries high microbial load; must be approached cautiously  
+    Preparation: if harvested, remove feathers cleanly and dispose of carcass away from camps
+
+ZONE PRESENCE  
+    Biomes: ash_field, wet_slope
+
+SIZE  
+    Medium
+
+SCIENTIFIC NAME  
+    Gyps fulvus
+
+%%% fauna/scavengers/06_badger.txt %%%
+
+NAME  
+    badger - solitary digger and scavenger active across plains and low hills
+
+DESCRIPTION  
+    The badger is a stocky, clawed mammal that forages alone for insects, carrion, and root bulbs.  
+    It excavates burrows and scrap dens with powerful forelimbs and avoids conflict through evasion or sudden aggression.  
+    Active during twilight or overcast periods, it is rarely seen in open daylight.
+
+    Tracks show low, wide spacing with deep front claw imprints.  
+    Signs include overturned turf, scattered shells, and shallow dig lines near carrion fields.  
+    Badgers avoid noise and respond poorly to sudden movement.
+
+USAGE  
+    Used as: compact pelt for mitts or wrap trim; teeth or claws for charms and tool grip; bait for predators  
+    Limitations: aggressive when cornered; may destroy trap lines if improperly baited  
+    Preparation: skin while fresh; claws must be removed with joint intact; dry hide away from sun
+
+ZONE PRESENCE  
+    Biomes: plains, hills
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Taxidea taxus
+
+%%% fauna/scavengers/07_weasel.txt %%%
+
+NAME  
+    weasel - swift opportunistic scavenger active in open fields and low vegetation
+
+DESCRIPTION  
+    The weasel is a tiny, fast-moving carnivore that feeds on rodents, insects, and small carcasses.  
+    It darts through grass, burrows, or brush piles and may enter traps or dens in search of remains.  
+    Highly alert and territorial despite its size, it is often missed during daylight observation.
+
+    Tracks are minimal and erratic.  
+    Weasels operate close to the ground and leave behind drag traces, fur tufts, or disturbed surface soil.  
+    Scent is light but persistent. Their activity can compromise bait or signal prey depletion.
+
+USAGE  
+    Used as: fine fur for insulation lining; sinew or whiskers for trigger fibers; minor bait scavenger indicator  
+    Limitations: low yield; easily escapes basic traps; presence often confused with signal species  
+    Preparation: skin delicately along spine; dry flat in cool air to preserve fur
+
+ZONE PRESENCE  
+    Biomes: meadow, plains
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Mustela nivalis
+
+%%% fauna/scavengers/08_crow.txt %%%
+
+NAME  
+    crow - small opportunistic scavenger active near flood zones and open terrain
+
+DESCRIPTION  
+    The crow is a highly intelligent forager that scavenges carcasses, food waste, and trap remains.  
+    It operates in small groups and is quick to exploit exposed bait or unattended kill sites.  
+    Crows memorize patterns and may return to locations if left unchecked.
+
+    Flight is direct and purposeful; calls are short and repetitive.  
+    Tracks may be found near shallow water, camps, or field residue.  
+    Often mistaken for ravens, but smaller and more brazen in behavior.
+
+USAGE  
+    Used as: minor indicator of decay or human scent; feathers may be repurposed; bait thief in field craft  
+    Limitations: rarely caught; must be distracted or intercepted during feeding  
+    Preparation: if downed, collect feathers quickly; avoid spoilage by isolating carcass
+
+ZONE PRESENCE  
+    Biomes: plains, flood_hollow
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Corvus brachyrhynchos
+
+%%% fauna/scavengers/09_opossum.txt %%%
+
+NAME  
+    opossum - nocturnal marsupial scavenger active in forest debris and edge zones
+
+DESCRIPTION  
+    The opossum is a small, slow-moving omnivore that feeds on carrion, insects, fallen fruit, and refuse.  
+    It forages under leaf litter, log piles, and along runoff margins, often appearing after dusk.  
+    Known for feigned death behavior and resistance to spoiled meat.
+
+    Tracks are hand-like with long rear toes.  
+    Dens are found in hollow logs, root tangles, or abandoned burrows.  
+    Frequently seen after predator activity or near disturbed camps.
+
+USAGE  
+    Used as: light pelt for small garment lining; bone for fine picks or splinters; indirect bait indicator  
+    Limitations: low material yield; foul odor if alarmed; easily startled and prone to freeze-response  
+    Preparation: skin carefully to preserve tail and underfur; dry hide in shaded ventilation
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Didelphis virginiana
+
+%%% fauna/scavengers/10_carrion_beetle.txt %%%
+
+NAME  
+    carrion_beetle - decomposer insect active in decay-rich swamp and frost zones
+
+DESCRIPTION  
+    The carrion beetle is a small, hard-shelled insect that feeds on decaying flesh,  
+    bone marrow, and organic waste. It is among the first responders to exposed carcasses,  
+    tunneling into soft tissue and laying eggs in sinew or muscle pockets.
+
+    Its presence signals advanced decomposition and microbial onset.  
+    Beetles operate in clusters beneath remains or shallow cover.  
+    Wing casings are dark, ridged, and resilient. Activity is low during freeze, high in thaw and saturation.
+
+USAGE  
+    Used as: bait attractant for trapcraft; locational signal for marrow-bearing remains;  
+    in extreme scarcity, dried and crushed for protein supplementation  
+    Limitations: minimal yield; risk of spoilage and contamination; must be processed separately from food stores  
+    Preparation: gather with bark scoop or ash pan; dry thoroughly in shaded airflow; store sealed
+
+ZONE PRESENCE  
+    Biomes: swamp, frost_sink
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Nicrophorus vespilloides
+
+%%% fauna/signals/00_signals_index.txt %%%
+
+NAME  
+    signals_index - ambient fauna whose presence, silence, or behavior signals environmental change
+
+DESCRIPTION  
+    Signal species are not hunted. They serve as indirect indicators of threat proximity,  
+    weather shift, territorial disruption, or biome transition. These fauna are passive,  
+    small, and often vocal. Silence, altered movement, or absence may carry greater  
+    weight than direct observation.
+
+    Signal behavior is used to plan shelter, assess danger, or confirm movement corridors.  
+    Entries are selected for ecological reliability, biome specificity, and pattern clarity.  
+    Each species is native to the sealed valley and does not serve as direct resource yield.
+
+    Entry files document sound profile, disturbance response, and observational thresholds.  
+    Their role is to inform—not to engage.
+
+INDEXED ENTRIES
+
+    tree_frog  
+        Size: Tiny  
+        Biomes: swamp, wet_slope  
+        Scientific Name: Hyla versicolor
+
+    nightjar  
+        Size: Small  
+        Biomes: plains, meadow  
+        Scientific Name: Caprimulgus europaeus
+
+    swallow  
+        Size: Small  
+        Biomes: hills, lake  
+        Scientific Name: Hirundo rustica
+
+    cicada  
+        Size: Tiny  
+        Biomes: deciduous_forest, mixed_forest  
+        Scientific Name: Magicicada septendecim
+
+    woodpecker  
+        Size: Small  
+        Biomes: deciduous_forest  
+        Scientific Name: Dryocopus pileatus
+
+    meadowlark  
+        Size: Small  
+        Biomes: plains, flood_hollow  
+        Scientific Name: Sturnella magna
+
+    field_cricket  
+        Size: Tiny  
+        Biomes: meadow, hills  
+        Scientific Name: Gryllus campestris
+
+    bat  
+        Size: Tiny  
+        Biomes: frost_sink, glacier  
+        Scientific Name: Myotis lucifugus
+
+    chickadee  
+        Size: Tiny  
+        Biomes: evergreen_forest  
+        Scientific Name: Poecile atricapillus
+
+    dragonfly  
+        Size: Tiny  
+        Biomes: lake, swamp  
+        Scientific Name: Anax junius
+
+%%% fauna/signals/01_tree_frog.txt %%%
+
+NAME  
+    tree_frog - vocal amphibian used to assess humidity and lowland air shifts
+
+DESCRIPTION  
+    The tree frog emits a pulsing trill that rises in frequency with heat and moisture.  
+    Its call is a primary sound layer in wet biomes and diminishes sharply before cold fronts,  
+    predator proximity, or ambient pressure drops. Silence from frog clusters often precedes storm onset.
+
+    Found clinging to reeds, bark, or stone near pooled water.  
+    Active primarily at dusk and after rainfall. Movement is minimal; most detection is acoustic.
+
+USAGE  
+    Used as: ambient indicator for rain onset, lowland thermal change, or swamp predator presence  
+    Limitations: call may be masked by wind; overlapping sound with other amphibians  
+    Observation: noted for abrupt call cut-off, staggered timing, or lack of nightly return
+
+ZONE PRESENCE  
+    Biomes: swamp, wet_slope
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Hyla versicolor
+
+%%% fauna/signals/02_nightjar.txt %%%
+
+NAME  
+    nightjar - dusk-calling ground bird used to mark calm atmospheric conditions
+
+DESCRIPTION  
+    The nightjar produces a continuous, low-pitched churr during twilight hours.  
+    Its call emerges only in still air and fades entirely during wind, predatory movement,  
+    or rapid barometric fluctuation. Silence often signals biome tension or sudden field pressure.
+
+    Ground-roosting and camouflaged, it is rarely seen in motion.  
+    Most active in open plains and meadow zones with clear acoustic range.
+
+USAGE  
+    Used as: dusk-phase environmental stabilizer; loss of call signals thermal drop, predator pass, or biome shift  
+    Limitations: highly sensitive to human presence; difficult to differentiate from terrain if flushed  
+    Observation: track onset and cessation timing; monitor spatial gaps in overlapping call zones
+
+ZONE PRESENCE  
+    Biomes: plains, meadow
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Caprimulgus europaeus
+
+%%% fauna/signals/03_swallow.txt %%%
+
+NAME  
+    swallow - aerial insectivore used to detect wind shifts and barometric change
+
+DESCRIPTION  
+    The swallow is a fast, looping flyer that feeds on insects over water and open terrain.  
+    Flight altitude lowers before storms or high-pressure collapse.  
+    Sudden absence from lake zones often precedes rain or cold front movement.
+
+    Typically nests in rock faces or abandoned structures.  
+    Groups disperse widely in clear weather and concentrate tightly before system shifts.
+
+USAGE  
+    Used as: real-time marker for wind direction, storm onset, and low thermal drift  
+    Limitations: difficult to track individually; requires wide visibility for flight path assessment  
+    Observation: monitor density, elevation, and direction changes during late daylight hours
+
+ZONE PRESENCE  
+    Biomes: hills, lake
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Hirundo rustica
+
+%%% fauna/signals/04_cicada.txt %%%
+
+NAME  
+    cicada - seasonal drone emitter used to monitor heat stability and canopy silence
+
+DESCRIPTION  
+    The cicada produces a high-volume, continuous drone during warm stable periods.  
+    Its sound ceases immediately with sudden shade, wind drop, or predator disturbance.  
+    Silence is a key indicator of thermal collapse or tree-line movement.
+
+    Found on tree trunks, bark splits, or within leaf clusters.  
+    Activity peaks midday and vanishes at dusk. Easily masked by high wind or rain.
+
+USAGE  
+    Used as: ambient temperature floor indicator; drone cutoff used to track arboreal threat proximity  
+    Limitations: seasonal; absent during cold cycle or after heavy weather disruption  
+    Observation: watch for patterned cutout, fragmented return, or asymmetric canopy silence
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest, mixed_forest
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Magicicada septendecim
+
+%%% fauna/signals/05_woodpecker.txt %%%
+
+NAME  
+    woodpecker - percussive signal bird used to detect ambient calm and tree health
+
+DESCRIPTION  
+    The woodpecker generates irregular tapping patterns as it probes for insects beneath bark.  
+    Activity resumes only when ambient conditions stabilize—calls cease during predator movement,  
+    wind stress, or subcanopy vibration. Percussion clarity reflects air density and canopy stillness.
+
+    Most active during early daylight. Often solitary.  
+    Found in hardwood trunks or deadfall remains. Sound carries well in deciduous terrain.
+
+USAGE  
+    Used as: indicator of biome calm, canopy structure, or sublayer disturbance  
+    Limitations: sound range varies with wind; may be confused with structural creak or stone shift  
+    Observation: note pause intervals, directionality of taps, or zone-to-zone silence gaps
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Dryocopus pileatus
+
+%%% fauna/signals/06_meadowlark.txt %%%
+
+NAME  
+    meadowlark - flute-toned ground bird used to assess air clarity and territorial calm
+
+DESCRIPTION  
+    The meadowlark sings from low perches or open ground with a clear, melodic pattern.  
+    Its song persists only during low stress intervals—silence may indicate predation,  
+    nearby motion, or transitional air mass. Calls often reappear from biome edge inward.
+
+    Active in early and mid-day periods. Avoids movement when air is unstable.  
+    Easily flushed, but returns to perch once calm resumes.
+
+USAGE  
+    Used as: field tone for predator pass, wind edge, or travel-safe perimeter  
+    Limitations: call may be overlapped by insect sound; bird often relocates between song intervals  
+    Observation: monitor call continuity across terrain breaks; triangulate for moving silence gaps
+
+ZONE PRESENCE  
+    Biomes: plains, flood_hollow
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Sturnella magna
+
+%%% fauna/signals/07_field_cricket.txt %%%
+
+NAME  
+    field_cricket - rhythmic ground insect used to detect surface vibration and temperature plateau
+
+DESCRIPTION  
+    The field cricket produces a steady chirp by wing stridulation, rising in frequency with warmth.  
+    Chirping halts with footstep vibration, approaching fauna, or rapid ambient shift.  
+    Absence of sound may indicate predator presence, seismic instability, or nocturnal wind shift.
+
+    Found beneath leaf litter, soil cracks, or along stone edge.  
+    Sound is clearest at dusk and tapers with cold onset or surface moisture.
+
+USAGE  
+    Used as: vibration alert for ground movement or transition; temperature stability proxy during dusk halt  
+    Limitations: can be masked by wind or overrun by other insect species  
+    Observation: listen for pattern dropouts, sector silence, or multi-node offset
+
+ZONE PRESENCE  
+    Biomes: meadow, hills
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Gryllus campestris
+
+%%% fauna/signals/08_bat.txt %%%
+
+NAME  
+    bat - nocturnal flyer used to confirm insect bloom and thermal inversion
+
+DESCRIPTION  
+    The bat emerges at dusk to feed on airborne insects along thermal plumes and cliff edges.  
+    Its erratic flight path reveals rising heat or wind troughs invisible from ground level.  
+    Absence during still air may signal pre-storm barometric inversion or disrupted food layer.
+
+    Found roosting in caves, overhangs, and glacial crevices.  
+    Activity begins shortly after light fall and ceases near temperature floor.
+
+USAGE  
+    Used as: motion cue for airborne insect phase; indicator of dusk wind corridor and vertical uplift  
+    Limitations: difficult to track visually; silent in motion; behavior affected by sudden cold shifts  
+    Observation: note flight density, orientation, and vertical zone consistency after sunset
+
+ZONE PRESENCE  
+    Biomes: frost_sink, glacier
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Myotis lucifugus
+
+%%% fauna/signals/09_chickadee.txt %%%
+
+NAME  
+    chickadee - vocal canopy bird used to gauge subfreezing air and static pressure zones
+
+DESCRIPTION  
+    The chickadee emits a two-note call that shortens with cold and sharpens under pressure drop.  
+    Its presence in evergreen forest indicates stable cover; abrupt silence or high clustering  
+    signals overhead movement or predator treeline breach.
+
+    Active during early light and midday. Travels in small groups between low branches.  
+    Frequently observed during foraging bursts or canopy rests.
+
+USAGE  
+    Used as: call modulation tracker for pressure, predator, or skyborne shift  
+    Limitations: soft call may be masked by snow drift or canopy creak; requires close listening  
+    Observation: note change in call spacing, tone compression, or synchronized hush across zone
+
+ZONE PRESENCE  
+    Biomes: evergreen_forest
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Poecile atricapillus
+
+%%% fauna/signals/10_dragonfly.txt %%%
+
+NAME  
+    dragonfly - aerial hover insect used to mark water purity and air stratification
+
+DESCRIPTION  
+    The dragonfly glides and hovers in still air over clean water margins.  
+    It appears only when aquatic microclimate, sunlight, and wind calm intersect.  
+    Disappearance signals turbidity, pollutant bloom, or thermal disturbance.
+
+    Most active in daylight with high visibility.  
+    Resting occurs on reeds or stones between bursts of linear flight.
+
+USAGE  
+    Used as: water-edge indicator of purity and air balance; loss implies weather, flow, or chemical shift  
+    Limitations: seasonal; absent in high wind or over darkened pools  
+    Observation: track flight height, orbit pattern, and abrupt dispersal across clustered surface zones
+
+ZONE PRESENCE  
+    Biomes: lake, swamp
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Anax junius
+
 %%% flora/crafting/00_flora_crafting_index.txt %%%
 
 NAME  
@@ -930,9 +3241,9 @@ DESCRIPTION
     yield one or two usable branches per season. Not suited for firewood or fiber.
 
 USAGE  
-    Mirriane: primary bow material; shaped, dried, and wrapped for limb stiffness  
-    Thea: cut into narrow hafts or spike inserts for close weapon cores  
-    Preparation: remove sapwood, split and season for at least one cycle before shaping
+    Used as: bow limbs, weapon hafts, structural inserts requiring elastic strength  
+    Limitations: sapwood must be removed; wood must be seasoned or it will split  
+    Preparation: cut from main branch, split longitudinally, and dry through one full freeze-thaw cycle
 
 ZONE PRESENCE  
     Biomes: evergreen_forest, hills
@@ -957,9 +3268,9 @@ DESCRIPTION
     above root flare. Burns poorly and is not suitable as kindling.
 
 USAGE  
-    Mirriane: used for arrow shafts or pack frame rails  
-    Thea: selected for sledgework or strut reinforcement in field construction  
-    Preparation: split from trunk core, strip bark, dry flat or in bundle with airflow
+    Used as: arrow shafts, sled runners, structural framing under moderate load  
+    Limitations: prone to warping if shaped wet; softens near heat or flame  
+    Preparation: split from trunk core, debarked, and dried flat or bundled with airflow
 
 ZONE PRESENCE  
     Biomes: evergreen_forest, glacier
@@ -984,9 +3295,9 @@ DESCRIPTION
     before twist. Not suitable for fine textiles or heavy tension.
 
 USAGE  
-    Mirriane: stripped for field lashings and binding forage packs  
-    Thea: twisted into net loops or trip tension lines in wet terrain  
-    Preparation: cut at stalk base, split with thumb or blade, soak or twist to bind
+    Used as: field cordage, bundle lashings, net backing, or perimeter line  
+    Limitations: fiber weakens if fully dry; unsuitable for load-bearing tension  
+    Preparation: cut at base, split with thumb or blade, soak or twist while green
 
 ZONE PRESENCE  
     Biomes: flood_hollow, swamp, lake
@@ -1011,16 +3322,15 @@ DESCRIPTION
     Should be stored flat or rolled to avoid cracking.
 
 USAGE  
-    Mirriane: torn into firestarting strips or wrapped around dry tinder  
-    Thea: used to line pack interiors or seal moisture-prone trap components  
-    Preparation: peel flat sections, dry lightly if damp, cut to shape or fold
+    Used as: firestarter, moisture barrier, interior wrap for packs or tools  
+    Limitations: curls when dry; brittle if folded without warming  
+    Preparation: peel flat sections, dry lightly, trim to shape or layer in wrap
 
 ZONE PRESENCE  
     Biomes: deciduous_forest, hills
 
 SCIENTIFIC NAME  
     Betula pendula
-
 
 %%% flora/crafting/05_liana_bark.txt %%%
 
@@ -1039,9 +3349,9 @@ DESCRIPTION
     Best harvested before drying sets in, then coiled or laid flat.
 
 USAGE  
-    Mirriane: twisted into light cord or tied around fletching bundles  
-    Thea: braided into snare triggers or wrapped around tool hafts for grip  
-    Preparation: cut sections under tension, strip bark with draw, soak if stiff, twist or press flat
+    Used as: flexible cordage, light lashings, tool grip wrappings, snare triggers  
+    Limitations: weak under prolonged load; stiffens if fully dried before use  
+    Preparation: cut under tension, strip bark with draw, soak to soften, twist or braid while damp
 
 ZONE PRESENCE  
     Biomes: wet_slope, mixed_forest
@@ -1066,9 +3376,9 @@ DESCRIPTION
     Must be dried upright or flattened under weight to avoid warping.
 
 USAGE  
-    Mirriane: layered in quivers or used to line carrying slings  
-    Thea: crushed and woven into insulation wraps or concealed trap padding  
-    Preparation: cut at base, peel if needed, dry in shade, bundle flat or twist into coil
+    Used as: quiver padding, mat insulation, soft-layer filler, concealed wrap backing  
+    Limitations: structurally weak; will split under stress if used while green  
+    Preparation: cut at base, peel if needed, dry under shade, store bundled or pressed flat
 
 ZONE PRESENCE  
     Biomes: lake, flood_hollow, swamp
@@ -1094,16 +3404,15 @@ DESCRIPTION
     Collection is easiest by hand during dry season. 
 
 USAGE  
-    Mirriane: bundled as fast-ignition tinder in firestarter kits  
-    Thea: burned in surface traps to generate quick smoke bursts  
-    Preparation: snap dry stalks at base, remove side shoots, store loosely in dry wrap
+    Used as: ignition material, dry tinder volume, short-burn fuel supplement  
+    Limitations: ineffective when wet; not suitable for prolonged combustion  
+    Preparation: snap dry stalks at base, strip side shoots, store loose in dry wrap
 
 ZONE PRESENCE  
     Biomes: plains, hills, badlands
 
 SCIENTIFIC NAME  
     Artemisia tridentata
-
 
 %%% flora/crafting/08_mullein_leaf.txt %%%
 
@@ -1122,17 +3431,15 @@ DESCRIPTION
     Harvest before flowering for best texture. Dry flat to preserve leaf shape and flexibility.
 
 USAGE  
-    Mirriane: packed into quivers or wrapped around gear to reduce rattle and absorb moisture  
-    Thea: layered inside sling padding or used to line poultice wraps for thermal stability  
-    Preparation: gather outer leaves before stalk develops, press and dry away from sunlight, fold gently if stored
+    Used as: insulation wrap, gear lining, quiver padding, fire-start backing  
+    Limitations: loses structure if sun-dried; smoke is irritating if burned  
+    Preparation: gather outer leaves before flowering, press and dry in shade, fold gently if stored
 
 ZONE PRESENCE  
     Biomes: meadow, plains
 
 SCIENTIFIC NAME  
     Verbascum thapsus
-
-
 %%% flora/crafting/09_pine_pitch.txt %%%
 
 NAME  
@@ -1150,11 +3457,11 @@ DESCRIPTION
     Collection is safest in dry weather from downed trees or mature specimens.  
     Pine wood is unsuitable for load-bearing use due to warping and splinter risk.  
     Resin and pitch are not interchangeable but derived from the same source.
-    
+
 USAGE  
-    Mirriane: applied as sealant to arrowheads, shaft joints, and bow wrappings; pitch used to coat fire bundles  
-    Thea: mixed resin used in trap adhesives or spark paste; pitch layered on trap surfaces for ignition delay  
-    Preparation: scrape resin with bone or bark edge, warm to soften; for pitch, strip bark in flakes, render over fire, and store cool in bark wrap
+    Used as: resin sealant, spark paste base, fire bundle coating, ignition delay layer  
+    Limitations: pitch is brittle when cold; resin flow is seasonal and localized  
+    Preparation: scrape resin with bone or bark edge, warm to soften; render pitch from bark flakes over flame and store cool in wrap
 
 ZONE PRESENCE  
     Biomes: evergreen_forest, hills
@@ -1181,8 +3488,8 @@ DESCRIPTION
     Surface grain is smooth; can be shaved or notched without splitting.
 
 USAGE  
-    Mirriane: selected for frame extensions or backup shaft cores in emergency repair  
-    Thea: used as spring arms or flexible lash anchors in trap constructions  
+    Used as: trap arms, flexible framing, shaft core material, tension lash insert  
+    Limitations: brittle if harvested too late; not suitable for weight-bearing load  
     Preparation: cut near base, strip bark, dry straight or bind into curve under tension
 
 ZONE PRESENCE  
@@ -1269,9 +3576,9 @@ DESCRIPTION
     run in networks along the mud layer.
 
 USAGE  
-    Mirriane: cooked for rations or dried into portable flour  
-    Thea: field-prepared; apportioned into paste or used as starch binder  
-    Preparation: pull root from base, strip outer skin, boil or dry immediately
+    Used as: boiled food ration, survival starch, field-dried flour base  
+    Limitations: spoils quickly if left wet; difficult to extract in frozen soil  
+    Preparation: pull root from base, strip outer skin, boil or dry immediately after harvest
 
 ZONE PRESENCE  
     Biomes: flood_hollow, swamp, lake
@@ -1296,9 +3603,9 @@ DESCRIPTION
     Also usable for tea or dried additive in ration mixes.
 
 USAGE  
-    Mirriane: boiled for food; brewed into mineral tea  
-    Thea: dried and packed into field poultice layers  
-    Preparation: submerge leaves in boiling water for 3–5 minutes; dry flat if storing
+    Used as: boiled greens, tea infusion, dried additive in ration mixes  
+    Limitations: stinging hairs cause skin irritation if raw; unsuitable for direct consumption  
+    Preparation: submerge leaves in boiling water until softened; dry flat for storage
 
 ZONE PRESENCE  
     Biomes: mixed_forest, deciduous_forest, wet_slope
@@ -1323,9 +3630,9 @@ DESCRIPTION
     younger stems near thaw pockets.
 
 USAGE  
-    Mirriane: chewed to suppress hunger and extend ration intervals  
-    Thea: ignored unless dried and stored as emergency fallback  
-    Preparation: strip bark in coils with knife or fingernail; chew raw or dry flat
+    Used as: emergency chew fiber to suppress hunger and provide minimal energy  
+    Limitations: not a long-term food source; bitterness may cause discomfort  
+    Preparation: strip bark in coils with blade or fingernail; chew raw or dry for later use
 
 ZONE PRESENCE  
     Biomes: tundra, glacier
@@ -1351,9 +3658,9 @@ DESCRIPTION
     or blade and separating chaff.
 
 USAGE  
-    Mirriane: ground into flatbread or added to broth as filler  
-    Thea: mixed into travel paste for sustained low-energy periods  
-    Preparation: strip seed heads, dry if needed, winnow to remove husks, crush or grind before use
+    Used as: coarse meal for flatbread, ration filler, or travel paste base  
+    Limitations: low in fat and protein; must be ground or cooked before digestion  
+    Preparation: strip seed heads, winnow to remove husks, dry if needed, then crush or grind
 
 ZONE PRESENCE  
     Biomes: plains, meadow, deciduous_forest
@@ -1379,9 +3686,9 @@ DESCRIPTION
     The fruit’s acidic nature makes it resistant to quick spoilage.
 
 USAGE  
-    Mirriane: consumed raw for hydration during field movement  
-    Thea: mashed and packed into blended travel rations  
-    Preparation: rinse clean, crush if storing, or dry for later use
+    Used as: raw forage fruit, vitamin supplement, mashable ration additive  
+    Limitations: low caloric value; limited yield per area  
+    Preparation: rinse to clean, crush for storage, or dry whole for later use
 
 ZONE PRESENCE  
     Biomes: swamp, lake, flood_hollow
@@ -1407,9 +3714,9 @@ DESCRIPTION
     along the edge of grass zones where tree cover breaks.
 
 USAGE  
-    Mirriane: chewed fresh to reduce thirst and stimulate alertness  
-    Thea: steeped into infusion to ease fatigue symptoms  
-    Preparation: rinse thoroughly; consume raw, steep as tea, or dry in single layers
+    Used as: chewable moisture source, stimulant forage, tea base for fatigue  
+    Limitations: high quantities may impair mineral absorption over time  
+    Preparation: rinse thoroughly; consume raw, steep into infusion, or dry in single layers
 
 ZONE PRESENCE  
     Biomes: meadow, plains
@@ -1435,9 +3742,9 @@ DESCRIPTION
     Best collected after husks begin to dry but before shell rot sets in.
 
 USAGE  
-    Mirriane: roasted and stored as travel ration; also ground into mash  
-    Thea: crushed and added to composite meal blends or bait materials  
-    Preparation: remove outer husk, crack shell with tool, dry kernel for storage or roast immediately
+    Used as: high-energy forage, roasted kernel, paste or flour base for compact rations  
+    Limitations: shell rot after ripening if left exposed; vulnerable to animal competition  
+    Preparation: remove fibrous husk, crack shell, dry or roast kernel before storage or use
 
 ZONE PRESENCE  
     Biomes: deciduous_forest, mixed_forest
@@ -1463,9 +3770,9 @@ DESCRIPTION
     for cover or nesting protection.
 
 USAGE  
-    Mirriane: harvested carefully and consumed in small amounts for hydration  
-    Thea: dried and blended into ration filler or bait paste  
-    Preparation: strip berry clusters with cloth or tool to avoid puncture; cook or dry to reduce irritation
+    Used as: forage fruit for hydration and sugar; dried additive for ration mix or bait paste  
+    Limitations: mildly irritating if consumed raw in excess; thorns complicate harvesting  
+    Preparation: strip berry clusters with cloth or blade; cook or dry to reduce astringency
 
 ZONE PRESENCE  
     Biomes: ash_field, evergreen_forest, wet_slope
@@ -1491,9 +3798,9 @@ DESCRIPTION
     or red and remains attached into early frost periods.
 
 USAGE  
-    Mirriane: steeped as nutrient tea or chewed fresh during travel  
-    Thea: mashed and reduced into medicinal paste or ration additive  
-    Preparation: slice open and remove seeds if time allows; dry whole for storage or boil fresh into infusion
+    Used as: vitamin-rich infusion, fruit mash, survival forage during frost season  
+    Limitations: inner hairs cause throat irritation; seed removal recommended  
+    Preparation: slice open to remove seeds when possible; dry whole or boil into tea or paste
 
 ZONE PRESENCE  
     Biomes: mixed_forest, hills
@@ -1519,9 +3826,9 @@ DESCRIPTION
     ground disturbance or flood retreat.
 
 USAGE  
-    Mirriane: boiled or wilted as greens; blended into ration broth  
-    Thea: dried and folded into meal paste or compress rations  
-    Preparation: harvest young leaves, rinse, consume raw or cook lightly; collect seeds when mature for meal
+    Used as: boiled greens, raw forage, dried ration filler, or seed meal  
+    Limitations: older leaves contain oxalates; cooking recommended before extended use  
+    Preparation: harvest young leaves and rinse; cook lightly or consume raw; collect and grind seeds when mature
 
 ZONE PRESENCE  
     Biomes: meadow, deciduous_forest
@@ -1547,15 +3854,53 @@ DESCRIPTION
     due to its carbohydrate density and cold resilience.
 
 USAGE  
-    Mirriane: root boiled and mashed for ration base  
-    Thea: dried and stored as fallback starch additive  
-    Preparation: dig root with tool, scrub clean, boil thoroughly or dry to grind into powder
+    Used as: boiled starch source, dried fallback ration, or meal additive  
+    Limitations: root is difficult to extract from frozen or compacted ground  
+    Preparation: dig root with blade or spike, scrub clean, boil until soft or dry and grind
 
 ZONE PRESENCE  
     Biomes: tundra, glacier
 
 SCIENTIFIC NAME  
     Bistorta vivipara
+
+%%% flora/flora_index.txt %%%
+
+NAME  
+    flora_index - overview of flora classification and survival-relevant groupings
+
+DESCRIPTION  
+    All flora within the sealed valley are classified by survival function.  
+    Each entry is a real-world species or grounded derivative with documented  
+    environmental use. Taxonomy is not used. Entries are grouped by field role.
+
+CATEGORY STRUCTURE  
+
+    edible/  
+        Plants that yield nutrients, moisture, or survival calories.  
+        Includes roots, seeds, berries, and leaves.  
+        Requires minimal processing. No cultivation assumed.
+
+    crafting/  
+        Flora providing structural material, fiber, resin, or fuel.  
+        Used in tools, fire support, bindings, or construction.  
+        Includes wood, bark, fibrous stalks, and resinous matter.
+
+    medicinal/  
+        Plants applied to wounds, inflammation, or survival recovery.  
+        Includes bark, leaf matter, lichen, fungi, and algae.  
+        Entries detail preparation method and biome presence.
+
+    indicator/  
+        Non-harvestable flora used to assess terrain, moisture, or chemical bias.  
+        Presence signals environmental traits such as permafrost, geothermal activity,  
+        or soil saturation. Used diagnostically in field movement.
+
+    poisons/  
+        Plants with toxic, sedative, or irritant effects.  
+        Applied in traps, baiting, or disruption.  
+        Includes root toxins, alkaloids, and blister agents.
+
 
 %%% flora/indicator/00_flora_indicator_index.txt %%%
 
@@ -1617,23 +3962,23 @@ INDEXED ENTRIES
 %%% flora/indicator/01_reindeer_lichen.txt %%%
 
 NAME  
-    reindeer_lichen - frost-tolerant lichen indicating cold, low-nutrient permafrost terrain
+    reindeer_lichen - pale ground lichen indicating persistent cold and mineral-poor substrate
 
 DESCRIPTION  
-    Reindeer lichen forms dense, branching mats over bare soil, rock, or thin frost.  
-    Its pale grey-green color and coral-like texture make it visible across flat open ground.  
-    Indicates poor nutrient levels, permanent frost presence, and long-term ground stability.  
-    Will not grow in disturbed or melt-prone zones.
+    Reindeer lichen is a dense, bushy lichen with a pale, whitish-green color  
+    and a coral-like branching structure. It grows directly on the soil or thin moss  
+    crust in open tundra and frost sink zones. Its slow growth rate and sensitivity  
+    to disturbance make it a reliable indicator of long-term cold exposure, dry wind,  
+    and low-nutrient soil.
 
-    Found in windswept tundra and permafrost basins.  
-    Grows slowly and recovers poorly after trampling.  
-    Presence in dense mats suggests stable cold biome conditions  
-    with minimal surface runoff and low decay activity.
+    The presence of reindeer lichen often marks terrain that is stable but barren,  
+    with poor topsoil and minimal plant competition. Its distribution may be  
+    interrupted by ice crusts, exposed rock, or repeated freeze-thaw scouring.
 
 USAGE  
-    Mirriane: used to confirm permanent cold zone boundaries or plan high-ground travel  
-    Thea: noted as footprint-sensitive terrain; signs of disruption indicate movement or passage  
-    Preparation: not collected or processed - read from surface coverage and density
+    Indicator of: prolonged permafrost exposure, low soil fertility, limited melt infiltration  
+    Limitations: does not grow in compacted areas or where foot traffic is frequent  
+    Observation: avoid as travel route; growth signals cold persistence and poor yield zones
 
 ZONE PRESENCE  
     Biomes: tundra, frost_sink
@@ -1644,22 +3989,23 @@ SCIENTIFIC NAME
 %%% flora/indicator/02_sphagnum_moss.txt %%%
 
 NAME  
-    sphagnum_moss - moisture-retaining moss used to identify saturation and unstable ground
+    sphagnum_moss - moisture-retaining moss indicating peat formation and standing saturation
 
 DESCRIPTION  
-    Sphagnum is a spongy, absorbent moss that grows in thick mats over wet ground,  
-    especially where drainage is poor. Its structure retains water many times its own weight,  
-    forming peat over time. Its presence signals high water retention, hidden subsurface flow,  
-    or bog-like terrain that may shift under load.
+    Sphagnum moss forms dense, spongy mats in lowland wetlands, shallow basins,  
+    and poorly drained flood zones. It has a bright green to reddish tone depending  
+    on acidity and saturation level. Each plant absorbs many times its weight in  
+    water, creating stable, slow-draining environments ideal for bog succession.
 
-    Grows in low depressions, stagnant wetlands, and on floating mats near lake edges.  
-    Color ranges from pale green to reddish brown depending on moisture and sun exposure.  
-    Often covers root hummocks, obscuring depth and ground consistency.
+    Its presence signifies long-term water retention, poor drainage, and acidic soil.  
+    Areas dominated by sphagnum are difficult to traverse and prone to deep-rooted  
+    instability. Below the moss layer, anaerobic conditions and organic buildup  
+    may produce methane or concealed pockets of unstable peat.
 
 USAGE  
-    Mirriane: identifies unstable footing and hidden water channels; avoided for shelter placement  
-    Thea: used to track displaced terrain where prey or people may have recently crossed  
-    Preparation: not harvested - observed in patches to assess ground saturation and root cover
+    Indicator of: persistent wetland saturation, high water table, acidic anaerobic soil  
+    Limitations: surface may appear solid but often hides soft substrate  
+    Observation: avoid crossing large mats; growth suggests impassable or dangerous ground
 
 ZONE PRESENCE  
     Biomes: flood_hollow, swamp
@@ -1670,22 +4016,24 @@ SCIENTIFIC NAME
 %%% flora/indicator/03_horsetail_fern.txt %%%
 
 NAME  
-    horsetail_fern - segmented wetland plant marking ancient water paths and mineral-rich ground
+    horsetail_fern - segmented wetland fern indicating silty floodplain and shallow subsurface water
 
 DESCRIPTION  
-    Horsetail is a jointed, hollow-stemmed plant with whorled branches that grow in clusters.  
-    It thrives in saturated soil with high silica content and often follows historical runoff paths.  
-    Its presence indicates persistent moisture, shallow groundwater, or subsurface mineral leaching.  
-    Not found in dry or high-slope terrain.
+    Horsetail is a primitive vascular plant with jointed, hollow stems  
+    and radial stem whorls. It thrives in saturated soils along lake margins,  
+    drainage paths, and periodically flooded hollows. Its presence indicates  
+    high silt content, shallow seasonal saturation, and mineral runoff deposition.
 
-    Grows along lake margins, seasonal flood zones, and low ridges with poor drainage.  
-    Height varies from knee-high to waist-height depending on age and exposure.  
-    Stems snap easily when dry and leave ringed segments behind. Reproduces by underground rhizomes.
+    Horsetail colonies expand by underground rhizomes and can spread rapidly  
+    after disturbance or water fluctuation. Above-ground stalks are stiff,  
+    ridged, and dark green with a bristled surface texture. Growth is highly  
+    sensitive to drainage and soil composition, making it useful for  
+    reading terrain transitions in waterlogged zones.
 
 USAGE  
-    Mirriane: used to detect historical flood edges or safe crossing routes  
-    Thea: marks potential sediment traps or animal watering trails  
-    Preparation: not collected - used visually to trace wetland margins and seasonal runoff
+    Indicator of: silty or mineral-rich wetland soil, high seasonal moisture, low gradient runoff  
+    Limitations: presence may fade in prolonged dry cycles or near dense canopy  
+    Observation: growth signals sediment-rich flood history and shallow groundwater access
 
 ZONE PRESENCE  
     Biomes: lake, flood_hollow
@@ -1696,23 +4044,23 @@ SCIENTIFIC NAME
 %%% flora/indicator/04_wolf_lichen.txt %%%
 
 NAME  
-    wolf_lichen - bright toxic lichen marking exposed, nutrient-poor slopes and mineral imbalance
+    wolf_lichen - bright green lichen indicating clean air, open exposure, and dry bark substrate
 
 DESCRIPTION  
-    Wolf lichen is a vivid yellow-green fruticose lichen that grows on sun-exposed bark,  
-    rock, and decaying wood. Its presence indicates low-nutrient substrates and high UV exposure.  
-    Often found where trees are stunted or dying, or where soil chemistry prevents dense undergrowth.  
-    Contains vulpinic acid - mildly toxic to fauna, avoided by most grazers.
+    Wolf lichen is a bushy, fluorescent yellow-green lichen that grows on bark,  
+    deadwood, and exposed rock in well-ventilated, dry climates. Its presence reflects  
+    high air quality, strong solar exposure, and unshaded conditions, typically  
+    along ridgelines, sparse evergreen stands, or wind-exposed slopes.
 
-    Grows in dry, open highland areas or cold forest fringes with minimal canopy.  
-    Lichen forms tufts or drapes over rough bark and stone.  
-    Its brightness contrasts with surrounding decay, making it useful for identifying stressed zones.  
-    Not edible or usable as fuel.
+    The lichen prefers dry, acidic substrates and does not tolerate pollution or  
+    deep canopy. Its coloration makes it visible from distance, and it often appears  
+    first on weathered trees in transition zones. Abundant growth may signal poor soil  
+    retention and surface desiccation.
 
 USAGE  
-    Mirriane: noted when evaluating timberline decline or hillside stability  
-    Thea: observed for root exposure and terrain stress around shelter or trap sites  
-    Preparation: not collected - visible in color patches on stumps, rock, or shallow soil
+    Indicator of: high solar exposure, dry slope climate, and low atmospheric pollution  
+    Limitations: absent under heavy canopy or in saturated zones  
+    Observation: useful for tracing ridgeline dryness and open terrain stability
 
 ZONE PRESENCE  
     Biomes: hills, evergreen_forest
@@ -1723,23 +4071,23 @@ SCIENTIFIC NAME
 %%% flora/indicator/05_clubmoss.txt %%%
 
 NAME  
-    clubmoss - low creeping plant used to identify undisturbed ground and deep-root forest stability
+    clubmoss - creeping ground cover indicating cold shade, acidic soil, and periglacial surface
 
 DESCRIPTION  
-    Clubmoss is a primitive vascular plant with dense, scale-like leaves and creeping stems.  
-    It thrives in undisturbed, stable soils and slow-changing microclimates.  
-    Its presence suggests minimal erosion, consistent shade, and intact root systems.  
-    Easily disrupted by trampling or soil shift.
+    Clubmoss is a low-growing vascular plant resembling miniature conifers.  
+    It forms dense mats across shaded forest floors and glacial fringes,  
+    often where soil is thin, cold, and acidic. Growth is slow, spreading by rhizomes  
+    in undisturbed environments with stable shade and low competition.
 
-    Found beneath evergreen canopy or along glacier-fed forest margins.  
-    Forms low mats or upright tufts resembling miniature conifers.  
-    Reproduction is slow; recovery after disturbance takes multiple seasons.  
-    Once common, now sparse in exposed or high-trafficked regions.
+    Its presence signals poor decomposition rates, reduced sunlight, and surface  
+    conditions shaped by glacial runoff or freeze-thaw erosion. Clubmoss often grows  
+    alongside fungi or lichens but avoids water-saturated ground. Shoots are stiff,  
+    upright, and covered in scale-like leaves that remain evergreen.
 
 USAGE  
-    Mirriane: used to confirm ground stability or select untouched paths  
-    Thea: indicates zones where traps may persist undetected due to low wildlife passage  
-    Preparation: not harvested - read from intact ground cover and growth density
+    Indicator of: glacially influenced soil, low nutrient turnover, long-term canopy shade  
+    Limitations: disappears under canopy disturbance or thermal fluctuation  
+    Observation: confirms low-yield terrain with cold buffering and limited soil formation
 
 ZONE PRESENCE  
     Biomes: evergreen_forest, glacier
@@ -1750,22 +4098,22 @@ SCIENTIFIC NAME
 %%% flora/indicator/06_polypody_fern.txt %%%
 
 NAME  
-    polypody_fern - shallow-rooting epiphyte used to identify damp, shaded slopes and canopy drip zones
+    polypody_fern - leathery-leaved fern indicating stable moisture and shallow mineral substrate
 
 DESCRIPTION  
-    Polypody fern grows in small clusters along rocky outcrops, mossy trunks, or decaying logs.  
-    It prefers areas with steady humidity and filtered light, often near slopes that collect  
-    rainfall or along volcanic ridgelines. Presence indicates consistent condensation,  
-    low wind exposure, and a stable mid-canopy environment.
+    Polypody fern grows in clumps along rock faces, fallen logs, and moist soil banks.  
+    It thrives in areas with constant, non-saturated moisture and partial light.  
+    Its leathery fronds are evergreen in milder cycles, curling during cold or dry periods.  
+    The plant is sensitive to mechanical disturbance but resilient under stable moisture exposure.
 
-    Found in mixed forest understory, on wet slopes, or at the base of moss-coated trees.  
-    Fronds are narrow, deeply lobed, and evergreen. Roots form shallow mats and do not penetrate  
-    deeply into soil, making the plant sensitive to drying or surface disruption.
+    Its presence reflects shallow soil, high mineral content, and consistent humidity.  
+    It anchors itself in mossy or organic debris over stone, preferring places  
+    where runoff occurs but does not collect. Useful in identifying low-flow slope transitions.
 
 USAGE  
-    Mirriane: used to locate long-drip canopy zones for shelter or fresh condensation collection  
-    Thea: marks terrain that holds humidity - good for scent-based tracking or moisture traps  
-    Preparation: not collected - read from placement and frond density on rock or trunk
+    Indicator of: persistent humidity, surface mineral exposure, thin soil over rock  
+    Limitations: absent from flooded, compacted, or sun-exposed terrain  
+    Observation: found along slope margins, stone breaks, and moss-lined runoff paths
 
 ZONE PRESENCE  
     Biomes: wet_slope, mixed_forest
@@ -1776,23 +4124,23 @@ SCIENTIFIC NAME
 %%% flora/indicator/07_haircap_moss.txt %%%
 
 NAME  
-    haircap_moss - upright moss species indicating cold retention and moderate water access
+    haircap_moss - upright moss indicating cold moisture, acidic soil, and freeze retention
 
 DESCRIPTION  
-    Haircap moss forms dense vertical colonies of stiff, green shoots with pointed tips.  
-    It favors damp soil and shaded forest margins where temperature remains low and  
-    moisture is steady but not saturated. Its structure resists frost and insulates  
-    shallow root networks, making it a reliable marker of cold persistence and canopy cover.
+    Haircap moss forms dense, upright colonies with stiff green stalks and  
+    star-shaped tips. It prefers undisturbed soil with persistent cold moisture,  
+    often appearing near melt runoffs, frost pockets, or shaded forest depressions.  
+    The plant retains water effectively and remains upright even during frost exposure,  
+    making it a useful marker of ground-level thermal buffering.
 
-    Found beneath deciduous or coniferous trees in highland zones and frost basins.  
-    Colonies grow thickly over stone, soil, or rotting wood.  
-    Often the first sign of ground thaw near permafrost boundaries.  
-    Avoids heavily trampled or compacted terrain.
+    Growth indicates low pH, shaded persistence, and low wind exposure.  
+    It thrives in regions where surface water seeps or evaporates slowly.  
+    Easily distinguished by its vertical form and fine cap structures at stem tips.
 
 USAGE  
-    Mirriane: used to track cold-edge habitat or predict thaw basin melt timing  
-    Thea: observed for cover dynamics around traps; its disturbance may reveal passage  
-    Preparation: not harvested - examined for density and moisture content across slope or ridge
+    Indicator of: frost sink behavior, cold moisture retention, acidic substrate  
+    Limitations: vulnerable to foot disturbance; dies back in dry upland terrain  
+    Observation: signals long freeze duration and unreliable ground thaw
 
 ZONE PRESENCE  
     Biomes: deciduous_forest, frost_sink
@@ -1803,23 +4151,23 @@ SCIENTIFIC NAME
 %%% flora/indicator/08_liverwort_patch.txt %%%
 
 NAME  
-    liverwort_patch - low spongy ground cover indicating chemical imbalance and geothermal moisture
+    liverwort_patch - low, thalloid growth indicating geothermal seepage or mineral disturbance
 
 DESCRIPTION  
-    Liverworts are flat, leafless plants that form mats in highly humid, low-light environments.  
-    Their presence often marks acidic, mineral-rich ground or geothermal seepage zones.  
-    Growth suggests consistent surface saturation and chemical disturbance, especially in areas  
-    of volcanic activity or rotted substrate.
+    Liverworts are simple, flat plants forming dense green mats across moist soil,  
+    rock surfaces, or volcanic sediment. Their leafless, lobed thalli cling to surfaces  
+    in high humidity, low light, and thermally active zones. Unlike moss, they lack upright structure  
+    and spread laterally across bare ground or stone.
 
-    Found in swamp margins, near hot ground vents, or in decaying root beds.  
-    Liverworts appear as green, irregular lobed carpets with no upright stem.  
-    Sensitive to heat shifts and exposure. Will retreat rapidly from disturbed terrain  
-    or dry air intrusion.
+    Liverwort patches often appear where geothermal warmth thins frost layers  
+    or where acidic leach disrupts plant succession. Their presence marks  
+    chemical imbalance or chronic moisture exposure, especially in unstable slopes  
+    or post-burn zones. Growth favors low competition and direct contact with mineral crust.
 
 USAGE  
-    Mirriane: identifies unsuitable ground for resting or storage due to acidity or rot  
-    Thea: used to confirm moisture escape paths or potential gas seep locations  
-    Preparation: not collected - observed as terrain warning at microhabitat scale
+    Indicator of: shallow geothermal activity, mineral seepage, disrupted plant succession  
+    Limitations: desiccates quickly in sun; requires high ambient moisture  
+    Observation: presence confirms terrain instability or post-thermal soil turnover
 
 ZONE PRESENCE  
     Biomes: swamp, volcanic_slope
@@ -1830,22 +4178,23 @@ SCIENTIFIC NAME
 %%% flora/indicator/09_field_sedge.txt %%%
 
 NAME  
-    field_sedge - wiry grasslike plant marking compacted ground and seasonal dryness
+    field_sedge - narrow-bladed grasslike plant indicating compacted soil and seasonal surface runoff
 
 DESCRIPTION  
-    Field sedge is a short, tufted plant with narrow, stiff blades and triangular stems.  
-    It grows in open terrain with compacted soil and tolerates mild drought, indicating  
-    hardened surfaces and intermittent water stress. Its presence suggests shallow root  
-    penetration, trampling, or long-term grazing pressure.
+    Field sedge forms dense clumps in open terrain where water gathers and drains cyclically.  
+    Its narrow, upright leaves resemble coarse grass but grow in tighter clusters,  
+    often marking trails, depressions, or low-gradient runoff lines. The plant tolerates  
+    trampling and poor soil aeration, making it one of the first species to recolonize  
+    after disturbance or seasonal pooling.
 
-    Found in meadows, grasslands, and plains with light runoff and shallow water retention.  
-    Growth forms dense clumps that resist disturbance. Lacks flowering display;  
-    spreads primarily by underground rhizome. Color fades to grey or yellow in dry periods.
+    Presence indicates moderate moisture availability, compacted or clay-rich soil,  
+    and past hydrological activity. It grows along flood retreat paths, shallow drainage  
+    channels, or meadow basins that dry between wet seasons.
 
 USAGE  
-    Mirriane: used to evaluate pack routes and determine ground pressure from animal traffic  
-    Thea: observed for predicting prey movement across bottlenecks or hardened path margins  
-    Preparation: not harvested - observed in clump density and growth angles
+    Indicator of: compacted ground, former pooling zones, intermittent water flow  
+    Limitations: disappears in well-drained or shaded canopy terrain  
+    Observation: track alignment tool for runoff modeling and soil saturation memory
 
 ZONE PRESENCE  
     Biomes: plains, meadow
@@ -1856,23 +4205,23 @@ SCIENTIFIC NAME
 %%% flora/indicator/10_snowbed_willow.txt %%%
 
 NAME  
-    snowbed_willow - prostrate alpine shrub marking cold-locked terrain and persistent snow cover
+    snowbed_willow - ground-hugging alpine shrub indicating late-melting snow and permafrost buffering
 
 DESCRIPTION  
-    Snowbed willow is a creeping woody plant that hugs the ground in wind-scoured alpine zones.  
-    Its growth signals extended snow cover, minimal soil depth, and extreme cold retention.  
-    Presence suggests long seasonal frost and weak melt cycles, often near glacial margins or  
-    permanent ice shelf edges.
+    Snowbed willow is a dwarf-form willow that grows flat across tundra and glacial margins.  
+    It is adapted to extremely short growing seasons, appearing only in areas where snow  
+    persists late into thaw cycles. Its creeping structure and compact leaves  
+    help it retain warmth and moisture in permafrost-affected zones.
 
-    Found in tundra flats, ice shelf margins, and other high-exposure coldplate zones.  
-    Plants rarely exceed a few centimeters in height. Leaves are rounded and waxy,  
-    appearing briefly during thaw windows. Root systems are shallow, spreading laterally.  
-    Growth density reflects duration of seasonal exposure.
+    This species colonizes melt basins, shallow depressions, and cold wind-protected slopes.  
+    Its presence confirms annual snow accumulation and late ground thaw,  
+    typically in locations where deeper-rooted plants cannot survive.  
+    Often accompanied by mosses or freeze-adapted ferns.
 
 USAGE  
-    Mirriane: used to mark glacial edges and determine traversal risk or thermal loss zones  
-    Thea: avoids for trap placement - indicates poor coverage, low pressure, and extreme exposure  
-    Preparation: not harvested - read from low coverage and survival density in frostbound terrain
+    Indicator of: snowbed persistence, cryotic ground, seasonal melt flow from glacial overspill  
+    Limitations: absent in windswept ridges or well-drained alpine rock zones  
+    Observation: marks late-thaw basins and cold trap depressions for permafrost modeling
 
 ZONE PRESENCE  
     Biomes: tundra, ice_shelf
@@ -1939,23 +4288,23 @@ INDEXED ENTRIES
 %%% flora/medicinal/01_willow_bark.txt %%%
 
 NAME  
-    willow_bark - salicylate-rich bark used in poultice treatment for pain and inflammation
+    willow_bark - pain-reducing bark used for inflammation and field analgesia
 
 DESCRIPTION  
-    Willow is a deciduous tree or shrub with long, narrow leaves and flexible branches.  
-    The inner bark contains salicin, a natural compound that reduces pain and swelling  
-    when applied topically or infused. Stripped bark can be used in field treatments  
-    for muscle strain, bruising, and joint stress. Not suitable for internal use without refinement.
+    Willow bark is harvested from young branches and stems of the white willow.  
+    The inner bark contains salicin, a compound that reduces pain and inflammation  
+    when chewed or brewed. It is commonly used to manage fever, joint pain,  
+    or headache symptoms in low-resource settings.
 
-    Grows along rivers, lake margins, and lowland plains where water is consistent.  
-    Bark is harvested from young branches or twigs, avoiding damage to the trunk.  
-    Best gathered in spring or early thaw when sap begins to rise.  
-    Tannin content requires bark to be cured or boiled before application.
+    Bark should be gathered from flexible limbs during cool, dry conditions.  
+    Outer bark is stripped away to access the moist inner layer, which can  
+    be shaved, dried, or steeped. Effects are slow-acting and best suited for  
+    persistent discomfort rather than acute trauma.
 
 USAGE  
-    Mirriane: used in limb wrappings during cold exposure or after overdraw strain  
-    Thea: ground into paste for trapline bruising recovery or shared among wounded followers  
-    Preparation: strip bark with bone edge or nail, soak or simmer into pulp, apply warm
+    Used as: brewed infusion or chew for pain relief and anti-inflammatory effect  
+    Limitations: not suitable for internal bleeding or allergic individuals; high doses cause nausea  
+    Preparation: strip inner bark from young branch, dry or steep in warm water before use
 
 ZONE PRESENCE  
     Biomes: plains, flood_hollow, deciduous_forest
@@ -1966,22 +4315,23 @@ SCIENTIFIC NAME
 %%% flora/medicinal/02_yarrow.txt %%%
 
 NAME  
-    yarrow - flowering plant used for clotting and surface wound treatment
+    yarrow - aromatic leaf and flower used for clotting, swelling, and wound packing
 
 DESCRIPTION  
-    Yarrow is a perennial herb known for its feathery leaves and dense white or pink flower heads.  
-    It grows in dry grasslands, meadows, and disturbed open soil. The leaves contain compounds  
-    that promote clotting and have mild antiseptic properties. Crushed fresh, they can be applied  
-    directly to cuts and abrasions to slow bleeding and reduce surface infection risk.
+    Yarrow is a hardy herb with feathery leaves and small white flower clusters.  
+    It grows in open meadows and disturbed plains. The plant contains compounds  
+    that encourage blood clotting and reduce surface inflammation. Crushed leaves  
+    are used to pack shallow wounds, while flower infusions may ease skin irritation  
+    and reduce localized swelling.
 
-    The plant stands 30–60 cm tall with flat-topped inflorescences. Leaves are finely divided  
-    and aromatic when crushed. Flowering occurs in late season. It is often overlooked due to  
-    its soft appearance but is valued in field dressing kits.
+    The entire plant has a sharp, slightly bitter scent.  
+    Leaves should be taken before flowering for best potency.  
+    Flowers are collected dry for steeping or blending into compresses.
 
 USAGE  
-    Mirriane: leaves crushed and applied directly to cuts  
-    Thea: dried and folded into wound pack layers or ground into poultice binder  
-    Preparation: harvest flowering tops and upper leaves, use fresh or dry in shade for storage
+    Used as: wound pack, bruise dressing, floral infusion for minor swelling  
+    Limitations: loses effectiveness when wet-packed too long; not for deep punctures  
+    Preparation: crush fresh leaves for clotting, dry flowers for infusions or field poultice mix
 
 ZONE PRESENCE  
     Biomes: meadow, plains
@@ -1992,23 +4342,23 @@ SCIENTIFIC NAME
 %%% flora/medicinal/03_frost_spurge.txt %%%
 
 NAME  
-    frost_spurge - cold-zone plant with caustic sap used to sterilize wounds
+    frost_spurge - cold-tolerant herb used as blister agent and surface cauterant
 
 DESCRIPTION  
-    Frost spurge is a low, sprawling plant with narrow needle-like leaves and pale stems.  
-    It thrives in nutrient-poor, wind-exposed permafrost terrain. When cut, the plant  
-    releases a milky white sap that is chemically irritating. Applied carefully, this sap  
-    can be used to sterilize small wounds or kill surface parasites. Overuse causes skin damage.  
-    Gloves or cloth are recommended when harvesting.
+    Frost spurge is a small herbaceous plant with narrow leaves and milky sap.  
+    It grows close to the ground in exposed frost sink basins and tundra margins.  
+    The white latex exuded from broken stems acts as a mild irritant, historically used  
+    to cauterize shallow wounds, dry infections, or induce surface blistering.  
+    It is not consumed and must be applied with care.
 
-    Spurge forms dense mats close to the ground. Its stem tips often redden in late season.  
-    Animals avoid it, and it rarely grows near forageable flora. Active compounds remain  
-    stable in dry or frozen form.
+    The plant has a wiry branching structure and forms loose mats across gravel or permafrost.  
+    Sap is active even in cold conditions. Gloves or barrier tools are required  
+    during collection and application. Overuse causes skin burns or rash.
 
 USAGE  
-    Mirriane: sap applied to thorn wounds or to sterilize knife edges  
-    Thea: used sparingly in blade coating or on trap barbs to prevent rot  
-    Preparation: snip stem tip, express sap directly; store in bark wrap or absorbent cloth
+    Used as: external cauterant, blister stimulant, topical irritant for drying lesions  
+    Limitations: causes skin damage with prolonged contact; never apply to open tissue  
+    Preparation: break stem at base, allow sap to bead, apply carefully with stick or cloth tip
 
 ZONE PRESENCE  
     Biomes: frost_sink, tundra
@@ -2019,24 +4369,25 @@ SCIENTIFIC NAME
 %%% flora/medicinal/04_bush_weed.txt %%%
 
 NAME  
-    bush_weed - resinous herb used for sedation and pain dulling in recovery
+    bush_weed - multipurpose plant used for pain calming, ration additive, and fiber draw
 
 DESCRIPTION  
-    Bush weed is a coarse, upright-growing plant with sharply lobed, serrated leaves  
-    and a strong scent. Its dried leaves and flowering tops can be smoked or steeped  
-    to induce mild sedation, reduce pain, and ease muscle tension. Effects include  
-    slowed reflexes, lowered anxiety, and improved rest under field recovery conditions.  
-    It is not curative but useful for managing exhaustion and injury stress.
+    Bush weed is a tall, branching herb with coarse leaves, clustered seed heads,  
+    and a fibrous stalk. It grows rapidly in disturbed soils and meadow margins.  
+    Dried leaves and flowers may be burned or smoked in low doses for mild pain  
+    management, calming effect, or sleep induction. Seeds and leaves are also edible  
+    in small quantities and added to ration pastes for bulk and oil. The stalk produces  
+    a stringy fiber that can be drawn for rough cord or textile backing.
 
-    Grows in open soil with full sun exposure, often along disturbed clearings or  
-    the edge of mixed forests. Flowering tops exude a sticky resin when mature.  
-    Plants reach up to two meters in height and spread laterally when unharvested.  
-    Seeds are edible if roasted but not gathered for food in field use.
+    The plant has serrated palmate leaves and a strong scent.  
+    Leaf and flower potency declines after seeding. Stalks should be retted  
+    or soaked before fiber use. High intake of smoke or seed can impair clarity.
 
 USAGE  
-    Mirriane: smoked during rest periods or infused to assist post-exertion recovery  
-    Thea: added to bait preparations to dull enemy coordination or delay pursuit  
-    Preparation: dry upper leaves and flower bracts in shade; store sealed from light and moisture
+    Used as: low-grade smoke inhalant for calming or discomfort relief; ration bulk oil source;  
+             fiber draw material for cordage  
+    Limitations: overuse affects focus; raw fiber weak unless processed  
+    Preparation: dry leaves for burning or paste; crack seed in blend; soak stalk for fiber separation
 
 ZONE PRESENCE  
     Biomes: meadow, mixed_forest, hills
@@ -2047,24 +4398,23 @@ SCIENTIFIC NAME
 %%% flora/medicinal/05_bandage_lichen.txt %%%
 
 NAME  
-    bandage_lichen - fibrous pale lichen used for wrapping wounds and absorbing fluid
+    bandage_lichen - antiseptic lichen used for dressing wounds and preventing surface infection
 
 DESCRIPTION  
-    Bandage lichen is a soft, elastic growth found on bark and stone in high-altitude,  
-    clean-air environments. It forms light, tangled mats that are strong when dry and  
-    pliable when damp. Its structure wicks moisture from shallow cuts and protects  
-    against surface exposure. It is not adhesive but holds shape well when layered  
-    with bark or cord.
+    Bandage lichen is a pale green-grey fruticose lichen that grows in dry, cold zones  
+    along high ridgelines and exposed tundra surfaces. It contains usnic acid, a compound  
+    with antimicrobial properties, making it useful as a sterile field dressing.  
+    When applied directly, it suppresses bacterial growth and protects shallow abrasions  
+    or cuts from further exposure.
 
-    Often seen in wind-scoured terrain, it appears pale green or grey with branching  
-    threads. Best harvested dry, then rinsed before use. When clean, it can be packed  
-    directly over wounds or folded into layered wraps. Not edible and loses structure  
-    if burned or overheated.
+    The lichen hangs in strands from rock or wood and has a coarse, fibrous texture.  
+    It is best used dry and layered between cloth or bark to hold it in place.  
+    Growth is slow and should be harvested sparingly to avoid overcollection.
 
 USAGE  
-    Mirriane: wrapped around minor wounds or joints to reduce abrasion  
-    Thea: packed under compresses or used as poultice filler in cold zones  
-    Preparation: gather gently by hand, rinse in clean water, apply dry or damp
+    Used as: antimicrobial wound dressing, sterile layer in compress wraps  
+    Limitations: not suitable for deep wounds or where moisture will saturate it  
+    Preparation: collect dry from wood or stone, press flat into clean layer before applying
 
 ZONE PRESENCE  
     Biomes: tundra, unclimbable_ridge
@@ -2075,23 +4425,23 @@ SCIENTIFIC NAME
 %%% flora/medicinal/06_calendula_flower.txt %%%
 
 NAME  
-    calendula_flower - bright field bloom used for skin healing and topical inflammation reduction
+    calendula_flower - bright orange blossom used to reduce swelling and aid surface healing
 
 DESCRIPTION  
-    Calendula is a flowering herb with golden-orange petals arranged in concentric rings.  
-    The flower heads are rich in flavonoids and triterpenes, used in field infusions or  
-    poultices to reduce surface swelling, soothe burns, and accelerate skin recovery.  
-    Non-toxic and safe for external use. Not a sedative or painkiller.
+    Calendula is a low-growing flowering herb recognized for its vivid yellow to orange petals.  
+    It grows in disturbed soils and rocky margins with intermittent heat. The flower heads  
+    are harvested and dried for use in poultices, salves, and infusions. When applied topically,  
+    calendula may reduce inflammation, ease skin irritation, and promote slow tissue repair.  
+    It is commonly used to treat bruises, cracked skin, or light abrasions.
 
-    Grows in disturbed soil, open forest margins, and low volcanic slope clearings.  
-    Blooms seasonally and dies back in cold cycles. Petals are gathered fresh or  
-    dried under shade. Infusion has a mild earthy odor. Application is topical only.  
-    Ingesting large amounts may cause nausea.
+    The plant has rounded leaves and branching stems with a faint herbal scent.  
+    Flowers are best gathered before full opening and dried in shade.  
+    It is not a strong analgesic but provides surface relief and antiseptic support.
 
 USAGE  
-    Mirriane: used to treat arrow friction burns, bow-hand blistering, or sun-exposed skin  
-    Thea: added to poultice layers for wound sealing and shallow burn recovery  
-    Preparation: remove petals, crush gently, apply as wet mass or steep in cooled water for rinse
+    Used as: poultice material, salve additive, or infusion for mild skin irritation  
+    Limitations: not effective for internal or deep-tissue injury  
+    Preparation: dry flower heads, steep in oil or water, apply topically or bind in cloth wrap
 
 ZONE PRESENCE  
     Biomes: deciduous_forest, volcanic_slope
@@ -2102,25 +4452,23 @@ SCIENTIFIC NAME
 %%% flora/medicinal/07_tinder_fungus.txt %%%
 
 NAME  
-    tinder_fungus - shelf fungus used for wound drying, cauterization prep, and firestarting
+    tinder_fungus - bracket fungus used for drying wounds and reducing surface infection
 
 DESCRIPTION  
-    Tinder fungus refers to the fruiting body of *Fomes fomentarius*,  
-    a hard, hoof-shaped shelf fungus found on dead or dying trees.  
-    It has a dry, fibrous core that absorbs moisture and blood,  
-    making it useful for field dressings where no cloth is available.  
-    When processed and dried, it also takes and holds a spark,  
-    allowing dual use as both wound pack and ignition starter.
+    Tinder fungus is a hard, hoof-shaped polypore that grows on birch and other hardwoods.  
+    Though often associated with fire-starting, its inner flesh has traditional use in drying  
+    shallow wounds and reducing microbial load. The sterile layer can be shaved into strips  
+    or flakes and applied as a semi-dry barrier or compress insert. It inhibits surface  
+    contamination while allowing airflow to damaged tissue.
 
-    Grows on hardwood trunks, especially birch or beech, in cool forest zones.  
-    The outer rind is grey and hard; the inner flesh is brown and layered.  
-    Can be sliced into flat pads when fresh, then dried for storage or use.  
-    Must be removed from host tree with a knife or wedge.
+    The fruiting body is brown and woody on the outside, with a soft tan interior.  
+    Collection is safest from standing or freshly fallen trunks. Older specimens may be  
+    insect-infested or too rigid to use.
 
 USAGE  
-    Mirriane: shaved and dried for firestarting or packed against abrasions  
-    Thea: crushed and folded into delayed cauterant wraps or trap igniters  
-    Preparation: cut from trunk, slice through core, dry fully before carrying
+    Used as: wound-drying pad, field dressing insert, or antiseptic layer in bandage stack  
+    Limitations: ineffective when wet; outer crust must be removed before use  
+    Preparation: slice inner layer into flat strips, press lightly onto clean surface, bind securely
 
 ZONE PRESENCE  
     Biomes: deciduous_forest
@@ -2131,22 +4479,23 @@ SCIENTIFIC NAME
 %%% flora/medicinal/08_cladophora_algae.txt %%%
 
 NAME  
-    cladophora_algae - filamentous green algae used for poultice hydration and cooling wraps
+    cladophora_algae - filamentous freshwater algae used for cooling and surface moisture buffering
 
 DESCRIPTION  
-    Cladophora algae forms dense green mats in shallow, slow-moving freshwater.  
-    It has a soft, thread-like structure and holds moisture without breaking down quickly.  
-    In survival use, it is packed into cloth or bark to cool inflamed skin, reduce surface heat,  
-    and keep poultices hydrated. It has no antiseptic property, but helps retain applied salves.
+    Cladophora is a bright green, hair-like algae found in cool, slow-moving freshwater zones.  
+    It forms dense mats on submerged rocks, shallow lakebeds, or shaded shorelines.  
+    When cleaned and applied fresh, it serves as a temporary cooling layer on bruises,  
+    mild burns, or heat-swollen injuries. Though not antiseptic, it transfers heat away  
+    from tissue and retains surface moisture.
 
-    Found along lake edges, stagnant channels, and wetland pools. It floats in loose sheets  
-    or clings to submerged rock and vegetation. Easily harvested by hand.  
-    Must be rinsed thoroughly to remove insects or sediment. Spoils rapidly if left warm or enclosed.
+    The algae is slippery and fibrous, with strands that clump into pads when handled.  
+    Harvest is easiest by hand at waterline margins or from stable submerged stone.  
+    Must be cleaned thoroughly to remove silt and insect larvae.
 
 USAGE  
-    Mirriane: applied to overheated skin or swelling after extended exertion  
-    Thea: wrapped around poultice core to regulate temperature and slow drying  
-    Preparation: collect by hand, rinse with clean water, apply wet or chilled
+    Used as: field-cooled compress, surface swelling reducer, moisture-retentive wrap base  
+    Limitations: non-sterile unless boiled; not suitable for open wounds  
+    Preparation: rinse in clean water, apply directly to skin, bind with cloth if needed
 
 ZONE PRESENCE  
     Biomes: lake, flood_hollow, swamp
@@ -2157,23 +4506,22 @@ SCIENTIFIC NAME
 %%% flora/medicinal/09_plantain_leaf.txt %%%
 
 NAME  
-    plantain_leaf - broadleaf plant used to reduce inflammation and draw out skin irritants
+    plantain_leaf - broad-leafed herb used to draw out irritation and support clotting
 
 DESCRIPTION  
-    Plantain is a low-growing herb with wide, oval leaves and deep parallel veins.  
-    The leaves can be crushed and applied directly to insect stings, shallow cuts,  
-    or skin irritation to reduce inflammation and promote minor healing.  
-    It is also chewed and applied as a spit poultice for quick relief in the field.  
-    Plantain is one of the most accessible and widely tolerated survival plants.
+    Plantain is a low-growing herb with broad, ribbed leaves that grow in basal clusters.  
+    It thrives in disturbed soils, path margins, and moist ground. The leaves contain compounds  
+    that reduce itching, draw out minor stings or embedded grit, and slow external bleeding.  
+    Crushed fresh leaves are applied directly to bites, scrapes, or shallow cuts as a field poultice.
 
-    Found in meadows, disturbed clearings, and along paths.  
-    Leaves grow in a rosette at the base and regenerate quickly when harvested.  
-    Does not store well unless dried flat. Loses strength if exposed to heat.
+    The plant is easy to recognize by its oval leaves and parallel veins.  
+    Young leaves are most effective and should be rinsed before application.  
+    It is not useful for internal treatment or for puncture wounds.
 
 USAGE  
-    Mirriane: chewed and applied to bites or minor abrasions during travel  
-    Thea: dried and packed into skin-layer wraps for slow-release contact treatment  
-    Preparation: harvest outer leaves, rinse clean, use fresh or dry flat in shade
+    Used as: fresh poultice for insect bites, surface cuts, and clotting support  
+    Limitations: ineffective once dried; not a disinfectant  
+    Preparation: rinse leaf, crush by hand or stone, bind against affected area with wrap
 
 ZONE PRESENCE  
     Biomes: meadow, wet_slope
@@ -2184,24 +4532,22 @@ SCIENTIFIC NAME
 %%% flora/medicinal/10_comfrey_root.txt %%%
 
 NAME  
-    comfrey_root - thick healing root used to promote tissue recovery and bone stabilization
+    comfrey_root - fibrous root used for bone-set poultice and swelling reduction
 
 DESCRIPTION  
-    Comfrey is a perennial herb with large, bristled leaves and thick tapering roots.  
-    The root contains allantoin, a compound known to support cell regeneration and  
-    reduce inflammation. When grated or pulped, it forms a dense paste that can be  
-    packed against bruises, sprains, or fractured areas to promote healing.  
-    Not for internal use. Overuse may cause liver stress due to pyrrolizidine alkaloids.
+    Comfrey is a perennial herb with large hairy leaves and thick tapering roots.  
+    The root contains allantoin, a compound believed to promote cell repair and reduce  
+    swelling. It is traditionally mashed into a wet poultice and applied to sprains,  
+    bruises, or bone-setting wraps to stabilize and support external recovery.
 
-    Comfrey grows in moist, nutrient-rich soil near seasonal flood zones or meadow margins.  
-    Its leaves are large and hairy with a pronounced midrib. Flowers are tubular and  
-    range from purple to white. Roots are black on the outside and creamy within.  
-    Should be harvested from second-year plants for highest compound concentration.
+    The plant grows in moist, open ground and produces bell-shaped purple flowers.  
+    Roots are dark on the outside and pale inside, harvested in late season for maximum potency.  
+    Not consumed due to risk of liver damage when taken internally.
 
 USAGE  
-    Mirriane: grated root packed over joint sprains or bow arm tension injuries  
-    Thea: mashed into field poultice binder for use in deep-tissue trap wounds  
-    Preparation: scrub and peel root, crush into pulp, apply as wet mass or mix with wrap filler
+    Used as: ground poultice for bruising, sprains, or external bone support  
+    Limitations: not suitable for open wounds; internal use discouraged  
+    Preparation: dig and scrub root, slice and mash into wet paste, apply with cloth or bark backing
 
 ZONE PRESENCE  
     Biomes: meadow, flood_hollow
@@ -2267,24 +4613,23 @@ INDEXED ENTRIES
 %%% flora/poisons/01_hemlock_root.txt %%%
 
 NAME  
-    hemlock_root - neurotoxic taproot used for sedative baiting and lethal coatings
+    hemlock_root - neurotoxic root used in bait tampering and slow-field sedation
 
 DESCRIPTION  
-    Hemlock is a tall, hollow-stemmed plant with finely divided leaves and small white  
-    umbrella-shaped flowers. The root contains potent alkaloids, primarily coniine,  
-    which cause progressive paralysis and respiratory failure. All parts are toxic,  
-    but the root is most concentrated and traditionally used in sedative-laced bait  
-    or blade coatings. Handling should be done with barrier material.
+    Hemlock is a tall, hollow-stemmed herb with finely divided leaves and  
+    white umbel flowers. Its taproot contains coniine, a potent neurotoxin  
+    that disrupts muscle control and respiratory rhythm when ingested.  
+    The root is odorless and mildly sweet when cut, making it effective for  
+    bait interference or low-profile field dosing.
 
-    Grows in moist lowland zones with high seasonal runoff or standing water.  
-    Root is pale, tapering, and sometimes mistaken for edible wild parsnip.  
-    Best harvested after flowering. Extremely dangerous if ingested unintentionally.  
-    Odor is strong and mouse-like when fresh.
+    Found in damp lowland margins and stillwater basins, often misidentified  
+    as wild carrot. Roots are pale and branching, best harvested before flowering.  
+    The toxin acts gradually depending on dose and delivery method.
 
 USAGE  
-    Mirriane: mixed into bait residue or applied in trace to arrow fletch seams  
-    Thea: used for paralytic trap-lacing or mixed into tissue-targeted toxin packs  
-    Preparation: dig carefully, rinse with gloves or bark, air-dry root segments in shade; store sealed
+    Used as: bait additive, sedative dose agent, or slow-field immobilizer  
+    Limitations: not effective on contact; lethal if mismeasured  
+    Preparation: scrub and grate root, dry or pulp into mash; apply with care to target medium
 
 ZONE PRESENCE  
     Biomes: flood_hollow, lake, swamp
@@ -2295,24 +4640,23 @@ SCIENTIFIC NAME
 %%% flora/poisons/02_wolfsbane.txt %%%
 
 NAME  
-    wolfsbane - cardiac toxin used for bladed traps, delayed kill coatings, or terminal bait
+    wolfsbane - fast-acting neurotoxic herb used in dart coating and fatal baitwork
 
 DESCRIPTION  
-    Wolfsbane is a tall perennial herb with hooded purple-blue flowers and deeply  
-    lobed leaves. All parts contain aconitine, a fast-acting neurotoxin that disrupts  
-    heart rhythm and nerve conduction. Traditionally used in arrow poison and  
-    lethal baiting. Toxin absorbs through skin and mucous - gloves are required  
-    when handling raw plant or extract.
+    Wolfsbane is a tall herbaceous plant with deeply cut leaves and hooded purple-blue flowers.  
+    All parts contain aconitine, a highly potent alkaloid that affects nerve transmission  
+    and cardiac rhythm. Exposure through ingestion or open wounds can lead to paralysis or death.  
+    It is most effective when concentrated in liquid form or used as a contact toxin.
 
-    Found in cold, shaded slopes and moisture-rich forest bands.  
-    Plants grow from underground tubers and flower in late season.  
-    Common near highland water runoffs. Root and flower are most potent.  
-    Toxin degrades in heat; must be preserved cool and dry if powdered.
+    Found in moist, shaded slopes and evergreen margins.  
+    Roots and flowers contain the highest toxin levels.  
+    Harvesting must be done with full hand protection; absorption through skin is possible.  
+    Processing into usable extract requires minimal heat and dilution with inert binder.
 
 USAGE  
-    Mirriane: applied to bladed arrowheads or used for last-shot kill delay  
-    Thea: crushed and sealed into meat baits or bound into puncture trap grooves  
-    Preparation: harvest whole plant with stem intact, air-dry, crush tuber or flower and apply directly
+    Used as: dart coating, ingestion poison, or lethal trap application  
+    Limitations: high volatility; exposure risk during harvest and handling  
+    Preparation: grind root or flower, suspend in liquid base, bind to delivery medium; avoid skin contact
 
 ZONE PRESENCE  
     Biomes: wet_slope, evergreen_forest
@@ -2323,24 +4667,23 @@ SCIENTIFIC NAME
 %%% flora/poisons/03_belladonna.txt %%%
 
 NAME  
-    belladonna - sedative and deliriant used in disruption traps or target disorientation
+    belladonna - sedative berry-bearing plant used for disorientation and field incapacitation
 
 DESCRIPTION  
-    Belladonna is a branching herbaceous plant with dull green leaves and dark purple berries.  
-    It contains tropane alkaloids, including atropine and scopolamine, which interfere with  
-    nerve signaling and can induce blurred vision, confusion, and slowed response time.  
-    Low doses may disorient or sedate; higher doses cause paralysis or hallucination.  
-    Highly toxic if ingested.
+    Belladonna is a leafy perennial with dull green foliage, bell-shaped purple flowers,  
+    and glossy black berries. All parts of the plant contain tropane alkaloids, primarily atropine,  
+    which interfere with neural signaling. Ingestion in small doses causes blurred vision, confusion,  
+    and slowed reaction time; higher exposure results in unconsciousness or respiratory failure.
 
-    Found in forest understories with partial shade and loose soil.  
-    Grows up to 1.5 meters tall. Berries are glossy, round, and deceptively sweet-looking.  
-    Roots and leaves also contain active compounds. Toxin is fat-soluble;  
-    care must be taken to avoid contact with eyes or broken skin.
+    Grows in shaded forest margins and fertile deciduous undergrowth.  
+    Berries are the most concentrated delivery form, easily mistaken for edible fruit.  
+    Root and leaf matter can also be dried and ground for controlled dispersal.  
+    Effects vary widely based on preparation and individual tolerance.
 
 USAGE  
-    Mirriane: dried and ground for contact poison or low-dose bait tainting  
-    Thea: used in confusion-based traps or infused into decoys to slow pursuit  
-    Preparation: collect whole plant, dry in low light, crush berry or leaf into powder or infusion
+    Used as: sedative agent in bait or ration tamper, hallucination inducer, field disabler  
+    Limitations: delayed onset; dosage sensitive; permanent effects possible in high exposure  
+    Preparation: harvest ripe berries or dry root/leaf; pulp or grind into carrier base before delivery
 
 ZONE PRESENCE  
     Biomes: mixed_forest, deciduous_forest
@@ -2351,24 +4694,22 @@ SCIENTIFIC NAME
 %%% flora/poisons/04_bloodroot.txt %%%
 
 NAME  
-    bloodroot - blistering root compound used in topical irritant traps and forced movement zones
+    bloodroot - caustic root used for skin disruption and blister-field deterrent
 
 DESCRIPTION  
-    Bloodroot is a low forest plant with rounded leaves and white flowers.  
-    Its thick underground rhizome produces a red-orange sap containing sanguinarine,  
-    an alkaloid that causes skin irritation, tissue necrosis, or blistering on contact.  
-    The sap is used to flush targets from hiding, trigger forced movement,  
-    or prevent repeated use of paths and cover.
+    Bloodroot is a small forest herb with single-lobed leaves and white spring flowers.  
+    Its thick rhizome exudes a red-orange sap containing sanguinarine, a cytotoxic alkaloid  
+    that destroys surface tissue on contact. Applied topically, the sap induces blistering,  
+    inflammation, and tissue necrosis. Not intended for ingestion—internal use is highly toxic.
 
-    Found in shaded slopes or wooded hillsides.  
-    Emerges early in season and dies back by high heat.  
-    Sap is extracted by slicing root while fresh.  
-    Potency fades once dried; best used within a day unless preserved in fat or wax.
+    Found in deciduous forest floors and rocky upland slopes.  
+    Rhizomes grow horizontally beneath shallow soil and must be cut to activate sap flow.  
+    The plant should be processed immediately after harvest to retain potency.
 
 USAGE  
-    Mirriane: applied to arrow shafts to trigger skin pain or grip loss  
-    Thea: packed into tripline vents or folded into foliage bait along ambush corridors  
-    Preparation: dig root, slice open, express fluid into wrap or smear directly onto delivery surface
+    Used as: blister trap component, surface irritant for repellents, field marker paste  
+    Limitations: causes permanent scarring; ineffective when dried; dangerous if inhaled or ingested  
+    Preparation: slice fresh rhizome and collect sap; apply with bone or bark tool to contact surface
 
 ZONE PRESENCE  
     Biomes: deciduous_forest, hills
@@ -2379,24 +4720,23 @@ SCIENTIFIC NAME
 %%% flora/poisons/05_cowbane.txt %%%
 
 NAME  
-    cowbane - convulsant neurotoxin used in lethal baiting and immobilization traps
+    cowbane - highly toxic wetland root used for lethal bait and ingestion disruption
 
 DESCRIPTION  
-    Cowbane is a tall, grasslike plant with thick stems and small white flower clusters.  
-    It contains cicutoxin, a highly potent compound that causes muscle spasms,  
-    tremors, and respiratory failure when ingested. Toxin acts rapidly, often within minutes.  
-    Roots are most dangerous but all parts are toxic. Typically used in bait-based traps  
-    or crushed into short-delay kill coatings.
+    Cowbane is a tall, hollow-stemmed plant resembling wild carrot,  
+    growing in saturated wetlands and lake margins. Its roots contain cicutoxin,  
+    a fast-acting neurotoxin that induces convulsions, respiratory failure,  
+    and death when ingested. The toxin affects central nervous system signaling  
+    and is particularly potent in root material during early growth cycles.
 
-    Grows in standing water, shallow swamps, and wet margins of lakes.  
-    Leaves are divided and resemble parsley or wild carrot.  
-    Root has a strong odor and may be mistaken for edible tubers.  
-    Even handling raw root may cause absorption through skin.
+    The plant has finely divided leaves and white umbel flowers.  
+    Roots are pale, segmented, and carrot-like but exude a yellowish sap when cut.  
+    Safe handling requires gloves; toxic compounds may transfer through skin cracks or mucous contact.
 
 USAGE  
-    Mirriane: minced into animal bait or smeared at trail convergence points  
-    Thea: loaded into pressure-activated barbs or tissue-piercing spikebeds  
-    Preparation: harvest with bark or cloth barrier, wash root, crush and bind; do not expose to heat
+    Used as: lethal bait tamper, small-dose ration disruptor, neurotoxic pulp agent  
+    Limitations: rapid onset makes dosage control difficult; not contact-effective  
+    Preparation: extract root, rinse, slice thin; mash or suspend in neutral base for target delivery
 
 ZONE PRESENCE  
     Biomes: swamp, lake
@@ -2407,51 +4747,50 @@ SCIENTIFIC NAME
 %%% flora/poisons/06_devils_club.txt %%%
 
 NAME  
-    devils_club - thorn-covered stem used for forced movement traps and area denial
+    devils_club - spined shrub with irritant sap used for barrier disruption and trap reinforcement
 
 DESCRIPTION  
-    Devil’s club is a large, woody shrub covered in sharp spines along its stems  
-    and undersides of broad leaves. The thorns cause puncture wounds, embed easily,  
-    and may introduce mild irritants that lead to inflammation or infection.  
-    Commonly used to block trail access, protect caches, or inflict disabling injury  
-    in close-range traps.
+    Devil’s club is a large, woody shrub covered in brittle yellow spines that fracture  
+    on contact. It grows in dense forest undergrowth and moist hillside terrain.  
+    The plant's outer surface delivers mechanical injury, while its inner sap  
+    contains mild irritants that cause inflammation and rash on broken skin.  
+    When processed, the stalk can be sharpened for use in trap triggers or  
+    left whole to create entry deterrents.
 
-    Found in dense, humid forest underlayers and slope margins.  
-    Reaches over two meters in height. Leaves are wide and palmate,  
-    resembling maple. Thick stalks snap cleanly when dry but retain spine structure.  
-    Direct contact should be avoided without layered protection.
+    The plant features broad palmate leaves and red berry clusters.  
+    Spines cover every part, including leaf stems and upper root crowns.  
+    Handling without protection leads to embedded spines and delayed swelling.
 
 USAGE  
-    Mirriane: layered across narrow gaps or used as thorn backing on ground traps  
-    Thea: bound into tripline lashes or folded under foliage cover near kill zones  
-    Preparation: harvest with bark gloves, strip into panels, bind while fresh, dry flat if stored
+    Used as: physical deterrent, spined trap anchor, or irritant-layer for path defense  
+    Limitations: ineffective on heavy clothing; brittle when dry  
+    Preparation: harvest live stalks, sharpen if needed, bind with cordage or embed in trigger matrix
 
 ZONE PRESENCE  
     Biomes: mixed_forest, hills
 
 SCIENTIFIC NAME  
     Oplopanax horridus
+
+
 %%% flora/poisons/07_white_snakeroot.txt %%%
 
 NAME  
-    white_snakeroot - slow-acting toxin transferred through contaminated prey tissue
+    white_snakeroot - toxic herb used for bait poisoning and muscle paralysis
 
 DESCRIPTION  
-    White snakeroot is a medium-height herb with flat clusters of white flowers and  
-    pointed leaves. It contains tremetol, a toxin that passes through animal tissue  
-    and causes nausea, fatigue, and long-term weakness in those who consume tainted meat.  
-    Used for delayed poisoning, especially in traps that allow wounded animals to escape  
-    and be recovered later after onset.
+    White snakeroot is a perennial herb with hairy stems, serrated leaves, and small white flowers.  
+    It contains tremetol, a potent toxin causing muscle weakness and tremors when ingested.  
+    The toxin accumulates in animal tissues and can poison predators or scavengers feeding on contaminated carcasses.  
+    The plant grows in mixed forests and badlands, often under partial canopy.
 
-    Found in partial shade along forest edges or disturbed slopes.  
-    Plants flower late in the season and grow in scattered clumps.  
-    Toxin is stable in dry or dead material and remains effective after ingestion  
-    by herbivores or small mammals. Not useful in contact or coating form.
+    Harvest involves cutting flowering stems before seed set to maximize toxin concentration.  
+    Toxicity is stable in dried plant matter and can be transferred through bait or trap coatings.
 
 USAGE  
-    Mirriane: left in herbivore feeding grounds to disrupt hunting competitors  
-    Thea: packed into bait near wound-based traps or tied into animal feed bundles  
-    Preparation: collect leaves or stems, dry if needed, distribute around targeted ground
+    Used as: bait poison, muscle paralytic agent, toxin for scavenger disruption  
+    Limitations: toxin requires ingestion or prolonged contact; ineffective as contact irritant  
+    Preparation: harvest stems and flowers, dry completely, grind to powder or pulp for application
 
 ZONE PRESENCE  
     Biomes: mixed_forest, badlands
@@ -2462,24 +4801,22 @@ SCIENTIFIC NAME
 %%% flora/poisons/08_baneberry.txt %%%
 
 NAME  
-    baneberry - cardio-depressant berry used in lethal bait or delayed disruption
+    baneberry - toxic berry-producing shrub used for bait disruption and mild neurotoxic effects
 
 DESCRIPTION  
-    Baneberry is a low woodland plant with divided leaves and clustered berries.  
-    The berries contain cardiogenic toxins that slow heart rate, disrupt muscle coordination,  
-    and induce vomiting or collapse. In small doses, effects are delayed and subtle;  
-    in concentrated form or quantity, fatal to small prey. Berries are visually attractive  
-    and often mistaken for edible fruit.
+    Baneberry is a woodland shrub producing clusters of glossy red or white berries.  
+    The plant contains cardiogenic toxins that affect heart rhythm and nervous system function.  
+    Berries are brightly colored to attract animals but are highly poisonous if ingested.  
+    The plant grows in shaded evergreen forests and wet slopes.
 
-    Grows in moist, shaded forest zones with loose soil.  
-    Red or white berries appear late in the cycle and persist into early frost.  
-    Leaves are deeply serrated and slightly hairy. Root and stem are also toxic,  
-    but less potent than berries. Toxin is stable once dried or pulped.
+    Berries and roots contain the highest concentration of toxins.  
+    Handling berries may cause mild skin irritation.  
+    Harvesting is hazardous due to the shrub’s low growth and toxic fruit.
 
 USAGE  
-    Mirriane: crushed into smear for lure trails or scent masking  
-    Thea: embedded into baitballs or dried and concealed within decay traps  
-    Preparation: collect whole berry clusters, dry or pulp, store in bark wrap or sealed pouch
+    Used as: bait contamination, mild neurotoxin delivery, or deterrent paste component  
+    Limitations: ingestion causes cardiac distress; toxins not absorbed through intact skin  
+    Preparation: collect ripe berries with care, dry or crush into paste for bait application
 
 ZONE PRESENCE  
     Biomes: evergreen_forest, wet_slope
@@ -2490,24 +4827,21 @@ SCIENTIFIC NAME
 %%% flora/poisons/09_thorn_apple.txt %%%
 
 NAME  
-    thorn_apple - deliriant seedpod used for disruption, confusion, or bait disorientation
+    thorn_apple - toxic nightshade producing anticholinergic berries for bait and disruption
 
 DESCRIPTION  
-    Thorn apple is a fast-growing herbaceous plant with trumpet-shaped flowers  
-    and spiked seedpods. It contains tropane alkaloids such as scopolamine and atropine,  
-    which interfere with memory, balance, and perception. Ingested in low doses,  
-    it causes confusion and motor disruption. In higher doses, may induce delirium or collapse.  
-    Not stable under heat; best used raw or in cool preparation.
+    Thorn apple is a fast-growing nightshade shrub with large, lobed leaves and trumpet-shaped white or purple flowers.  
+    Its berries contain atropine, scopolamine, and hyoscyamine alkaloids that induce hallucination, paralysis, and respiratory failure at high doses.  
+    The plant is native to open plains and badlands with well-drained soils.
 
-    Found in disturbed ground, field margins, and nutrient-poor soil.  
-    Grows low and wide with spreading leaves and prominent white or violet flowers.  
-    Seedpods are round and covered in stiff thorns. All parts are toxic,  
-    but seed pulp is the most potent. Odor is faintly bitter when crushed.
+    Berries are ripe in late summer and highly toxic.  
+    Leaves and seeds also contain active compounds but in lower concentrations.  
+    Handling requires care to avoid ingestion or contact with mucous membranes.
 
 USAGE  
-    Mirriane: ground into paste for arrow smear or leaf wraps targeting control animals  
-    Thea: seeded into misdirection bait or dispersed into campfire coals for confusion onset  
-    Preparation: gather mature pods, split, remove seeds, dry in shade, grind into coarse powder
+    Used as: bait toxin, anticholinergic disruptor, or incapacitating agent in field traps  
+    Limitations: high risk to handler; effects delayed but severe; dosage control critical  
+    Preparation: harvest ripe berries, dry carefully, grind or mash for bait or coating
 
 ZONE PRESENCE  
     Biomes: plains, badlands
@@ -2518,23 +4852,21 @@ SCIENTIFIC NAME
 %%% flora/poisons/10_water_hemlock.txt %%%
 
 NAME  
-    water_hemlock - high-potency neurotoxin used for kill traps and bait targeting small game
+    water_hemlock - highly toxic wetland root used in lethal bait and disruption traps
 
 DESCRIPTION  
-    Water hemlock is a tall, hollow-stemmed plant with umbrella-shaped clusters of white flowers.  
-    It contains cicutoxin, a fast-acting neurotoxin that causes violent convulsions,  
-    respiratory failure, and death. The root and lower stem hold the highest concentration.  
-    Used for lethal bait preparation or high-fatality traps. Must be handled with extreme caution.
+    Water hemlock is a perennial herbaceous plant with hollow, grooved stems and compound leaves.  
+    It thrives in swampy and floodplain environments. The root contains cicutoxin, a potent neurotoxin  
+    that causes violent convulsions and rapid death when ingested. The plant’s sap is also toxic  
+    but less concentrated than root extracts.
 
-    Found along water margins, flood basins, and stagnant wetland edges.  
-    Roots are thick and chambered, sometimes confused with edible tubers.  
-    Odor is sharp and oily when cut. Toxicity remains in dried or aged specimens.  
-    Causes death in small animals within minutes of ingestion.
+    Found primarily in flood hollows and swamp biomes. Identification is critical due to similarity  
+    with edible water parsnip. Harvesting roots requires caution and protective tools.
 
 USAGE  
-    Mirriane: traced onto arrowheads or left in surface bait for predator interference  
-    Thea: core component in spring barbs, wound-channel lures, or shallow pit traps  
-    Preparation: harvest with bark barrier or wrapped blade, slice root, dry under airflow; never expose open skin
+    Used as: lethal bait agent, ingestion poison, neurotoxic disruption tool  
+    Limitations: toxic only when ingested; handling risks due to sap exposure  
+    Preparation: excavate roots carefully, clean thoroughly, mash or blend into bait medium
 
 ZONE PRESENCE  
     Biomes: flood_hollow, swamp

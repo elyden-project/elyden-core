@@ -1,20 +1,22 @@
 NAME  
-    horsetail_fern - segmented wetland plant marking ancient water paths and mineral-rich ground
+    horsetail_fern - segmented wetland fern indicating silty floodplain and shallow subsurface water
 
 DESCRIPTION  
-    Horsetail is a jointed, hollow-stemmed plant with whorled branches that grow in clusters.  
-    It thrives in saturated soil with high silica content and often follows historical runoff paths.  
-    Its presence indicates persistent moisture, shallow groundwater, or subsurface mineral leaching.  
-    Not found in dry or high-slope terrain.
+    Horsetail is a primitive vascular plant with jointed, hollow stems  
+    and radial stem whorls. It thrives in saturated soils along lake margins,  
+    drainage paths, and periodically flooded hollows. Its presence indicates  
+    high silt content, shallow seasonal saturation, and mineral runoff deposition.
 
-    Grows along lake margins, seasonal flood zones, and low ridges with poor drainage.  
-    Height varies from knee-high to waist-height depending on age and exposure.  
-    Stems snap easily when dry and leave ringed segments behind. Reproduces by underground rhizomes.
+    Horsetail colonies expand by underground rhizomes and can spread rapidly  
+    after disturbance or water fluctuation. Above-ground stalks are stiff,  
+    ridged, and dark green with a bristled surface texture. Growth is highly  
+    sensitive to drainage and soil composition, making it useful for  
+    reading terrain transitions in waterlogged zones.
 
 USAGE  
-    Mirriane: used to detect historical flood edges or safe crossing routes  
-    Thea: marks potential sediment traps or animal watering trails  
-    Preparation: not collected - used visually to trace wetland margins and seasonal runoff
+    Indicator of: silty or mineral-rich wetland soil, high seasonal moisture, low gradient runoff  
+    Limitations: presence may fade in prolonged dry cycles or near dense canopy  
+    Observation: growth signals sediment-rich flood history and shallow groundwater access
 
 ZONE PRESENCE  
     Biomes: lake, flood_hollow

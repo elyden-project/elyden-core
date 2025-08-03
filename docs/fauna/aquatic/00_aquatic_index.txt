@@ -1,0 +1,66 @@
+NAME  
+    aquatic_index - water-bound and semi-aquatic fauna inhabiting lakes, swamps, and runoff zones
+
+DESCRIPTION  
+    Aquatic fauna include fish, amphibians, reptiles, and semi-submerged mammals.  
+    These species reside in or near water bodies and are encountered along shorelines,  
+    flood zones, or submerged terrain. Most are forageable using traps, spears, or direct hand retrieval.
+
+    Movement and yield vary with water temperature, flow, and clarity.  
+    Some species are nocturnal or responsive to geothermal cycles.  
+    Presence may indicate water stability, forage density, or surface disruption.
+
+    Entry files document harvest method, biome constraints, and behavioral rhythm.  
+    All organisms are grounded in real-world analogs. No symbolic or hybrid species are used.
+
+INDEXED ENTRIES
+
+    northern_pike  
+        Size: Medium  
+        Biomes: lake, flood_hollow  
+        Scientific Name: Esox lucius
+
+    brown_trout  
+        Size: Medium  
+        Biomes: lake, wet_slope  
+        Scientific Name: Salmo trutta
+
+    freshwater_eel  
+        Size: Medium  
+        Biomes: swamp, lake  
+        Scientific Name: Anguilla rostrata
+
+    muskrat  
+        Size: Small  
+        Biomes: lake, swamp  
+        Scientific Name: Ondatra zibethicus
+
+    bullfrog  
+        Size: Small  
+        Biomes: swamp, flood_hollow  
+        Scientific Name: Lithobates catesbeianus
+
+    common_toad  
+        Size: Small  
+        Biomes: wet_slope, flood_hollow  
+        Scientific Name: Bufo bufo
+
+    northern_water_snake  
+        Size: Small  
+        Biomes: swamp, lake  
+        Scientific Name: Nerodia sipedon
+
+    pond_turtle  
+        Size: Medium  
+        Biomes: lake, flood_hollow  
+        Scientific Name: Emys orbicularis
+
+    crayfish  
+        Size: Tiny  
+        Biomes: lake, swamp  
+        Scientific Name: Faxonius virilis
+
+    river_otter  
+        Size: Medium  
+        Biomes: lake, flood_hollow  
+        Scientific Name: Lontra canadensis

@@ -1,22 +1,20 @@
 NAME  
-    baneberry - cardio-depressant berry used in lethal bait or delayed disruption
+    baneberry - toxic berry-producing shrub used for bait disruption and mild neurotoxic effects
 
 DESCRIPTION  
-    Baneberry is a low woodland plant with divided leaves and clustered berries.  
-    The berries contain cardiogenic toxins that slow heart rate, disrupt muscle coordination,  
-    and induce vomiting or collapse. In small doses, effects are delayed and subtle;  
-    in concentrated form or quantity, fatal to small prey. Berries are visually attractive  
-    and often mistaken for edible fruit.
+    Baneberry is a woodland shrub producing clusters of glossy red or white berries.  
+    The plant contains cardiogenic toxins that affect heart rhythm and nervous system function.  
+    Berries are brightly colored to attract animals but are highly poisonous if ingested.  
+    The plant grows in shaded evergreen forests and wet slopes.
 
-    Grows in moist, shaded forest zones with loose soil.  
-    Red or white berries appear late in the cycle and persist into early frost.  
-    Leaves are deeply serrated and slightly hairy. Root and stem are also toxic,  
-    but less potent than berries. Toxin is stable once dried or pulped.
+    Berries and roots contain the highest concentration of toxins.  
+    Handling berries may cause mild skin irritation.  
+    Harvesting is hazardous due to the shrub’s low growth and toxic fruit.
 
 USAGE  
-    Mirriane: crushed into smear for lure trails or scent masking  
-    Thea: embedded into baitballs or dried and concealed within decay traps  
-    Preparation: collect whole berry clusters, dry or pulp, store in bark wrap or sealed pouch
+    Used as: bait contamination, mild neurotoxin delivery, or deterrent paste component  
+    Limitations: ingestion causes cardiac distress; toxins not absorbed through intact skin  
+    Preparation: collect ripe berries with care, dry or crush into paste for bait application
 
 ZONE PRESENCE  
     Biomes: evergreen_forest, wet_slope

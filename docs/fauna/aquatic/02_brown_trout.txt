@@ -1,0 +1,22 @@
+NAME  
+    brown_trout - adaptable freshwater fish prized for firm flesh and active behavior
+
+DESCRIPTION  
+    Brown trout inhabit cool lakes and streams, favoring areas with moderate current  
+    and ample cover such as submerged logs or rocky ledges. They feed opportunistically  
+    on insects, smaller fish, and crustaceans. The species tolerates a range of water qualities  
+    but requires oxygen-rich environments for spawning and juvenile survival.
+
+    Brown trout spawn in gravel beds during late autumn. Their flesh is firm and richly flavored,  
+    making them a valued food source in survival contexts. Careful cleaning is necessary to remove bones.
+
+USAGE  
+    Used as: nutritious meat source, dietary staple for survival  
+    Limitations: contains pin bones; requires preparation to avoid choking hazards  
+    Preparation: capture with spear or trap; gut and clean immediately; fillet carefully; cook thoroughly
+
+ZONE PRESENCE  
+    Biomes: lake, wet_slope
+
+SCIENTIFIC NAME  
+    Salmo trutta

@@ -13,9 +13,9 @@ DESCRIPTION
     Also usable for tea or dried additive in ration mixes.
 
 USAGE  
-    Mirriane: boiled for food; brewed into mineral tea  
-    Thea: dried and packed into field poultice layers  
-    Preparation: submerge leaves in boiling water for 3–5 minutes; dry flat if storing
+    Used as: boiled greens, tea infusion, dried additive in ration mixes  
+    Limitations: stinging hairs cause skin irritation if raw; unsuitable for direct consumption  
+    Preparation: submerge leaves in boiling water until softened; dry flat for storage
 
 ZONE PRESENCE  
     Biomes: mixed_forest, deciduous_forest, wet_slope

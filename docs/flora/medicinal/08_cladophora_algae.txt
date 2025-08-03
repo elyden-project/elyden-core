@@ -1,20 +1,21 @@
 NAME  
-    cladophora_algae - filamentous green algae used for poultice hydration and cooling wraps
+    cladophora_algae - filamentous freshwater algae used for cooling and surface moisture buffering
 
 DESCRIPTION  
-    Cladophora algae forms dense green mats in shallow, slow-moving freshwater.  
-    It has a soft, thread-like structure and holds moisture without breaking down quickly.  
-    In survival use, it is packed into cloth or bark to cool inflamed skin, reduce surface heat,  
-    and keep poultices hydrated. It has no antiseptic property, but helps retain applied salves.
+    Cladophora is a bright green, hair-like algae found in cool, slow-moving freshwater zones.  
+    It forms dense mats on submerged rocks, shallow lakebeds, or shaded shorelines.  
+    When cleaned and applied fresh, it serves as a temporary cooling layer on bruises,  
+    mild burns, or heat-swollen injuries. Though not antiseptic, it transfers heat away  
+    from tissue and retains surface moisture.
 
-    Found along lake edges, stagnant channels, and wetland pools. It floats in loose sheets  
-    or clings to submerged rock and vegetation. Easily harvested by hand.  
-    Must be rinsed thoroughly to remove insects or sediment. Spoils rapidly if left warm or enclosed.
+    The algae is slippery and fibrous, with strands that clump into pads when handled.  
+    Harvest is easiest by hand at waterline margins or from stable submerged stone.  
+    Must be cleaned thoroughly to remove silt and insect larvae.
 
 USAGE  
-    Mirriane: applied to overheated skin or swelling after extended exertion  
-    Thea: wrapped around poultice core to regulate temperature and slow drying  
-    Preparation: collect by hand, rinse with clean water, apply wet or chilled
+    Used as: field-cooled compress, surface swelling reducer, moisture-retentive wrap base  
+    Limitations: non-sterile unless boiled; not suitable for open wounds  
+    Preparation: rinse in clean water, apply directly to skin, bind with cloth if needed
 
 ZONE PRESENCE  
     Biomes: lake, flood_hollow, swamp

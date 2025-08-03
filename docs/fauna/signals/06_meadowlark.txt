@@ -1,0 +1,24 @@
+NAME  
+    meadowlark - flute-toned ground bird used to assess air clarity and territorial calm
+
+DESCRIPTION  
+    The meadowlark sings from low perches or open ground with a clear, melodic pattern.  
+    Its song persists only during low stress intervals—silence may indicate predation,  
+    nearby motion, or transitional air mass. Calls often reappear from biome edge inward.
+
+    Active in early and mid-day periods. Avoids movement when air is unstable.  
+    Easily flushed, but returns to perch once calm resumes.
+
+USAGE  
+    Used as: field tone for predator pass, wind edge, or travel-safe perimeter  
+    Limitations: call may be overlapped by insect sound; bird often relocates between song intervals  
+    Observation: monitor call continuity across terrain breaks; triangulate for moving silence gaps
+
+ZONE PRESENCE  
+    Biomes: plains, flood_hollow
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Sturnella magna

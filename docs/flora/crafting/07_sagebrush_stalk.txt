@@ -14,13 +14,12 @@ DESCRIPTION
     Collection is easiest by hand during dry season. 
 
 USAGE  
-    Mirriane: bundled as fast-ignition tinder in firestarter kits  
-    Thea: burned in surface traps to generate quick smoke bursts  
-    Preparation: snap dry stalks at base, remove side shoots, store loosely in dry wrap
+    Used as: ignition material, dry tinder volume, short-burn fuel supplement  
+    Limitations: ineffective when wet; not suitable for prolonged combustion  
+    Preparation: snap dry stalks at base, strip side shoots, store loose in dry wrap
 
 ZONE PRESENCE  
     Biomes: plains, hills, badlands
 
 SCIENTIFIC NAME  
     Artemisia tridentata
-

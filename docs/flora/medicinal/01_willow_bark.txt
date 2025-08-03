@@ -1,21 +1,21 @@
 NAME  
-    willow_bark - salicylate-rich bark used in poultice treatment for pain and inflammation
+    willow_bark - pain-reducing bark used for inflammation and field analgesia
 
 DESCRIPTION  
-    Willow is a deciduous tree or shrub with long, narrow leaves and flexible branches.  
-    The inner bark contains salicin, a natural compound that reduces pain and swelling  
-    when applied topically or infused. Stripped bark can be used in field treatments  
-    for muscle strain, bruising, and joint stress. Not suitable for internal use without refinement.
+    Willow bark is harvested from young branches and stems of the white willow.  
+    The inner bark contains salicin, a compound that reduces pain and inflammation  
+    when chewed or brewed. It is commonly used to manage fever, joint pain,  
+    or headache symptoms in low-resource settings.
 
-    Grows along rivers, lake margins, and lowland plains where water is consistent.  
-    Bark is harvested from young branches or twigs, avoiding damage to the trunk.  
-    Best gathered in spring or early thaw when sap begins to rise.  
-    Tannin content requires bark to be cured or boiled before application.
+    Bark should be gathered from flexible limbs during cool, dry conditions.  
+    Outer bark is stripped away to access the moist inner layer, which can  
+    be shaved, dried, or steeped. Effects are slow-acting and best suited for  
+    persistent discomfort rather than acute trauma.
 
 USAGE  
-    Mirriane: used in limb wrappings during cold exposure or after overdraw strain  
-    Thea: ground into paste for trapline bruising recovery or shared among wounded followers  
-    Preparation: strip bark with bone edge or nail, soak or simmer into pulp, apply warm
+    Used as: brewed infusion or chew for pain relief and anti-inflammatory effect  
+    Limitations: not suitable for internal bleeding or allergic individuals; high doses cause nausea  
+    Preparation: strip inner bark from young branch, dry or steep in warm water before use
 
 ZONE PRESENCE  
     Biomes: plains, flood_hollow, deciduous_forest

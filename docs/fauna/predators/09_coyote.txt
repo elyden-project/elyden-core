@@ -1,0 +1,24 @@
+NAME  
+    coyote - opportunistic predator and scavenger active across open and forested zones
+
+DESCRIPTION  
+    The coyote is a medium-sized carnivore known for its adaptability and varied diet.  
+    It hunts rodents, birds, and small ungulates, and scavenges readily from kills or camps.  
+    Coyotes often operate alone or in loose pairs, howling to signal territory or coordinate.
+
+    Tracks are narrow and straight. Active during twilight and night hours.  
+    Their alertness and erratic behavior make trapping unreliable without bait or distraction.
+
+USAGE  
+    Used as: light pelt for inner linings, bone for small implements, sinew for cordage  
+    Limitations: wary and evasive; best taken at bait points or from elevated blind  
+    Preparation: skin carefully to retain tail and flank; dry quickly in shaded airflow
+
+ZONE PRESENCE  
+    Biomes: plains, mixed_forest
+
+SIZE  
+    Medium
+
+SCIENTIFIC NAME  
+    Canis latrans

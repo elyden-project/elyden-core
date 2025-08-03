@@ -14,9 +14,9 @@ DESCRIPTION
     for cover or nesting protection.
 
 USAGE  
-    Mirriane: harvested carefully and consumed in small amounts for hydration  
-    Thea: dried and blended into ration filler or bait paste  
-    Preparation: strip berry clusters with cloth or tool to avoid puncture; cook or dry to reduce irritation
+    Used as: forage fruit for hydration and sugar; dried additive for ration mix or bait paste  
+    Limitations: mildly irritating if consumed raw in excess; thorns complicate harvesting  
+    Preparation: strip berry clusters with cloth or blade; cook or dry to reduce astringency
 
 ZONE PRESENCE  
     Biomes: ash_field, evergreen_forest, wet_slope

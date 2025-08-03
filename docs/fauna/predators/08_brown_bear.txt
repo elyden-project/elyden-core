@@ -1,0 +1,25 @@
+NAME  
+    brown_bear - massive omnivore occupying forested lowlands and wet terrain
+
+DESCRIPTION  
+    The brown bear is a powerful solitary forager with wide dietary flexibility.  
+    It feeds on roots, fish, carrion, and occasionally smaller grazers.  
+    It navigates dense vegetation and swamp channels with surprising speed.
+
+    Tracks are broad with visible claw impressions.  
+    Dens are dug into soil banks or found beneath fallen timber.  
+    Aggression is seasonal and territory-driven. Encounter avoidance is preferred.
+
+USAGE  
+    Used as: dense hide for outerwear, fat for fuel or sealing, and bone for durable implements  
+    Limitations: highly dangerous when startled or near food; not trap-compatible  
+    Preparation: harvest from distance or bait into snare corridor; dry hide slowly to avoid rot
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest, swamp
+
+SIZE  
+    Massive
+
+SCIENTIFIC NAME  
+    Ursus arctos

@@ -1,0 +1,21 @@
+NAME  
+    mottled_duck - medium-sized waterfowl inhabiting swamps and lakes with dense vegetation
+
+DESCRIPTION  
+    The mottled duck is a freshwater duck commonly found in swampy and lake biomes with thick aquatic plants.  
+    It feeds on seeds, aquatic invertebrates, and plant matter. Mottled ducks are non-migratory and tend  
+    to remain within localized territories throughout the year.
+
+    They nest near water’s edge in concealed vegetation. Their camouflaged plumage offers protection  
+    against predators. Meat is moderate in quantity and considered palatable in survival contexts.
+
+USAGE  
+    Used as: supplemental meat source, feathers for insulation or crafting  
+    Limitations: limited yield per individual; wary and fast-moving  
+    Preparation: trap or shoot in concealed areas; pluck feathers for use; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: swamp, lake
+
+SCIENTIFIC NAME  
+    Anas fulvigula

@@ -1,25 +1,26 @@
 NAME  
-    devils_club - thorn-covered stem used for forced movement traps and area denial
+    devils_club - spined shrub with irritant sap used for barrier disruption and trap reinforcement
 
 DESCRIPTION  
-    Devil’s club is a large, woody shrub covered in sharp spines along its stems  
-    and undersides of broad leaves. The thorns cause puncture wounds, embed easily,  
-    and may introduce mild irritants that lead to inflammation or infection.  
-    Commonly used to block trail access, protect caches, or inflict disabling injury  
-    in close-range traps.
+    Devil’s club is a large, woody shrub covered in brittle yellow spines that fracture  
+    on contact. It grows in dense forest undergrowth and moist hillside terrain.  
+    The plant's outer surface delivers mechanical injury, while its inner sap  
+    contains mild irritants that cause inflammation and rash on broken skin.  
+    When processed, the stalk can be sharpened for use in trap triggers or  
+    left whole to create entry deterrents.
 
-    Found in dense, humid forest underlayers and slope margins.  
-    Reaches over two meters in height. Leaves are wide and palmate,  
-    resembling maple. Thick stalks snap cleanly when dry but retain spine structure.  
-    Direct contact should be avoided without layered protection.
+    The plant features broad palmate leaves and red berry clusters.  
+    Spines cover every part, including leaf stems and upper root crowns.  
+    Handling without protection leads to embedded spines and delayed swelling.
 
 USAGE  
-    Mirriane: layered across narrow gaps or used as thorn backing on ground traps  
-    Thea: bound into tripline lashes or folded under foliage cover near kill zones  
-    Preparation: harvest with bark gloves, strip into panels, bind while fresh, dry flat if stored
+    Used as: physical deterrent, spined trap anchor, or irritant-layer for path defense  
+    Limitations: ineffective on heavy clothing; brittle when dry  
+    Preparation: harvest live stalks, sharpen if needed, bind with cordage or embed in trigger matrix
 
 ZONE PRESENCE  
     Biomes: mixed_forest, hills
 
 SCIENTIFIC NAME  
     Oplopanax horridus
+

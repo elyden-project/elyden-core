@@ -13,9 +13,9 @@ DESCRIPTION
     younger stems near thaw pockets.
 
 USAGE  
-    Mirriane: chewed to suppress hunger and extend ration intervals  
-    Thea: ignored unless dried and stored as emergency fallback  
-    Preparation: strip bark in coils with knife or fingernail; chew raw or dry flat
+    Used as: emergency chew fiber to suppress hunger and provide minimal energy  
+    Limitations: not a long-term food source; bitterness may cause discomfort  
+    Preparation: strip bark in coils with blade or fingernail; chew raw or dry for later use
 
 ZONE PRESENCE  
     Biomes: tundra, glacier

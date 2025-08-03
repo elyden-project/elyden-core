@@ -1,22 +1,19 @@
 NAME  
-    white_snakeroot - slow-acting toxin transferred through contaminated prey tissue
+    white_snakeroot - toxic herb used for bait poisoning and muscle paralysis
 
 DESCRIPTION  
-    White snakeroot is a medium-height herb with flat clusters of white flowers and  
-    pointed leaves. It contains tremetol, a toxin that passes through animal tissue  
-    and causes nausea, fatigue, and long-term weakness in those who consume tainted meat.  
-    Used for delayed poisoning, especially in traps that allow wounded animals to escape  
-    and be recovered later after onset.
+    White snakeroot is a perennial herb with hairy stems, serrated leaves, and small white flowers.  
+    It contains tremetol, a potent toxin causing muscle weakness and tremors when ingested.  
+    The toxin accumulates in animal tissues and can poison predators or scavengers feeding on contaminated carcasses.  
+    The plant grows in mixed forests and badlands, often under partial canopy.
 
-    Found in partial shade along forest edges or disturbed slopes.  
-    Plants flower late in the season and grow in scattered clumps.  
-    Toxin is stable in dry or dead material and remains effective after ingestion  
-    by herbivores or small mammals. Not useful in contact or coating form.
+    Harvest involves cutting flowering stems before seed set to maximize toxin concentration.  
+    Toxicity is stable in dried plant matter and can be transferred through bait or trap coatings.
 
 USAGE  
-    Mirriane: left in herbivore feeding grounds to disrupt hunting competitors  
-    Thea: packed into bait near wound-based traps or tied into animal feed bundles  
-    Preparation: collect leaves or stems, dry if needed, distribute around targeted ground
+    Used as: bait poison, muscle paralytic agent, toxin for scavenger disruption  
+    Limitations: toxin requires ingestion or prolonged contact; ineffective as contact irritant  
+    Preparation: harvest stems and flowers, dry completely, grind to powder or pulp for application
 
 ZONE PRESENCE  
     Biomes: mixed_forest, badlands

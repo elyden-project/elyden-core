@@ -13,13 +13,12 @@ DESCRIPTION
     Should be stored flat or rolled to avoid cracking.
 
 USAGE  
-    Mirriane: torn into firestarting strips or wrapped around dry tinder  
-    Thea: used to line pack interiors or seal moisture-prone trap components  
-    Preparation: peel flat sections, dry lightly if damp, cut to shape or fold
+    Used as: firestarter, moisture barrier, interior wrap for packs or tools  
+    Limitations: curls when dry; brittle if folded without warming  
+    Preparation: peel flat sections, dry lightly, trim to shape or layer in wrap
 
 ZONE PRESENCE  
     Biomes: deciduous_forest, hills
 
 SCIENTIFIC NAME  
     Betula pendula
-

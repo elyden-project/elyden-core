@@ -1,0 +1,21 @@
+NAME  
+    northern_water_snake - non-venomous aquatic snake inhabiting swamps and lakes, active predator of fish and amphibians
+
+DESCRIPTION  
+    The northern water snake is a robust, non-venomous serpent common in swamp and lake biomes.  
+    It hunts by ambush and active pursuit, feeding primarily on fish, amphibians, and small aquatic animals.  
+    The snake is excellent at swimming and often basks on rocks or logs near the water's edge.
+
+    Though non-venomous, it can deliver a painful bite if provoked. Skin is patterned in dark bands providing camouflage.  
+    Its presence indicates a healthy aquatic ecosystem.
+
+USAGE  
+    Used as: source of supplemental protein and skin material for small-scale crafting  
+    Limitations: small meat yield; biting risk during capture; skin requires preparation to soften  
+    Preparation: capture with care; skin and gut promptly; dry or smoke skin for use; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: swamp, lake
+
+SCIENTIFIC NAME  
+    Nerodia sipedon

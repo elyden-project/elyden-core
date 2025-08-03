@@ -1,0 +1,24 @@
+NAME  
+    golden_eagle - territorial raptor soaring over plains and badlands
+
+DESCRIPTION  
+    The golden eagle is a large bird of prey that hunts small mammals and birds from altitude.  
+    It uses thermals and high ridgelines to glide silently and strike with precision.  
+    Nests are built on cliff edges or tall crags, reused over seasons and fiercely defended.
+
+    Sightings are rare at ground level unless feeding or resting.  
+    Feathers are long and aerodynamic, suitable for fletching. Bones are light and durable.
+
+USAGE  
+    Used as: feather source for arrows and signal vanes; talons and bone in light toolwork  
+    Limitations: not hunted directly; specimens taken only from natural deaths or nest falls  
+    Preparation: collect feathers carefully; bones must be dried slowly to prevent cracking
+
+ZONE PRESENCE  
+    Biomes: badlands, plains
+
+SIZE  
+    Medium
+
+SCIENTIFIC NAME  
+    Aquila chrysaetos

@@ -1,0 +1,25 @@
+NAME  
+    skunk - scent-defensive scavenger active in forest margins and meadow zones
+
+DESCRIPTION  
+    The skunk is a small, slow-moving omnivore recognized by its bold stripe and potent chemical defense.  
+    It feeds on carrion, insects, eggs, and spoiled forage.  
+    Mostly nocturnal, it investigates open dens, overturned traps, and decaying matter in low-traffic areas.
+
+    Tracks are narrow with arched claws. Presence often betrayed by odor trace before visual contact.  
+    Dens are shallow burrows or sheltered under roots and debris.  
+    Rarely aggressive unless startled or confined.
+
+USAGE  
+    Used as: pelt with care (only when unsprayed); warning species; trap disruption signal  
+    Limitations: strong defensive spray contaminates materials; must be killed instantly to preserve skin  
+    Preparation: avoid bladder rupture; skin with rear isolation; cure hide outdoors with air circulation
+
+ZONE PRESENCE  
+    Biomes: meadow, mixed_forest
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Mephitis mephitis

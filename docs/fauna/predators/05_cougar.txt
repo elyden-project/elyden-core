@@ -1,0 +1,24 @@
+NAME  
+    cougar - solitary stalk predator ranging across hills and badlands
+
+DESCRIPTION  
+    The cougar is a large, muscular feline adapted to rugged and open terrain.  
+    It hunts by stealth, using elevation and cover to approach prey silently before pouncing with force.  
+    Targets include medium-sized grazers and ground birds. Cougars are reclusive and difficult to track directly.
+
+    Signs of presence include kill remains cached under debris, scratch marks on rock, and scat at trail edges.  
+    Prefers ledges, overhangs, and wind-shadowed paths for movement.
+
+USAGE  
+    Used as: flexible pelt for midweight gear, claws and teeth for binding tools  
+    Limitations: ambush risk in rough terrain; responds violently if surprised  
+    Preparation: skin with long cuts along limbs; flesh carefully; dry under cover to retain flexibility
+
+ZONE PRESENCE  
+    Biomes: hills, badlands
+
+SIZE  
+    Large
+
+SCIENTIFIC NAME  
+    Puma concolor

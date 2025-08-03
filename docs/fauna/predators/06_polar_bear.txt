@@ -1,0 +1,24 @@
+NAME  
+    polar_bear - massive arctic predator dominating ice shelf and glacial margins
+
+DESCRIPTION  
+    The polar bear is a solitary apex predator adapted to extreme cold and aquatic foraging.  
+    It hunts seals, scavenges carcasses, and stalks across ice sheets and snowfields.  
+    Its white coat and silent tread make it difficult to detect in open terrain.
+
+    Encounters are rare but deadly. Polar bears do not fear humans and may pursue across long distances.  
+    Their hides are thick, oil-rich, and resistant to wind and moisture. Flesh and fat provide emergency sustenance.
+
+USAGE  
+    Used as: extreme-weather pelt, bone for heavy tools, fat for fuel or sealant  
+    Limitations: immense danger in open terrain; cannot be trapped reliably; must be baited or led into deadfall  
+    Preparation: skin carefully to preserve hide integrity; fat must be rendered quickly to avoid spoilage
+
+ZONE PRESENCE  
+    Biomes: ice_shelf, glacier
+
+SIZE  
+    Massive
+
+SCIENTIFIC NAME  
+    Ursus maritimus

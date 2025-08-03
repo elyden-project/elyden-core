@@ -1,0 +1,21 @@
+NAME  
+    bison - massive grazing mammal inhabiting plains, a high-yield source of meat and hide
+
+DESCRIPTION  
+    Bison are large, herd-forming mammals occupying open plains.  
+    They graze primarily on grasses and sedges. Their thick hides provide  
+    protection from predators and harsh weather, making them a critical resource.
+
+    Bison herds are migratory with seasonal movements tied to forage availability.  
+    Hunting requires coordinated effort due to their size and strength.
+
+USAGE  
+    Used as: primary meat source, thick hide for shelter and clothing  
+    Limitations: dangerous to approach; requires teamwork or traps  
+    Preparation: hunt with coordinated effort; field dress promptly; cure hides carefully
+
+ZONE PRESENCE  
+    Biomes: plains
+
+SCIENTIFIC NAME  
+    Bison bison

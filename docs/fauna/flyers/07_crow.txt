@@ -1,0 +1,21 @@
+NAME  
+    crow - medium-small omnivorous bird common in plains and swamp biomes
+
+DESCRIPTION  
+    The crow is a noisy, highly intelligent bird with black plumage and a strong beak.  
+    It occupies plains, swamp, and forest edge biomes. Crows feed on insects, small animals,  
+    carrion, and plant material. They often scavenge and interact with human activity remnants.
+
+    Crows are territorial and social, known for complex vocalizations and adaptive behavior.  
+    Feathers are occasionally used for insulation or decoration.
+
+USAGE  
+    Used as: minor meat source, feathers for insulation or tool decoration  
+    Limitations: limited meat yield; wary and vocal behavior complicates stealth capture  
+    Preparation: trap or snare in open or wooded areas; pluck feathers; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: plains, swamp
+
+SCIENTIFIC NAME  
+    Corvus brachyrhynchos

@@ -1,0 +1,25 @@
+NAME  
+    red_fox - agile small predator occupying meadow and hill zones
+
+DESCRIPTION  
+    The red fox is a quick, sharp-sensed omnivore that preys on rodents, birds, and insects.  
+    It scavenges opportunistically and adapts well to variable conditions, including exposed slopes and meadow margins.  
+    Known for silent movement and territorial marking, it often caches food and avoids direct conflict.
+
+    Foxes are active during twilight hours and rarely stay in one place.  
+    Tracks are narrow and direct. Dens may be found in rock hollows or under dense brush.  
+    Pelts are light but insulating, valued for trim or inner lining.
+
+USAGE  
+    Used as: pelt for layered clothing, sinew for fine wrap, and bait in trapcraft  
+    Limitations: not aggressive; must be snared or stalked with patience  
+    Preparation: skin with care to preserve tail and neck ridge; dry quickly in cold shade
+
+ZONE PRESENCE  
+    Biomes: meadow, hills
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Vulpes vulpes

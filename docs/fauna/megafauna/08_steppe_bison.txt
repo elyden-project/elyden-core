@@ -1,0 +1,20 @@
+NAME  
+    steppe_bison - large herbivore of plains and meadow biomes, known for herd behavior
+
+DESCRIPTION  
+    The steppe bison is a massive grazing mammal forming large herds across open plains and meadows.  
+    It feeds on grasses and sedges, migrating seasonally to optimize forage access.  
+    Known for their defensive herding tactics and powerful horns used against predators.
+
+    Bison provide substantial meat and hide yields. Hunting requires coordination due to herd size and strength.
+
+USAGE  
+    Used as: primary meat source, durable hide for shelter and clothing  
+    Limitations: aggressive when threatened; requires coordinated hunts  
+    Preparation: employ group hunting strategies; field dress quickly; cure hides for preservation
+
+ZONE PRESENCE  
+    Biomes: plains, meadow
+
+SCIENTIFIC NAME  
+    Bison priscus

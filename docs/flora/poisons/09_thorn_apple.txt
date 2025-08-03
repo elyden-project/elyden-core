@@ -1,22 +1,19 @@
 NAME  
-    thorn_apple - deliriant seedpod used for disruption, confusion, or bait disorientation
+    thorn_apple - toxic nightshade producing anticholinergic berries for bait and disruption
 
 DESCRIPTION  
-    Thorn apple is a fast-growing herbaceous plant with trumpet-shaped flowers  
-    and spiked seedpods. It contains tropane alkaloids such as scopolamine and atropine,  
-    which interfere with memory, balance, and perception. Ingested in low doses,  
-    it causes confusion and motor disruption. In higher doses, may induce delirium or collapse.  
-    Not stable under heat; best used raw or in cool preparation.
+    Thorn apple is a fast-growing nightshade shrub with large, lobed leaves and trumpet-shaped white or purple flowers.  
+    Its berries contain atropine, scopolamine, and hyoscyamine alkaloids that induce hallucination, paralysis, and respiratory failure at high doses.  
+    The plant is native to open plains and badlands with well-drained soils.
 
-    Found in disturbed ground, field margins, and nutrient-poor soil.  
-    Grows low and wide with spreading leaves and prominent white or violet flowers.  
-    Seedpods are round and covered in stiff thorns. All parts are toxic,  
-    but seed pulp is the most potent. Odor is faintly bitter when crushed.
+    Berries are ripe in late summer and highly toxic.  
+    Leaves and seeds also contain active compounds but in lower concentrations.  
+    Handling requires care to avoid ingestion or contact with mucous membranes.
 
 USAGE  
-    Mirriane: ground into paste for arrow smear or leaf wraps targeting control animals  
-    Thea: seeded into misdirection bait or dispersed into campfire coals for confusion onset  
-    Preparation: gather mature pods, split, remove seeds, dry in shade, grind into coarse powder
+    Used as: bait toxin, anticholinergic disruptor, or incapacitating agent in field traps  
+    Limitations: high risk to handler; effects delayed but severe; dosage control critical  
+    Preparation: harvest ripe berries, dry carefully, grind or mash for bait or coating
 
 ZONE PRESENCE  
     Biomes: plains, badlands

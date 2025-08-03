@@ -1,0 +1,67 @@
+NAME  
+    signals_index - ambient fauna whose presence, silence, or behavior signals environmental change
+
+DESCRIPTION  
+    Signal species are not hunted. They serve as indirect indicators of threat proximity,  
+    weather shift, territorial disruption, or biome transition. These fauna are passive,  
+    small, and often vocal. Silence, altered movement, or absence may carry greater  
+    weight than direct observation.
+
+    Signal behavior is used to plan shelter, assess danger, or confirm movement corridors.  
+    Entries are selected for ecological reliability, biome specificity, and pattern clarity.  
+    Each species is native to the sealed valley and does not serve as direct resource yield.
+
+    Entry files document sound profile, disturbance response, and observational thresholds.  
+    Their role is to inform—not to engage.
+
+INDEXED ENTRIES
+
+    tree_frog  
+        Size: Tiny  
+        Biomes: swamp, wet_slope  
+        Scientific Name: Hyla versicolor
+
+    nightjar  
+        Size: Small  
+        Biomes: plains, meadow  
+        Scientific Name: Caprimulgus europaeus
+
+    swallow  
+        Size: Small  
+        Biomes: hills, lake  
+        Scientific Name: Hirundo rustica
+
+    cicada  
+        Size: Tiny  
+        Biomes: deciduous_forest, mixed_forest  
+        Scientific Name: Magicicada septendecim
+
+    woodpecker  
+        Size: Small  
+        Biomes: deciduous_forest  
+        Scientific Name: Dryocopus pileatus
+
+    meadowlark  
+        Size: Small  
+        Biomes: plains, flood_hollow  
+        Scientific Name: Sturnella magna
+
+    field_cricket  
+        Size: Tiny  
+        Biomes: meadow, hills  
+        Scientific Name: Gryllus campestris
+
+    bat  
+        Size: Tiny  
+        Biomes: frost_sink, glacier  
+        Scientific Name: Myotis lucifugus
+
+    chickadee  
+        Size: Tiny  
+        Biomes: evergreen_forest  
+        Scientific Name: Poecile atricapillus
+
+    dragonfly  
+        Size: Tiny  
+        Biomes: lake, swamp  
+        Scientific Name: Anax junius

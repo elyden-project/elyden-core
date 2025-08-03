@@ -1,0 +1,21 @@
+NAME  
+    woolly_rhinoceros - large Ice Age herbivore adapted to tundra and frost sink zones
+
+DESCRIPTION  
+    The woolly rhinoceros is a heavily built mammal covered with thick fur and equipped with two prominent horns.  
+    It grazes on grasses and shrubs within cold tundra environments.  
+    Adapted to harsh climates with a dense undercoat and powerful limbs for traversing snow.
+
+    Usually solitary and territorial. Provides substantial meat and durable hide.  
+    Hunting requires careful planning due to its aggressive defense mechanisms.
+
+USAGE  
+    Used as: source of meat, insulating hide, and horn material for tools  
+    Limitations: aggressive behavior; dangerous to hunt  
+    Preparation: hunt with caution; field dress immediately; cure hides properly for preservation
+
+ZONE PRESENCE  
+    Biomes: tundra, frost_sink
+
+SCIENTIFIC NAME  
+    Coelodonta antiquitatis

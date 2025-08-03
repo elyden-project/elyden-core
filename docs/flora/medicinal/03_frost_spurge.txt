@@ -1,21 +1,21 @@
 NAME  
-    frost_spurge - cold-zone plant with caustic sap used to sterilize wounds
+    frost_spurge - cold-tolerant herb used as blister agent and surface cauterant
 
 DESCRIPTION  
-    Frost spurge is a low, sprawling plant with narrow needle-like leaves and pale stems.  
-    It thrives in nutrient-poor, wind-exposed permafrost terrain. When cut, the plant  
-    releases a milky white sap that is chemically irritating. Applied carefully, this sap  
-    can be used to sterilize small wounds or kill surface parasites. Overuse causes skin damage.  
-    Gloves or cloth are recommended when harvesting.
+    Frost spurge is a small herbaceous plant with narrow leaves and milky sap.  
+    It grows close to the ground in exposed frost sink basins and tundra margins.  
+    The white latex exuded from broken stems acts as a mild irritant, historically used  
+    to cauterize shallow wounds, dry infections, or induce surface blistering.  
+    It is not consumed and must be applied with care.
 
-    Spurge forms dense mats close to the ground. Its stem tips often redden in late season.  
-    Animals avoid it, and it rarely grows near forageable flora. Active compounds remain  
-    stable in dry or frozen form.
+    The plant has a wiry branching structure and forms loose mats across gravel or permafrost.  
+    Sap is active even in cold conditions. Gloves or barrier tools are required  
+    during collection and application. Overuse causes skin burns or rash.
 
 USAGE  
-    Mirriane: sap applied to thorn wounds or to sterilize knife edges  
-    Thea: used sparingly in blade coating or on trap barbs to prevent rot  
-    Preparation: snip stem tip, express sap directly; store in bark wrap or absorbent cloth
+    Used as: external cauterant, blister stimulant, topical irritant for drying lesions  
+    Limitations: causes skin damage with prolonged contact; never apply to open tissue  
+    Preparation: break stem at base, allow sap to bead, apply carefully with stick or cloth tip
 
 ZONE PRESENCE  
     Biomes: frost_sink, tundra

@@ -1,0 +1,24 @@
+NAME  
+    bat - nocturnal flyer used to confirm insect bloom and thermal inversion
+
+DESCRIPTION  
+    The bat emerges at dusk to feed on airborne insects along thermal plumes and cliff edges.  
+    Its erratic flight path reveals rising heat or wind troughs invisible from ground level.  
+    Absence during still air may signal pre-storm barometric inversion or disrupted food layer.
+
+    Found roosting in caves, overhangs, and glacial crevices.  
+    Activity begins shortly after light fall and ceases near temperature floor.
+
+USAGE  
+    Used as: motion cue for airborne insect phase; indicator of dusk wind corridor and vertical uplift  
+    Limitations: difficult to track visually; silent in motion; behavior affected by sudden cold shifts  
+    Observation: note flight density, orientation, and vertical zone consistency after sunset
+
+ZONE PRESENCE  
+    Biomes: frost_sink, glacier
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Myotis lucifugus

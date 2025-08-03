@@ -1,0 +1,22 @@
+NAME  
+    woolly_mammoth - colossal Ice Age herbivore adapted to tundra and frost sink biomes
+
+DESCRIPTION  
+    The woolly mammoth is a massive, shaggy-coated proboscidean with thick fur and long, curved tusks.  
+    It grazes on grasses, shrubs, and low trees in cold tundra environments.  
+    Mammoths migrate seasonally following forage availability and sheltering in geothermal transition zones.
+
+    Their enormous size provides resilience against predators and environmental extremes.  
+    Mammoth remains yield substantial meat, bone, and hide, but hunting is dangerous and requires planning.
+
+USAGE  
+    Used as: critical source of bulk meat, durable hide, bone tools, and fuel from fat reserves  
+    Limitations: solitary behavior and size make hunting hazardous; requires coordinated effort  
+    Preparation: hunt with large-scale traps; field dress and process with heavy tools; preserve hides in cold conditions
+
+ZONE PRESENCE  
+    Biomes: tundra, frost_sink, glacier
+
+SCIENTIFIC NAME  
+    Mammuthus primigenius
+

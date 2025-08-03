@@ -14,9 +14,9 @@ DESCRIPTION
     ground disturbance or flood retreat.
 
 USAGE  
-    Mirriane: boiled or wilted as greens; blended into ration broth  
-    Thea: dried and folded into meal paste or compress rations  
-    Preparation: harvest young leaves, rinse, consume raw or cook lightly; collect seeds when mature for meal
+    Used as: boiled greens, raw forage, dried ration filler, or seed meal  
+    Limitations: older leaves contain oxalates; cooking recommended before extended use  
+    Preparation: harvest young leaves and rinse; cook lightly or consume raw; collect and grind seeds when mature
 
 ZONE PRESENCE  
     Biomes: meadow, deciduous_forest

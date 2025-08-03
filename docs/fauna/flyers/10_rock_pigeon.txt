@@ -1,0 +1,21 @@
+NAME  
+    rock_pigeon - small urban-adapted bird found in hills and ruins
+
+DESCRIPTION  
+    The rock pigeon is a compact bird commonly found in rocky outcrops, ruins, and hillsides.  
+    It feeds on seeds, grains, and small invertebrates. Pigeons are highly adaptable and often live near human structures.  
+    Their flocking behavior and abundance make them a reliable food source where available.
+
+    Meat yield is moderate for size, and feathers can be used for insulation or crafting.  
+    Capture is often by traps or snaring in roosting areas.
+
+USAGE  
+    Used as: source of meat, feathers for insulation or small tools  
+    Limitations: wary of human presence; moderate meat yield per individual  
+    Preparation: trap or snare near roosts; pluck feathers; cook thoroughly before consumption
+
+ZONE PRESENCE  
+    Biomes: hills, ruins
+
+SCIENTIFIC NAME  
+    Columba livia

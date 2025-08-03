@@ -13,9 +13,9 @@ DESCRIPTION
     run in networks along the mud layer.
 
 USAGE  
-    Mirriane: cooked for rations or dried into portable flour  
-    Thea: field-prepared; apportioned into paste or used as starch binder  
-    Preparation: pull root from base, strip outer skin, boil or dry immediately
+    Used as: boiled food ration, survival starch, field-dried flour base  
+    Limitations: spoils quickly if left wet; difficult to extract in frozen soil  
+    Preparation: pull root from base, strip outer skin, boil or dry immediately after harvest
 
 ZONE PRESENCE  
     Biomes: flood_hollow, swamp, lake

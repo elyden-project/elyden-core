@@ -1,0 +1,21 @@
+NAME  
+    barred_owl - medium-sized nocturnal predator and environmental indicator in forested hills
+
+DESCRIPTION  
+    The barred owl is a nocturnal raptor found in mixed evergreen and deciduous forests,  
+    often in hilly terrain. It hunts small mammals, birds, and amphibians using silent flight and keen hearing.  
+    Its distinctive call serves as a natural environmental cue, indicating low human disturbance and healthy prey populations.
+
+    Barred owls roost during daylight in dense canopy and are highly territorial.  
+    They do not migrate and rely on stable habitat structure for nesting and hunting.
+
+USAGE  
+    Used as: indicator species for forest ecosystem health; occasional source of feathers and meat in survival scenarios  
+    Limitations: low yield; nocturnal behavior reduces hunting opportunities  
+    Preparation: trap with specialized methods or harvest after natural death; feathers useful for insulation or decoration
+
+ZONE PRESENCE  
+    Biomes: evergreen_forest, hills
+
+SCIENTIFIC NAME  
+    Strix varia

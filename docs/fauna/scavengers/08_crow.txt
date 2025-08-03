@@ -1,0 +1,25 @@
+NAME  
+    crow - small opportunistic scavenger active near flood zones and open terrain
+
+DESCRIPTION  
+    The crow is a highly intelligent forager that scavenges carcasses, food waste, and trap remains.  
+    It operates in small groups and is quick to exploit exposed bait or unattended kill sites.  
+    Crows memorize patterns and may return to locations if left unchecked.
+
+    Flight is direct and purposeful; calls are short and repetitive.  
+    Tracks may be found near shallow water, camps, or field residue.  
+    Often mistaken for ravens, but smaller and more brazen in behavior.
+
+USAGE  
+    Used as: minor indicator of decay or human scent; feathers may be repurposed; bait thief in field craft  
+    Limitations: rarely caught; must be distracted or intercepted during feeding  
+    Preparation: if downed, collect feathers quickly; avoid spoilage by isolating carcass
+
+ZONE PRESENCE  
+    Biomes: plains, flood_hollow
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Corvus brachyrhynchos

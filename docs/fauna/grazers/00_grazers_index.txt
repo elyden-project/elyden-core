@@ -1,0 +1,68 @@
+NAME  
+    grazers_index - non-predatory herbivorous fauna used for food, hide, or field tracking
+
+DESCRIPTION  
+    Grazers are herbivorous animals that feed on grasses, bark, aquatic plants, or ground flora.  
+    They do not pursue prey and are not inherently aggressive.  
+    Most are hunted for meat, hide, or field material, and are ranked by yield, behavior, and risk.
+
+    Movement is terrain-dependent. Some species migrate seasonally across multiple biomes.  
+    Others are solitary and territorial. Sound, track depth, and pellet morphology are used  
+    to confirm presence in low-visibility zones. Trapping, stalking, or cooperative pursuit  
+    are primary harvest methods. Entry files note weapon compatibility and dressing logic.
+
+    Species range from trap-compatible small mammals to large herd-yielding ruminants.  
+    Each exhibits real-world behavior and survival-relevant traits.  
+    No symbolic naming or invented physiology is used.
+
+INDEXED ENTRIES
+
+    snowshoe_hare  
+        Size: Small  
+        Biomes: meadow, mixed_forest  
+        Scientific Name: Lepus americanus
+
+    elk  
+        Size: Large  
+        Biomes: deciduous_forest, hills  
+        Scientific Name: Cervus canadensis
+
+    musk_ox  
+        Size: Large  
+        Biomes: tundra, frost_sink  
+        Scientific Name: Ovibos moschatus
+
+    roe_deer  
+        Size: Medium  
+        Biomes: meadow, plains, deciduous_forest  
+        Scientific Name: Capreolus capreolus
+
+    ptarmigan  
+        Size: Small  
+        Biomes: tundra, mixed_forest  
+        Scientific Name: Lagopus muta
+
+    beaver  
+        Size: Medium  
+        Biomes: lake, flood_hollow  
+        Scientific Name: Castor canadensis
+
+    woodchuck  
+        Size: Small  
+        Biomes: hills, meadow  
+        Scientific Name: Marmota monax
+
+    wild_goat  
+        Size: Medium  
+        Biomes: badlands, hills  
+        Scientific Name: Capra aegagrus
+
+    bison  
+        Size: Massive  
+        Biomes: plains  
+        Scientific Name: Bison bison
+
+    moose  
+        Size: Massive  
+        Biomes: swamp, evergreen_forest  
+        Scientific Name: Alces alces

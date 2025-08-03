@@ -1,0 +1,22 @@
+NAME  
+    roe_deer - medium-sized, agile herbivore occupying meadows, plains, and deciduous forests
+
+DESCRIPTION  
+    Roe deer are small to medium-sized cervids found in open and mixed habitats.  
+    They browse on a variety of low-growing vegetation including grasses, leaves, and shoots.  
+    Known for their alertness and speed, roe deer are solitary or live in small groups.  
+    They produce shallow tracks and tend to avoid deep forest interiors.
+
+    Their hides are thinner and more delicate than larger cervids but are suitable for light clothing and coverings.  
+    Meat yield is moderate and requires careful butchering to maximize.
+
+USAGE  
+    Used as: source of lean meat, hide for light garment making, small bone tools  
+    Limitations: wary and elusive; smaller size limits total yield  
+    Preparation: stalk or trap; skin carefully to avoid hide damage; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: meadow, plains, deciduous_forest
+
+SCIENTIFIC NAME  
+    Capreolus capreolus

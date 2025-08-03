@@ -1,0 +1,21 @@
+NAME  
+    short_faced_bear - enormous Pleistocene carnivore inhabiting mixed forests and hills
+
+DESCRIPTION  
+    The short-faced bear is a massive bear species known for its size and power.  
+    It was an apex predator and scavenger capable of taking down large prey or dominating carcasses.  
+    Adapted to cold forested and hilly terrain, it had long limbs suited for fast pursuit.
+
+    Solitary and highly territorial, it posed a significant threat to humans and other animals alike.  
+    Its thick fur and muscle mass aided survival in harsh conditions.
+
+USAGE  
+    Used as: source of large meat quantities, thick hide for insulation, and bone for heavy tools  
+    Limitations: extremely dangerous; requires coordinated hunting and strong weapons  
+    Preparation: hunt with caution and strategy; field dress thoroughly; preserve materials properly
+
+ZONE PRESENCE  
+    Biomes: mixed_forest, hills
+
+SCIENTIFIC NAME  
+    Arctodus simus

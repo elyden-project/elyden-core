@@ -1,22 +1,21 @@
 NAME  
-    hemlock_root - neurotoxic taproot used for sedative baiting and lethal coatings
+    hemlock_root - neurotoxic root used in bait tampering and slow-field sedation
 
 DESCRIPTION  
-    Hemlock is a tall, hollow-stemmed plant with finely divided leaves and small white  
-    umbrella-shaped flowers. The root contains potent alkaloids, primarily coniine,  
-    which cause progressive paralysis and respiratory failure. All parts are toxic,  
-    but the root is most concentrated and traditionally used in sedative-laced bait  
-    or blade coatings. Handling should be done with barrier material.
+    Hemlock is a tall, hollow-stemmed herb with finely divided leaves and  
+    white umbel flowers. Its taproot contains coniine, a potent neurotoxin  
+    that disrupts muscle control and respiratory rhythm when ingested.  
+    The root is odorless and mildly sweet when cut, making it effective for  
+    bait interference or low-profile field dosing.
 
-    Grows in moist lowland zones with high seasonal runoff or standing water.  
-    Root is pale, tapering, and sometimes mistaken for edible wild parsnip.  
-    Best harvested after flowering. Extremely dangerous if ingested unintentionally.  
-    Odor is strong and mouse-like when fresh.
+    Found in damp lowland margins and stillwater basins, often misidentified  
+    as wild carrot. Roots are pale and branching, best harvested before flowering.  
+    The toxin acts gradually depending on dose and delivery method.
 
 USAGE  
-    Mirriane: mixed into bait residue or applied in trace to arrow fletch seams  
-    Thea: used for paralytic trap-lacing or mixed into tissue-targeted toxin packs  
-    Preparation: dig carefully, rinse with gloves or bark, air-dry root segments in shade; store sealed
+    Used as: bait additive, sedative dose agent, or slow-field immobilizer  
+    Limitations: not effective on contact; lethal if mismeasured  
+    Preparation: scrub and grate root, dry or pulp into mash; apply with care to target medium
 
 ZONE PRESENCE  
     Biomes: flood_hollow, lake, swamp

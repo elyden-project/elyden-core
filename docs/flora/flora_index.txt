@@ -1,0 +1,35 @@
+NAME  
+    flora_index - overview of flora classification and survival-relevant groupings
+
+DESCRIPTION  
+    All flora within the sealed valley are classified by survival function.  
+    Each entry is a real-world species or grounded derivative with documented  
+    environmental use. Taxonomy is not used. Entries are grouped by field role.
+
+CATEGORY STRUCTURE  
+
+    edible/  
+        Plants that yield nutrients, moisture, or survival calories.  
+        Includes roots, seeds, berries, and leaves.  
+        Requires minimal processing. No cultivation assumed.
+
+    crafting/  
+        Flora providing structural material, fiber, resin, or fuel.  
+        Used in tools, fire support, bindings, or construction.  
+        Includes wood, bark, fibrous stalks, and resinous matter.
+
+    medicinal/  
+        Plants applied to wounds, inflammation, or survival recovery.  
+        Includes bark, leaf matter, lichen, fungi, and algae.  
+        Entries detail preparation method and biome presence.
+
+    indicator/  
+        Non-harvestable flora used to assess terrain, moisture, or chemical bias.  
+        Presence signals environmental traits such as permafrost, geothermal activity,  
+        or soil saturation. Used diagnostically in field movement.
+
+    poisons/  
+        Plants with toxic, sedative, or irritant effects.  
+        Applied in traps, baiting, or disruption.  
+        Includes root toxins, alkaloids, and blister agents.
+

@@ -1,0 +1,22 @@
+NAME  
+    cave_bear - massive Pleistocene ursid inhabiting hills and evergreen forests
+
+DESCRIPTION  
+    The cave bear is a large, solitary bear species adapted to cold forested and hilly regions.  
+    It primarily forages on vegetation but may opportunistically scavenge.  
+    Cave bears hibernate in caves or rocky shelters during long winters.
+
+    Their thick fur and robust build provide insulation and strength in harsh climates.  
+    Cave bear hides offer durable material for clothing and shelter.  
+    Hunting is risky due to their size and defensive behavior.
+
+USAGE  
+    Used as: source of heavy meat, insulating hide, and bone for tools or weapons  
+    Limitations: dangerous to approach; requires strong weapons and tactics  
+    Preparation: stalk cautiously; use coordinated hunting; fully process carcass for maximum yield
+
+ZONE PRESENCE  
+    Biomes: hills, evergreen_forest
+
+SCIENTIFIC NAME  
+    Ursus spelaeus

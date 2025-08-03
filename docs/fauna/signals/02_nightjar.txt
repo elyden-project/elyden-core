@@ -1,0 +1,24 @@
+NAME  
+    nightjar - dusk-calling ground bird used to mark calm atmospheric conditions
+
+DESCRIPTION  
+    The nightjar produces a continuous, low-pitched churr during twilight hours.  
+    Its call emerges only in still air and fades entirely during wind, predatory movement,  
+    or rapid barometric fluctuation. Silence often signals biome tension or sudden field pressure.
+
+    Ground-roosting and camouflaged, it is rarely seen in motion.  
+    Most active in open plains and meadow zones with clear acoustic range.
+
+USAGE  
+    Used as: dusk-phase environmental stabilizer; loss of call signals thermal drop, predator pass, or biome shift  
+    Limitations: highly sensitive to human presence; difficult to differentiate from terrain if flushed  
+    Observation: track onset and cessation timing; monitor spatial gaps in overlapping call zones
+
+ZONE PRESENCE  
+    Biomes: plains, meadow
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Caprimulgus europaeus

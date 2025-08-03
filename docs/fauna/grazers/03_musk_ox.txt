@@ -1,0 +1,23 @@
+NAME  
+    musk_ox - large tundra grazer with thick insulating coat, adapted for cold environments
+
+DESCRIPTION  
+    Musk oxen are massive herbivores native to tundra and frost sink biomes.  
+    They possess a dense undercoat called qiviut, which provides exceptional insulation.  
+    Musk oxen graze on grasses, mosses, and lichens, often forming defensive circles  
+    against predators. Their horns are curved and robust, used in intraspecific combat.
+
+    Musk oxen are typically found in small herds and migrate seasonally within the valley.  
+    Their slow movement and heavy build make them vulnerable to coordinated hunting.  
+    Fur and hide are valuable for warmth, while meat is rich and substantial.
+
+USAGE  
+    Used as: high-calorie meat source, insulated hide for cold weather clothing, horn tools  
+    Limitations: difficult to approach due to herd defense; requires strong weapons or traps  
+    Preparation: coordinated hunt recommended; skin to preserve fur layers; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: tundra, frost_sink
+
+SCIENTIFIC NAME  
+    Ovibos moschatus

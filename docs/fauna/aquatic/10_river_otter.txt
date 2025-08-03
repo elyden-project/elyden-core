@@ -1,0 +1,21 @@
+NAME  
+    river_otter - medium-sized semi-aquatic mammal inhabiting lakes and flood hollows, valued for fur and meat
+
+DESCRIPTION  
+    The river otter is a social, agile mammal found along lakeshores and floodplains.  
+    It feeds primarily on fish, amphibians, and crustaceans, using agile swimming and diving to capture prey.  
+    Otters build dens near water and maintain scent-marked territories.
+
+    Their dense, waterproof fur provides valuable insulation. Meat yield is moderate but nutritionally dense.  
+    Otters are wary of humans and require stealth or traps for effective harvest.
+
+USAGE  
+    Used as: source of fur for insulation and waterproofing, and moderate protein supply  
+    Limitations: elusive behavior complicates capture; requires specialized trapping  
+    Preparation: trap near water edges; skin carefully to preserve fur; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: lake, flood_hollow
+
+SCIENTIFIC NAME  
+    Lontra canadensis

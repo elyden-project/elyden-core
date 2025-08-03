@@ -15,8 +15,8 @@ DESCRIPTION
     Surface grain is smooth; can be shaved or notched without splitting.
 
 USAGE  
-    Mirriane: selected for frame extensions or backup shaft cores in emergency repair  
-    Thea: used as spring arms or flexible lash anchors in trap constructions  
+    Used as: trap arms, flexible framing, shaft core material, tension lash insert  
+    Limitations: brittle if harvested too late; not suitable for weight-bearing load  
     Preparation: cut near base, strip bark, dry straight or bind into curve under tension
 
 ZONE PRESENCE  

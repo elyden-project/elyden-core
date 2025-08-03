@@ -1,0 +1,24 @@
+NAME  
+    woodpecker - percussive signal bird used to detect ambient calm and tree health
+
+DESCRIPTION  
+    The woodpecker generates irregular tapping patterns as it probes for insects beneath bark.  
+    Activity resumes only when ambient conditions stabilize—calls cease during predator movement,  
+    wind stress, or subcanopy vibration. Percussion clarity reflects air density and canopy stillness.
+
+    Most active during early daylight. Often solitary.  
+    Found in hardwood trunks or deadfall remains. Sound carries well in deciduous terrain.
+
+USAGE  
+    Used as: indicator of biome calm, canopy structure, or sublayer disturbance  
+    Limitations: sound range varies with wind; may be confused with structural creak or stone shift  
+    Observation: note pause intervals, directionality of taps, or zone-to-zone silence gaps
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Dryocopus pileatus

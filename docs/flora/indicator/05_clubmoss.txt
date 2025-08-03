@@ -1,21 +1,21 @@
 NAME  
-    clubmoss - low creeping plant used to identify undisturbed ground and deep-root forest stability
+    clubmoss - creeping ground cover indicating cold shade, acidic soil, and periglacial surface
 
 DESCRIPTION  
-    Clubmoss is a primitive vascular plant with dense, scale-like leaves and creeping stems.  
-    It thrives in undisturbed, stable soils and slow-changing microclimates.  
-    Its presence suggests minimal erosion, consistent shade, and intact root systems.  
-    Easily disrupted by trampling or soil shift.
+    Clubmoss is a low-growing vascular plant resembling miniature conifers.  
+    It forms dense mats across shaded forest floors and glacial fringes,  
+    often where soil is thin, cold, and acidic. Growth is slow, spreading by rhizomes  
+    in undisturbed environments with stable shade and low competition.
 
-    Found beneath evergreen canopy or along glacier-fed forest margins.  
-    Forms low mats or upright tufts resembling miniature conifers.  
-    Reproduction is slow; recovery after disturbance takes multiple seasons.  
-    Once common, now sparse in exposed or high-trafficked regions.
+    Its presence signals poor decomposition rates, reduced sunlight, and surface  
+    conditions shaped by glacial runoff or freeze-thaw erosion. Clubmoss often grows  
+    alongside fungi or lichens but avoids water-saturated ground. Shoots are stiff,  
+    upright, and covered in scale-like leaves that remain evergreen.
 
 USAGE  
-    Mirriane: used to confirm ground stability or select untouched paths  
-    Thea: indicates zones where traps may persist undetected due to low wildlife passage  
-    Preparation: not harvested - read from intact ground cover and growth density
+    Indicator of: glacially influenced soil, low nutrient turnover, long-term canopy shade  
+    Limitations: disappears under canopy disturbance or thermal fluctuation  
+    Observation: confirms low-yield terrain with cold buffering and limited soil formation
 
 ZONE PRESENCE  
     Biomes: evergreen_forest, glacier

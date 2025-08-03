@@ -1,0 +1,25 @@
+NAME  
+    vulture - thermal-gliding carrion bird found in ash fields and wet slopes
+
+DESCRIPTION  
+    The vulture is a large, bald-headed bird specialized in locating and consuming carrion.  
+    It soars at high altitudes, scanning for carcasses and predator kills.  
+    Feeds communally when safe, but flees rapidly if approached.
+
+    Presence signals exposed remains or biome stress.  
+    Vultures roost on high perches or stone outcrops, descending only after scent or signal confirms safety.  
+    Flight pattern is slow and circling, often used to locate scavenging zones from afar.
+
+USAGE  
+    Used as: indicator species for field death; long feathers may be repurposed for fletching or marking  
+    Limitations: not hunted for food; flesh carries high microbial load; must be approached cautiously  
+    Preparation: if harvested, remove feathers cleanly and dispose of carcass away from camps
+
+ZONE PRESENCE  
+    Biomes: ash_field, wet_slope
+
+SIZE  
+    Medium
+
+SCIENTIFIC NAME  
+    Gyps fulvus

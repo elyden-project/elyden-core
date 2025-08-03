@@ -1,0 +1,25 @@
+NAME  
+    raccoon - dexterous forager active along swamp and lake margins
+
+DESCRIPTION  
+    The raccoon is a nocturnal scavenger recognized by its nimble forepaws and masked face.  
+    It feeds on carrion, shellfish, insects, and discarded waste near waterlines.  
+    Frequently disrupts traps, caches, and bait stations during night foraging.
+
+    Tracks show five-fingered prints and shallow gait trails.  
+    Common signs include overturned stones, scattered refuse, or claw marks on bark near water.  
+    Dens are established in tree hollows, burrows, or reed beds.
+
+USAGE  
+    Used as: pelt for trim or small garments; bone for fine tools; bait detection proxy  
+    Limitations: destructive to unattended gear; must be trapped carefully with protected trigger zones  
+    Preparation: skin cautiously to preserve hands and tail; air-dry in shade to retain fur
+
+ZONE PRESENCE  
+    Biomes: swamp, lake
+
+SIZE  
+    Small
+
+SCIENTIFIC NAME  
+    Procyon lotor

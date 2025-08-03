@@ -1,0 +1,45 @@
+NAME  
+    fauna_index - overview of fauna classification by survival function
+
+DESCRIPTION  
+    Fauna within the sealed valley are grouped by behavioral role and survival impact.  
+    No taxonomy is used. All names refer to real-world species or grounded variants.  
+    Classification reflects field interaction, not biological lineage.
+
+CATEGORY STRUCTURE  
+
+    grazers/  
+        Herbivores that feed on vegetation or low-growth flora.  
+        Includes prey species used for meat, hide, or bone.  
+        Behavior is non-aggressive unless provoked.
+
+    predators/  
+        Organisms that stalk or chase prey.  
+        Includes solitary or territorial hunters.  
+        Encounters may be lethal. Behavior varies by zone and season.
+
+    scavengers/  
+        Opportunists that consume carrion, waste, or kill remnants.  
+        Presence may indicate recent kills or biome stress.  
+        May interfere with stealth or storage.
+
+    signals/  
+        Small ambient organisms used to detect disruption or movement.  
+        Includes birds, insects, and minor fauna with reliable behavioral shifts.  
+        Not hunted. Used for navigation or hazard anticipation.
+
+    aquatic/  
+        Fauna residing in lakes, swamps, or flood basins.  
+        Includes fish, amphibians, and semi-submerged foragers.  
+        Yield and behavior vary with water temperature and flow.
+
+    flyers/  
+        Winged organisms. Includes raptors, ambient birds, and seasonal migrators.  
+        Used for resource yield, navigation, or alarm behavior.  
+        Generally difficult to hunt unless grounded.
+
+    megafauna/  
+        Gigantic apex organisms from pre-collapse ecosystems.  
+        Extremely rare. High lethality.  
+        Each specimen occupies a distinct territory. Avoid engagement.
+

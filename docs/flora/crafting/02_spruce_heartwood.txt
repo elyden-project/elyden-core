@@ -13,9 +13,9 @@ DESCRIPTION
     above root flare. Burns poorly and is not suitable as kindling.
 
 USAGE  
-    Mirriane: used for arrow shafts or pack frame rails  
-    Thea: selected for sledgework or strut reinforcement in field construction  
-    Preparation: split from trunk core, strip bark, dry flat or in bundle with airflow
+    Used as: arrow shafts, sled runners, structural framing under moderate load  
+    Limitations: prone to warping if shaped wet; softens near heat or flame  
+    Preparation: split from trunk core, debarked, and dried flat or bundled with airflow
 
 ZONE PRESENCE  
     Biomes: evergreen_forest, glacier

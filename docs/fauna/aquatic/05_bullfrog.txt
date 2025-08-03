@@ -1,0 +1,22 @@
+NAME  
+    bullfrog - large amphibian common in wetlands, valued for meat and signaling
+
+DESCRIPTION  
+    The bullfrog is a robust amphibian found in swamp, flood hollow, and lake environments.  
+    It feeds on insects, small fish, and occasionally other amphibians. Its loud call is a common  
+    nighttime signal in wetland zones. Bullfrogs have thick skin and strong legs adapted for jumping  
+    and swimming.
+
+    Bullfrog meat is edible and can supplement protein intake. They are often caught by hand or with traps.  
+    Their presence indicates healthy aquatic ecosystems.
+
+USAGE  
+    Used as: supplementary meat source, environmental indicator species  
+    Limitations: limited meat yield per individual; capture requires active pursuit  
+    Preparation: catch by hand or trap; remove skin and legs; cook thoroughly before consumption
+
+ZONE PRESENCE  
+    Biomes: swamp, flood_hollow
+
+SCIENTIFIC NAME  
+    Lithobates catesbeianus

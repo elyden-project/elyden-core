@@ -1,0 +1,23 @@
+NAME  
+    elk - large migratory herbivore valued for meat, hide, and antler use
+
+DESCRIPTION  
+    Elk are large, social cervids inhabiting deciduous forests and hilly terrain.  
+    They migrate seasonally, feeding on grasses, shrubs, and tree bark.  
+    Bulls grow distinctive antlers annually, which are shed after the rutting season.  
+    Elk are a primary source of large game meat and durable hide.
+
+    Their social structure includes herds led by dominant males during mating season.  
+    Tracks are deep and widely spaced, indicating large body mass.  
+    Elk can be wary and fast, requiring coordinated hunting or trapping strategies.
+
+USAGE  
+    Used as: primary meat source, durable hide for clothing and shelter, antler material for tools  
+    Limitations: high risk during pursuit; requires teamwork or trap use; antler collection seasonal  
+    Preparation: hunt or trap; field dress promptly; cure hide thoroughly; harvest antlers after shedding
+
+ZONE PRESENCE  
+    Biomes: deciduous_forest, hills
+
+SCIENTIFIC NAME  
+    Cervus canadensis

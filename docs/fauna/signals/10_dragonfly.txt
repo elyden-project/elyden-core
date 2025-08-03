@@ -1,0 +1,24 @@
+NAME  
+    dragonfly - aerial hover insect used to mark water purity and air stratification
+
+DESCRIPTION  
+    The dragonfly glides and hovers in still air over clean water margins.  
+    It appears only when aquatic microclimate, sunlight, and wind calm intersect.  
+    Disappearance signals turbidity, pollutant bloom, or thermal disturbance.
+
+    Most active in daylight with high visibility.  
+    Resting occurs on reeds or stones between bursts of linear flight.
+
+USAGE  
+    Used as: water-edge indicator of purity and air balance; loss implies weather, flow, or chemical shift  
+    Limitations: seasonal; absent in high wind or over darkened pools  
+    Observation: track flight height, orbit pattern, and abrupt dispersal across clustered surface zones
+
+ZONE PRESENCE  
+    Biomes: lake, swamp
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Anax junius

@@ -1,0 +1,20 @@
+NAME  
+    snowy_owl - large cold-adapted raptor inhabiting tundra and ice shelf zones
+
+DESCRIPTION  
+    The snowy owl is a robust, white-feathered bird of prey adapted to arctic and subarctic environments.  
+    It hunts primarily small mammals and birds, relying on keen eyesight and silent flight.  
+    Snowy owls nest on ground level in tundra regions and are known for seasonal migratory patterns.
+
+    Their presence indicates stable cold environments with available prey. Feathers provide excellent insulation.
+
+USAGE  
+    Used as: source of feathers for insulation and limited meat in survival scenarios  
+    Limitations: low meat yield; migratory behavior affects availability  
+    Preparation: trap during non-migratory periods; pluck feathers carefully; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: tundra, ice_shelf
+
+SCIENTIFIC NAME  
+    Bubo scandiacus

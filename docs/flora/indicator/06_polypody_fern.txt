@@ -1,20 +1,20 @@
 NAME  
-    polypody_fern - shallow-rooting epiphyte used to identify damp, shaded slopes and canopy drip zones
+    polypody_fern - leathery-leaved fern indicating stable moisture and shallow mineral substrate
 
 DESCRIPTION  
-    Polypody fern grows in small clusters along rocky outcrops, mossy trunks, or decaying logs.  
-    It prefers areas with steady humidity and filtered light, often near slopes that collect  
-    rainfall or along volcanic ridgelines. Presence indicates consistent condensation,  
-    low wind exposure, and a stable mid-canopy environment.
+    Polypody fern grows in clumps along rock faces, fallen logs, and moist soil banks.  
+    It thrives in areas with constant, non-saturated moisture and partial light.  
+    Its leathery fronds are evergreen in milder cycles, curling during cold or dry periods.  
+    The plant is sensitive to mechanical disturbance but resilient under stable moisture exposure.
 
-    Found in mixed forest understory, on wet slopes, or at the base of moss-coated trees.  
-    Fronds are narrow, deeply lobed, and evergreen. Roots form shallow mats and do not penetrate  
-    deeply into soil, making the plant sensitive to drying or surface disruption.
+    Its presence reflects shallow soil, high mineral content, and consistent humidity.  
+    It anchors itself in mossy or organic debris over stone, preferring places  
+    where runoff occurs but does not collect. Useful in identifying low-flow slope transitions.
 
 USAGE  
-    Mirriane: used to locate long-drip canopy zones for shelter or fresh condensation collection  
-    Thea: marks terrain that holds humidity - good for scent-based tracking or moisture traps  
-    Preparation: not collected - read from placement and frond density on rock or trunk
+    Indicator of: persistent humidity, surface mineral exposure, thin soil over rock  
+    Limitations: absent from flooded, compacted, or sun-exposed terrain  
+    Observation: found along slope margins, stone breaks, and moss-lined runoff paths
 
 ZONE PRESENCE  
     Biomes: wet_slope, mixed_forest

@@ -1,0 +1,20 @@
+NAME  
+    ptarmigan - small ground bird adapted to tundra and mixed forest environments
+
+DESCRIPTION  
+    The ptarmigan is a compact bird with seasonal plumage that shifts from brown in summer to white in winter for camouflage.  
+    It feeds on buds, leaves, and insects, relying on low vegetation for cover. Ptarmigans are mostly ground-dwelling and display short flights to evade predators.
+
+    Their presence indicates healthy tundra or mixed forest edge ecosystems.  
+    Meat yield is small but valuable as a protein source during scarce seasons.
+
+USAGE  
+    Used as: small game meat, feathers for insulation or small craft uses  
+    Limitations: limited meat yield; seasonal plumage requires attention during hunting  
+    Preparation: trap or hunt; pluck feathers carefully; cook meat thoroughly
+
+ZONE PRESENCE  
+    Biomes: tundra, mixed_forest
+
+SCIENTIFIC NAME  
+    Lagopus muta

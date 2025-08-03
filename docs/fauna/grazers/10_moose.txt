@@ -1,0 +1,21 @@
+NAME  
+    moose - massive cold-adapted herbivore found in swamps and evergreen forests
+
+DESCRIPTION  
+    Moose are large solitary herbivores inhabiting swampy and forested areas.  
+    They feed on aquatic vegetation, shrubs, and young trees. Their large antlers  
+    are shed annually and are used for defense and display during mating season.
+
+    Moose have thick fur and a high fat content, aiding survival in cold climates.  
+    They are generally solitary except during breeding season and can be dangerous if provoked.
+
+USAGE  
+    Used as: substantial meat source, insulating hide, antler material for tools  
+    Limitations: large size requires significant effort to hunt; aggressive when threatened  
+    Preparation: hunt with caution; field dress quickly; process hide and antlers for use
+
+ZONE PRESENCE  
+    Biomes: swamp, evergreen_forest
+
+SCIENTIFIC NAME  
+    Alces alces

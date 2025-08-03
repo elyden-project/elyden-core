@@ -1,0 +1,25 @@
+NAME  
+    weasel - swift opportunistic scavenger active in open fields and low vegetation
+
+DESCRIPTION  
+    The weasel is a tiny, fast-moving carnivore that feeds on rodents, insects, and small carcasses.  
+    It darts through grass, burrows, or brush piles and may enter traps or dens in search of remains.  
+    Highly alert and territorial despite its size, it is often missed during daylight observation.
+
+    Tracks are minimal and erratic.  
+    Weasels operate close to the ground and leave behind drag traces, fur tufts, or disturbed surface soil.  
+    Scent is light but persistent. Their activity can compromise bait or signal prey depletion.
+
+USAGE  
+    Used as: fine fur for insulation lining; sinew or whiskers for trigger fibers; minor bait scavenger indicator  
+    Limitations: low yield; easily escapes basic traps; presence often confused with signal species  
+    Preparation: skin delicately along spine; dry flat in cool air to preserve fur
+
+ZONE PRESENCE  
+    Biomes: meadow, plains
+
+SIZE  
+    Tiny
+
+SCIENTIFIC NAME  
+    Mustela nivalis
