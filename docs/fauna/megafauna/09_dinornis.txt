@@ -1,1 +1,20 @@
-dinornis
+NAME  
+    dinornis - giant flightless bird inhabiting swamp and flood hollow biomes
+
+DESCRIPTION  
+    Dinornis is a massive, flightless bird resembling large moas from prehistoric times.  
+    It dwells in swampy and floodplain environments, feeding primarily on low vegetation and aquatic plants.  
+    Despite its herbivorous diet, it is capable of defensive aggression using powerful legs.
+
+    The species is solitary or found in small groups. Its size and strength make it a formidable presence in the ecosystem.
+
+USAGE  
+    Used as: source of large meat yield, thick hide for protection, and bone for toolmaking  
+    Limitations: slow-moving but capable of strong defensive kicks; habitat limits hunting approach  
+    Preparation: stalk cautiously; trap in confined terrain; process carefully for maximum resource use
+
+ZONE PRESENCE  
+    Biomes: swamp, flood_hollow
+
+SCIENTIFIC NAME  
+    Dinornis novaezealandiae
