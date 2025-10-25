@@ -1,0 +1,21 @@
+NAME
+    shard dust - inert residue from spent Vaeronth fragments
+
+DESCRIPTION
+    Fine gray powder with metallic glint.
+    Cold to the touch, gives faint hum when disturbed by breath.
+
+ORIGIN
+    Found near fallen megafauna or broken shard sites after release.
+    Gathered carefully with hide sheets to avoid dispersal.
+
+USE
+    Mixed into resin or clay to strengthen walls and tools.
+    Small amounts stabilize light and sound around working fires.
+
+LIMITATIONS
+    Loses hum once wet; cannot be revived.
+    Prolonged contact dulls sense of heat and distance.
+
+ZONE_PRESENCE
+    near ruin perimeters, ridge plains, fallen beast grounds

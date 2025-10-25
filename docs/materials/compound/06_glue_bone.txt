@@ -1,0 +1,21 @@
+NAME
+    glue bone - adhesive made from boiled bone and sinew
+
+DESCRIPTION
+    Thick and translucent when warm, hard and glassy when dry.
+    Smells faintly of smoke and marrow.
+
+ORIGIN
+    Produced by boiling crushed bone and tendon in water,
+    then straining and cooling the remaining gelatin.
+
+USE
+    Used to bind wood, stone, and hide when resin is scarce.
+    Reheated for tool repair and arrow fletching.
+
+LIMITATIONS
+    Weakens in damp air; softens near heat.
+    Attracts insects if left exposed too long.
+
+ZONE_PRESENCE
+    anywhere large fires and bone refuse are found

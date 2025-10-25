@@ -1,0 +1,22 @@
+NAME
+    basalt - dense volcanic stone used for striking and grinding
+
+DESCRIPTION
+    Dark, heavy, fine-grained rock that holds heat and sound.
+    Its surface drinks light and sweats when warmed by hand.
+
+ORIGIN
+    Formed where molten ground cooled under the ridge slopes
+    and in the deep vents of the volcanic field.
+
+USE
+    Used for hearth beds, tool weights, and grinding stones.
+    When struck, it gives a dull metallic tone that guides
+    tuning of camp fires and work rhythm.
+
+LIMITATIONS
+    Too dense to shape by hand tools; pieces are collected
+    where natural fractures occur.
+
+ZONE_PRESENCE
+    volcanic slope, ridge base, ash field margins

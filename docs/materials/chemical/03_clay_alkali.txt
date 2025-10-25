@@ -1,0 +1,21 @@
+NAME
+    clay alkali - caustic sediment used in tanning and cleaning
+
+DESCRIPTION
+    Pale gray slurry that burns lightly on skin.
+    Slick to touch, leaves a dry taste in air when stirred.
+
+ORIGIN
+    Found where swamp water recedes and exposes thick mineral beds.
+    Dug with wooden spades and stored in sealed clay jars.
+
+USE
+    Used to tan hides, strip fat, and clean metal tools.
+    When diluted, serves as washing solution for cloth and hands.
+
+LIMITATIONS
+    Corrosive in high strength; weakens sinew and hide if overused.
+    Must be handled with bark paddles and kept sealed from rain.
+
+ZONE_PRESENCE
+    swamp edges, flood hollows, wet slope basins

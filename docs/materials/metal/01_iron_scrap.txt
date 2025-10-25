@@ -1,0 +1,21 @@
+NAME
+    iron scrap - remnants of pre-collapse metal recovered from ruins
+
+DESCRIPTION
+    Dark and rough-edged, often streaked with rust and ash.
+    Cold to the touch even near fire, heavy for its size.
+
+ORIGIN
+    Found within the debris of ruin structures or scattered in ash fields.
+    Fragments from old tools, fittings, or structural plates.
+
+USE
+    Reworked into blades, hooks, and bindings when reheated in charcoal beds.
+    Holds sharper edges than stone but dulls quickly.
+
+LIMITATIONS
+    Brittle, flakes under repeated stress.
+    Too rare for waste; every piece re-forged until gone.
+
+ZONE_PRESENCE
+    ruins, ash fields, ridge base

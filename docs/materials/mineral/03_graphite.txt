@@ -1,0 +1,21 @@
+NAME
+    graphite - dark mineral used for marking and friction control
+
+DESCRIPTION
+    Soft and metallic gray, smudges easily on touch.
+    Leaves a cool sheen on skin and tools.
+
+ORIGIN
+    Found in flaky seams of volcanic rock and within cooled magma veins.
+    Collected by scraping layers from exposed ridges.
+
+USE
+    Used to mark surfaces, reduce friction in moving parts, and polish metal.
+    Mixed with resin to make water-resistant coating.
+
+LIMITATIONS
+    Fragile in powder form; stains hands and hide permanently.
+    Loses sheen when exposed to open flame.
+
+ZONE_PRESENCE
+    volcanic slope, ridge base, ash field margins

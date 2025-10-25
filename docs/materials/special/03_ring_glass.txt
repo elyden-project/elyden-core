@@ -1,0 +1,21 @@
+NAME
+    ring glass - fused lunar sand with translucent green hue
+
+DESCRIPTION
+    Smooth and cool, edges shimmer with faint inner light.
+    When thin, shows ripples that bend surrounding air.
+
+ORIGIN
+    Created when fragments of the fallen lunar ring scorched valley sand.
+    Found in thin sheets or curved shards buried under ash.
+
+USE
+    Used for small lenses, signal plates, and decorative inlays on tools.
+    When held near flame, steadies its flicker and color.
+
+LIMITATIONS
+    Brittle and sharp; fractures under sudden cold.
+    Loses clarity when exposed to resin smoke or salt.
+
+ZONE_PRESENCE
+    ringfall sites, ash field dunes, ridge plains

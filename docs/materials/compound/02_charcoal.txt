@@ -1,0 +1,21 @@
+NAME
+    charcoal - carbonized wood for fuel and filtration
+
+DESCRIPTION
+    Black and brittle, leaves dust that stains skin.
+    Burns with steady heat and almost no smoke.
+
+ORIGIN
+    Made by sealing spruce or pine under earth or ash
+    and letting the fire consume air slowly.
+
+USE
+    Used to heat forges, purify water, and polish metal.
+    Mixed with resin for sealing compound.
+
+LIMITATIONS
+    Fragile; crumbles in moisture.
+    Inefficient in open air without wind control.
+
+ZONE_PRESENCE
+    evergreen forest margins, camp hearths, ash field edges

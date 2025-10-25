@@ -1,0 +1,21 @@
+NAME
+    sulfur - yellow mineral for medicine and deterrent
+
+DESCRIPTION
+    Brittle and bright, smells of lightning and rot.
+    Crumbles to powder that clings to skin and hair.
+
+ORIGIN
+    Gathered from vents and fissures around volcanic slopes.
+    Deposited by escaping gas after subterranean heat release.
+
+USE
+    Used to repel insects, cleanse wounds, and preserve hides.
+    Burned in small amounts to fumigate dwellings and storage pits.
+
+LIMITATIONS
+    Poisonous in heavy vapor; irritates eyes and throat.
+    Loses purity if mixed with moisture or ash.
+
+ZONE_PRESENCE
+    volcanic slope, ash field vents, ridge fractures

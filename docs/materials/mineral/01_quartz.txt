@@ -1,0 +1,21 @@
+NAME
+    quartz - hard crystal used for scraping and spark ignition
+
+DESCRIPTION
+    Clear or milky white, cool even under sun.
+    Breaks with sharp angles that flash faintly in low light.
+
+ORIGIN
+    Found in veins running through ridge stone and glacial moraine.
+    Freed by frost fracture or struck loose with basalt hammer.
+
+USE
+    Used to strike fire with iron scrap, scrape hides, and polish bone.
+    Powdered form added to resin for durability.
+
+LIMITATIONS
+    Shatters if struck on frozen ground.
+    Fragments can cut flesh and must be handled with care.
+
+ZONE_PRESENCE
+    ridge seams, glacier edges, frost sink

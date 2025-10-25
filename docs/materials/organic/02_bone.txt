@@ -1,0 +1,21 @@
+NAME
+    bone - dense structural material for tools and implements
+
+DESCRIPTION
+    Pale and porous, stronger than wood when dry.
+    Rings softly when struck, holding a low hollow tone.
+
+ORIGIN
+    Collected from carcasses of grazers and predators.
+    Cleaned with water and ash, then dried near steady heat.
+
+USE
+    Shaped into needles, hooks, handles, and knife grips.
+    Crushed for binding powder or ground edge polish.
+
+LIMITATIONS
+    Brittle when frozen; softens if left in damp soil.
+    Requires frequent drying and fire hardening.
+
+ZONE_PRESENCE
+    plains, mixed forest, tundra, ridge base

@@ -1,0 +1,21 @@
+NAME
+    hide - dried animal skin for clothing and shelter
+
+DESCRIPTION
+    Thick and uneven, warm to the touch even when cold.
+    Carries the faint scent of smoke and fat when cured.
+
+ORIGIN
+    Taken from grazers and predators after skinning.
+    Dried by wind or smoke, softened with fat and ash.
+
+USE
+    Sewn into wraps, boots, and roof coverings.
+    Serves as barrier against frost and wind.
+
+LIMITATIONS
+    Stiffens if wet; rots if stored without air.
+    Must be rubbed with tallow each cycle to remain pliant.
+
+ZONE_PRESENCE
+    across all inhabited zones, wherever game is found

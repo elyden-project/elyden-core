@@ -1,0 +1,21 @@
+NAME
+    meteoric iron - dense metal from ancient celestial impacts
+
+DESCRIPTION
+    Dark silver with patterned grain that catches dull light.
+    Rings clear when struck and leaves a faint ozone scent.
+
+ORIGIN
+    Recovered from buried impact stones near ridge outcrops.
+    Metal separated from fused rock by repeated heating and quenching.
+
+USE
+    Forged into knife edges, axe heads, and arrow tips of superior strength.
+    Holds edge and balance longer than ruin scrap or slag.
+
+LIMITATIONS
+    Extremely rare and hard to work; requires steady charcoal heat.
+    Becomes brittle if overheated or hammered cold.
+
+ZONE_PRESENCE
+    ridge outcrops, volcanic slope fringes, ancient impact basins

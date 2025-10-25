@@ -1,0 +1,21 @@
+NAME
+    fat tallow - rendered animal fat for light and sealant
+
+DESCRIPTION
+    Soft and waxen, melts easily to a clear oil.
+    Smells faintly of smoke and iron when burned.
+
+ORIGIN
+    Collected from the inner layers of hare, bison, and elk.
+    Melted over low fire and strained through cloth or moss.
+
+USE
+    Used to seal leather and wood, to fuel small lamps,
+    and to soften hide and sinew during work.
+
+LIMITATIONS
+    Liquefies in heat; spoils if stored without salt or ash.
+    Attracts insects and scavengers if left exposed.
+
+ZONE_PRESENCE
+    wherever game is plentiful, especially plains and forest edges

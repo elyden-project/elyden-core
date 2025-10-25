@@ -1,0 +1,21 @@
+NAME
+    clay - fine sediment for vessels and seals
+
+DESCRIPTION
+    Cold and heavy, slick under pressure.
+    Smells of wet soil and metal rain when turned.
+
+ORIGIN
+    Gathered from flood hollows and basin edges where water settles and thickens.
+    Dried, crushed, and kneaded with ash or sand for strength.
+
+USE
+    Formed into pots, seal rings, and hearth linings.
+    Hardens by slow fire or sunlight until stone-like.
+
+LIMITATIONS
+    Cracks in sudden heat; weak if fired too thin.
+    Needs tempering with sand or ground shell.
+
+ZONE_PRESENCE
+    flood hollow, wet slope, lake shore

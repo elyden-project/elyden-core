@@ -1,0 +1,21 @@
+NAME
+    resonant basalt - low vibration stone drawn from ruin foundations
+
+DESCRIPTION
+    Dark and smooth, heavier than ordinary basalt.
+    When struck, releases a slow echo that fades into the ground.
+
+ORIGIN
+    Quarried from the buried bases of ancient ruin structures
+    where lunar resonance once passed through stone.
+
+USE
+    Used for altar blocks, sound markers, and stabilizing walls.
+    Helps maintain environmental rhythm near habitation zones.
+
+LIMITATIONS
+    Difficult to cut; loses tone if heated too fast.
+    Should not be stacked against regular basalt-causes harmonic drift.
+
+ZONE_PRESENCE
+    ruin foundations, ridge base, sealed valley thresholds

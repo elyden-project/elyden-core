@@ -1,0 +1,21 @@
+NAME
+    pumice - porous light stone for filtration and insulation
+
+DESCRIPTION
+    Pale and rough, filled with tiny hollows that trap warmth.
+    It floats on water and feels alive when drying near fire.
+
+ORIGIN
+    Thrown from volcanic vents and settled in ash basins
+    during the last eruption of the southern ridge.
+
+USE
+    Used to filter meltwater and to line hearth walls.
+    When crushed, serves as a fine abrasive for hide and skin.
+
+LIMITATIONS
+    Too soft for cutting or structure.
+    Powder irritates throat and lungs if inhaled.
+
+ZONE_PRESENCE
+    ash field, volcanic slope, badlands

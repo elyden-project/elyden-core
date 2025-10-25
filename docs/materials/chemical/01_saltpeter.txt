@@ -1,0 +1,21 @@
+NAME
+    saltpeter - nitrate crystals used for curing and preservation
+
+DESCRIPTION
+    White crystals that bloom on cave stone and damp soil.
+    Tastes sharp and leaves a cooling trace on the tongue.
+
+ORIGIN
+    Formed by slow decay of organic matter in dry caves and tundra slopes.
+    Collected with bone scrapers, then dried on slate.
+
+USE
+    Mixed with salt crust for curing meat and hides.
+    Used in small measure to dry wounds and deter insects.
+
+LIMITATIONS
+    Caustic; burns skin if left in contact too long.
+    Loses potency when wet or stored in open air.
+
+ZONE_PRESENCE
+    tundra caves, volcanic slope hollows, dry ridge shelters

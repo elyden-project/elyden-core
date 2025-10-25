@@ -1,0 +1,21 @@
+NAME
+    slate - layered stone for roof and fire bed
+
+DESCRIPTION
+    Grey, flat, and breaks cleanly along its seams.
+    Cools quickly and carries a faint water sheen in low light.
+
+ORIGIN
+    Formed under pressure in ancient seabed layers,
+    now exposed along the lower hills and plains.
+
+USE
+    Used for shelter roofing, cookware bases, and writing surfaces.
+    Holds steady heat when laid beneath a fire.
+
+LIMITATIONS
+    Splits under prolonged heat or heavy weight.
+    Unsuitable for striking or tool edges.
+
+ZONE_PRESENCE
+    hills, plains, meadow ridges

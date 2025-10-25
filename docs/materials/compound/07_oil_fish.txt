@@ -1,0 +1,21 @@
+NAME
+    oil fish - rendered oil from freshwater fish for fuel and softening
+
+DESCRIPTION
+    Clear and slick, with a faint metallic scent.
+    Burns with a low yellow flame and little smoke.
+
+ORIGIN
+    Drawn from the fat of eel, trout, or pike.
+    Heated gently in clay pots until the oil separates, then strained through moss.
+
+USE
+    Used for lamp fuel, to soften hide, and to preserve wooden tools.
+    Mixed with ash for waterproofing or with charcoal for polish.
+
+LIMITATIONS
+    Spoils if kept open; thickens in frost until reheated.
+    Attracts scavengers when spilled near camp.
+
+ZONE_PRESENCE
+    lakes, reed basins, river shallows

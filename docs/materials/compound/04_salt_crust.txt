@@ -1,0 +1,21 @@
+NAME
+    salt crust - mineral deposit for curing and preservation
+
+DESCRIPTION
+    White and sharp-edged, forms thin layers on dry basin stone.
+    Cracks softly under pressure and tastes of metal and wind.
+
+ORIGIN
+    Left behind by evaporated lake water and seep lines
+    where underground springs surface and retreat.
+
+USE
+    Used to cure meat and hide, preserve fat, and clean wounds.
+    Dissolved in water for trade of flavor and mineral balance.
+
+LIMITATIONS
+    Brittle and scarce; gathering dulls metal tools.
+    Loses potency if left in open air or damp storage.
+
+ZONE_PRESENCE
+    lake basin margins, flood hollows, salt flats near ridge

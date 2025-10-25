@@ -1,0 +1,21 @@
+NAME
+    ring slag - vitrified debris from Vaeronth’s fallen ring
+
+DESCRIPTION
+    Black-green and glassy with thin metallic veins.
+    Warm to the touch in moonlight, faintly magnetic near basalt.
+
+ORIGIN
+    Formed when fragments of the broken lunar ring struck the valley surface,
+    fusing soil and metal dust into solid slag masses.
+
+USE
+    Used for small cutting tools and ornaments of trade value.
+    When ground fine, mixed into resin for strength and conductivity.
+
+LIMITATIONS
+    Difficult to shape; shatters if cooled too fast.
+    Emits weak static hum that disrupts fire resonance if piled.
+
+ZONE_PRESENCE
+    ringfall sites, ridge fields, ash deposits

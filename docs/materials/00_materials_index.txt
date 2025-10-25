@@ -1,0 +1,57 @@
+NAME
+    materials index - durable substances available in the sealed valley
+
+DESCRIPTION
+    This index lists nonliving matter that Mirriane and Thea can gather and shape.
+    Entries describe form, origin, use, limitations, and zone presence.
+
+INDEXED CATEGORIES
+    stone
+    organic
+    compound
+    metal
+    mineral
+    chemical
+    special
+
+STONE
+    stone/01_basalt.txt
+    stone/02_obsidian.txt
+    stone/03_slate.txt
+    stone/04_pumice.txt
+
+ORGANIC
+    organic/01_hide.txt
+    organic/02_bone.txt
+    organic/03_sinew.txt
+    organic/04_fat_tallow.txt
+    organic/05_horn_antler.txt
+
+COMPOUND
+    compound/01_clay.txt
+    compound/02_charcoal.txt
+    compound/03_ash.txt
+    compound/04_salt_crust.txt
+    compound/05_resin_mix.txt
+    compound/06_glue_bone.txt
+    compound/07_oil_fish.txt
+
+METAL
+    metal/01_iron_scrap.txt
+    metal/02_ring_slag.txt
+    metal/03_meteoric_iron.txt
+
+MINERAL
+    mineral/01_quartz.txt
+    mineral/02_limestone.txt
+    mineral/03_graphite.txt
+
+CHEMICAL
+    chemical/01_saltpeter.txt
+    chemical/02_sulfur.txt
+    chemical/03_clay_alkali.txt
+
+SPECIAL
+    special/01_shard_dust.txt
+    special/02_resonant_basalt.txt
+    special/03_ring_glass.txt

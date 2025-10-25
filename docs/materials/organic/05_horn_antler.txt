@@ -1,0 +1,21 @@
+NAME
+    horn antler - curved growth from grazers used for handles and hooks
+
+DESCRIPTION
+    Dense and smooth, warm when held.
+    When cut, the core shows pale rings and smells faintly of dust.
+
+ORIGIN
+    Taken from elk, goat, and deer after the rut or death.
+    Outer sheath scraped clean and hardened by slow fire.
+
+USE
+    Shaped into knife handles, buttons, and fish hooks.
+    Can be ground to powder for polish or bonding with resin.
+
+LIMITATIONS
+    Warps under heavy heat; cracks if struck on stone.
+    Requires steady filing and patient shaping.
+
+ZONE_PRESENCE
+    high plains, mixed forest, tundra margins

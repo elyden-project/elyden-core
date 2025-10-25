@@ -1,0 +1,20 @@
+NAME
+    obsidian - glassy volcanic stone for cutting edges
+
+DESCRIPTION
+    Black glass with sharp break lines and pale sheen at the edge.
+    Edges hum faintly when cold air passes over them.
+
+ORIGIN
+    Ejected from vents during the last active eruption;
+    now found as veins in ridge fissures.
+
+USE
+    Shaped into knives, arrowheads, and scraping tools.
+    Also used for reflective signaling between ridges during fog.
+
+LIMITATIONS
+    Extremely brittle; breaks on bone or frozen wood.
+
+ZONE_PRESENCE
+    ridge fissures, volcanic slope

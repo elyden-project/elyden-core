@@ -1,0 +1,21 @@
+NAME
+    sinew - fibrous tendon used for binding and thread
+
+DESCRIPTION
+    Tough, silver-gray strands that shrink when dry and tighten when wet.
+    Feels alive between the fingers, stretching and humming under tension.
+
+ORIGIN
+    Taken from the backs and legs of deer, elk, and wolves.
+    Cleaned with water, dried in shade, and split into fine threads.
+
+USE
+    Used to stitch hides, bind arrowheads, and lash tools.
+    Contracts as it dries, sealing joints without resin.
+
+LIMITATIONS
+    Weakens if soaked too long; stiffens beyond reuse when frozen.
+    Must be softened with warm water before handling.
+
+ZONE_PRESENCE
+    common to all biomes where large fauna roam

@@ -1,0 +1,21 @@
+NAME
+    limestone - soft pale rock used for powder and purification
+
+DESCRIPTION
+    Chalky and smooth, leaves white dust on skin.
+    When wet, releases a faint earthy scent like cold rain.
+
+ORIGIN
+    Formed from ancient sediment layers now exposed in plains and low hills.
+    Collected in small nodules or quarried with bone and basalt tools.
+
+USE
+    Ground to powder for water filtration and hide treatment.
+    Mixed with clay to lighten color and harden walls.
+
+LIMITATIONS
+    Dissolves in acid water; crumbles if heated too long.
+    Weak as building stone without reinforcement.
+
+ZONE_PRESENCE
+    plains, meadow ridges, lower hill slopes

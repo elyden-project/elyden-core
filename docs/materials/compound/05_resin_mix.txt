@@ -1,0 +1,21 @@
+NAME
+    resin mix - pine pitch blended with ash and dust for sealing
+
+DESCRIPTION
+    Thick and amber, sticky even when cool.
+    Smells of smoke and sap, softens in heat, hardens like stone in cold.
+
+ORIGIN
+    Drawn from pine trunks and melted over slow fire,
+    then mixed with fine ash or powdered stone for strength.
+
+USE
+    Used to seal shelter seams, waterproof hides, and fasten tool heads.
+    When spread thin, forms a clear protective film.
+
+LIMITATIONS
+    Becomes brittle in frost and too fluid near fire.
+    Must be reheated and stirred often to remain usable.
+
+ZONE_PRESENCE
+    evergreen forest, mixed forest, camp hearths

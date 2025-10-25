@@ -1,0 +1,21 @@
+NAME
+    ash - fine residue of burned wood and bone
+
+DESCRIPTION
+    Pale gray powder that drifts like breath.
+    Feels cool even when taken from fresh embers.
+
+ORIGIN
+    Collected from hearth beds and fire pits after complete burn.
+    Often mixed with traces of resin or charcoal dust.
+
+USE
+    Used in tanning hides, preserving meat, and cleaning tools.
+    Mixed with water to form mild alkali for washing.
+
+LIMITATIONS
+    Loses strength if damp; irritates eyes and lungs when scattered.
+    Must be stored in sealed clay or hide bags.
+
+ZONE_PRESENCE
+    found wherever fires are kept or wood is plentiful
