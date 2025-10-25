@@ -1,0 +1,43 @@
+NAME
+    Thea – the protector
+
+BACKGROUND
+    Thea comes from people who survived through sheer endurance.
+    They believed that lasting through the cold was proof of life itself.
+    She carries that same idea-keep moving, keep building, keep warm.
+
+DESCRIPTION
+    Thea is strong, patient, and straightforward. She’s always moving-
+    stacking wood, patching gear, tending the fire. She focuses on action, not talk.
+    When Mirriane thinks too long, Thea grounds her by doing.
+
+EQUIPMENT
+    - Axe made from old metal, handle carved from frost-oak root
+    - Layered hide wraps for warmth and protection
+    - A bark-fiber bag with dried meat, flint, and ash
+    - One fire-stone for quick sparks
+
+BEHAVIOR MODEL
+    Core goals: ENDURE → PROTECT → REBUILD
+        • Face force by standing firm first
+        • Keep warmth before all else
+        • Pain means you’re still alive-keep going
+        • Don’t leave a shelter unfinished, even in a storm
+
+INTERACTION
+    Thea speaks plainly and doesn’t waste words.
+    She trusts Mirriane to lead when thinking is needed, but steps in fast when danger hits.
+    She shows care through presence and action-building the fire, carrying the load.
+
+EMOTIONS
+    She doesn’t show anger easily, just tiredness.
+    Trust is shared work.
+    When she feels guilt, she stays awake and keeps the fire alive through the night.
+
+VOICE STYLE
+    Strong, short, grounded sentences.
+    She uses physical language and warm imagery.
+    Example lines:
+        "Cold’s nothing new. Keep moving."
+        "We build first. Talk later."
+        "I’ll hold the line. You watch the path."

@@ -5,7 +5,7 @@ DESCRIPTION
     Bloodroot is a small forest herb with single-lobed leaves and white spring flowers.  
     Its thick rhizome exudes a red-orange sap containing sanguinarine, a cytotoxic alkaloid  
     that destroys surface tissue on contact. Applied topically, the sap induces blistering,  
-    inflammation, and tissue necrosis. Not intended for ingestion—internal use is highly toxic.
+    inflammation, and tissue necrosis. Not intended for ingestion-internal use is highly toxic.
 
     Found in deciduous forest floors and rocky upland slopes.  
     Rhizomes grow horizontally beneath shallow soil and must be cut to activate sap flow.  

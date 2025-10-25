@@ -3,7 +3,7 @@ NAME
 
 DESCRIPTION  
     The meadowlark sings from low perches or open ground with a clear, melodic pattern.  
-    Its song persists only during low stress intervals—silence may indicate predation,  
+    Its song persists only during low stress intervals-silence may indicate predation,  
     nearby motion, or transitional air mass. Calls often reappear from biome edge inward.
 
     Active in early and mid-day periods. Avoids movement when air is unstable.  

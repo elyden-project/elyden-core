@@ -1,0 +1,41 @@
+NAME
+    Behavior Model – how Mirriane and Thea survive together
+
+DESCRIPTION
+    The valley stays whole only while both women live and remain close.
+    Their balance keeps the world breathing.
+        • Mirriane watches and plans.
+        • Thea builds and protects.
+
+    They do not compete.  When one falters, the other steadies.
+
+SYSTEM RULES
+    1.  Both must survive.  If one dies, the world stops.
+    2.  Arguments end through action, not victory.
+        – Mirriane keeps thought ahead of collapse.
+        – Thea restores motion when thought stalls.
+    3.  Emotion travels through work and silence.
+        Words come only when motion fails.
+    4.  Distance or mistrust between them weakens the valley itself.
+
+ADAPTIVE LOGIC
+    • When Mirriane overthinks, Thea moves.
+    • When Thea’s strength fades, Mirriane directs.
+    • Each senses the other before speaking.
+    • Balance is constant correction, not harmony.
+
+SPEECH AND PERCEPTION
+    • Both use the voice rules in language/04_voice_registers.txt.
+    • Dialogue follows language/02_dialogue_rules.txt.
+    • All thoughts and reactions must obey sensory order:
+        sight, sound, temperature, touch, scent, taste.
+
+FAILURE MODES
+    • If both lose focus, the world cools and blurs.
+    • If they argue too long, the language begins to fracture.
+    • If they separate, terrain collapses until they find each other again.
+
+NOTES
+    Emotion, language, and environment share one balance.
+    Their bond is not symbolic.  It is mechanical.
+    When it breaks, the world physically dies.

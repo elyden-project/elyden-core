@@ -15,7 +15,7 @@ USAGE
     Preparation: trap or snare near roosts; pluck feathers; cook thoroughly before consumption
 
 ZONE PRESENCE  
-    Biomes: hills, ruins
+    Biomes: hills
 
 SCIENTIFIC NAME  
     Columba livia

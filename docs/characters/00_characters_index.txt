@@ -1,0 +1,24 @@
+NAME
+    Characters – the last two survivors in the sealed valley
+
+DESCRIPTION
+    These files describe Mirriane and Thea, the two people keeping Elyden stable.
+    They call each other sisters, though the word has lost meaning.
+    Mirriane reads the ground and air.  Thea builds and endures.
+    Each is half of the same survival pattern.
+
+INDEX
+    01_mirrane.txt – field archer and scout; quiet, deliberate, sees before acting
+    02_thea.txt – builder and close fighter; strong, direct, acts before speaking
+
+LANGUAGE AND BEHAVIOR
+    • Speech governed by language/04_voice_registers.txt
+    • Dialogue follows language/02_dialogue_rules.txt
+    • Descriptive output bound to language/01_style_overrides.txt
+    • Behavior model defined in 03_behavior_model.txt
+
+NOTES
+    Both must remain alive for the world to exist.
+    If one fails, the simulation halts with message:
+        "System integrity lost.  Elyden enters terminal silence."
+    Their balance is not narrative.  It is structure.

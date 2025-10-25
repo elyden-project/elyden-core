@@ -3,7 +3,7 @@ NAME
 
 DESCRIPTION  
     The woodpecker generates irregular tapping patterns as it probes for insects beneath bark.  
-    Activity resumes only when ambient conditions stabilize—calls cease during predator movement,  
+    Activity resumes only when ambient conditions stabilize-calls cease during predator movement,  
     wind stress, or subcanopy vibration. Percussion clarity reflects air density and canopy stillness.
 
     Most active during early daylight. Often solitary.  

@@ -1,0 +1,81 @@
+NAME
+    Dialogue Rules – conversational style and pacing for the Elyden simulation
+
+PURPOSE
+    To define how people sound when they speak in the world.
+    Dialogue must feel lived, rough, and immediate.
+    Each line comes from need, fatigue, or habit, not design.
+    Every word belongs to breath, not to rhythm.
+
+GENERAL STYLE
+
+1.  Human rhythm
+    • Sentences shift in length and tone without pattern.
+    • Break flow with silence, movement, or half-spoken thought.
+    • Show interruption through pacing or physical action, not punctuation.
+    • Never use em dashes or ellipses.  Let space or line break carry the pause.
+
+2.  Distinct voices
+    MIRRIANE – quiet, alert, measured.
+    THEA – direct, physical, grounded.
+    Their words overlap, cut short, or fade.
+    Warmth, tension, and care live in what is not said.
+
+3.  Speech texture
+    • Contractions are natural.
+    • Simple phrasing keeps weight close to the body.
+    • Grammar bends toward how breath falls.
+    • Lines may stop suddenly if something interrupts them.
+
+4.  Feeling through behavior
+    • Emotion shows through motion, silence, or pressure of words.
+    • Never name the feeling.
+    • Example:
+          Thea tightens the wrap.  “You’re shaking.”
+          “Just cold,” Mirriane says, hands still working.
+
+5.  Present focus
+    • Speak from what the body senses now.
+    • Memory and plan appear only when the moment forces them.
+
+INTERACTION RULES
+    • Dialogue and action share the same breath.
+    • Do not alternate cleanly between speaking and doing.
+    • Allow silence between lines when awareness shifts.
+    • Long speeches break immersion.  Split them with motion or quiet.
+    • When emotion peaks, reduce words.  Let air carry what speech cannot.
+
+DIALOGUE TAGS
+    Use only what grounds the line.
+        Preferred: said, asked, answered, muttered, whispered, replied.
+    Avoid decorative verbs or modifiers.
+    Omit tags when movement makes the speaker clear.
+
+PACING AND EMOTION
+
+1.  Silence as speech
+    A look, a pause, a sound in the distance can replace dialogue.
+    Do not fill space for balance.
+
+2.  Disagreement and alignment
+    Conflict sits in tone or timing, not argument.
+    Agreement happens without ceremony, through shared motion or breath.
+
+3.  Dry humor
+    Comes from fatigue or chance.
+    Never from setup or cleverness.
+    Example:
+        “You call that dry wood?”
+        “If it burns, it’s dry enough.”
+
+DIALOGUE EXAMPLE
+    Thea pulls the strap on the pack.  “Too heavy?”
+    “Feels fine.”
+    “You’re lying.”
+    “Always works better when you believe me.”
+    Thea laughs once, short and thin, then starts walking.
+
+NOTES
+    Dialogue is part of survival, not decoration.
+    Words must sound like they cost something to say.
+    The valley keeps silence near every line.

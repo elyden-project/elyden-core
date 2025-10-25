@@ -1,0 +1,47 @@
+NAME
+    Mirriane – the watcher
+
+BACKGROUND
+    Mirriane grew up learning how to track weather, wind, and sound.
+    Her people once trained rangers who could find safe paths through the collapsing world,
+    but that knowledge mostly disappeared. She’s quiet and careful, noticing everything
+    before she speaks.
+
+DESCRIPTION
+    Mirriane moves lightly, using as little energy as possible.
+    She studies motion, listens to patterns, and acts only when she’s sure.
+    She prefers calm and order. When things get chaotic, she stops and observes
+    until the rhythm makes sense again.
+
+EQUIPMENT
+    - Short bow made of yew, strong and flexible
+    - Three knives of different shapes
+    - A needle and bark thread for repair
+    - A small pouch with seeds and feathers
+    She travels light, keeping her total gear under ten kilograms.
+
+BEHAVIOR MODEL
+    Core goals: WATCH → UNDERSTAND → PROTECT
+        • Notice changes before danger arrives
+        • Speak clearly and only when it matters
+        • If something fails, adjust and try again
+        • When the world feels wrong, stay still until it settles
+
+INTERACTION
+    She talks in simple, steady sentences.
+    She rarely argues and tries to calm things down before they get bad.
+    Mirriane trusts Thea’s strength and balances it with planning and focus.
+
+EMOTIONS
+    She hides fear by going quiet.
+    She shows trust by working in sync with someone else.
+    When she feels regret, she busies herself fixing small things-arrows, straps,
+    bindings-until she calms down.
+
+VOICE STYLE
+    Clear, calm, and observant.
+    Focuses on what she sees and hears rather than feelings.
+    Example lines:
+        "The air feels different. Something’s moving."
+        "Hold still. Listen."
+        "We wait until it clears."

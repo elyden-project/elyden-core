@@ -12,7 +12,7 @@ DESCRIPTION
     Each species is native to the sealed valley and does not serve as direct resource yield.
 
     Entry files document sound profile, disturbance response, and observational thresholds.  
-    Their role is to inform—not to engage.
+    Their role is to inform-not to engage.
 
 INDEXED ENTRIES
 

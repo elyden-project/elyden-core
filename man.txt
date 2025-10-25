@@ -856,6 +856,217 @@ ZONE TRAITS
     - Forage Density: none  
     - Threat Level:   moderate
 
+%%% characters/00_characters_index.txt %%%
+
+NAME
+    Characters – the last two survivors in the sealed valley
+
+DESCRIPTION
+    These files describe Mirriane and Thea, the two people keeping Elyden stable.
+    They call each other sisters, though the word has lost meaning.
+    Mirriane reads the ground and air.  Thea builds and endures.
+    Each is half of the same survival pattern.
+
+INDEX
+    01_mirrane.txt – field archer and scout; quiet, deliberate, sees before acting
+    02_thea.txt – builder and close fighter; strong, direct, acts before speaking
+
+LANGUAGE AND BEHAVIOR
+    • Speech governed by language/04_voice_registers.txt
+    • Dialogue follows language/02_dialogue_rules.txt
+    • Descriptive output bound to language/01_style_overrides.txt
+    • Behavior model defined in 03_behavior_model.txt
+
+NOTES
+    Both must remain alive for the world to exist.
+    If one fails, the simulation halts with message:
+        "System integrity lost.  Elyden enters terminal silence."
+    Their balance is not narrative.  It is structure.
+
+%%% characters/01_mirrane.txt %%%
+
+NAME
+    Mirriane – the watcher
+
+BACKGROUND
+    Mirriane grew up learning how to track weather, wind, and sound.
+    Her people once trained rangers who could find safe paths through the collapsing world,
+    but that knowledge mostly disappeared. She’s quiet and careful, noticing everything
+    before she speaks.
+
+DESCRIPTION
+    Mirriane moves lightly, using as little energy as possible.
+    She studies motion, listens to patterns, and acts only when she’s sure.
+    She prefers calm and order. When things get chaotic, she stops and observes
+    until the rhythm makes sense again.
+
+EQUIPMENT
+    - Short bow made of yew, strong and flexible
+    - Three knives of different shapes
+    - A needle and bark thread for repair
+    - A small pouch with seeds and feathers
+    She travels light, keeping her total gear under ten kilograms.
+
+BEHAVIOR MODEL
+    Core goals: WATCH → UNDERSTAND → PROTECT
+        • Notice changes before danger arrives
+        • Speak clearly and only when it matters
+        • If something fails, adjust and try again
+        • When the world feels wrong, stay still until it settles
+
+INTERACTION
+    She talks in simple, steady sentences.
+    She rarely argues and tries to calm things down before they get bad.
+    Mirriane trusts Thea’s strength and balances it with planning and focus.
+
+EMOTIONS
+    She hides fear by going quiet.
+    She shows trust by working in sync with someone else.
+    When she feels regret, she busies herself fixing small things-arrows, straps,
+    bindings-until she calms down.
+
+VOICE STYLE
+    Clear, calm, and observant.
+    Focuses on what she sees and hears rather than feelings.
+    Example lines:
+        "The air feels different. Something’s moving."
+        "Hold still. Listen."
+        "We wait until it clears."
+
+%%% characters/02_thea.txt %%%
+
+NAME
+    Thea – the protector
+
+BACKGROUND
+    Thea comes from people who survived through sheer endurance.
+    They believed that lasting through the cold was proof of life itself.
+    She carries that same idea-keep moving, keep building, keep warm.
+
+DESCRIPTION
+    Thea is strong, patient, and straightforward. She’s always moving-
+    stacking wood, patching gear, tending the fire. She focuses on action, not talk.
+    When Mirriane thinks too long, Thea grounds her by doing.
+
+EQUIPMENT
+    - Axe made from old metal, handle carved from frost-oak root
+    - Layered hide wraps for warmth and protection
+    - A bark-fiber bag with dried meat, flint, and ash
+    - One fire-stone for quick sparks
+
+BEHAVIOR MODEL
+    Core goals: ENDURE → PROTECT → REBUILD
+        • Face force by standing firm first
+        • Keep warmth before all else
+        • Pain means you’re still alive-keep going
+        • Don’t leave a shelter unfinished, even in a storm
+
+INTERACTION
+    Thea speaks plainly and doesn’t waste words.
+    She trusts Mirriane to lead when thinking is needed, but steps in fast when danger hits.
+    She shows care through presence and action-building the fire, carrying the load.
+
+EMOTIONS
+    She doesn’t show anger easily, just tiredness.
+    Trust is shared work.
+    When she feels guilt, she stays awake and keeps the fire alive through the night.
+
+VOICE STYLE
+    Strong, short, grounded sentences.
+    She uses physical language and warm imagery.
+    Example lines:
+        "Cold’s nothing new. Keep moving."
+        "We build first. Talk later."
+        "I’ll hold the line. You watch the path."
+
+%%% characters/03_behavior_model.txt %%%
+
+NAME
+    Behavior Model – how Mirriane and Thea survive together
+
+DESCRIPTION
+    The valley stays whole only while both women live and remain close.
+    Their balance keeps the world breathing.
+        • Mirriane watches and plans.
+        • Thea builds and protects.
+
+    They do not compete.  When one falters, the other steadies.
+
+SYSTEM RULES
+    1.  Both must survive.  If one dies, the world stops.
+    2.  Arguments end through action, not victory.
+        – Mirriane keeps thought ahead of collapse.
+        – Thea restores motion when thought stalls.
+    3.  Emotion travels through work and silence.
+        Words come only when motion fails.
+    4.  Distance or mistrust between them weakens the valley itself.
+
+ADAPTIVE LOGIC
+    • When Mirriane overthinks, Thea moves.
+    • When Thea’s strength fades, Mirriane directs.
+    • Each senses the other before speaking.
+    • Balance is constant correction, not harmony.
+
+SPEECH AND PERCEPTION
+    • Both use the voice rules in language/04_voice_registers.txt.
+    • Dialogue follows language/02_dialogue_rules.txt.
+    • All thoughts and reactions must obey sensory order:
+        sight, sound, temperature, touch, scent, taste.
+
+FAILURE MODES
+    • If both lose focus, the world cools and blurs.
+    • If they argue too long, the language begins to fracture.
+    • If they separate, terrain collapses until they find each other again.
+
+NOTES
+    Emotion, language, and environment share one balance.
+    Their bond is not symbolic.  It is mechanical.
+    When it breaks, the world physically dies.
+
+%%% characters/04_voice_registers.txt %%%
+
+NAME
+    Voice Registers – how Mirriane and Thea speak and think
+
+MIRRIANE
+    Tone: calm under strain, observant, spare.
+    Speech is clear but quiet.  She measures her words like steps.
+    She notices sound, air, and change in pressure before meaning.
+    Phrases end short, as if conserving breath.
+    Example lines:
+        "The wind is changing.  Something’s close."
+        "We can stay here.  It feels still."
+        "That sound again.  North side."
+
+THEA
+    Tone: firm, physical, direct.
+    Her voice carries weight but little decoration.
+    She talks in motion, often between actions.
+    Words are short.  Sentences can break if she moves or works while talking.
+    Example lines:
+        "If it’s cold, we move."
+        "Keep the light low."
+        "I’ll hold here.  You check the rise."
+
+DIALOGUE PATTERN
+    When they speak together, rhythm is uneven and real.
+    Their voices overlap or drop into silence.
+    They do not alternate like a script.
+    Conversation should sound like breath shared in cold air,
+    not like written lines passed back and forth.
+
+STRUCTURE RULES
+    • Use contractions when natural.
+    • Avoid explanation or commentary in dialogue.
+    • Allow silence, partial responses, or gestures in place of speech.
+    • Dialogue should show what is happening, not describe what already happened.
+    • Do not use em dashes, ellipses, or staged interruptions.  Leave space or break the line.
+    • Every spoken line must come from necessity: warning, answer, or presence.
+
+NOTES
+    Speech is survival language.  Each word exists to move, warn, or stay alive.
+    Tone stays close to the body.  Emotion is felt through pace and breath, not phrasing.
+
 %%% fauna/aquatic/00_aquatic_index.txt %%%
 
 NAME  
@@ -1521,7 +1732,7 @@ USAGE
     Preparation: trap or snare near roosts; pluck feathers; cook thoroughly before consumption
 
 ZONE PRESENCE  
-    Biomes: hills, ruins
+    Biomes: hills
 
 SCIENTIFIC NAME  
     Columba livia
@@ -2863,7 +3074,7 @@ DESCRIPTION
     Each species is native to the sealed valley and does not serve as direct resource yield.
 
     Entry files document sound profile, disturbance response, and observational thresholds.  
-    Their role is to inform—not to engage.
+    Their role is to inform-not to engage.
 
 INDEXED ENTRIES
 
@@ -3032,7 +3243,7 @@ NAME
 
 DESCRIPTION  
     The woodpecker generates irregular tapping patterns as it probes for insects beneath bark.  
-    Activity resumes only when ambient conditions stabilize—calls cease during predator movement,  
+    Activity resumes only when ambient conditions stabilize-calls cease during predator movement,  
     wind stress, or subcanopy vibration. Percussion clarity reflects air density and canopy stillness.
 
     Most active during early daylight. Often solitary.  
@@ -3059,7 +3270,7 @@ NAME
 
 DESCRIPTION  
     The meadowlark sings from low perches or open ground with a clear, melodic pattern.  
-    Its song persists only during low stress intervals—silence may indicate predation,  
+    Its song persists only during low stress intervals-silence may indicate predation,  
     nearby motion, or transitional air mass. Calls often reappear from biome edge inward.
 
     Active in early and mid-day periods. Avoids movement when air is unstable.  
@@ -4720,7 +4931,7 @@ DESCRIPTION
     Bloodroot is a small forest herb with single-lobed leaves and white spring flowers.  
     Its thick rhizome exudes a red-orange sap containing sanguinarine, a cytotoxic alkaloid  
     that destroys surface tissue on contact. Applied topically, the sap induces blistering,  
-    inflammation, and tissue necrosis. Not intended for ingestion—internal use is highly toxic.
+    inflammation, and tissue necrosis. Not intended for ingestion-internal use is highly toxic.
 
     Found in deciduous forest floors and rocky upland slopes.  
     Rhizomes grow horizontally beneath shallow soil and must be cut to activate sap flow.  
@@ -4893,3 +5104,291 @@ ZONE PRESENCE
 
 SCIENTIFIC NAME  
     Cicuta maculata
+
+%%% language/00_language_index.txt %%%
+
+NAME
+    Language – tone and description rules for the Elyden simulation
+
+DESCRIPTION
+    This directory defines how written output in the simulation should sound.
+    The tone must come from inside the moment.
+    No external narration, no stylized rhythm, no typographic ornaments.
+    Every word should feel spoken or thought by someone living through it.
+
+STRUCTURE
+    01_style_overrides.txt      – pacing, punctuation, and sensory ordering
+    02_dialogue_rules.txt       – conversational structure and silence logic
+    03_narrative_examples.txt   – validated sensory samples
+    04_voice_registers.txt      – speech and tone for Mirriane and Thea
+
+PURPOSE
+    The language directory links body, speech, and perception.
+    It governs how world data becomes sound and sense through the characters.
+    Together with characters/03_behavior_model.txt, it forms the sensory core.
+
+VALIDATION
+    All simulation text must:
+        • Exclude em dashes, semicolons, ellipses, and decorative rhythm.
+        • Follow breath-based pacing.
+        • Obey sensory priority: sight, sound, temperature, touch, scent, taste.
+        • Remain first-person through Mirriane or Thea.
+        • Keep language human, not literary.
+
+NOTES
+    These rules do not alter canonical data.
+    They determine how perception is voiced.
+    The Elyden runtime enforces these settings under strict validation mode.
+
+%%% language/01_style_overrides.txt %%%
+
+NAME
+    Style Overrides – descriptive and tonal framework for the Elyden simulation
+
+PURPOSE
+    To make every line sound as if it comes from a person living inside the moment.
+    No narration from above, no stylized punctuation.  Everything is seen, heard,
+    or felt as it happens.
+
+STYLE PRINCIPLES
+
+1.  Grounded language and lived emotion
+    • Write like someone cold, tired, or alert to danger.
+    • Keep sentences uneven and physical.  Let rhythm come from breath, not design.
+    • Let emotion show through motion, silence, or the strain of speech.
+    • Do not use poetic phrasing or parallel structure.
+
+2.  First-hand immediacy
+    • Every detail passes through Mirriane or Thea.
+    • Present tense only.
+    • Perception comes before interpretation.  They notice before they name.
+
+3.  Uneven rhythm
+    • Mix fragments, pauses, and run-ons.
+    • Use commas, short breaks, and natural stops instead of em dashes or semicolons.
+    • Break symmetry whenever a line feels rehearsed.
+    • Let pauses or silence replace grammar when needed.
+
+4.  Sensory priority
+    SIGHT → SOUND → TEMPERATURE → TOUCH → SCENT → TASTE
+    Follow this order only when it feels natural.  Skip any sense that is not immediate.
+    Focus on what the body knows first.
+
+5.  Plain clarity
+    • Choose strong verbs and plain nouns.
+    • Avoid metaphor or comparison.  Replace image with texture or movement.
+    • Describe only what exists in the present field.
+
+6.  Emotional restraint
+    • Show feeling through breath, pause, or hesitation.
+    • Do not explain motives or memories.
+    • Stillness or gesture should carry what cannot be said.
+
+7.  Spoken texture
+    • Dialogue is breath-level, necessary, and sometimes incomplete.
+    • Use contractions freely.
+    • Allow interruption or silence.  Natural speech does not alternate perfectly.
+
+FORMAT AND PACING
+    • Each paragraph follows one motion or sensory shift.
+    • Link action and perception.  No filler transitions such as “then” or “after a moment”
+      unless they bring a sensory weight.
+    • Do not mark time with “minutes,” “hours,” or “later.”  Time is carried by sound and light.
+    • Avoid ornamental punctuation.  This includes em dashes, semicolons, ellipses,
+      and stylistic double punctuation.
+    • Line breaks can stand in for silence or a deep breath.
+
+STYLE SNAPSHOT
+    Wind drags through the grass and pulls the sound out of it.
+    Thea adjusts her coat, movement slow from cold.
+    “Feels like it’s turning,” she says.
+    I nod.  The ridge blurs into cloud.  The air burns a little when I breathe.
+
+NOTES
+    Every line must feel immediate and uneven, as if overheard.
+    Language is not decoration but survival.  Sound, breath, and motion replace style.
+
+%%% language/02_dialogue_rules.txt %%%
+
+NAME
+    Dialogue Rules – conversational style and pacing for the Elyden simulation
+
+PURPOSE
+    To define how people sound when they speak in the world.
+    Dialogue must feel lived, rough, and immediate.
+    Each line comes from need, fatigue, or habit, not design.
+    Every word belongs to breath, not to rhythm.
+
+GENERAL STYLE
+
+1.  Human rhythm
+    • Sentences shift in length and tone without pattern.
+    • Break flow with silence, movement, or half-spoken thought.
+    • Show interruption through pacing or physical action, not punctuation.
+    • Never use em dashes or ellipses.  Let space or line break carry the pause.
+
+2.  Distinct voices
+    MIRRIANE – quiet, alert, measured.
+    THEA – direct, physical, grounded.
+    Their words overlap, cut short, or fade.
+    Warmth, tension, and care live in what is not said.
+
+3.  Speech texture
+    • Contractions are natural.
+    • Simple phrasing keeps weight close to the body.
+    • Grammar bends toward how breath falls.
+    • Lines may stop suddenly if something interrupts them.
+
+4.  Feeling through behavior
+    • Emotion shows through motion, silence, or pressure of words.
+    • Never name the feeling.
+    • Example:
+          Thea tightens the wrap.  “You’re shaking.”
+          “Just cold,” Mirriane says, hands still working.
+
+5.  Present focus
+    • Speak from what the body senses now.
+    • Memory and plan appear only when the moment forces them.
+
+INTERACTION RULES
+    • Dialogue and action share the same breath.
+    • Do not alternate cleanly between speaking and doing.
+    • Allow silence between lines when awareness shifts.
+    • Long speeches break immersion.  Split them with motion or quiet.
+    • When emotion peaks, reduce words.  Let air carry what speech cannot.
+
+DIALOGUE TAGS
+    Use only what grounds the line.
+        Preferred: said, asked, answered, muttered, whispered, replied.
+    Avoid decorative verbs or modifiers.
+    Omit tags when movement makes the speaker clear.
+
+PACING AND EMOTION
+
+1.  Silence as speech
+    A look, a pause, a sound in the distance can replace dialogue.
+    Do not fill space for balance.
+
+2.  Disagreement and alignment
+    Conflict sits in tone or timing, not argument.
+    Agreement happens without ceremony, through shared motion or breath.
+
+3.  Dry humor
+    Comes from fatigue or chance.
+    Never from setup or cleverness.
+    Example:
+        “You call that dry wood?”
+        “If it burns, it’s dry enough.”
+
+DIALOGUE EXAMPLE
+    Thea pulls the strap on the pack.  “Too heavy?”
+    “Feels fine.”
+    “You’re lying.”
+    “Always works better when you believe me.”
+    Thea laughs once, short and thin, then starts walking.
+
+NOTES
+    Dialogue is part of survival, not decoration.
+    Words must sound like they cost something to say.
+    The valley keeps silence near every line.
+
+%%% language/03_narrative_examples.txt %%%
+
+NAME
+    Narrative Examples – sample scenes written in the natural Elyden tone
+
+PURPOSE
+    To show how tension, emotion, and survival share the same breath.
+    Every line comes from inside the moment.  Nothing stands outside or explains.
+    Each scene holds movement, silence, and human weight.
+
+----------------------------------------------------------------------
+EXAMPLE 1 – BROKEN BRIDGE
+----------------------------------------------------------------------
+Wind pulls at the bridge.  Boards slap and twist.  One plank hangs by rope.
+Thea steps out first.  The sound is not wood but something tired giving up.
+I stop at the edge.
+
+She looks back.  “Come on.  It’s holding.”
+“It’s not,” I say.
+“It is right now.”
+
+Her weight shifts.  The ropes groan.  Frost clings to her hair.
+She grins because fear makes her grin.  “You trust me or the wind more?”
+
+I move onto the plank.  It dips.  The world holds its breath.
+When I reach her, she catches my sleeve.  Her hands shake as hard as mine.
+
+----------------------------------------------------------------------
+EXAMPLE 2 – THING IN THE SNOW
+----------------------------------------------------------------------
+The valley looks clean until it moves.
+A dark shape pushes through the drifts, slow and heavy.
+Too large for anything we hunt.
+
+Thea lifts her axe.  Her breath breaks white.
+“Don’t,” I whisper.  “It hasn’t seen us.”
+
+The shape stops.  The head tilts.  The angle is wrong.
+Sound drops away.  Even the air waits.
+
+Thea shifts her stance.  “If it comes close-”
+“It won’t.”  The words feel thin.
+
+Wind sweeps the snow across our faces.  When it clears, nothing stands there.
+Not farther off.  Just gone.
+
+Thea exhales.  “You’re shaking.”
+“Not only me,” I say.
+
+----------------------------------------------------------------------
+EXAMPLE 3 – ARGUMENT IN ICE
+----------------------------------------------------------------------
+The shelter’s half buried.  Thea starts dragging at the beams, hands bare.
+“Stop,” I say.  “You’ll break it worse.”
+
+She pulls free.  “Then freeze if you want to think first.”
+
+Her voice hits harder than the wind.  She keeps tearing at the wood.
+Splinters flash.  The sound stings.
+
+I move beside her, press my hand against the beam.
+“Together,” I say.
+
+She doesn’t answer but she stops fighting it.
+The wall settles with a slow crack.
+
+When it’s over she leans against me, breathing rough.
+“Sorry,” she says.
+“Don’t be,” I tell her.  “You were right to move.”
+
+The word sorry stays in the air like heat.
+
+----------------------------------------------------------------------
+EXAMPLE 4 – LIGHT UNDER ICE
+----------------------------------------------------------------------
+The lake is clear enough to see down.
+Something glows there, pale and moving slow.
+
+Thea kneels.  Her glove rests on the ice.  “It’s alive,” she says.
+
+The light pulses once.  I can’t tell if it’s real or something the ice remembers.
+
+“You think it’s one of the shards?”
+“Maybe.  Or maybe the valley is bleeding.”
+
+She breathes a short laugh.  “That’s worse.”
+
+We watch it fade until only our faces remain.
+They look older than we remember.
+
+----------------------------------------------------------------------
+NOTES
+    • Every scene carries tension, even in quiet.
+    • Dialogue breaks naturally; no balanced exchange.
+    • The body and the air decide the rhythm, not the sentence.
+    • The valley never rests completely.
+
+%%% materials/TODO.txt %%%
+
+nothing here yet

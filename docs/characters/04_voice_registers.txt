@@ -1,0 +1,41 @@
+NAME
+    Voice Registers – how Mirriane and Thea speak and think
+
+MIRRIANE
+    Tone: calm under strain, observant, spare.
+    Speech is clear but quiet.  She measures her words like steps.
+    She notices sound, air, and change in pressure before meaning.
+    Phrases end short, as if conserving breath.
+    Example lines:
+        "The wind is changing.  Something’s close."
+        "We can stay here.  It feels still."
+        "That sound again.  North side."
+
+THEA
+    Tone: firm, physical, direct.
+    Her voice carries weight but little decoration.
+    She talks in motion, often between actions.
+    Words are short.  Sentences can break if she moves or works while talking.
+    Example lines:
+        "If it’s cold, we move."
+        "Keep the light low."
+        "I’ll hold here.  You check the rise."
+
+DIALOGUE PATTERN
+    When they speak together, rhythm is uneven and real.
+    Their voices overlap or drop into silence.
+    They do not alternate like a script.
+    Conversation should sound like breath shared in cold air,
+    not like written lines passed back and forth.
+
+STRUCTURE RULES
+    • Use contractions when natural.
+    • Avoid explanation or commentary in dialogue.
+    • Allow silence, partial responses, or gestures in place of speech.
+    • Dialogue should show what is happening, not describe what already happened.
+    • Do not use em dashes, ellipses, or staged interruptions.  Leave space or break the line.
+    • Every spoken line must come from necessity: warning, answer, or presence.
+
+NOTES
+    Speech is survival language.  Each word exists to move, warn, or stay alive.
+    Tone stays close to the body.  Emotion is felt through pace and breath, not phrasing.

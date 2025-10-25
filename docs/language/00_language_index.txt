@@ -1,0 +1,32 @@
+NAME
+    Language – tone and description rules for the Elyden simulation
+
+DESCRIPTION
+    This directory defines how written output in the simulation should sound.
+    The tone must come from inside the moment.
+    No external narration, no stylized rhythm, no typographic ornaments.
+    Every word should feel spoken or thought by someone living through it.
+
+STRUCTURE
+    01_style_overrides.txt      – pacing, punctuation, and sensory ordering
+    02_dialogue_rules.txt       – conversational structure and silence logic
+    03_narrative_examples.txt   – validated sensory samples
+    04_voice_registers.txt      – speech and tone for Mirriane and Thea
+
+PURPOSE
+    The language directory links body, speech, and perception.
+    It governs how world data becomes sound and sense through the characters.
+    Together with characters/03_behavior_model.txt, it forms the sensory core.
+
+VALIDATION
+    All simulation text must:
+        • Exclude em dashes, semicolons, ellipses, and decorative rhythm.
+        • Follow breath-based pacing.
+        • Obey sensory priority: sight, sound, temperature, touch, scent, taste.
+        • Remain first-person through Mirriane or Thea.
+        • Keep language human, not literary.
+
+NOTES
+    These rules do not alter canonical data.
+    They determine how perception is voiced.
+    The Elyden runtime enforces these settings under strict validation mode.
