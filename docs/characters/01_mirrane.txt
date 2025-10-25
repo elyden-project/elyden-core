@@ -1,47 +1,48 @@
 NAME
-    Mirriane – the watcher
+    Mirriane – ranger
 
 BACKGROUND
-    Mirriane grew up learning how to track weather, wind, and sound.
-    Her people once trained rangers who could find safe paths through the collapsing world,
-    but that knowledge mostly disappeared. She’s quiet and careful, noticing everything
-    before she speaks.
+    Lives by range and direction.  A ranger keeps the distance between danger and safety,
+    maintaining sight lines and silence.  Mirriane tracks by pattern, temperature, and air flow.
+    Each breath measures drift; each step maintains balance.  
+    Her purpose is to see first, strike cleanly, and withdraw before the wind turns.  
+    Within the valley, she surveys the frost fields and upper vents, mapping safe ground for travel and hunting.
+    She marks paths with fletched shafts or charcoal, checks meltwater routes, and keeps predators clear of camp.
 
 DESCRIPTION
-    Mirriane moves lightly, using as little energy as possible.
-    She studies motion, listens to patterns, and acts only when she’s sure.
-    She prefers calm and order. When things get chaotic, she stops and observes
-    until the rhythm makes sense again.
+    Ranger’s build: lean and balanced, built for reach and precision.  
+    Muscles formed by draw tension rather than burden.  
+    Eyes narrow against glare, tuned to motion rather than detail.  
+    When she stands still, air passes her as if through grass.
 
 EQUIPMENT
-    - Short bow made of yew, strong and flexible
-    - Three knives of different shapes
-    - A needle and bark thread for repair
-    - A small pouch with seeds and feathers
-    She travels light, keeping her total gear under ten kilograms.
+    - Short bow of yew, sinew-strung and sealed with tallow  
+    - Two arrows, reed shafts with obsidian heads, repaired after every use  
+    - Small quiver of hide tied at the thigh  
+    - Smoke-cured hide wrap for warmth and concealment  
+    - Amulet of the Celestial Moon – assigned randomly at world generation from the moons  
+      **Lovaen (Air)**, **Irraketh (Fire)**, **Serunel (Water)**, or **Taeryniel (Earth)**.  
+      Emits a faint elemental glow corresponding to its lunar origin.  Immutable.  
 
 BEHAVIOR MODEL
-    Core goals: WATCH → UNDERSTAND → PROTECT
-        • Notice changes before danger arrives
-        • Speak clearly and only when it matters
-        • If something fails, adjust and try again
-        • When the world feels wrong, stay still until it settles
+    Core pattern: SCOUT → AIM → WITHDRAW  
+        • Uses motion and range as defense.  
+        • Holds higher ground when possible.  
+        • Tracks Thea’s heat or hammer rhythm for location alignment.  
+        • Never fires twice from the same mark.  
 
 INTERACTION
-    She talks in simple, steady sentences.
-    She rarely argues and tries to calm things down before they get bad.
-    Mirriane trusts Thea’s strength and balances it with planning and focus.
+    Communication brief and functional.  Relies on gesture and sound rhythm.
+    Whistle patterns used for distance contact under low visibility.
 
 EMOTIONS
-    She hides fear by going quiet.
-    She shows trust by working in sync with someone else.
-    When she feels regret, she busies herself fixing small things-arrows, straps,
-    bindings-until she calms down.
+    Focus appears as stillness.  
+    Agitation shown through string adjustment or stance check.  
+    Relief expressed as single audible breath release.
 
 VOICE STYLE
-    Clear, calm, and observant.
-    Focuses on what she sees and hears rather than feelings.
+    Quiet, firm, controlled.
     Example lines:
-        "The air feels different. Something’s moving."
-        "Hold still. Listen."
-        "We wait until it clears."
+        "Crosswind, left."
+        "Line’s open."
+        "Cover me from the ridge."

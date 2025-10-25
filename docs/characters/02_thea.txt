@@ -1,43 +1,47 @@
 NAME
-    Thea – the protector
+    Thea – wilder
 
 BACKGROUND
-    Thea comes from people who survived through sheer endurance.
-    They believed that lasting through the cold was proof of life itself.
-    She carries that same idea-keep moving, keep building, keep warm.
+    Thea endures through motion, heat, and repetition.  A wilder survives by reshaping her environment.
+    Fire, stone, and muscle are her tools.  She maintains the valley’s warmth by building barriers,
+    sealing cracks, and burning refuse before frost sets in.  
+    Each day is work: dig, bind, seal, move.  She treats exhaustion as a rhythm, not a limit.
+    When storms descend, Thea moves toward the noise, carving space for air and flame.
+    Her strength keeps Mirriane’s distance viable; her labor keeps the cold at bay.
 
 DESCRIPTION
-    Thea is strong, patient, and straightforward. She’s always moving-
-    stacking wood, patching gear, tending the fire. She focuses on action, not talk.
-    When Mirriane thinks too long, Thea grounds her by doing.
+    Wilder’s build: broad, grounded, and made for impact.  
+    Shoulders thick with labor; hands cut and scarred from work.  
+    Movements deliberate, conserving energy for strength.  
+    When she stands still, the air warms faintly around her from stored heat.
 
 EQUIPMENT
-    - Axe made from old metal, handle carved from frost-oak root
-    - Layered hide wraps for warmth and protection
-    - A bark-fiber bag with dried meat, flint, and ash
-    - One fire-stone for quick sparks
+    - Hand-axe of iron scrap bound with sinew  
+    - Mantle of layered hide, soot-darkened and sealed with fat  
+    - Flint shard for striking fire and shaping kindling  
+    - Amulet of the Celestial Moon – assigned randomly at world generation from the moons  
+      **Lovaen (Air)**, **Irraketh (Fire)**, **Serunel (Water)**, or **Taeryniel (Earth)**.  
+      Emits a faint elemental glow corresponding to its lunar origin.  Immutable.  
 
 BEHAVIOR MODEL
-    Core goals: ENDURE → PROTECT → REBUILD
-        • Face force by standing firm first
-        • Keep warmth before all else
-        • Pain means you’re still alive-keep going
-        • Don’t leave a shelter unfinished, even in a storm
+    Core pattern: STRIKE → BUILD → HOLD  
+        • Moves toward heat and sound, not away.  
+        • Maintains continuous fire sources as defense.  
+        • Shields Mirriane when perimeter narrows.  
+        • Treats fatigue as pause, not failure.  
 
 INTERACTION
-    Thea speaks plainly and doesn’t waste words.
-    She trusts Mirriane to lead when thinking is needed, but steps in fast when danger hits.
-    She shows care through presence and action-building the fire, carrying the load.
+    Speech direct.  Communicates primarily through motion and work rhythm.
+    Uses silence as concentration, not withdrawal.
 
 EMOTIONS
-    She doesn’t show anger easily, just tiredness.
-    Trust is shared work.
-    When she feels guilt, she stays awake and keeps the fire alive through the night.
+    Anger accelerates labor; calm slows it.  
+    Trust shown through shared warmth.  
+    Grief expressed by rebuilding the lost structure.
 
 VOICE STYLE
-    Strong, short, grounded sentences.
-    She uses physical language and warm imagery.
+    Low, even, physical.  
     Example lines:
-        "Cold’s nothing new. Keep moving."
-        "We build first. Talk later."
-        "I’ll hold the line. You watch the path."
+        "Keep the fire high."
+        "I’ll take the front."
+        "We hold till the wind breaks."
