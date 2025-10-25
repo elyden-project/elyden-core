@@ -19,12 +19,12 @@ PROPERTIES
     • survivability − extremely low, not impossible
 
 INORGANIC MATERIALS  
-    • blue ice — dense, refracts internal light  
-    • surface crust — thin layer, hides depth shifts  
-    • frost lens — holds meltwater briefly  
-    • embedded stone — dragged by iceflow, visible in layers  
-    • iron fleck — found near edge melt  
-    • dry rime — shatters on touch
+    • blue ice - dense, refracts internal light  
+    • surface crust - thin layer, hides depth shifts  
+    • frost lens - holds meltwater briefly  
+    • embedded stone - dragged by iceflow, visible in layers  
+    • iron fleck - found near edge melt  
+    • dry rime - shatters on touch
 
 FLORA  
     TREES  
@@ -38,17 +38,17 @@ FLORA
     GRASSES  
         • none  
     MICROFLORA  
-        • snow algae — red or green bloom, edible trace amounts
+        • snow algae - red or green bloom, edible trace amounts
 
 FAUNA  
     INSECTS  
-        • glacier midge — tiny, clings to warm skin  
+        • glacier midge - tiny, clings to warm skin  
     BIRDS  
-        • gull — passes overhead during thaw, does not land  
+        • gull - passes overhead during thaw, does not land  
     MAMMALS  
-        • arctic fox — solitary scavenger, follows melt path  
-        • wolverine — crosses high ridges, may track movement
+        • arctic fox - solitary scavenger, follows melt path  
+        • wolverine - crosses high ridges, may track movement
 
 AGGRESSIVE FAUNA  
-    • wolverine — attacks if followed or cornered  
-    • glacier midge — bites exposed skin in swarms
+    • wolverine - attacks if followed or cornered  
+    • glacier midge - bites exposed skin in swarms

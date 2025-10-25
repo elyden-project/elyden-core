@@ -27,44 +27,44 @@ INORGANIC MATERIALS
 
 FLORA  
     GRASSES  
-        • wild rye — tall, dry blades  
-        • brome — seed-heavy, golden in sun  
-        • bentgrass — forms mats, slippery when wet  
+        • wild rye - tall, dry blades  
+        • brome - seed-heavy, golden in sun  
+        • bentgrass - forms mats, slippery when wet  
     HERBS  
-        • yarrow — white blossom, used in salves  
-        • burdock — hooks into clothing and fur  
-        • plantain — grows in open spots, edible when boiled  
+        • yarrow - white blossom, used in salves  
+        • burdock - hooks into clothing and fur  
+        • plantain - grows in open spots, edible when boiled  
     FLOWERS  
-        • bluebell — bell-shaped, clustered bloom  
-        • goldenrod — late-summer bloom, attracts insects  
-        • thistle — spiny, purple-topped  
+        • bluebell - bell-shaped, clustered bloom  
+        • goldenrod - late-summer bloom, attracts insects  
+        • thistle - spiny, purple-topped  
     SHRUBS  
-        • bramble — thorned, spreads under canopy  
-        • hawthorn — low, berry-producing  
-        • rose — thorny climber, grows in rings
+        • bramble - thorned, spreads under canopy  
+        • hawthorn - low, berry-producing  
+        • rose - thorny climber, grows in rings
 
 FAUNA  
     INSECTS  
-        • deer tick — blood-seeking, clings to tall grass  
-        • grasshopper — sound-producing, evasive  
-        • horsefly — diurnal biter, fast-moving  
-        • ground beetle — scavenger, active at night  
+        • deer tick - blood-seeking, clings to tall grass  
+        • grasshopper - sound-producing, evasive  
+        • horsefly - diurnal biter, fast-moving  
+        • ground beetle - scavenger, active at night  
     REPTILES & AMPHIBIANS  
-        • slow worm — burrows under dry root piles  
-        • toad — insectivore, active at dusk  
+        • slow worm - burrows under dry root piles  
+        • toad - insectivore, active at dusk  
     BIRDS  
-        • skylark — hovers in wind currents, sings in flight  
-        • pheasant — ground forager, startles easily  
-        • crow — scavenger, follows disturbed zones  
+        • skylark - hovers in wind currents, sings in flight  
+        • pheasant - ground forager, startles easily  
+        • crow - scavenger, follows disturbed zones  
     MAMMALS  
-        • hare — agile runner, hidden in grass nests  
-        • polecat — solitary scavenger, follows scent trails  
-        • field mouse — quick, gathers seed  
-        • fox — hunts in arcs, low to ground  
-        • boar — heavy forager, pushes through dense grass
+        • hare - agile runner, hidden in grass nests  
+        • polecat - solitary scavenger, follows scent trails  
+        • field mouse - quick, gathers seed  
+        • fox - hunts in arcs, low to ground  
+        • boar - heavy forager, pushes through dense grass
 
 AGGRESSIVE FAUNA  
-    • fox — may attack if sick or wounded  
-    • boar — charges if startled, tears paths through cover  
-    • horsefly — bites persistently in open sun  
-    • deer tick — latches and feeds slowly, difficult to detect
+    • fox - may attack if sick or wounded  
+    • boar - charges if startled, tears paths through cover  
+    • horsefly - bites persistently in open sun  
+    • deer tick - latches and feeds slowly, difficult to detect

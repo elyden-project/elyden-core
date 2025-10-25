@@ -5,17 +5,17 @@ NAME
 
 DESCRIPTION  
     Combat in Elyden is not a system.  
-    It is a series of irreversible moments—decisions that move faster than thought.  
+    It is a series of irreversible moments-decisions that move faster than thought.  
     There are no turns, no health numbers, no initiative scores.  
     What happens next depends on where you are, what you do, and what it hears first.
 
 COMBAT FLOW  
     • Actions occur in time, not turns  
     • The world continues while you aim, draw, or hesitate  
-    • Every attack is described—impact, reaction, recoil, silence  
-    • No attack “misses” without cause—terrain, pressure, movement all influence outcome  
+    • Every attack is described-impact, reaction, recoil, silence  
+    • No attack “misses” without cause-terrain, pressure, movement all influence outcome  
     • Every encounter is expressed in natural language:  
-        − “Your arrow flies low—brushes fur—misses.”  
+        − “Your arrow flies low-brushes fur-misses.”  
         − “The boar lunges but hesitates at your stance.”  
         − “The knife lands shallow. Breath escapes its ribs.”  
         − “It doesn't run. Yet.”
@@ -23,8 +23,8 @@ COMBAT FLOW
 MIRRANE  
     • Specializes in precision, patience, and control over distance  
     • Hunts by reading breath gaps, movement rhythm, and wind  
-    • Thrives in silent environments—panics in confusion  
-    • Cannot withstand pressure—must finish fights before they start
+    • Thrives in silent environments-panics in confusion  
+    • Cannot withstand pressure-must finish fights before they start
 
 THEA  
     • Acts by proximity, pressure, instinct  
@@ -33,7 +33,7 @@ THEA
     • Responds to Mirrane’s behavior, not her commands
 
 THREATS  
-    • No damage meters—pain is shown by breath, stagger, noise  
+    • No damage meters-pain is shown by breath, stagger, noise  
     • Creatures defend themselves intelligently  
     • Predators stalk, wait, test  
     • Herbivores kick, buck, scatter  
@@ -42,7 +42,7 @@ THREATS
 DURATION  
     • Small encounters resolve in seconds  
     • Predators may test you over minutes  
-    • Shard-bearing threats emerge as prolonged engagements—ambient, erratic, unpredictable  
+    • Shard-bearing threats emerge as prolonged engagements-ambient, erratic, unpredictable  
     • No action pauses the world
 
 WOUND RESPONSES  

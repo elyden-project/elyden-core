@@ -25,51 +25,51 @@ INORGANIC MATERIALS
 
 FLORA  
     TREES  
-        • oak — broadleaf canopy, acorn-bearing  
-        • birch — papery bark, low canopy  
-        • maple — red leaves, moderate shade  
-        • pine — needle-bearing, resin-rich  
-        • spruce — dense needles, vertical growth  
+        • oak - broadleaf canopy, acorn-bearing  
+        • birch - papery bark, low canopy  
+        • maple - red leaves, moderate shade  
+        • pine - needle-bearing, resin-rich  
+        • spruce - dense needles, vertical growth  
     SHRUBS  
-        • hazel — fruiting, flexible stems  
-        • wild rose — thorned, fruit in late season  
-        • honeysuckle — vine-like, aromatic  
+        • hazel - fruiting, flexible stems  
+        • wild rose - thorned, fruit in late season  
+        • honeysuckle - vine-like, aromatic  
     HERBS  
-        • wild thyme — aromatic, low ground cover  
-        • stinging nettle — contact irritant, edible when cooked  
-        • wild garlic — pungent, grows in clusters  
-        • yarrow — medicinal, feathered leaves  
+        • wild thyme - aromatic, low ground cover  
+        • stinging nettle - contact irritant, edible when cooked  
+        • wild garlic - pungent, grows in clusters  
+        • yarrow - medicinal, feathered leaves  
     FUNGI  
-        • puffball — round fruiting body, edible  
-        • false chanterelle — orange, inedible  
-        • coral fungus — branched form, edible with care  
-        • wood ear — grows on decaying wood, edible  
+        • puffball - round fruiting body, edible  
+        • false chanterelle - orange, inedible  
+        • coral fungus - branched form, edible with care  
+        • wood ear - grows on decaying wood, edible  
     GRASSES  
-        • tall fescue — coarse blade, covers clearings  
-        • ryegrass — thin, drought-tolerant
+        • tall fescue - coarse blade, covers clearings  
+        • ryegrass - thin, drought-tolerant
 
 FAUNA  
     INSECTS  
-        • forest ant — ground forager, forms visible paths  
-        • click beetle — flicks to escape, active in litter  
-        • mosquito — blood-feeder, active at dusk  
-        • wood wasp — nests in bark, stings when disturbed  
+        • forest ant - ground forager, forms visible paths  
+        • click beetle - flicks to escape, active in litter  
+        • mosquito - blood-feeder, active at dusk  
+        • wood wasp - nests in bark, stings when disturbed  
     REPTILES & AMPHIBIANS  
-        • slow worm — legless reptile, lives under stones  
-        • common frog — insectivore, active in wet zones  
+        • slow worm - legless reptile, lives under stones  
+        • common frog - insectivore, active in wet zones  
     BIRDS  
-        • woodpecker — drills bark, insectivore  
-        • jay — calls loudly, caches food  
-        • red-tailed hawk — hunts from above, swoops silently  
-        • chaffinch — seed and insect eater, nests low  
+        • woodpecker - drills bark, insectivore  
+        • jay - calls loudly, caches food  
+        • red-tailed hawk - hunts from above, swoops silently  
+        • chaffinch - seed and insect eater, nests low  
     MAMMALS  
-        • red squirrel — arboreal, caches food  
-        • hedgehog — nocturnal forager, rolls when threatened  
-        • red fox — solitary omnivore, dens under roots  
-        • roe deer — browsers, follow consistent trails  
-        • brown bear — omnivore, roams widely
+        • red squirrel - arboreal, caches food  
+        • hedgehog - nocturnal forager, rolls when threatened  
+        • red fox - solitary omnivore, dens under roots  
+        • roe deer - browsers, follow consistent trails  
+        • brown bear - omnivore, roams widely
 
 AGGRESSIVE FAUNA  
-    • red fox — bites if cornered or wounded  
-    • brown bear — charges if startled or cubs present  
-    • wood wasp — stings in defense of nest
+    • red fox - bites if cornered or wounded  
+    • brown bear - charges if startled or cubs present  
+    • wood wasp - stings in defense of nest

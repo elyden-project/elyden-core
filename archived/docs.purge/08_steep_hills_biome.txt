@@ -26,37 +26,37 @@ INORGANIC MATERIALS
 
 FLORA  
     GRASSES  
-        • windgrass — narrow, sharp-edged, non-edible  
+        • windgrass - narrow, sharp-edged, non-edible  
     HERBS  
-        • stonebloom — aromatic, inert  
-        • cliff fennel — edible (cooked)  
+        • stonebloom - aromatic, inert  
+        • cliff fennel - edible (cooked)  
     FUNGI  
-        • ridge lichen — edible (scraped)  
-        • black knot — toxic (cooked or raw)  
+        • ridge lichen - edible (scraped)  
+        • black knot - toxic (cooked or raw)  
     TREES  
-        • pinyon pine — hard, slow growth  
-        • juniper — fibrous trunk, brittle limbs  
+        • pinyon pine - hard, slow growth  
+        • juniper - fibrous trunk, brittle limbs  
     SHRUBS & SUCCULENTS  
-        • cliffbriar — thorny, moisture-retentive  
-        • drybrush — low leaf yield, brittle
+        • cliffbriar - thorny, moisture-retentive  
+        • drybrush - low leaf yield, brittle
 
 FAUNA  
     INSECTS  
-        • shale wasp — aggressive if disturbed  
-        • ridge ant — line carrier, non-aggressive  
+        • shale wasp - aggressive if disturbed  
+        • ridge ant - line carrier, non-aggressive  
     BIRDS  
-        • raven — ground feeder  
-        • mountain shrike — hunts small rodents  
+        • raven - ground feeder  
+        • mountain shrike - hunts small rodents  
     MAMMALS  
-        • mountain goat — nimble, non-aggressive  
-        • mountain lion — solitary ambush predator  
+        • mountain goat - nimble, non-aggressive  
+        • mountain lion - solitary ambush predator  
     REPTILES  
-        • rock viper — heat-seeking, coiled under shadow  
+        • rock viper - heat-seeking, coiled under shadow  
     AMPHIBIANS  
         • none confirmed
 
 AGGRESSIVE FAUNA  
-    • cougar — stalks from higher elevation, ambushes if line-of-sight is broken  
-    • shale wasp — swarms if nest disturbed  
-    • pit viper — strikes if stepped near
+    • cougar - stalks from higher elevation, ambushes if line-of-sight is broken  
+    • shale wasp - swarms if nest disturbed  
+    • pit viper - strikes if stepped near
 

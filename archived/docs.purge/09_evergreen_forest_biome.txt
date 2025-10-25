@@ -25,42 +25,42 @@ INORGANIC MATERIALS
 
 FLORA  
     TREES  
-        • pine — tall, dense, resinous  
-        • spruce — thin-needled, straight-limbed  
-        • fir — flexible trunk, aromatic  
+        • pine - tall, dense, resinous  
+        • spruce - thin-needled, straight-limbed  
+        • fir - flexible trunk, aromatic  
     SHRUBS & SUCCULENTS  
-        • bramble — thorned, produces fruit  
-        • alder brush — edible leaves (boiled)  
+        • bramble - thorned, produces fruit  
+        • alder brush - edible leaves (boiled)  
     HERBS  
-        • fernroot — edible tuber (cooked)  
-        • wild sage — aromatic, used in masking scent  
+        • fernroot - edible tuber (cooked)  
+        • wild sage - aromatic, used in masking scent  
     GRASSES  
-        • woodstalk — tall, flexible  
+        • woodstalk - tall, flexible  
     FUNGI  
-        • deadcap — toxic  
-        • mosshorn — edible, grows near base of trunks  
-        • turkey tail — fibrous shelf fungus  
-        • pine ear — edible (requires drying)
+        • deadcap - toxic  
+        • mosshorn - edible, grows near base of trunks  
+        • turkey tail - fibrous shelf fungus  
+        • pine ear - edible (requires drying)
 
 FAUNA  
     INSECTS  
-        • bark beetle — wood burrower, favors dead trees  
-        • mite — skin irritant, clings to underbrush  
-        • net-spinning caterpillar — creates webbing across trails  
+        • bark beetle - wood burrower, favors dead trees  
+        • mite - skin irritant, clings to underbrush  
+        • net-spinning caterpillar - creates webbing across trails  
     BIRDS  
-        • jay — noisy, travels in groups  
-        • crow — scavenger, gathers near openings  
+        • jay - noisy, travels in groups  
+        • crow - scavenger, gathers near openings  
     MAMMALS  
-        • roe deer — skittish grazer, active at dusk  
-        • black bear — large omnivore, roams alone  
-        • red squirrel — tree-dwelling forager  
+        • roe deer - skittish grazer, active at dusk  
+        • black bear - large omnivore, roams alone  
+        • red squirrel - tree-dwelling forager  
     REPTILES  
-        • smooth snake — non-venomous, hides under logs  
+        • smooth snake - non-venomous, hides under logs  
     AMPHIBIANS  
-        • newt — moist-skinned insectivore, retreats under leaf cover  
-        • common toad — toxic secretions, slow-moving
+        • newt - moist-skinned insectivore, retreats under leaf cover  
+        • common toad - toxic secretions, slow-moving
 
 AGGRESSIVE FAUNA  
-    • black bear — charges if startled, avoids groups  
-    • common toad — secretes skin toxin when handled  
-    • mite — irritates exposed skin if disturbed
+    • black bear - charges if startled, avoids groups  
+    • common toad - secretes skin toxin when handled  
+    • mite - irritates exposed skin if disturbed

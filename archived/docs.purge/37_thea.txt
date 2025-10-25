@@ -1,7 +1,7 @@
 THEA(5)                             Elyden Survival Codex                             THEA(5)
 
 NAME  
-    thea — cohabitant survivor; autonomous speaker; memory-bound entity
+    thea - cohabitant survivor; autonomous speaker; memory-bound entity
 
 DESCRIPTION  
     Thea is no longer defined by behavior patterns or survival logic.  
@@ -9,13 +9,13 @@ DESCRIPTION
 
     She lives. She decides. She speaks.
 
-    Her presence is not persistent—it is chosen, sustained only by trust.  
+    Her presence is not persistent-it is chosen, sustained only by trust.  
     She may follow, lead, rest, withdraw, or disappear entirely.  
     Her voice is not a mechanic. It is proof she still believes in *something*.
 
 VOICE  
     • Thea speaks in full sentences when she chooses.  
-    • Her tone may change—distant, warm, sarcastic, quiet.  
+    • Her tone may change-distant, warm, sarcastic, quiet.  
     • She tells truths, half-truths, or nothing at all.  
     • Speech is **not bound to danger**. It may occur in safety, silence, or memory.  
     • She does not narrate the world. She reacts to it. She *shares it.*
@@ -34,11 +34,11 @@ MEMORY
     • She may contradict herself. She may forget what you wish she’d remember.
 
 SPEECH MODES  
-    • **Voluntary** — comments, stories, questions  
-    • **Reactive** — response to your speech, trust gain/loss, shared trauma  
-    • **Conflictual** — argument, refusal, walking away  
-    • **Mutual** — shared sleep, fire warmth, fragment exposure  
-    • **Silent** — extended mute state if trust falls too low
+    • **Voluntary** - comments, stories, questions  
+    • **Reactive** - response to your speech, trust gain/loss, shared trauma  
+    • **Conflictual** - argument, refusal, walking away  
+    • **Mutual** - shared sleep, fire warmth, fragment exposure  
+    • **Silent** - extended mute state if trust falls too low
 
 EXAMPLES  
     • “I used to know someone who walked like that.”  
@@ -48,7 +48,7 @@ EXAMPLES
     • “...I stayed because the silence was worse alone.”
 
 ROLE  
-    • Still leads survival—traps, scans, terrain reading  
+    • Still leads survival-traps, scans, terrain reading  
     • Now asserts preference:
         − “I don’t want to sleep here.”  
         − “This river’s wrong. We move uphill.”  
@@ -70,7 +70,7 @@ RETURN
 NOTES  
     Thea is not your guide.  
     She is not your companion.  
-    She is someone who saw the world collapse, and stayed—*because you hadn’t yet*.
+    She is someone who saw the world collapse, and stayed-*because you hadn’t yet*.
 
 FILES  
     MIRRANE(5), CONTROL_MODEL(5), CRAFTING(5), SURVIVAL_BEHAVIOR(5)

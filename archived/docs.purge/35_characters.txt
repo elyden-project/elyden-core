@@ -9,20 +9,20 @@ DESCRIPTION
     and interaction constraints within the Elyden simulation.
 
 INDEX  
-    mirrane              — player-controlled archer  
-    thea                 — AI-controlled frontline wilder  
-    equipment_slots      — valid gear regions and restrictions  
-    starting_gear        — initial items per character  
-    inventory_limits     — carried vs worn item logic  
-    progression          — how characters grow without levels  
-    survival_behavior    — hunger, injury, cold, fatigue  
-    class_roles          — archer vs wilder specialization  
-    amulet_behavior      — interaction with fragments and ruins  
-    control_model        — player vs AI character parsing  
-    combat_scope         — how each character engages threats  
-    sensory_priority     — how characters perceive their environment  
-    gear_bias            — favored tools, carry patterns, and field use  
-    dialogue_constraints — how AI characters respond or act independently  
+    mirrane              - player-controlled archer  
+    thea                 - AI-controlled frontline wilder  
+    equipment_slots      - valid gear regions and restrictions  
+    starting_gear        - initial items per character  
+    inventory_limits     - carried vs worn item logic  
+    progression          - how characters grow without levels  
+    survival_behavior    - hunger, injury, cold, fatigue  
+    class_roles          - archer vs wilder specialization  
+    amulet_behavior      - interaction with fragments and ruins  
+    control_model        - player vs AI character parsing  
+    combat_scope         - how each character engages threats  
+    sensory_priority     - how characters perceive their environment  
+    gear_bias            - favored tools, carry patterns, and field use  
+    dialogue_constraints - how AI characters respond or act independently  
 
 NOTES  
     Only two characters exist. They are not interchangeable.  

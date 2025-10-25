@@ -9,28 +9,28 @@ DESCRIPTION
     the outer biomes. Everything worn is visible, functional, and chosen with purpose.  
     No upgrades are possible until new material is gathered.
 
-MIRRANE — ARCHER  
-    • Tunic           — woven cloth, layered for warmth and wind shear  
-    • Wrap            — bark-fiber sash, secures waist and thigh loop  
-    • Footcloths      — moss-lined, padded for movement and moisture  
-    • Amulet          — fixed; moon-reactive; responds to ruins and fragments  
+MIRRANE - ARCHER  
+    • Tunic           - woven cloth, layered for warmth and wind shear  
+    • Wrap            - bark-fiber sash, secures waist and thigh loop  
+    • Footcloths      - moss-lined, padded for movement and moisture  
+    • Amulet          - fixed; moon-reactive; responds to ruins and fragments  
     • Windcaller’s Quiver  
         − bark-and-hide silent-draw quiver  
         − holds up to 8 arrows or 4 javelins  
         − baffle-lined to prevent rattle; internal loop for flint or twine
 
-THEA — WILDER  
-    • Tunic           — same cut; reinforced at elbows and collar  
-    • Wrap            — doubled fiber band; includes loop for pouch binding  
-    • Footcloths      — same pattern; slightly heavier at heel  
-    • Amulet          — fixed; moon-reactive; stronger resonance profile  
+THEA - WILDER  
+    • Tunic           - same cut; reinforced at elbows and collar  
+    • Wrap            - doubled fiber band; includes loop for pouch binding  
+    • Footcloths      - same pattern; slightly heavier at heel  
+    • Amulet          - fixed; moon-reactive; stronger resonance profile  
     • Rootbinder’s Satchel  
         − hide pouch with bark-rimmed compartments  
         − holds up to six materials (fresh or dried)  
         − includes paste pocket, binding loop, and moisture cell
 
 MATERIAL ORIGIN  
-    These items are not crafted during play. They are considered legacy gear—issued prior to  
+    These items are not crafted during play. They are considered legacy gear-issued prior to  
     biome isolation. No other survivors have equivalent tools. These items do not glow,  
     level up, or change form. They degrade only if damaged.
 

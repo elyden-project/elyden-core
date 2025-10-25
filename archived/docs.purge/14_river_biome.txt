@@ -19,62 +19,62 @@ INORGANIC MATERIALS
     • smooth river stone  
     • silt and clay  
     • coarse gravel  
-    • driftwood — light, brittle, waterlogged  
-    • waterlogged bark — soft, strips easily  
-    • fish scale residue — evidence of predation  
-    • discarded shells — mostly freshwater mussel
+    • driftwood - light, brittle, waterlogged  
+    • waterlogged bark - soft, strips easily  
+    • fish scale residue - evidence of predation  
+    • discarded shells - mostly freshwater mussel
 
 FLORA  
     TREES  
-        • willow — flexible branches, used for binding  
-        • alder — prefers damp soil, small cones  
-        • poplar — fast-growing, low canopy  
+        • willow - flexible branches, used for binding  
+        • alder - prefers damp soil, small cones  
+        • poplar - fast-growing, low canopy  
     SHRUBS  
-        • dogwood — fibrous stems, grows in clusters  
-        • elder — edible berries, toxic leaves  
-        • gooseberry — fruit-bearing, thorned  
+        • dogwood - fibrous stems, grows in clusters  
+        • elder - edible berries, toxic leaves  
+        • gooseberry - fruit-bearing, thorned  
     HERBS  
-        • watercress — edible, grows in shallow flow  
-        • mint — aromatic, used to repel insects  
-        • dock — large leaves, applied to irritation  
+        • watercress - edible, grows in shallow flow  
+        • mint - aromatic, used to repel insects  
+        • dock - large leaves, applied to irritation  
     FUNGI  
-        • swamp puffball — spore-ejecting, not edible  
-        • shelf fungus — grows on driftwood, edible when dried  
+        • swamp puffball - spore-ejecting, not edible  
+        • shelf fungus - grows on driftwood, edible when dried  
     AQUATIC PLANTS  
-        • cattail — edible core, grows in dense stands  
-        • reedmace — tall, fibrous, flammable head  
-        • duckweed — floating mat, edible in small amounts  
+        • cattail - edible core, grows in dense stands  
+        • reedmace - tall, fibrous, flammable head  
+        • duckweed - floating mat, edible in small amounts  
     GRASSES  
-        • reed canary grass — tall, grows in clusters  
-        • wild sedge — spiny blades, near still water
+        • reed canary grass - tall, grows in clusters  
+        • wild sedge - spiny blades, near still water
 
 FAUNA  
     INSECTS  
-        • horsefly — day-active, bites exposed skin  
-        • mosquito — dusk-swarming, blood feeder  
-        • water strider — skims surface tension  
-        • damselfly — hoverer, lays eggs in plants  
+        • horsefly - day-active, bites exposed skin  
+        • mosquito - dusk-swarming, blood feeder  
+        • water strider - skims surface tension  
+        • damselfly - hoverer, lays eggs in plants  
     FISH  
-        • northern pike — ambush predator, hides in reeds  
-        • trout — active swimmer, prefers cool eddies  
-        • perch — bottom feeder, shelters near logs  
-        • minnow — small, used as bait  
+        • northern pike - ambush predator, hides in reeds  
+        • trout - active swimmer, prefers cool eddies  
+        • perch - bottom feeder, shelters near logs  
+        • minnow - small, used as bait  
     AMPHIBIANS  
-        • common frog — insectivore, emerges in rain  
-        • marsh toad — hides in mud, calls at dusk  
+        • common frog - insectivore, emerges in rain  
+        • marsh toad - hides in mud, calls at dusk  
     REPTILES  
-        • grass snake — non-venomous, swims calmly  
-        • snapping turtle — hides in silt, bites when stepped on  
+        • grass snake - non-venomous, swims calmly  
+        • snapping turtle - hides in silt, bites when stepped on  
     BIRDS  
-        • heron — spear fisher, hunts in shallows  
-        • kingfisher — dive-catcher, nests in banks  
-        • mallard duck — surface grazer, flocking  
+        • heron - spear fisher, hunts in shallows  
+        • kingfisher - dive-catcher, nests in banks  
+        • mallard duck - surface grazer, flocking  
     MAMMALS  
-        • otter — fish hunter, active at dawn  
-        • water vole — burrows near roots, herbivore  
-        • wild boar — forages along bank, may root through shrubs
+        • otter - fish hunter, active at dawn  
+        • water vole - burrows near roots, herbivore  
+        • wild boar - forages along bank, may root through shrubs
 
 AGGRESSIVE FAUNA  
-    • wild boar — charges if surprised, very strong  
-    • snapping turtle — strikes defensively from silt  
-    • horsefly — persistent blood feeder
+    • wild boar - charges if surprised, very strong  
+    • snapping turtle - strikes defensively from silt  
+    • horsefly - persistent blood feeder

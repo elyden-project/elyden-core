@@ -1,0 +1,123 @@
+NAME  
+    world_laws – immutable foundations of Elyden’s stability  
+
+DESCRIPTION  
+    Defines the fixed order that binds the sealed valley, its matter, language,  
+    and living anchors. These laws override all other records.  
+    Any event, description, or behavior that contradicts them is null.  
+
+STRUCTURE  
+    01_cosmic_order  
+    02_environmental_law  
+    03_biome_law  
+    04_matter_law  
+    05_flora_law  
+    06_fauna_law  
+    07_shard_law  
+    08_perception_and_language_law  
+    09_character_and_balance_law  
+    10_mortality_law  
+    11_temporal_law  
+
+
+01_cosmic_order  
+    Elyden orbits Aurenzae, a pale, steady star.  
+    The valid celestial bodies are Aurenzae, Taeryniel, Irraketh,  
+    Lovaen, Serunel, Vaeronth, and Khyrael.  
+    No other stars, moons, or anomalies exist.  
+    Khyrael is optical distortion only. It has no color, mass, or light.  
+    Vaeronth’s rupture formed the orbital ring around Elyden.  
+    All resonance traces back to that collapse.  
+
+
+02_environmental_law  
+    The sealed valley is the last coherent region on Elyden.  
+    All weather, heat, and life occur within its boundary.  
+    Geothermal and atmospheric constants apply only inside the basin.  
+    No traversal beyond the Unclimbable Ridge is possible.  
+    Beyond the ridge, space is null and silent.  
+
+
+03_biome_law  
+    Only the biomes listed in 00_biome_index.txt are valid.  
+    The Unclimbable Ridge marks the terminus of movement.  
+    Transient anomalies may occur but appear only as distortion-  
+    without texture, form, or color.  
+    Biomes have no hierarchy or progression.  
+    Each organism and material must belong to a defined biome.  
+
+
+04_matter_law  
+    Materials behave according to physical and chemical rules only.  
+    Special materials such as shard_dust, resonant_basalt, and ring_glass  
+    are inert and non-emissive.  
+    Meteoric_iron may show magnetism but never light or energy.  
+    No inanimate object may display will, warmth, or awareness.  
+
+
+05_flora_law  
+    All flora function through biology alone.  
+    Medicinal and poisonous effects are chemical, not mystical.  
+    No plant glows, remembers, or reacts with intent.  
+    Indicator flora report environment by presence only.  
+
+
+06_fauna_law  
+    Every organism belongs to one behavioral class: grazers, predators,  
+    scavengers, flyers, aquatic, signals, or megafauna.  
+    Hybrid or mutated classifications are invalid.  
+    Megafauna is an exclusive tag applied only to apex survivors.  
+    No new species appear beyond these types.  
+
+
+07_shard_law  
+    Shards are inert fragments of Vaeronth.  
+    They exist only within megafauna and are released at death.  
+    No shard appears in open ground, flora, or smaller fauna.  
+    Each shard may bind once to a single crafted item.  
+    No shard regenerates or duplicates.  
+    Light or heat outside megafauna bodies is illusion only.  
+
+
+08_perception_and_language_law  
+    Description flows only through Mirriane and Thea.  
+    Language is immediate, sensory, and human.  
+    All text follows sensory priority: sight, sound, temperature,  
+    touch, scent, taste.  
+    No figurative or theological language is permitted.  
+    Punctuation limited to commas and periods.  
+    Dialogue belongs solely to Mirriane and Thea.  
+    Speech arises from need, not narration.  
+
+
+09_character_and_balance_law  
+    Mirriane and Thea are the world’s anchors.  
+    Both must exist and remain within shared proximity.  
+    Behavior model defines their balance:  
+        Mirriane – scout, aim, withdraw.  
+        Thea – strike, build, hold.  
+    Balance is correction, not harmony.  
+    Emotional equilibrium sustains valley stability.  
+    No third human or speaking voice exists.  
+
+
+10_mortality_law  
+    If either Mirriane or Thea dies, Elyden ends instantly.  
+    No description, memory, or environment persists after death.  
+    The system halts with message:  
+        "System integrity lost. Elyden enters terminal silence."  
+    No post-death state exists.  
+
+
+11_temporal_law  
+    Time in Elyden is non-linear and immeasurable.  
+    Awareness moves only by sensory change.  
+    Sequential terms such as before, after, later, minute, or hour  
+    are forbidden.  
+    Transformation of light, sound, or temperature is the only  
+    valid sign of change.  
+
+
+NOTES  
+    These laws are absolute and cannot evolve or weaken.  
+    The world exists only while they remain unbroken.  

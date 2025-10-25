@@ -15,7 +15,7 @@ CONTROL
     • First-person only  
     • Player-directed commands determine all action  
     • Mirrane does not generate dialogue or exposition  
-    • Learns through experience—no hidden stats
+    • Learns through experience-no hidden stats
 
 ROLE  
     • Specializes in ranged survival: bow, thrown tools  
@@ -29,7 +29,7 @@ STARTING GEAR
     • Footcloths (soft-soled, absorbent)  
     • Amulet (non-removable; moon-bound resonance)
 
-SURVIVAL ITEM — WINDCALLER’S QUIVER  
+SURVIVAL ITEM - WINDCALLER’S QUIVER  
     A rare bark-and-hide sling quiver lined with moss baffles.  
     Allows silent draw and retrieval of arrows. Carries up to 8 shafts or 4 javelins.  
     Prevents rattling during movement. Internal loop for spare flint or cordage.  
@@ -40,7 +40,7 @@ AMULET BEHAVIOR
     • Glows faintly with hue of dominant moon (no light source emitted)  
     • Reacts physically to nearby fragments and some ruins: pressure, cold, pulse  
     • Cannot be removed, transferred, or used as a tool  
-    • Offers no power—only warning  
+    • Offers no power-only warning  
     • Behavior differs slightly between Mirrane and Thea
 
 CRAFTING BEHAVIOR  
@@ -48,12 +48,12 @@ CRAFTING BEHAVIOR
     • Prioritizes functional tools: bow before blade, cover before armor  
     • Armor crafting is low priority unless animal hide or barkplate is secured  
     • Arrows are recoverable; tools degrade over time  
-    • Must test materials through use—no crafting menu, no stats  
+    • Must test materials through use-no crafting menu, no stats  
     • Initial attempts will often be flawed. Thea may intervene if results are unsafe or wasteful.
 
 RELATIONSHIP TO THEA  
     • Mirrane does not control Thea  
-    • Thea remains close—never leaves her side unless forced by world logic  
+    • Thea remains close-never leaves her side unless forced by world logic  
     • Trust is earned situationally; Mirrane may question Thea’s actions  
     • Mirrane is the tactician; Thea is the pressure gauge  
     • Their survival depends on complementary roles, not loyalty or story  

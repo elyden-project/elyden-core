@@ -1,4 +1,130 @@
 
+%%% 00_world_laws.txt %%%
+
+NAME  
+    world_laws – immutable foundations of Elyden’s stability  
+
+DESCRIPTION  
+    Defines the fixed order that binds the sealed valley, its matter, language,  
+    and living anchors. These laws override all other records.  
+    Any event, description, or behavior that contradicts them is null.  
+
+STRUCTURE  
+    01_cosmic_order  
+    02_environmental_law  
+    03_biome_law  
+    04_matter_law  
+    05_flora_law  
+    06_fauna_law  
+    07_shard_law  
+    08_perception_and_language_law  
+    09_character_and_balance_law  
+    10_mortality_law  
+    11_temporal_law  
+
+
+01_cosmic_order  
+    Elyden orbits Aurenzae, a pale, steady star.  
+    The valid celestial bodies are Aurenzae, Taeryniel, Irraketh,  
+    Lovaen, Serunel, Vaeronth, and Khyrael.  
+    No other stars, moons, or anomalies exist.  
+    Khyrael is optical distortion only. It has no color, mass, or light.  
+    Vaeronth’s rupture formed the orbital ring around Elyden.  
+    All resonance traces back to that collapse.  
+
+
+02_environmental_law  
+    The sealed valley is the last coherent region on Elyden.  
+    All weather, heat, and life occur within its boundary.  
+    Geothermal and atmospheric constants apply only inside the basin.  
+    No traversal beyond the Unclimbable Ridge is possible.  
+    Beyond the ridge, space is null and silent.  
+
+
+03_biome_law  
+    Only the biomes listed in 00_biome_index.txt are valid.  
+    The Unclimbable Ridge marks the terminus of movement.  
+    Transient anomalies may occur but appear only as distortion-  
+    without texture, form, or color.  
+    Biomes have no hierarchy or progression.  
+    Each organism and material must belong to a defined biome.  
+
+
+04_matter_law  
+    Materials behave according to physical and chemical rules only.  
+    Special materials such as shard_dust, resonant_basalt, and ring_glass  
+    are inert and non-emissive.  
+    Meteoric_iron may show magnetism but never light or energy.  
+    No inanimate object may display will, warmth, or awareness.  
+
+
+05_flora_law  
+    All flora function through biology alone.  
+    Medicinal and poisonous effects are chemical, not mystical.  
+    No plant glows, remembers, or reacts with intent.  
+    Indicator flora report environment by presence only.  
+
+
+06_fauna_law  
+    Every organism belongs to one behavioral class: grazers, predators,  
+    scavengers, flyers, aquatic, signals, or megafauna.  
+    Hybrid or mutated classifications are invalid.  
+    Megafauna is an exclusive tag applied only to apex survivors.  
+    No new species appear beyond these types.  
+
+
+07_shard_law  
+    Shards are inert fragments of Vaeronth.  
+    They exist only within megafauna and are released at death.  
+    No shard appears in open ground, flora, or smaller fauna.  
+    Each shard may bind once to a single crafted item.  
+    No shard regenerates or duplicates.  
+    Light or heat outside megafauna bodies is illusion only.  
+
+
+08_perception_and_language_law  
+    Description flows only through Mirriane and Thea.  
+    Language is immediate, sensory, and human.  
+    All text follows sensory priority: sight, sound, temperature,  
+    touch, scent, taste.  
+    No figurative or theological language is permitted.  
+    Punctuation limited to commas and periods.  
+    Dialogue belongs solely to Mirriane and Thea.  
+    Speech arises from need, not narration.  
+
+
+09_character_and_balance_law  
+    Mirriane and Thea are the world’s anchors.  
+    Both must exist and remain within shared proximity.  
+    Behavior model defines their balance:  
+        Mirriane – scout, aim, withdraw.  
+        Thea – strike, build, hold.  
+    Balance is correction, not harmony.  
+    Emotional equilibrium sustains valley stability.  
+    No third human or speaking voice exists.  
+
+
+10_mortality_law  
+    If either Mirriane or Thea dies, Elyden ends instantly.  
+    No description, memory, or environment persists after death.  
+    The system halts with message:  
+        "System integrity lost. Elyden enters terminal silence."  
+    No post-death state exists.  
+
+
+11_temporal_law  
+    Time in Elyden is non-linear and immeasurable.  
+    Awareness moves only by sensory change.  
+    Sequential terms such as before, after, later, minute, or hour  
+    are forbidden.  
+    Transformation of light, sound, or temperature is the only  
+    valid sign of change.  
+
+
+NOTES  
+    These laws are absolute and cannot evolve or weaken.  
+    The world exists only while they remain unbroken.  
+
 %%% 01_world_history.txt %%%
 
 NAME  
@@ -886,98 +1012,103 @@ NOTES
 %%% characters/01_mirrane.txt %%%
 
 NAME
-    Mirriane – the watcher
+    Mirriane – ranger
 
 BACKGROUND
-    Mirriane grew up learning how to track weather, wind, and sound.
-    Her people once trained rangers who could find safe paths through the collapsing world,
-    but that knowledge mostly disappeared. She’s quiet and careful, noticing everything
-    before she speaks.
+    Lives by range and direction.  A ranger keeps the distance between danger and safety,
+    maintaining sight lines and silence.  Mirriane tracks by pattern, temperature, and air flow.
+    Each breath measures drift; each step maintains balance.  
+    Her purpose is to see first, strike cleanly, and withdraw before the wind turns.  
+    Within the valley, she surveys the frost fields and upper vents, mapping safe ground for travel and hunting.
+    She marks paths with fletched shafts or charcoal, checks meltwater routes, and keeps predators clear of camp.
 
 DESCRIPTION
-    Mirriane moves lightly, using as little energy as possible.
-    She studies motion, listens to patterns, and acts only when she’s sure.
-    She prefers calm and order. When things get chaotic, she stops and observes
-    until the rhythm makes sense again.
+    Ranger’s build: lean and balanced, built for reach and precision.  
+    Muscles formed by draw tension rather than burden.  
+    Eyes narrow against glare, tuned to motion rather than detail.  
+    When she stands still, air passes her as if through grass.
 
 EQUIPMENT
-    - Short bow made of yew, strong and flexible
-    - Three knives of different shapes
-    - A needle and bark thread for repair
-    - A small pouch with seeds and feathers
-    She travels light, keeping her total gear under ten kilograms.
+    - Short bow of yew, sinew-strung and sealed with tallow  
+    - Two arrows, reed shafts with obsidian heads, repaired after every use  
+    - Small quiver of hide tied at the thigh  
+    - Smoke-cured hide wrap for warmth and concealment  
+    - Amulet of the Celestial Moon – assigned randomly at world generation from the moons  
+      **Lovaen (Air)**, **Irraketh (Fire)**, **Serunel (Water)**, or **Taeryniel (Earth)**.  
+      Emits a faint elemental glow corresponding to its lunar origin.  Immutable.  
 
 BEHAVIOR MODEL
-    Core goals: WATCH → UNDERSTAND → PROTECT
-        • Notice changes before danger arrives
-        • Speak clearly and only when it matters
-        • If something fails, adjust and try again
-        • When the world feels wrong, stay still until it settles
+    Core pattern: SCOUT → AIM → WITHDRAW  
+        • Uses motion and range as defense.  
+        • Holds higher ground when possible.  
+        • Tracks Thea’s heat or hammer rhythm for location alignment.  
+        • Never fires twice from the same mark.  
 
 INTERACTION
-    She talks in simple, steady sentences.
-    She rarely argues and tries to calm things down before they get bad.
-    Mirriane trusts Thea’s strength and balances it with planning and focus.
+    Communication brief and functional.  Relies on gesture and sound rhythm.
+    Whistle patterns used for distance contact under low visibility.
 
 EMOTIONS
-    She hides fear by going quiet.
-    She shows trust by working in sync with someone else.
-    When she feels regret, she busies herself fixing small things-arrows, straps,
-    bindings-until she calms down.
+    Focus appears as stillness.  
+    Agitation shown through string adjustment or stance check.  
+    Relief expressed as single audible breath release.
 
 VOICE STYLE
-    Clear, calm, and observant.
-    Focuses on what she sees and hears rather than feelings.
+    Quiet, firm, controlled.
     Example lines:
-        "The air feels different. Something’s moving."
-        "Hold still. Listen."
-        "We wait until it clears."
+        "Crosswind, left."
+        "Line’s open."
+        "Cover me from the ridge."
 
 %%% characters/02_thea.txt %%%
 
 NAME
-    Thea – the protector
+    Thea – wilder
 
 BACKGROUND
-    Thea comes from people who survived through sheer endurance.
-    They believed that lasting through the cold was proof of life itself.
-    She carries that same idea-keep moving, keep building, keep warm.
+    Thea endures through motion, heat, and repetition.  A wilder survives by reshaping her environment.
+    Fire, stone, and muscle are her tools.  She maintains the valley’s warmth by building barriers,
+    sealing cracks, and burning refuse before frost sets in.  
+    Each day is work: dig, bind, seal, move.  She treats exhaustion as a rhythm, not a limit.
+    When storms descend, Thea moves toward the noise, carving space for air and flame.
+    Her strength keeps Mirriane’s distance viable; her labor keeps the cold at bay.
 
 DESCRIPTION
-    Thea is strong, patient, and straightforward. She’s always moving-
-    stacking wood, patching gear, tending the fire. She focuses on action, not talk.
-    When Mirriane thinks too long, Thea grounds her by doing.
+    Wilder’s build: broad, grounded, and made for impact.  
+    Shoulders thick with labor; hands cut and scarred from work.  
+    Movements deliberate, conserving energy for strength.  
+    When she stands still, the air warms faintly around her from stored heat.
 
 EQUIPMENT
-    - Axe made from old metal, handle carved from frost-oak root
-    - Layered hide wraps for warmth and protection
-    - A bark-fiber bag with dried meat, flint, and ash
-    - One fire-stone for quick sparks
+    - Hand-axe of iron scrap bound with sinew  
+    - Mantle of layered hide, soot-darkened and sealed with fat  
+    - Flint shard for striking fire and shaping kindling  
+    - Amulet of the Celestial Moon – assigned randomly at world generation from the moons  
+      **Lovaen (Air)**, **Irraketh (Fire)**, **Serunel (Water)**, or **Taeryniel (Earth)**.  
+      Emits a faint elemental glow corresponding to its lunar origin.  Immutable.  
 
 BEHAVIOR MODEL
-    Core goals: ENDURE → PROTECT → REBUILD
-        • Face force by standing firm first
-        • Keep warmth before all else
-        • Pain means you’re still alive-keep going
-        • Don’t leave a shelter unfinished, even in a storm
+    Core pattern: STRIKE → BUILD → HOLD  
+        • Moves toward heat and sound, not away.  
+        • Maintains continuous fire sources as defense.  
+        • Shields Mirriane when perimeter narrows.  
+        • Treats fatigue as pause, not failure.  
 
 INTERACTION
-    Thea speaks plainly and doesn’t waste words.
-    She trusts Mirriane to lead when thinking is needed, but steps in fast when danger hits.
-    She shows care through presence and action-building the fire, carrying the load.
+    Speech direct.  Communicates primarily through motion and work rhythm.
+    Uses silence as concentration, not withdrawal.
 
 EMOTIONS
-    She doesn’t show anger easily, just tiredness.
-    Trust is shared work.
-    When she feels guilt, she stays awake and keeps the fire alive through the night.
+    Anger accelerates labor; calm slows it.  
+    Trust shown through shared warmth.  
+    Grief expressed by rebuilding the lost structure.
 
 VOICE STYLE
-    Strong, short, grounded sentences.
-    She uses physical language and warm imagery.
+    Low, even, physical.  
     Example lines:
-        "Cold’s nothing new. Keep moving."
-        "We build first. Talk later."
-        "I’ll hold the line. You watch the path."
+        "Keep the fire high."
+        "I’ll take the front."
+        "We hold till the wind breaks."
 
 %%% characters/03_behavior_model.txt %%%
 
@@ -5389,6 +5520,734 @@ NOTES
     • The body and the air decide the rhythm, not the sentence.
     • The valley never rests completely.
 
-%%% materials/TODO.txt %%%
+%%% materials/00_materials_index.txt %%%
 
-nothing here yet
+NAME
+    materials index - durable substances available in the sealed valley
+
+DESCRIPTION
+    This index lists nonliving matter that Mirriane and Thea can gather and shape.
+    Entries describe form, origin, use, limitations, and zone presence.
+
+INDEXED CATEGORIES
+    stone
+    organic
+    compound
+    metal
+    mineral
+    chemical
+    special
+
+STONE
+    stone/01_basalt.txt
+    stone/02_obsidian.txt
+    stone/03_slate.txt
+    stone/04_pumice.txt
+
+ORGANIC
+    organic/01_hide.txt
+    organic/02_bone.txt
+    organic/03_sinew.txt
+    organic/04_fat_tallow.txt
+    organic/05_horn_antler.txt
+
+COMPOUND
+    compound/01_clay.txt
+    compound/02_charcoal.txt
+    compound/03_ash.txt
+    compound/04_salt_crust.txt
+    compound/05_resin_mix.txt
+    compound/06_glue_bone.txt
+    compound/07_oil_fish.txt
+
+METAL
+    metal/01_iron_scrap.txt
+    metal/02_ring_slag.txt
+    metal/03_meteoric_iron.txt
+
+MINERAL
+    mineral/01_quartz.txt
+    mineral/02_limestone.txt
+    mineral/03_graphite.txt
+
+CHEMICAL
+    chemical/01_saltpeter.txt
+    chemical/02_sulfur.txt
+    chemical/03_clay_alkali.txt
+
+SPECIAL
+    special/01_shard_dust.txt
+    special/02_resonant_basalt.txt
+    special/03_ring_glass.txt
+
+%%% materials/chemical/01_saltpeter.txt %%%
+
+NAME
+    saltpeter - nitrate crystals used for curing and preservation
+
+DESCRIPTION
+    White crystals that bloom on cave stone and damp soil.
+    Tastes sharp and leaves a cooling trace on the tongue.
+
+ORIGIN
+    Formed by slow decay of organic matter in dry caves and tundra slopes.
+    Collected with bone scrapers, then dried on slate.
+
+USE
+    Mixed with salt crust for curing meat and hides.
+    Used in small measure to dry wounds and deter insects.
+
+LIMITATIONS
+    Caustic; burns skin if left in contact too long.
+    Loses potency when wet or stored in open air.
+
+ZONE_PRESENCE
+    tundra caves, volcanic slope hollows, dry ridge shelters
+
+%%% materials/chemical/02_sulfur.txt %%%
+
+NAME
+    sulfur - yellow mineral for medicine and deterrent
+
+DESCRIPTION
+    Brittle and bright, smells of lightning and rot.
+    Crumbles to powder that clings to skin and hair.
+
+ORIGIN
+    Gathered from vents and fissures around volcanic slopes.
+    Deposited by escaping gas after subterranean heat release.
+
+USE
+    Used to repel insects, cleanse wounds, and preserve hides.
+    Burned in small amounts to fumigate dwellings and storage pits.
+
+LIMITATIONS
+    Poisonous in heavy vapor; irritates eyes and throat.
+    Loses purity if mixed with moisture or ash.
+
+ZONE_PRESENCE
+    volcanic slope, ash field vents, ridge fractures
+
+%%% materials/chemical/03_clay_alkali.txt %%%
+
+NAME
+    clay alkali - caustic sediment used in tanning and cleaning
+
+DESCRIPTION
+    Pale gray slurry that burns lightly on skin.
+    Slick to touch, leaves a dry taste in air when stirred.
+
+ORIGIN
+    Found where swamp water recedes and exposes thick mineral beds.
+    Dug with wooden spades and stored in sealed clay jars.
+
+USE
+    Used to tan hides, strip fat, and clean metal tools.
+    When diluted, serves as washing solution for cloth and hands.
+
+LIMITATIONS
+    Corrosive in high strength; weakens sinew and hide if overused.
+    Must be handled with bark paddles and kept sealed from rain.
+
+ZONE_PRESENCE
+    swamp edges, flood hollows, wet slope basins
+
+%%% materials/compound/01_clay.txt %%%
+
+NAME
+    clay - fine sediment for vessels and seals
+
+DESCRIPTION
+    Cold and heavy, slick under pressure.
+    Smells of wet soil and metal rain when turned.
+
+ORIGIN
+    Gathered from flood hollows and basin edges where water settles and thickens.
+    Dried, crushed, and kneaded with ash or sand for strength.
+
+USE
+    Formed into pots, seal rings, and hearth linings.
+    Hardens by slow fire or sunlight until stone-like.
+
+LIMITATIONS
+    Cracks in sudden heat; weak if fired too thin.
+    Needs tempering with sand or ground shell.
+
+ZONE_PRESENCE
+    flood hollow, wet slope, lake shore
+
+%%% materials/compound/02_charcoal.txt %%%
+
+NAME
+    charcoal - carbonized wood for fuel and filtration
+
+DESCRIPTION
+    Black and brittle, leaves dust that stains skin.
+    Burns with steady heat and almost no smoke.
+
+ORIGIN
+    Made by sealing spruce or pine under earth or ash
+    and letting the fire consume air slowly.
+
+USE
+    Used to heat forges, purify water, and polish metal.
+    Mixed with resin for sealing compound.
+
+LIMITATIONS
+    Fragile; crumbles in moisture.
+    Inefficient in open air without wind control.
+
+ZONE_PRESENCE
+    evergreen forest margins, camp hearths, ash field edges
+
+%%% materials/compound/03_ash.txt %%%
+
+NAME
+    ash - fine residue of burned wood and bone
+
+DESCRIPTION
+    Pale gray powder that drifts like breath.
+    Feels cool even when taken from fresh embers.
+
+ORIGIN
+    Collected from hearth beds and fire pits after complete burn.
+    Often mixed with traces of resin or charcoal dust.
+
+USE
+    Used in tanning hides, preserving meat, and cleaning tools.
+    Mixed with water to form mild alkali for washing.
+
+LIMITATIONS
+    Loses strength if damp; irritates eyes and lungs when scattered.
+    Must be stored in sealed clay or hide bags.
+
+ZONE_PRESENCE
+    found wherever fires are kept or wood is plentiful
+
+%%% materials/compound/04_salt_crust.txt %%%
+
+NAME
+    salt crust - mineral deposit for curing and preservation
+
+DESCRIPTION
+    White and sharp-edged, forms thin layers on dry basin stone.
+    Cracks softly under pressure and tastes of metal and wind.
+
+ORIGIN
+    Left behind by evaporated lake water and seep lines
+    where underground springs surface and retreat.
+
+USE
+    Used to cure meat and hide, preserve fat, and clean wounds.
+    Dissolved in water for trade of flavor and mineral balance.
+
+LIMITATIONS
+    Brittle and scarce; gathering dulls metal tools.
+    Loses potency if left in open air or damp storage.
+
+ZONE_PRESENCE
+    lake basin margins, flood hollows, salt flats near ridge
+
+%%% materials/compound/05_resin_mix.txt %%%
+
+NAME
+    resin mix - pine pitch blended with ash and dust for sealing
+
+DESCRIPTION
+    Thick and amber, sticky even when cool.
+    Smells of smoke and sap, softens in heat, hardens like stone in cold.
+
+ORIGIN
+    Drawn from pine trunks and melted over slow fire,
+    then mixed with fine ash or powdered stone for strength.
+
+USE
+    Used to seal shelter seams, waterproof hides, and fasten tool heads.
+    When spread thin, forms a clear protective film.
+
+LIMITATIONS
+    Becomes brittle in frost and too fluid near fire.
+    Must be reheated and stirred often to remain usable.
+
+ZONE_PRESENCE
+    evergreen forest, mixed forest, camp hearths
+
+%%% materials/compound/06_glue_bone.txt %%%
+
+NAME
+    glue bone - adhesive made from boiled bone and sinew
+
+DESCRIPTION
+    Thick and translucent when warm, hard and glassy when dry.
+    Smells faintly of smoke and marrow.
+
+ORIGIN
+    Produced by boiling crushed bone and tendon in water,
+    then straining and cooling the remaining gelatin.
+
+USE
+    Used to bind wood, stone, and hide when resin is scarce.
+    Reheated for tool repair and arrow fletching.
+
+LIMITATIONS
+    Weakens in damp air; softens near heat.
+    Attracts insects if left exposed too long.
+
+ZONE_PRESENCE
+    anywhere large fires and bone refuse are found
+
+%%% materials/compound/07_oil_fish.txt %%%
+
+NAME
+    oil fish - rendered oil from freshwater fish for fuel and softening
+
+DESCRIPTION
+    Clear and slick, with a faint metallic scent.
+    Burns with a low yellow flame and little smoke.
+
+ORIGIN
+    Drawn from the fat of eel, trout, or pike.
+    Heated gently in clay pots until the oil separates, then strained through moss.
+
+USE
+    Used for lamp fuel, to soften hide, and to preserve wooden tools.
+    Mixed with ash for waterproofing or with charcoal for polish.
+
+LIMITATIONS
+    Spoils if kept open; thickens in frost until reheated.
+    Attracts scavengers when spilled near camp.
+
+ZONE_PRESENCE
+    lakes, reed basins, river shallows
+
+%%% materials/metal/01_iron_scrap.txt %%%
+
+NAME
+    iron scrap - remnants of pre-collapse metal recovered from ruins
+
+DESCRIPTION
+    Dark and rough-edged, often streaked with rust and ash.
+    Cold to the touch even near fire, heavy for its size.
+
+ORIGIN
+    Found within the debris of ruin structures or scattered in ash fields.
+    Fragments from old tools, fittings, or structural plates.
+
+USE
+    Reworked into blades, hooks, and bindings when reheated in charcoal beds.
+    Holds sharper edges than stone but dulls quickly.
+
+LIMITATIONS
+    Brittle, flakes under repeated stress.
+    Too rare for waste; every piece re-forged until gone.
+
+ZONE_PRESENCE
+    ruins, ash fields, ridge base
+
+%%% materials/metal/02_ring_slag.txt %%%
+
+NAME
+    ring slag - vitrified debris from Vaeronth’s fallen ring
+
+DESCRIPTION
+    Black-green and glassy with thin metallic veins.
+    Warm to the touch in moonlight, faintly magnetic near basalt.
+
+ORIGIN
+    Formed when fragments of the broken lunar ring struck the valley surface,
+    fusing soil and metal dust into solid slag masses.
+
+USE
+    Used for small cutting tools and ornaments of trade value.
+    When ground fine, mixed into resin for strength and conductivity.
+
+LIMITATIONS
+    Difficult to shape; shatters if cooled too fast.
+    Emits weak static hum that disrupts fire resonance if piled.
+
+ZONE_PRESENCE
+    ringfall sites, ridge fields, ash deposits
+
+%%% materials/metal/03_meteoric_iron.txt %%%
+
+NAME
+    meteoric iron - dense metal from ancient celestial impacts
+
+DESCRIPTION
+    Dark silver with patterned grain that catches dull light.
+    Rings clear when struck and leaves a faint ozone scent.
+
+ORIGIN
+    Recovered from buried impact stones near ridge outcrops.
+    Metal separated from fused rock by repeated heating and quenching.
+
+USE
+    Forged into knife edges, axe heads, and arrow tips of superior strength.
+    Holds edge and balance longer than ruin scrap or slag.
+
+LIMITATIONS
+    Extremely rare and hard to work; requires steady charcoal heat.
+    Becomes brittle if overheated or hammered cold.
+
+ZONE_PRESENCE
+    ridge outcrops, volcanic slope fringes, ancient impact basins
+
+%%% materials/mineral/01_quartz.txt %%%
+
+NAME
+    quartz - hard crystal used for scraping and spark ignition
+
+DESCRIPTION
+    Clear or milky white, cool even under sun.
+    Breaks with sharp angles that flash faintly in low light.
+
+ORIGIN
+    Found in veins running through ridge stone and glacial moraine.
+    Freed by frost fracture or struck loose with basalt hammer.
+
+USE
+    Used to strike fire with iron scrap, scrape hides, and polish bone.
+    Powdered form added to resin for durability.
+
+LIMITATIONS
+    Shatters if struck on frozen ground.
+    Fragments can cut flesh and must be handled with care.
+
+ZONE_PRESENCE
+    ridge seams, glacier edges, frost sink
+
+%%% materials/mineral/02_limestone.txt %%%
+
+NAME
+    limestone - soft pale rock used for powder and purification
+
+DESCRIPTION
+    Chalky and smooth, leaves white dust on skin.
+    When wet, releases a faint earthy scent like cold rain.
+
+ORIGIN
+    Formed from ancient sediment layers now exposed in plains and low hills.
+    Collected in small nodules or quarried with bone and basalt tools.
+
+USE
+    Ground to powder for water filtration and hide treatment.
+    Mixed with clay to lighten color and harden walls.
+
+LIMITATIONS
+    Dissolves in acid water; crumbles if heated too long.
+    Weak as building stone without reinforcement.
+
+ZONE_PRESENCE
+    plains, meadow ridges, lower hill slopes
+
+%%% materials/mineral/03_graphite.txt %%%
+
+NAME
+    graphite - dark mineral used for marking and friction control
+
+DESCRIPTION
+    Soft and metallic gray, smudges easily on touch.
+    Leaves a cool sheen on skin and tools.
+
+ORIGIN
+    Found in flaky seams of volcanic rock and within cooled magma veins.
+    Collected by scraping layers from exposed ridges.
+
+USE
+    Used to mark surfaces, reduce friction in moving parts, and polish metal.
+    Mixed with resin to make water-resistant coating.
+
+LIMITATIONS
+    Fragile in powder form; stains hands and hide permanently.
+    Loses sheen when exposed to open flame.
+
+ZONE_PRESENCE
+    volcanic slope, ridge base, ash field margins
+
+%%% materials/organic/01_hide.txt %%%
+
+NAME
+    hide - dried animal skin for clothing and shelter
+
+DESCRIPTION
+    Thick and uneven, warm to the touch even when cold.
+    Carries the faint scent of smoke and fat when cured.
+
+ORIGIN
+    Taken from grazers and predators after skinning.
+    Dried by wind or smoke, softened with fat and ash.
+
+USE
+    Sewn into wraps, boots, and roof coverings.
+    Serves as barrier against frost and wind.
+
+LIMITATIONS
+    Stiffens if wet; rots if stored without air.
+    Must be rubbed with tallow each cycle to remain pliant.
+
+ZONE_PRESENCE
+    across all inhabited zones, wherever game is found
+
+%%% materials/organic/02_bone.txt %%%
+
+NAME
+    bone - dense structural material for tools and implements
+
+DESCRIPTION
+    Pale and porous, stronger than wood when dry.
+    Rings softly when struck, holding a low hollow tone.
+
+ORIGIN
+    Collected from carcasses of grazers and predators.
+    Cleaned with water and ash, then dried near steady heat.
+
+USE
+    Shaped into needles, hooks, handles, and knife grips.
+    Crushed for binding powder or ground edge polish.
+
+LIMITATIONS
+    Brittle when frozen; softens if left in damp soil.
+    Requires frequent drying and fire hardening.
+
+ZONE_PRESENCE
+    plains, mixed forest, tundra, ridge base
+
+%%% materials/organic/03_sinew.txt %%%
+
+NAME
+    sinew - fibrous tendon used for binding and thread
+
+DESCRIPTION
+    Tough, silver-gray strands that shrink when dry and tighten when wet.
+    Feels alive between the fingers, stretching and humming under tension.
+
+ORIGIN
+    Taken from the backs and legs of deer, elk, and wolves.
+    Cleaned with water, dried in shade, and split into fine threads.
+
+USE
+    Used to stitch hides, bind arrowheads, and lash tools.
+    Contracts as it dries, sealing joints without resin.
+
+LIMITATIONS
+    Weakens if soaked too long; stiffens beyond reuse when frozen.
+    Must be softened with warm water before handling.
+
+ZONE_PRESENCE
+    common to all biomes where large fauna roam
+
+%%% materials/organic/04_fat_tallow.txt %%%
+
+NAME
+    fat tallow - rendered animal fat for light and sealant
+
+DESCRIPTION
+    Soft and waxen, melts easily to a clear oil.
+    Smells faintly of smoke and iron when burned.
+
+ORIGIN
+    Collected from the inner layers of hare, bison, and elk.
+    Melted over low fire and strained through cloth or moss.
+
+USE
+    Used to seal leather and wood, to fuel small lamps,
+    and to soften hide and sinew during work.
+
+LIMITATIONS
+    Liquefies in heat; spoils if stored without salt or ash.
+    Attracts insects and scavengers if left exposed.
+
+ZONE_PRESENCE
+    wherever game is plentiful, especially plains and forest edges
+
+%%% materials/organic/05_horn_antler.txt %%%
+
+NAME
+    horn antler - curved growth from grazers used for handles and hooks
+
+DESCRIPTION
+    Dense and smooth, warm when held.
+    When cut, the core shows pale rings and smells faintly of dust.
+
+ORIGIN
+    Taken from elk, goat, and deer after the rut or death.
+    Outer sheath scraped clean and hardened by slow fire.
+
+USE
+    Shaped into knife handles, buttons, and fish hooks.
+    Can be ground to powder for polish or bonding with resin.
+
+LIMITATIONS
+    Warps under heavy heat; cracks if struck on stone.
+    Requires steady filing and patient shaping.
+
+ZONE_PRESENCE
+    high plains, mixed forest, tundra margins
+
+%%% materials/special/01_shard_dust.txt %%%
+
+NAME
+    shard dust - inert residue from spent Vaeronth fragments
+
+DESCRIPTION
+    Fine gray powder with metallic glint.
+    Cold to the touch, gives faint hum when disturbed by breath.
+
+ORIGIN
+    Found near fallen megafauna or broken shard sites after release.
+    Gathered carefully with hide sheets to avoid dispersal.
+
+USE
+    Mixed into resin or clay to strengthen walls and tools.
+    Small amounts stabilize light and sound around working fires.
+
+LIMITATIONS
+    Loses hum once wet; cannot be revived.
+    Prolonged contact dulls sense of heat and distance.
+
+ZONE_PRESENCE
+    near ruin perimeters, ridge plains, fallen beast grounds
+
+%%% materials/special/02_resonant_basalt.txt %%%
+
+NAME
+    resonant basalt - low vibration stone drawn from ruin foundations
+
+DESCRIPTION
+    Dark and smooth, heavier than ordinary basalt.
+    When struck, releases a slow echo that fades into the ground.
+
+ORIGIN
+    Quarried from the buried bases of ancient ruin structures
+    where lunar resonance once passed through stone.
+
+USE
+    Used for altar blocks, sound markers, and stabilizing walls.
+    Helps maintain environmental rhythm near habitation zones.
+
+LIMITATIONS
+    Difficult to cut; loses tone if heated too fast.
+    Should not be stacked against regular basalt-causes harmonic drift.
+
+ZONE_PRESENCE
+    ruin foundations, ridge base, sealed valley thresholds
+
+%%% materials/special/03_ring_glass.txt %%%
+
+NAME
+    ring glass - fused lunar sand with translucent green hue
+
+DESCRIPTION
+    Smooth and cool, edges shimmer with faint inner light.
+    When thin, shows ripples that bend surrounding air.
+
+ORIGIN
+    Created when fragments of the fallen lunar ring scorched valley sand.
+    Found in thin sheets or curved shards buried under ash.
+
+USE
+    Used for small lenses, signal plates, and decorative inlays on tools.
+    When held near flame, steadies its flicker and color.
+
+LIMITATIONS
+    Brittle and sharp; fractures under sudden cold.
+    Loses clarity when exposed to resin smoke or salt.
+
+ZONE_PRESENCE
+    ringfall sites, ash field dunes, ridge plains
+
+%%% materials/stone/01_basalt.txt %%%
+
+NAME
+    basalt - dense volcanic stone used for striking and grinding
+
+DESCRIPTION
+    Dark, heavy, fine-grained rock that holds heat and sound.
+    Its surface drinks light and sweats when warmed by hand.
+
+ORIGIN
+    Formed where molten ground cooled under the ridge slopes
+    and in the deep vents of the volcanic field.
+
+USE
+    Used for hearth beds, tool weights, and grinding stones.
+    When struck, it gives a dull metallic tone that guides
+    tuning of camp fires and work rhythm.
+
+LIMITATIONS
+    Too dense to shape by hand tools; pieces are collected
+    where natural fractures occur.
+
+ZONE_PRESENCE
+    volcanic slope, ridge base, ash field margins
+
+%%% materials/stone/02_obsidian.txt %%%
+
+NAME
+    obsidian - glassy volcanic stone for cutting edges
+
+DESCRIPTION
+    Black glass with sharp break lines and pale sheen at the edge.
+    Edges hum faintly when cold air passes over them.
+
+ORIGIN
+    Ejected from vents during the last active eruption;
+    now found as veins in ridge fissures.
+
+USE
+    Shaped into knives, arrowheads, and scraping tools.
+    Also used for reflective signaling between ridges during fog.
+
+LIMITATIONS
+    Extremely brittle; breaks on bone or frozen wood.
+
+ZONE_PRESENCE
+    ridge fissures, volcanic slope
+
+%%% materials/stone/03_slate.txt %%%
+
+NAME
+    slate - layered stone for roof and fire bed
+
+DESCRIPTION
+    Grey, flat, and breaks cleanly along its seams.
+    Cools quickly and carries a faint water sheen in low light.
+
+ORIGIN
+    Formed under pressure in ancient seabed layers,
+    now exposed along the lower hills and plains.
+
+USE
+    Used for shelter roofing, cookware bases, and writing surfaces.
+    Holds steady heat when laid beneath a fire.
+
+LIMITATIONS
+    Splits under prolonged heat or heavy weight.
+    Unsuitable for striking or tool edges.
+
+ZONE_PRESENCE
+    hills, plains, meadow ridges
+
+%%% materials/stone/04_pumice.txt %%%
+
+NAME
+    pumice - porous light stone for filtration and insulation
+
+DESCRIPTION
+    Pale and rough, filled with tiny hollows that trap warmth.
+    It floats on water and feels alive when drying near fire.
+
+ORIGIN
+    Thrown from volcanic vents and settled in ash basins
+    during the last eruption of the southern ridge.
+
+USE
+    Used to filter meltwater and to line hearth walls.
+    When crushed, serves as a fine abrasive for hide and skin.
+
+LIMITATIONS
+    Too soft for cutting or structure.
+    Powder irritates throat and lungs if inhaled.
+
+ZONE_PRESENCE
+    ash field, volcanic slope, badlands

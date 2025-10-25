@@ -11,18 +11,18 @@ DESCRIPTION
 
 BASELINE STATE  
     • Amulet glows faintly with hue of dominant moon  
-    • Glows are not light sources—only tint or warmth near the collarbone  
+    • Glows are not light sources-only tint or warmth near the collarbone  
     • Reacts near ruins or fragments via:  
         − Pressure  
         − Dull vibration  
         − Internal chill or breath tightness  
     • Intensity varies by proximity, ruin type, and lunar position  
-    • Mirrane’s response is subtle—shoulder stiffness, breath shift  
-    • Thea’s response is sharper—stomach drop, hesitation, focused silence
+    • Mirrane’s response is subtle-shoulder stiffness, breath shift  
+    • Thea’s response is sharper-stomach drop, hesitation, focused silence
 
 ROLE  
     • Guides characters toward or away from instability  
-    • Offers no direction or language—only sensation  
+    • Offers no direction or language-only sensation  
     • May pulse or resist movement when near strong resonance  
     • Sometimes warns before fragment reveals itself  
     • Never activates, glows brightly, or speaks
@@ -34,7 +34,7 @@ GEAR BINDING
         − A fragment-exposed item  
         − A ruin-reactive site  
         − Specific lunar phase or environmental alignment  
-    • No input required—binding occurs passively if conditions are exact  
+    • No input required-binding occurs passively if conditions are exact  
     • Once bound, the item changes subtly:  
         − Tension before draw  
         − Hum in stillness  
@@ -49,9 +49,9 @@ ENDGAME STATE
     • Both characters feel ready and name their primary weapons
 
 At that point:  
-    • Amulet sensations deepen—drawn breath, heat against skin, irregular pulse  
+    • Amulet sensations deepen-drawn breath, heat against skin, irregular pulse  
     • Thea may fixate on empty space; Mirrane may hesitate before drawing  
-    • Shard-tier phenomena begin—without warning, signal, or explanation  
+    • Shard-tier phenomena begin-without warning, signal, or explanation  
     • The amulets will not confirm what is happening. They will only feel heavier  
 
 RESONANCE LANGUAGE RESTRICTION  
@@ -65,7 +65,7 @@ RESONANCE LANGUAGE RESTRICTION
         ✗ “Nothing moves.”  
     • Examples of valid output under resonance:  
         ✓ “My breath catches. The pressure hums at the base of my spine.”  
-        ✓ “The skin under my collarbone tightens—heat, not fear.”
+        ✓ “The skin under my collarbone tightens-heat, not fear.”
 
 NOTES  
     The amulet is not for the player. It is not for the world.  

@@ -19,46 +19,46 @@ PROPERTIES
     • resource density − low but viable
 
 INORGANIC MATERIALS  
-    • frozen clay — hard until thaw  
-    • frost-stone — pitted surface, holds midday heat  
-    • surface gravel — scattered near ridgelines  
-    • iron nodules — visible after melt  
-    • compacted earth — dry, suitable for shaping  
-    • glacial runoff — temporary streams
+    • frozen clay - hard until thaw  
+    • frost-stone - pitted surface, holds midday heat  
+    • surface gravel - scattered near ridgelines  
+    • iron nodules - visible after melt  
+    • compacted earth - dry, suitable for shaping  
+    • glacial runoff - temporary streams
 
 FLORA  
     TREES  
-        • dwarf willow — knee-high, flexible branches  
-        • arctic birch — stunted, peeling bark  
+        • dwarf willow - knee-high, flexible branches  
+        • arctic birch - stunted, peeling bark  
     SHRUBS  
-        • bearberry — low, red berries in cold  
-        • crowberry — mat-forming, edible black fruits  
+        • bearberry - low, red berries in cold  
+        • crowberry - mat-forming, edible black fruits  
     HERBS  
-        • mountain sorrel — tart, grows in melt pools  
-        • arctic poppy — yellow flower, tracks sun  
+        • mountain sorrel - tart, grows in melt pools  
+        • arctic poppy - yellow flower, tracks sun  
     FUNGI  
-        • reindeer lichen — sponge-like, pale green  
-        • frost mushroom — edible when fresh  
+        • reindeer lichen - sponge-like, pale green  
+        • frost mushroom - edible when fresh  
     GRASSES  
-        • cotton grass — white-tufted, found in bog zones  
-        • tufted sedge — forms mounds in permafrost
+        • cotton grass - white-tufted, found in bog zones  
+        • tufted sedge - forms mounds in permafrost
 
 FAUNA  
     INSECTS  
-        • tundra mosquito — swarms in thaw, blood-seeking  
-        • snow flea — springtail, jumps in melt periods  
+        • tundra mosquito - swarms in thaw, blood-seeking  
+        • snow flea - springtail, jumps in melt periods  
     BIRDS  
-        • snow bunting — ground forager, active in early thaw  
-        • ptarmigan — changes color with season, hides in brush  
-        • arctic tern — migrates through, loud in flight  
+        • snow bunting - ground forager, active in early thaw  
+        • ptarmigan - changes color with season, hides in brush  
+        • arctic tern - migrates through, loud in flight  
     MAMMALS  
-        • arctic hare — fast, digs shallow forms  
-        • lemming — burrows under snow layer  
-        • muskox — herds for warmth, charges when encircled  
-        • red fox — scavenger, follows melt lines  
-        • gray wolf — hunts in coordinated pack, active at dusk
+        • arctic hare - fast, digs shallow forms  
+        • lemming - burrows under snow layer  
+        • muskox - herds for warmth, charges when encircled  
+        • red fox - scavenger, follows melt lines  
+        • gray wolf - hunts in coordinated pack, active at dusk
 
 AGGRESSIVE FAUNA  
-    • muskox — charges if threatened  
-    • gray wolf — pack hunter, shadows targets for hours  
-    • tundra mosquito — drains blood if left exposed
+    • muskox - charges if threatened  
+    • gray wolf - pack hunter, shadows targets for hours  
+    • tundra mosquito - drains blood if left exposed

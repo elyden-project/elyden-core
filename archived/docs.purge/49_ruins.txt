@@ -5,22 +5,22 @@ NAME
 
 DESCRIPTION  
     Ruins are not dungeons.  
-    They are ancient, inert machines and structures scattered across Elyden—half-buried, wind-scraped, and often  
+    They are ancient, inert machines and structures scattered across Elyden-half-buried, wind-scraped, and often  
     forgotten. Each ruin is tied to a celestial glyph and responds to specific lunar alignments, fragment resonance,  
     and biome state. Characters do not understand their function. Only their behavior.
 
 GLYPH TYPES  
-    • ☼  — solar harmonics vault  
-    • 🌙  — lunar memory scaffold  
-    • 🜃  — ground-tuned pressure crucible  
-    • ☄️  — fragment decay node  
-    • 🝗  — amnesia spire  
-    • 🜂  — reverse-rot bloom field  
+    • ☼  - solar harmonics vault  
+    • 🌙  - lunar memory scaffold  
+    • 🜃  - ground-tuned pressure crucible  
+    • ☄️  - fragment decay node  
+    • 🝗  - amnesia spire  
+    • 🜂  - reverse-rot bloom field  
     • Others exist, but remain unclassified
 
 CONSTRUCTION  
     • Materials defy metallurgy; fracture like coral, ring like glass  
-    • No visible entryways—access occurs through terrain break or pressure erosion  
+    • No visible entryways-access occurs through terrain break or pressure erosion  
     • Some contain buried glyphs or exposed lattice that respond to movement or breath  
     • Thea sometimes senses a “pull” or scent shift before any visible sign
 
@@ -29,20 +29,20 @@ SURFACE SIGNS
     • Sand or grass falling upward momentarily  
     • Animals circling a fixed radius, then fleeing  
     • Amulets tightening without visual cue  
-    • Scent disruption—moss smells metallic, breath carries heat
+    • Scent disruption-moss smells metallic, breath carries heat
 
 FRAGMENT INTERACTION  
     • Ruins amplify nearby fragment resonance  
     • Prolonged presence may cause auditory desync or motion delay  
     • Some ruins allow shard binding if the right moon is dominant and gear is present  
-    • Ruins do not explain—they behave  
+    • Ruins do not explain-they behave  
     • No language, text, or interface is ever displayed
 
 THEA’S BEHAVIOR  
     • May pause at glyph ground  
     • May refuse to enter structure boundary  
     • Occasionally presses hand to the surface without explanation  
-    • Does not verbalize reaction—acts through instinct
+    • Does not verbalize reaction-acts through instinct
 
 MIRRANE’S ROLE  
     • Observes only  
@@ -52,7 +52,7 @@ MIRRANE’S ROLE
 
 NOTES  
     Ruins don’t open. They don’t reward.  
-    They just remember that something fell—and the world hasn’t quite let go.
+    They just remember that something fell-and the world hasn’t quite let go.
 
 FILES  
     SHARDS(5), FRAGMENTS(5), AMULET_BEHAVIOR(5), PROGRESSION(5)

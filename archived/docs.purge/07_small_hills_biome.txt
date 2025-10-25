@@ -16,7 +16,7 @@ PROPERTIES
     • water surface − intermittent (in ruts and runoff)
 
 INORGANIC MATERIALS  
-    • fire stone — emits spark when struck  
+    • fire stone - emits spark when struck  
     • shale flakes  
     • dry chalk  
     • dull quartz  
@@ -25,35 +25,35 @@ INORGANIC MATERIALS
 
 FLORA  
     GRASSES  
-        • blue fescue — edible  
-        • foxtail — inert  
+        • blue fescue - edible  
+        • foxtail - inert  
     HERBS  
-        • pennywort — edible (boiled)  
-        • bloodleaf — topical coagulant  
+        • pennywort - edible (boiled)  
+        • bloodleaf - topical coagulant  
     FUNGI  
-        • cracked cap — uncertain (requires preparation)  
-        • ashbell — toxic (contact reaction)  
+        • cracked cap - uncertain (requires preparation)  
+        • ashbell - toxic (contact reaction)  
     TREES  
         • none observed  
     SHRUBS & SUCCULENTS  
-        • tanglebrush — fibrous, grows along stone  
-        • rockstem — moisture-retaining, extractable
+        • tanglebrush - fibrous, grows along stone  
+        • rockstem - moisture-retaining, extractable
 
 FAUNA  
     INSECTS  
-        • bark louse — wood detritivore, clings to dry stems  
-        • funnel spider — constructs web pits in shaded crevices  
+        • bark louse - wood detritivore, clings to dry stems  
+        • funnel spider - constructs web pits in shaded crevices  
     BIRDS  
-        • crow — omnivorous scavenger, highly alert  
-        • quail — ground forager, nests in underbrush  
+        • crow - omnivorous scavenger, highly alert  
+        • quail - ground forager, nests in underbrush  
     MAMMALS  
-        • red fox — opportunistic scavenger, hunts small prey  
-        • burrow hare — evasive herbivore, retreats underground  
+        • red fox - opportunistic scavenger, hunts small prey  
+        • burrow hare - evasive herbivore, retreats underground  
     REPTILES  
-        • skink — insectivore, darts between rocks  
+        • skink - insectivore, darts between rocks  
     AMPHIBIANS  
         • none confirmed
 
 AGGRESSIVE FAUNA  
-    • wild boar — territorial omnivore, may charge when startled  
-    • funnel spider — bites when nest is disturbed
+    • wild boar - territorial omnivore, may charge when startled  
+    • funnel spider - bites when nest is disturbed

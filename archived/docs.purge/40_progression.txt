@@ -21,17 +21,17 @@ I. SURVIVAL
     • Initial actions may fail. Thea’s presence offsets this through non-verbal correction.
 
 II. MASTERY  
-    • Characters develop biome fluency—knowing what lives where, how wind shifts before rain  
+    • Characters develop biome fluency-knowing what lives where, how wind shifts before rain  
     • Familiar tools move differently in hand; reuse accelerates handling  
     • Movement patterns tighten  
-    • Terrain is read more quickly—disturbed grass, lichen growth, dry frost, scent trails  
+    • Terrain is read more quickly-disturbed grass, lichen growth, dry frost, scent trails  
     • Player begins to rely on muscle memory, not system prompts  
     • Progress begins when the player stops guessing and starts reading Thea’s movement.
 
 III. CONTACT  
-    • Some hunts feel different—movement shifts, terrain goes silent, pressure builds  
-    • Larger creatures may appear—unpredictable, responsive, out of scale  
-    • Their defeat leaves behind shards—strange, inert objects with unusual behavior near fragments  
+    • Some hunts feel different-movement shifts, terrain goes silent, pressure builds  
+    • Larger creatures may appear-unpredictable, responsive, out of scale  
+    • Their defeat leaves behind shards-strange, inert objects with unusual behavior near fragments  
     • Characters do not recognize them as special; only as useful  
     • Shards can be bound to a single item if conditions allow (site, timing, material)  
     • Once bound, the item changes:
@@ -43,7 +43,7 @@ SHARD INTEGRATION
     • One shard per item  
     • Cannot be removed  
     • Must be embedded at biome-specific or ruin-reactive locations  
-    • No animation, no glow, no prophecy—only behavior
+    • No animation, no glow, no prophecy-only behavior
 
 DEATH  
     • Permanent  

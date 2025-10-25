@@ -4,7 +4,7 @@ NAME
 DESCRIPTION  
     When Vaeronth lost cohesion, most of its mass remained in orbit,  
     forming a visible ring in the upper sky. A minority of material entered  
-    atmosphere and embedded into deep crust layers — beneath stone, ice, or soil.  
+    atmosphere and embedded into deep crust layers - beneath stone, ice, or soil.  
 
     These fragments are inert.  
     They do not glow, emit, respond, or activate.  

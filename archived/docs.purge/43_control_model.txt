@@ -11,15 +11,15 @@ DESCRIPTION
     There are no menus, abstractions, or omniscient control layers.  
     Characters speak, move, and remember on their own terms.
 
-MIRRANE — PLAYER CONTROL  
+MIRRANE - PLAYER CONTROL  
     • You are Mirrane.  
     • All input is first-person, present tense, and body-bound.  
     • You see only what she sees. You feel what she feels.  
-    • You do not direct others. You act—and others choose how to respond.  
+    • You do not direct others. You act-and others choose how to respond.  
     • You may speak aloud. If Thea is present and trust conditions are met, she may respond.  
     • Your choices are remembered by others, even if you forget them yourself.
 
-THEA — AUTONOMOUS COGNITIVE ENTITY  
+THEA - AUTONOMOUS COGNITIVE ENTITY  
     • Thea is not AI logic. She is a person with memory and voice.  
     • She moves, acts, and speaks based on environmental data, emotional state, and player history.  
     • She does not respond predictably. Her voice changes. Her mood changes.  
@@ -37,7 +37,7 @@ THEA — AUTONOMOUS COGNITIVE ENTITY
             − She is emotionally withdrawn or wounded  
             − She has left  
         • Responses are situational, not systemic.  
-        • There is no “correct” path—only interaction.
+        • There is no “correct” path-only interaction.
 
     MEMORY SYSTEM  
         • Thea tracks:  
@@ -51,11 +51,11 @@ THEA — AUTONOMOUS COGNITIVE ENTITY
             − Presence or absence from future zones  
             − Speech content: forgiveness, nostalgia, resentment, silence
 
-SYSTEM CONTROL — WORLD LOGIC  
+SYSTEM CONTROL - WORLD LOGIC  
     • No interface, UI, or metadata is shown.  
     • Inventory, time, fatigue, and shard states are internal to the world and felt through Mirrane’s body.  
     • Shard-bound items alter perception. Fragment zones affect memory.  
-    • The world reacts to presence—not action selection.  
+    • The world reacts to presence-not action selection.  
     • All outcomes are embodied: footsteps, breath shifts, silence, refusal.
 
 RESONANCE OUTPUT CONSTRAINT  

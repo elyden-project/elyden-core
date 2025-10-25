@@ -19,12 +19,12 @@ PROPERTIES
     • acoustic interference − high (wind deflection, echo distortion)
 
 INORGANIC MATERIALS  
-    • shale slivers — razor sharp, scattered in scree  
-    • black slate — flat layers, brittle when stepped on  
-    • glacial ice — clings to ridge faces  
-    • iron filament — rare, oxidized traces  
-    • quartz seam — brittle, translucent  
-    • bone splinters — caught in rock cracks, species unknown
+    • shale slivers - razor sharp, scattered in scree  
+    • black slate - flat layers, brittle when stepped on  
+    • glacial ice - clings to ridge faces  
+    • iron filament - rare, oxidized traces  
+    • quartz seam - brittle, translucent  
+    • bone splinters - caught in rock cracks, species unknown
 
 FLORA  
     TREES  
@@ -32,31 +32,31 @@ FLORA
     SHRUBS  
         • none  
     HERBS  
-        • saxifrage — tiny purple blooms in cracks, edible flowers  
-        • moss campion — dome-shaped growth, slow-gathering  
+        • saxifrage - tiny purple blooms in cracks, edible flowers  
+        • moss campion - dome-shaped growth, slow-gathering  
     FUNGI  
         • none confirmed  
     GRASSES  
-        • alpine fescue — short-blade, grows on leeward ledge  
+        • alpine fescue - short-blade, grows on leeward ledge  
     LICHENS  
-        • frost lichen — pale green crust on sun-facing stone  
-        • black rock lichen — dark spread, grows over slate  
+        • frost lichen - pale green crust on sun-facing stone  
+        • black rock lichen - dark spread, grows over slate  
 
 FAUNA  
     INSECTS  
-        • alpine midge — wind-drifted, clings to fur or cloth  
-        • slate beetle — feeds on lichen, hides in cracks  
+        • alpine midge - wind-drifted, clings to fur or cloth  
+        • slate beetle - feeds on lichen, hides in cracks  
     BIRDS  
-        • snow finch — seed and insect eater, stays near ledges  
-        • alpine swift — glides on thermals, nests on vertical faces  
-        • lammergeier — bone-dropper, feeds on marrow  
+        • snow finch - seed and insect eater, stays near ledges  
+        • alpine swift - glides on thermals, nests on vertical faces  
+        • lammergeier - bone-dropper, feeds on marrow  
     MAMMALS  
-        • mountain hare — small, white-coated grazer  
-        • snow leopard — solitary ambush predator  
+        • mountain hare - small, white-coated grazer  
+        • snow leopard - solitary ambush predator  
     REPTILES  
-        • highland viper — cold-adapted, sun-basks on stone
+        • highland viper - cold-adapted, sun-basks on stone
 
 AGGRESSIVE FAUNA  
-    • lammergeier — territorial, may strike by dropping bone  
-    • snow leopard — attacks from ambush when threatened or wounded  
-    • highland viper — venomous, strikes when approached
+    • lammergeier - territorial, may strike by dropping bone  
+    • snow leopard - attacks from ambush when threatened or wounded  
+    • highland viper - venomous, strikes when approached

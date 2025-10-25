@@ -17,68 +17,68 @@ PROPERTIES
     • water surface − pooled, non-circulating
 
 INORGANIC MATERIALS  
-    • peat — dense organic fuel, wet until cured  
-    • bog clay — slick, deep, retains imprints  
-    • sulfur flecks — may indicate toxic venting  
-    • rootwood — twisted, unusable for burning  
-    • black stone — stained mineral cluster  
-    • reed ash — light, sterile
+    • peat - dense organic fuel, wet until cured  
+    • bog clay - slick, deep, retains imprints  
+    • sulfur flecks - may indicate toxic venting  
+    • rootwood - twisted, unusable for burning  
+    • black stone - stained mineral cluster  
+    • reed ash - light, sterile
 
 FLORA  
     TREES  
-        • swamp willow — long, drooping branches  
-        • cypress — wide base, rot-resistant wood  
-        • alder — shallow root system, nitrogen-fixing  
+        • swamp willow - long, drooping branches  
+        • cypress - wide base, rot-resistant wood  
+        • alder - shallow root system, nitrogen-fixing  
     SHRUBS & VINES  
-        • bush weed — feral cannabis, psychoactive when dried  
-        • poison sumac — severe skin irritant  
-        • bog creeper — vine-like, clings to ankles  
+        • bush weed - feral cannabis, psychoactive when dried  
+        • poison sumac - severe skin irritant  
+        • bog creeper - vine-like, clings to ankles  
     HERBS  
-        • bloodroot — red-staining rhizome, irritant  
-        • mint — aromatic, repels insects  
-        • marsh marigold — yellow flower, toxic raw  
+        • bloodroot - red-staining rhizome, irritant  
+        • mint - aromatic, repels insects  
+        • marsh marigold - yellow flower, toxic raw  
     FUNGI  
-        • ghost cap — glows faintly, inedible  
-        • dead lichen — brittle, inert  
-        • swamp puffball — spores trigger coughing  
-        • cordyceps — parasitic, grows on insect corpses  
+        • ghost cap - glows faintly, inedible  
+        • dead lichen - brittle, inert  
+        • swamp puffball - spores trigger coughing  
+        • cordyceps - parasitic, grows on insect corpses  
     AQUATIC PLANTS  
-        • duckweed — floats in mats, edible in moderation  
-        • cattail — fibrous, core edible  
-        • bladderwort — carnivorous, traps small prey  
+        • duckweed - floats in mats, edible in moderation  
+        • cattail - fibrous, core edible  
+        • bladderwort - carnivorous, traps small prey  
     GRASSES  
-        • sedge — triangular stem, cuts skin  
-        • marsh grass — dense, slippery footing
+        • sedge - triangular stem, cuts skin  
+        • marsh grass - dense, slippery footing
 
 FAUNA  
     INSECTS  
-        • mosquito — blood feeder, active at dusk  
-        • leech — attaches below waterline, slow to remove  
-        • marsh fly — lays eggs in rot, swarms at heat  
-        • wasp — nests in reeds, aggressive if disturbed  
+        • mosquito - blood feeder, active at dusk  
+        • leech - attaches below waterline, slow to remove  
+        • marsh fly - lays eggs in rot, swarms at heat  
+        • wasp - nests in reeds, aggressive if disturbed  
     AMPHIBIANS  
-        • bullfrog — deep croak, consumes insects and hatchlings  
-        • spotted salamander — moist-bodied, burrows under roots  
+        • bullfrog - deep croak, consumes insects and hatchlings  
+        • spotted salamander - moist-bodied, burrows under roots  
     REPTILES  
-        • cottonmouth — venomous, floats while hunting  
-        • snapping turtle — hides in silt, clamps hard  
-        • water snake — fast swimmer, non-venomous  
-        • anaconda — large constrictor, mimics log in water  
-        • black caiman — apex ambush predator, rests submerged  
+        • cottonmouth - venomous, floats while hunting  
+        • snapping turtle - hides in silt, clamps hard  
+        • water snake - fast swimmer, non-venomous  
+        • anaconda - large constrictor, mimics log in water  
+        • black caiman - apex ambush predator, rests submerged  
     BIRDS  
-        • heron — long-legged fisher, nests in canopy  
-        • rail — skittish ground walker, hard to flush  
-        • bittern — freeze posture, camouflaged in reeds  
+        • heron - long-legged fisher, nests in canopy  
+        • rail - skittish ground walker, hard to flush  
+        • bittern - freeze posture, camouflaged in reeds  
     MAMMALS  
-        • swamp rat — aggressive scavenger, infests corpses  
-        • otter — slippery predator, den in reed clusters  
-        • wild boar — forages in muck, can become aggressive
+        • swamp rat - aggressive scavenger, infests corpses  
+        • otter - slippery predator, den in reed clusters  
+        • wild boar - forages in muck, can become aggressive
 
 AGGRESSIVE FAUNA  
-    • wild boar — charges when cornered or surprised  
-    • cottonmouth — venomous bite, strikes from water  
-    • snapping turtle — clamps extremities if provoked  
-    • leech — persistent blood drain if submerged  
-    • wasp — swarms when nest is disturbed  
-    • anaconda — strikes from shallows, constricts before dragging  
-    • black caiman — strikes from waterline, drags prey silently
+    • wild boar - charges when cornered or surprised  
+    • cottonmouth - venomous bite, strikes from water  
+    • snapping turtle - clamps extremities if provoked  
+    • leech - persistent blood drain if submerged  
+    • wasp - swarms when nest is disturbed  
+    • anaconda - strikes from shallows, constricts before dragging  
+    • black caiman - strikes from waterline, drags prey silently

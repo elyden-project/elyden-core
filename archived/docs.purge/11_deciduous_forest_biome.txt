@@ -24,49 +24,49 @@ INORGANIC MATERIALS
 
 FLORA  
     TREES  
-        • oak — produces acorns, strong wood  
-        • maple — sap-bearing, moderate height  
-        • birch — bark peels easily, burns hot  
+        • oak - produces acorns, strong wood  
+        • maple - sap-bearing, moderate height  
+        • birch - bark peels easily, burns hot  
     SHRUBS  
-        • blackberry — thorned, fruiting  
-        • hazel — nut-bearing, used in hedgerows  
-        • dogwood — flexible stems, dense growth  
+        • blackberry - thorned, fruiting  
+        • hazel - nut-bearing, used in hedgerows  
+        • dogwood - flexible stems, dense growth  
     HERBS  
-        • wild garlic — pungent bulb, edible  
-        • dandelion — full plant edible, widespread  
-        • wood sorrel — tart leaves, grows in shade  
-        • yellow archangel — groundcover, soothing properties  
+        • wild garlic - pungent bulb, edible  
+        • dandelion - full plant edible, widespread  
+        • wood sorrel - tart leaves, grows in shade  
+        • yellow archangel - groundcover, soothing properties  
     FUNGI  
-        • honey fungus — edible when cooked  
-        • hen of the woods — grows at tree base, edible  
-        • earthball — toxic, inedible  
-        • birch polypore — medicinal, on dead birch  
+        • honey fungus - edible when cooked  
+        • hen of the woods - grows at tree base, edible  
+        • earthball - toxic, inedible  
+        • birch polypore - medicinal, on dead birch  
     GRASSES  
-        • reed canary grass — tall, moisture-tolerant  
-        • broomsedge — dry, fibrous, grows in patches
+        • reed canary grass - tall, moisture-tolerant  
+        • broomsedge - dry, fibrous, grows in patches
 
 FAUNA  
     INSECTS  
-        • black garden ant — ground forager, forms trails  
-        • bark beetle — bores into dead wood  
-        • skipper butterfly — active at dusk, feeds on nectar  
-        • deer tick — parasitic, waits on grasses  
+        • black garden ant - ground forager, forms trails  
+        • bark beetle - bores into dead wood  
+        • skipper butterfly - active at dusk, feeds on nectar  
+        • deer tick - parasitic, waits on grasses  
     REPTILES & AMPHIBIANS  
-        • grass snake — non-venomous, prefers cover  
-        • box turtle — slow-moving, hides in leaf piles  
-        • common toad — insectivore, active in rain  
+        • grass snake - non-venomous, prefers cover  
+        • box turtle - slow-moving, hides in leaf piles  
+        • common toad - insectivore, active in rain  
     BIRDS  
-        • song thrush — sings at dawn, insectivore  
-        • Eurasian jay — vocal, raids nests  
-        • pheasant — ground forager, takes flight when startled  
-        • broad-winged hawk — daytime predator, nests high  
+        • song thrush - sings at dawn, insectivore  
+        • Eurasian jay - vocal, raids nests  
+        • pheasant - ground forager, takes flight when startled  
+        • broad-winged hawk - daytime predator, nests high  
     MAMMALS  
-        • red squirrel — agile climber, stores nuts  
-        • roe deer — shy grazer, active at twilight  
-        • raccoon — nocturnal scavenger, uses water  
-        • red fox — omnivore, dens near clearings
+        • red squirrel - agile climber, stores nuts  
+        • roe deer - shy grazer, active at twilight  
+        • raccoon - nocturnal scavenger, uses water  
+        • red fox - omnivore, dens near clearings
 
 AGGRESSIVE FAUNA  
-    • red fox — may bite if cornered  
-    • Eurasian jay — attacks if nest threatened  
-    • box turtle — bites when handled improperly
+    • red fox - may bite if cornered  
+    • Eurasian jay - attacks if nest threatened  
+    • box turtle - bites when handled improperly

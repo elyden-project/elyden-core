@@ -1,15 +1,15 @@
 NAME  
-    origin_event — collapse of Vaeronth and sealing of the valley
+    origin_event - collapse of Vaeronth and sealing of the valley
 
 DESCRIPTION  
     Elyden orbits Aurenzae, a red dwarf.
 
     It was once encircled by five moons:
-        • Taeryniel — terrestrial  
-        • Irraketh — thermal  
-        • Lovaen — atmospheric  
-        • Serunel — aquatic  
-        • Vaeronth — structural and arcane  
+        • Taeryniel - terrestrial  
+        • Irraketh - thermal  
+        • Lovaen - atmospheric  
+        • Serunel - aquatic  
+        • Vaeronth - structural and arcane  
 
     These bodies were visible in the sky and were named, aligned, and tracked.  
     Their cycles governed system rhythm, environmental flux, and temporal order.
@@ -50,7 +50,7 @@ NOTES
 
     • Following Vaeronth’s destruction, surface temperatures dropped  
     • Most of the world is now encased in cold zones: permafrost, glacial plains, and tundra  
-    • Only one region remains climatically stable — the sealed valley
+    • Only one region remains climatically stable - the sealed valley
 
 FILES  
     CELESTIAL_BODIES(5), FRAGMENTS(5), SHARDS(5), SEALED_VALLEY(5)

@@ -6,7 +6,7 @@ DESCRIPTION
     Soil is dry, flaked, and sterile. Wind scours exposed stone into grooves and hollows.  
     Water does not collect here; it evaporates or vanishes underground.  
     Vegetation is skeletal, brittle, and rare.  
-    Animal life is sparse and adapted — low, armored, venomous, or scavenging.  
+    Animal life is sparse and adapted - low, armored, venomous, or scavenging.  
     No permanent shelter exists. Movement is unimpeded but exhausting.
 
 PROPERTIES  
@@ -19,49 +19,49 @@ PROPERTIES
     • survivability − low, but not null
 
 INORGANIC MATERIALS  
-    • clay pan — hardened surface, may crack under weight  
-    • chalk dust — coats surfaces, causes drymouth  
-    • silica shards — brittle glassy flakes  
-    • rust stone — high iron content, stains gear  
-    • bleached bone — scattered, sun-flaked  
-    • fossil tile — hardened plate, unyielding
+    • clay pan - hardened surface, may crack under weight  
+    • chalk dust - coats surfaces, causes drymouth  
+    • silica shards - brittle glassy flakes  
+    • rust stone - high iron content, stains gear  
+    • bleached bone - scattered, sun-flaked  
+    • fossil tile - hardened plate, unyielding
 
 FLORA  
     TREES  
         • none  
     SHRUBS  
-        • saltbush — silver-leaved, water-retaining  
-        • spiny broom — stiff, thorned  
-        • desert tamarisk — sparse leaf, deep-rooted  
+        • saltbush - silver-leaved, water-retaining  
+        • spiny broom - stiff, thorned  
+        • desert tamarisk - sparse leaf, deep-rooted  
     HERBS  
-        • wormleaf — pale and fibrous, edible if boiled  
-        • drought sage — bitter, used to mask scent  
+        • wormleaf - pale and fibrous, edible if boiled  
+        • drought sage - bitter, used to mask scent  
     FUNGI  
         • none observed  
     GRASSES  
-        • stoneblade — cuts skin, dry stalk  
-        • embergrass — curls when burned, stores heat
+        • stoneblade - cuts skin, dry stalk  
+        • embergrass - curls when burned, stores heat
 
 FAUNA  
     INSECTS  
-        • dust wasp — burrows in clay, aggressive if disturbed  
-        • bone beetle — scavenger, cleans remains  
-        • fire ant — forms tight colonies under stone  
+        • dust wasp - burrows in clay, aggressive if disturbed  
+        • bone beetle - scavenger, cleans remains  
+        • fire ant - forms tight colonies under stone  
     REPTILES & AMPHIBIANS  
-        • dust viper — heat-sensing ambusher, buried during day  
-        • skink — fast, reflective skin, hides under slabs  
+        • dust viper - heat-sensing ambusher, buried during day  
+        • skink - fast, reflective skin, hides under slabs  
     BIRDS  
-        • kite — circles overhead, waits for movement  
-        • buzzard — scavenger, glides silently  
-        • sand lark — calls at dawn, nests under stone  
+        • kite - circles overhead, waits for movement  
+        • buzzard - scavenger, glides silently  
+        • sand lark - calls at dawn, nests under stone  
     MAMMALS  
-        • bloat rat — swells after water access, nests in cracks  
-        • jackal — scavenger, works in pairs  
-        • desert hare — lean runner, crepuscular
+        • bloat rat - swells after water access, nests in cracks  
+        • jackal - scavenger, works in pairs  
+        • desert hare - lean runner, crepuscular
 
 AGGRESSIVE FAUNA  
-    • dust wasp — attacks when nest is disturbed  
-    • dust viper — strikes when stepped on or shaded  
-    • bloat rat — bites if cornered, seeks blood  
-    • jackal — pursues lone prey at dusk  
-    • fire ant — swarms when trail is broken
+    • dust wasp - attacks when nest is disturbed  
+    • dust viper - strikes when stepped on or shaded  
+    • bloat rat - bites if cornered, seeks blood  
+    • jackal - pursues lone prey at dusk  
+    • fire ant - swarms when trail is broken

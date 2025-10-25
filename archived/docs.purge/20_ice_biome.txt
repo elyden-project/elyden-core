@@ -19,12 +19,12 @@ PROPERTIES
     • survivability − extremely low, but not null
 
 INORGANIC MATERIALS  
-    • clear ice — fractured with light veins  
-    • black stone — retains midday heat  
-    • dry frost — brittle and wind-blown  
-    • layered crust — thin, can conceal dips  
-    • reflective salt flecks — surface scatter  
-    • trapped air pocket — shallow and cold, brief shelter
+    • clear ice - fractured with light veins  
+    • black stone - retains midday heat  
+    • dry frost - brittle and wind-blown  
+    • layered crust - thin, can conceal dips  
+    • reflective salt flecks - surface scatter  
+    • trapped air pocket - shallow and cold, brief shelter
 
 FLORA  
     TREES  
@@ -38,17 +38,17 @@ FLORA
     GRASSES  
         • none  
     MICROFLORA  
-        • snow algae — red or green bloom on sun-facing ice
+        • snow algae - red or green bloom on sun-facing ice
 
 FAUNA  
     INSECTS  
-        • glacier midge — present in melt periods, swarms in warmth  
+        • glacier midge - present in melt periods, swarms in warmth  
     BIRDS  
-        • snow petrel — lands on black stone, feeds on windblown carrion  
+        • snow petrel - lands on black stone, feeds on windblown carrion  
     MAMMALS  
-        • arctic fox — solitary scavenger, crosses between ridges  
-        • ermine — weasel form, active during melt season
+        • arctic fox - solitary scavenger, crosses between ridges  
+        • ermine - weasel form, active during melt season
 
 AGGRESSIVE FAUNA  
-    • glacier midge — bites exposed skin in numbers  
-    • arctic fox — attacks if cornered, usually flees
+    • glacier midge - bites exposed skin in numbers  
+    • arctic fox - attacks if cornered, usually flees

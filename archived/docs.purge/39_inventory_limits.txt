@@ -16,9 +16,9 @@ ON-BODY
     • Loose items packed into pockets, folds, or bound in cloth
 
 FOOD  
-    • Forage can be wrapped and carried—roots, berries, insects  
+    • Forage can be wrapped and carried-roots, berries, insects  
     • Dried food stores best; raw meat spoils quickly and draws animals  
-    • Carried food is limited by space and smell—enough for a day or two, no more
+    • Carried food is limited by space and smell-enough for a day or two, no more
 
 KILLS  
     • Small game fits in a pouch or sling  
@@ -27,7 +27,7 @@ KILLS
     • Thea may help, but she chooses when and how
 
 PRACTICAL NOTES  
-    • Movement affects what can be carried—climbing, crawling, and running change access  
+    • Movement affects what can be carried-climbing, crawling, and running change access  
     • Items shift. Wet gear gets heavier. Fabric tears.  
     • If overloaded, something will need to be dropped
 

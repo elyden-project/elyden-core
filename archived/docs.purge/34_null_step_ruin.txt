@@ -5,7 +5,7 @@ DESCRIPTION
     A narrow stairway carved directly into solid stone, found in remote plateaus, badlands, or glacial margins.  
     The descent appears as a continuous, seamless shaft with no construction joints or visible tool marks.  
     Surface continues past measurable depth before terminating at a matte-black plane.  
-    There is no visible threshold, door, or end wall — only a geometric boundary beyond which visibility ceases.  
+    There is no visible threshold, door, or end wall - only a geometric boundary beyond which visibility ceases.  
     Entrance is typically free of overgrowth, sediment, or wind-blown accumulation.
 
 STRUCTURAL PROPERTIES  

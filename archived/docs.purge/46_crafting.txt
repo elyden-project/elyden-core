@@ -7,7 +7,7 @@ DESCRIPTION
     Nothing is built through menus.  
     No recipe unlocks. No crafting trees.  
     All creation in Elyden happens with what the body can carry and what the world will allow.  
-    Tools are shaped by knowledge, failure, and necessity—not lists.
+    Tools are shaped by knowledge, failure, and necessity-not lists.
 
 PROCESS  
     • Crafting occurs in the world, not a window  
@@ -42,16 +42,16 @@ TOOLS AND LIMITS
     • Weapons and armor must be purpose-built before they can receive further resonance
 
 ENVIRONMENTAL DEPENDENCE  
-    • Biomes limit what can be built—no stone in the floodplain, no dry wood in the mist basin  
+    • Biomes limit what can be built-no stone in the floodplain, no dry wood in the mist basin  
     • Fires can’t be lit in high pollen wind  
     • Water makes cordage brittle unless treated  
     • Sun may warp raw wood unless cured in shade
 
 SHARD-BINDING  
     • Shards are not materials. They are consequences.  
-    • Each shard is a fragment of Vaeronth—lodged inside the body of a killed megafauna  
+    • Each shard is a fragment of Vaeronth-lodged inside the body of a killed megafauna  
     • They do not appear until one of those creatures dies  
-    • Once claimed, a shard may bind to a weapon or piece of armor—never to a tool  
+    • Once claimed, a shard may bind to a weapon or piece of armor-never to a tool  
     • Binding must occur at a ruin-reactive site under correct lunar conditions  
     • Once bound:
         − The weapon behaves differently  

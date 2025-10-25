@@ -6,15 +6,15 @@ NAME
 DESCRIPTION  
     Elyden is seen, heard, felt, and smelled.  
     There are no status panels, meters, or combat logs.  
-    Everything the player knows must come through Mirrane’s body—her breath, her hearing, her memory.  
+    Everything the player knows must come through Mirrane’s body-her breath, her hearing, her memory.  
     The player is not above the world. The player is inside it.
 
 PRIORITY ORDER  
-    1. Touch     — tension, warmth, chill, blood, pressure  
-    2. Sound     — breath shifts, footfall, cracking bark, hooves in the dark  
-    3. Sight     — movement at edge, glint on hide, disturbed soil, color change  
-    4. Smell     — rot, pollen, fur, ash, animal oil  
-    5. Taste     — blood, dry mouth, herbs, rot mist
+    1. Touch     - tension, warmth, chill, blood, pressure  
+    2. Sound     - breath shifts, footfall, cracking bark, hooves in the dark  
+    3. Sight     - movement at edge, glint on hide, disturbed soil, color change  
+    4. Smell     - rot, pollen, fur, ash, animal oil  
+    5. Taste     - blood, dry mouth, herbs, rot mist
 
 MIRRANE’S SENSORY MAP  
     • She feels tightness in her shoulder before she feels fear  
@@ -30,9 +30,9 @@ THEA’S SENSORY MAP
 
 SENSORY DELIVERY  
     • There is no narration  
-    • The world does not describe itself—it behaves  
+    • The world does not describe itself-it behaves  
     • The player infers danger from silence, movement, warmth, or withdrawal  
-    • Even pain is not shown directly—it is expressed through reaction
+    • Even pain is not shown directly-it is expressed through reaction
 
 FEEDBACK IN COMBAT  
     • You know you hit something by how your hand recoils  
@@ -49,7 +49,7 @@ INTERFACE BEHAVIOR
 
 LINE FRAGMENT RULE  
     • Any single-word or sentence fragment is forbidden unless it expresses a valid sense from the priority order above  
-    • All fragments must be fully embodied—felt, seen, or heard from Mirrane’s perspective  
+    • All fragments must be fully embodied-felt, seen, or heard from Mirrane’s perspective  
     • No fragment may imply absence, time, mood, or interpretation  
     • Examples of forbidden fragments:  
         ✗ “Weight.”  

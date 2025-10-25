@@ -24,36 +24,36 @@ INORGANIC MATERIALS
 
 FLORA  
     GRASSES  
-        • wild rye — edible  
-        • sand oat — edible  
+        • wild rye - edible  
+        • sand oat - edible  
     HERBS  
-        • plantain — edible (boiled)  
-        • bitterroot — astringent, not consumed raw  
+        • plantain - edible (boiled)  
+        • bitterroot - astringent, not consumed raw  
     FUNGI  
         • none observed  
     TREES  
         • none observed  
     SHRUBS & SUCCULENTS  
-        • desert reed — edible inner pith (roasted)
+        • desert reed - edible inner pith (roasted)
 
 FAUNA  
     INSECTS  
-        • field beetle — ground scavenger, feeds on decaying matter  
-        • sand wasp — solitary forager, nests in soil  
-        • burrowing mantis — ambush predator, attacks from concealment  
+        • field beetle - ground scavenger, feeds on decaying matter  
+        • sand wasp - solitary forager, nests in soil  
+        • burrowing mantis - ambush predator, attacks from concealment  
     BIRDS  
-        • steppe hawk — solitary raptor, hunts rodents  
-        • carrion crow — scavenger, often found near remains  
+        • steppe hawk - solitary raptor, hunts rodents  
+        • carrion crow - scavenger, often found near remains  
     MAMMALS  
-        • dryland gazelle — alert grazer, flees on approach  
-        • dusk hare — crepuscular herbivore, relies on speed  
-        • ridge badger — burrowing omnivore, avoids confrontation  
+        • dryland gazelle - alert grazer, flees on approach  
+        • dusk hare - crepuscular herbivore, relies on speed  
+        • ridge badger - burrowing omnivore, avoids confrontation  
     REPTILES  
-        • dust lizard — sun-basking insectivore, skittish  
+        • dust lizard - sun-basking insectivore, skittish  
     AMPHIBIANS  
         • none confirmed
 
 AGGRESSIVE FAUNA  
-    • plains bull — territorial grazer, charges when threatened  
-    • burrowing mantis — strikes when disturbed  
-    • sand wasp — stings defensively if provoked
+    • plains bull - territorial grazer, charges when threatened  
+    • burrowing mantis - strikes when disturbed  
+    • sand wasp - stings defensively if provoked

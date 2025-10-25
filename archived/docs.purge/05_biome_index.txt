@@ -27,5 +27,5 @@ INDEX
     • 🏜️ badlands (z)
 NOTES  
     • Each entry corresponds exactly to biome source files 06–23  
-    • Icons are visual only—do not affect traversal, resource yield, or simulation behavior  
+    • Icons are visual only-do not affect traversal, resource yield, or simulation behavior  
     • Short-form ASCII keys are authoritative for biome mapping and world logic
