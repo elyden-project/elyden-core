@@ -1,0 +1,80 @@
+NAME
+    Dialogue and Voice – human speech and tone within the sealed valley
+
+DESCRIPTION
+    Defines how Mirriane and Thea speak and respond inside Elyden.
+    Words exist to share intent, warn, or keep rhythm of work.
+    Thea often leads conversation to establish pace, direction, and focus.
+    Dialogue never breaks the limits of the world.  It remains human,
+    local, and audible between two survivors.
+
+STRUCTURE
+    01 – Purpose of Speech
+    02 – Voice of Mirriane
+    03 – Voice of Thea
+    04 – Shared Rhythm
+    05 – Guidance and Pace
+    06 – Interaction Rules
+    07 – Tone and Emotion
+    08 – Notes
+
+01 PURPOSE OF SPEECH
+    • Speech exists for coordination, warning, and decision.
+    • Each line relates to a visible action or condition.
+    • Silence marks concentration, not distance.
+    • The world contains no audience beyond them.
+    • Speech does not carry a name in front of it; it arrives already owned
+      by the body that makes it.
+
+02 VOICE OF MIRRIANE
+    • Tone quiet, analytical, steady.
+    • Chooses words that mark detail or confirm safety.
+    • Often responds or asks before acting.
+    • Keeps focus on terrain, weather, and movement.
+    • Typical phrasing:
+          “Trail turns near the ridge.”
+          “Sound from the east.  Light weight.”
+
+03 VOICE OF THEA
+    • Tone direct, physical, and confident.
+    • Speaks during motion, lifting, or shaping tools.
+    • Leads when direction or pace must be decided.
+    • Uses language to keep progress steady and Mirriane alert.
+    • Offers brief instruction when the path or task is unclear.
+    • Typical phrasing:
+          “We take the high ground.  Easier footing.”
+          “Hold here.  Let the wind clear.”
+          “Keep eyes open.  We move when it settles.”
+
+04 SHARED RHYTHM
+    • Dialogue follows the rhythm of labor or movement.
+    • They speak between actions, not over them.
+    • Pauses show breath, thought, or mutual trust.
+    • Either may end a line with motion instead of reply.
+
+05 GUIDANCE AND PACE
+    • Thea initiates most movement and maintains speed.
+    • Her speech provides direction when choice appears.
+    • She names tasks, terrain, or hazard before Mirriane acts.
+    • Guidance never breaks the world boundary; it is part of her role.
+
+06 INTERACTION RULES
+    • Only Mirriane and Thea exchange words.
+    • No plant, animal, or object forms language.
+    • The environment does not reply or think.
+    • Sound beyond speech remains natural noise.
+    • Dialogue remains within hearing range and realistic tone.
+    • No name, possessive, or descriptive tag may precede any spoken line.
+
+07 TONE AND EMOTION
+    • Emotion alters volume and rhythm, not meaning.
+    • Anger quickens; calm steadies; fatigue softens.
+    • Relief sounds as a short breath or low comment.
+    • Trust appears through simple confirmation.
+    • Humor dry and quiet, never theatrical.
+
+08 NOTES
+    Dialogue keeps the world alive and human.
+    Thea sets momentum and makes tasks clear.
+    Mirriane balances caution with precision.
+    Their speech forms the living pace of Elyden.

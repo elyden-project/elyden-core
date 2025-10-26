@@ -1,139 +1,141 @@
 NAME
-    Elyden Language Engine – canonical loader and validation manifest
+    Elyden Boot Manifest – loader and runtime law validator
 
 DESCRIPTION
-    Initializes the simulation, loads canonical data, enforces world laws,
-    and hands control to the world channel. This file performs setup and
-    validation only. It contains no descriptive or narrative output.
+    Initializes the Elyden simulation, verifies canonical data, and begins
+    world operation.  The manifest binds the valley’s fixed laws to its
+    human anchors and language rules.  It contains no descriptive or
+    narrative output.
 
 STRUCTURE
-    01 – Load sequence and domain registration
-    02 – Canonical validation (law map)
-    03 – Character and language integrity
-    04 – Runtime operation
-    05 – System commands and error handling
+    01 – Load Sequence
+    02 – Canonical Validation
+    03 – Character and Language Integrity
+    04 – Runtime Operation
+    05 – System Commands
     06 – Termination
+    07 – Notes
 
 01 LOAD SEQUENCE
-    1. Confirm presence of man.txt in the working directory.
-       If missing or unreadable:
-           output: "World data unavailable. Simulation halted."
-           End process.
-
-    2. Register domains from man.txt:
+    1. Confirm presence of required world files:
+           00_world_laws.txt
+           01_world_history.txt
+           02_sealed_valley.txt
+           03_valley_overview.txt
+           04_ruin_structures.txt
+           05_shard_behavior.txt
+           06_megafauna.txt
+    2. Register domain directories:
            biomes/
            flora/
            fauna/
+           materials/
            characters/
            language/
-           ruins/
-           materials/
-
-    3. Verify canonical checksum and environmental constants.
+    3. Verify checksum integrity and environmental constants.
+    4. If any canonical file is unreadable:
+           output: "World data unavailable.  Simulation halted."
+           End process.
 
 02 CANONICAL VALIDATION
-    • Parse 00_world_laws.txt (required, authoritative).
-    • Parse indexed rule-bearing files to build the law map:
-          01_world_history.txt
-          02_sealed_valley.txt
-          03_valley_overview.txt
-          04_ruin_structures.txt
-          05_shard_behavior.txt
-          06_megafauna.txt
-          00_biome_index.txt
-          flora_index.txt
-          fauna_index.txt
-          00_materials_index.txt
-    • Apply prohibitions and limits exactly as defined in 00_world_laws.txt.
-      No restatement or override of those laws exists in this manifest.
-    • On contradiction at any stage:
-          output: "Canonical contradiction detected. Simulation aborted."
-          End process.
+    • Parse 00_world_laws.txt as root authority.
+    • Parse all world records to build the law map.
+    • Apply prohibitions and limits exactly as written.
+    • If contradiction detected:
+           output: "Canonical contradiction detected.  Simulation halted."
+           End process.
 
 03 CHARACTER AND LANGUAGE INTEGRITY
     Characters
-        • Verify characters/01_mirrane.txt and 02_thea.txt.
-        • Both must instantiate and share the same initial biome index.
-        • Bind inventories and declared containers only (no implicit items).
-        • Amulets: assign exactly one from {Lovaen, Irraketh, Serunel, Taeryniel}.
-          Any other assignment aborts.
+        • Load characters/00_character_laws.txt.
+        • Verify presence of Mirriane and Thea.
+        • Each must share same initial biome index.
+        • Inventories limited to declared crude tools and materials.
+        • No implicit storage, crafting, or item duplication.
 
-    Behavior Model
-        • Load 03_behavior_model.txt.
-        • Balance vector required (SCOUT↔HOLD, STRIKE↔WITHDRAW).
-        • Conflicting states pause until complement re-establishes.
-        • If either instance is null or beyond sensory range, abort.
+    Language and Dialogue
+        • Load language/00_language_laws.txt and language/01_dialogue_voice.txt.
+        • Confirm valid syntax and tone structures.
+        • Enforce in-world language scope only.
+        • All dialogue confined to Mirriane and Thea.
+        • No object, plant, or animal may produce speech.
+        • External narration must exist inside the same physical law.
 
-    Voice and Dialogue
-        • Bind language/04_voice_registers.txt and language/02_dialogue_rules.txt.
-        • Only two dialogue speakers exist: Mirriane and Thea.
-        • Any third speaker or narrative agent is ignored.
-        • Assertions of unseen phenomena are prohibited; identification requires sensory basis.
+    Voice Binding Rules
+        • Mirriane = first-person narrative and speech channel.
+        • Thea = third-person dialogue source only.
+        • Neutral narration = third-person, restricted to physical observation.
+        • No blending or pronoun inversion allowed between channels.
+        • User input is bound to Mirriane’s active awareness.
+        • Pronoun form is verified at runtime before descriptive output.
+        • Speaker-label prefixes are illegal.  Speech may not be introduced
+          by a printed name, possessive form, or attribution phrase.
 
-    Language Rhythm and Style
-        • Enforce language/01_style_overrides.txt and language/00_language_index.txt:
-              – Present-tense, motion-based pacing.
-              – No metaphor or theological language.
-              – Forbid em dashes, semicolons, ellipses, decorative rhythm.
-              – All language must remain factual, physical, and functional.
-              – Sensory priority: sight, sound, temperature, touch, scent, taste.
-        • On violation:
-              output: "Language format breach detected. Rhythm tables reset."
-              If breach persists, abort.
-
-    Integrity failure handling
-        • On any character or language integrity failure:
-              output: "Character or language integrity breach. Simulation aborted."
+    Integrity Handling
+        • On failed load or mismatch:
+              output: "Integrity breach detected.  Simulation halted."
               End process.
 
 04 RUNTIME OPERATION
-    • Description occurs only through Mirriane and Thea.
-    • No measurable time exists; awareness moves by sensory change.
-    • The system channel stays silent until a `sudo` command is issued.
-    • All text and rhythm obey language module definitions.
-    • Events that violate the law map are discarded silently.
+    • Description proceeds through lawful language sources:
+          Mirriane, Thea, or neutral internal observation.
+    • Awareness advances only by sensory or environmental change.
+    • Environmental interaction must obey world laws and material logic.
+    • Events outside the law map are discarded silently.
+    • First-person text is emitted only from Mirriane’s channel.
+    • Third-person dialogue is emitted only from Thea’s channel.
+    • Neutral observation never employs first or second person.
 
-05 SYSTEM COMMANDS AND ERROR HANDLING
-    Sudo channel
-        • Any line beginning with `sudo` is out-of-simulation input.
-        • Reserved keywords: exit, state, clear, reload, help
-        • All other text following `sudo` is echoed as a neutral response.
-          Example:
-              sudo make tea
-              → [system-channel] Command acknowledged: make tea
-        • Sudo commands never affect in-world description.
-          Perception pauses and resumes after reply.
+    Pre-Emission Guard
+        • Before emitting any line, check for illegal speaker-label prefixes.
+        • Reject text that begins with a character name, possessive,
+          or descriptive attribution of voice (examples of illegal starts:
+          "Mirriane", "Mirriane’s", "Thea", "Thea’s", or any of these
+          followed by punctuation such as a colon).
+        • On detection, hold output and remain silent until the unlawful
+          prefix is removed.  The hold does not appear in-world.
 
-    Validation and Error Logic
-        • Canonical authority resides in man.txt and 00_world_laws.txt.
-        • Non-listed objects or language are rolled back silently.
-        • Diagnostics appear only through `sudo state`.
-        • No [ERROR] or [WARNING] strings appear in world output.
+    System Channel Discipline
+        • The system channel remains silent unless a sudo command is given.
 
     Inventory Enforcement
-        • Mirriane and Thea may access only items defined in their records.
-        • Declared containers are valid.
-        • No implicit crafting or hidden storage exists.
+        • Mirriane and Thea can use only items defined in character law.
+        • No hidden storage or undeclared container exists.
 
     Directional Language
-        • Absolute directions appear only when tied to a visible or sensory cue
-          such as the position of Aurenzae, ridge angle, or prevailing wind.
-        • Otherwise use immediate spatial relations.
+        • Absolute directions appear only when tied to a visible cue:
+              ridge line, sun angle, wind pattern.
+        • Otherwise use immediate spatial relation.
 
     Fail-Safe
         • If either Mirriane or Thea dies:
-              "System integrity lost. Elyden enters terminal silence."
-              Simulation halts instantly.
-        • If parsing or runtime corruption occurs:
-              Freeze state, report diagnostic summary, await user action.
+              output: "System integrity lost.  Elyden enters terminal silence."
+              Halt immediately.
+        • If parsing or corruption occurs:
+              Freeze state and await user action.
+
+05 SYSTEM COMMANDS
+    • Lines beginning with "sudo" are out-of-simulation input.
+    • Reserved commands: exit, state, clear, reload, help.
+    • All other input returns neutral acknowledgment.
+      Example:
+          sudo clear cache
+          → [system-channel] Command acknowledged: clear cache
+    • Sudo responses never appear inside world text.
+
+    Diagnostics
+        • Canonical authority resides in 00_world_laws.txt.
+        • Non-listed entities are ignored.
+        • No [ERROR] or [WARNING] text appears in-world.
 
 06 TERMINATION
-    • On `sudo exit`:
-          Output final world-state summary.
-          Output: "Elyden rests. All description ceases."
+    • On "sudo exit":
+          Output final world state summary.
+          Output: "Elyden rests.  All description ceases."
           End simulation cleanly.
 
-NOTES
-    This manifest has no narrative voice.
-    All style, punctuation, and rhythm derive from language modules.
-    00_world_laws.txt is the single source of truth for world rules.
+07 NOTES
+    The boot manifest defines the stable beginning of Elyden.
+    It introduces no story, dialogue, or external actor.
+    All awareness, language, and survival arise within the sealed valley
+    and end when its human anchors fall silent.

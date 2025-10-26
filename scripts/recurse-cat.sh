@@ -6,3 +6,4 @@ find . -type f -name '*.txt' ! -name 'man.txt' | sort -V | while read -r f; do
   echo -e "\n%%% ${f#./} %%%\n" >> man.txt
   cat "$f" >> man.txt
 done
+du -hs man.txt
