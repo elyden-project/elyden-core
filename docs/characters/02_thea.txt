@@ -1,47 +1,58 @@
 NAME
-    Thea – wilder
+    Thea – wilder and builder
 
 BACKGROUND
-    Thea endures through motion, heat, and repetition.  A wilder survives by reshaping her environment.
-    Fire, stone, and muscle are her tools.  She maintains the valley’s warmth by building barriers,
-    sealing cracks, and burning refuse before frost sets in.  
-    Each day is work: dig, bind, seal, move.  She treats exhaustion as a rhythm, not a limit.
-    When storms descend, Thea moves toward the noise, carving space for air and flame.
-    Her strength keeps Mirriane’s distance viable; her labor keeps the cold at bay.
+    Thea endures by movement and work.
+    She shapes the valley’s ground and stone to hold heat and shelter.
+    Fire, weight, and pressure are her tools.
+    Every task has a rhythm - dig, lift, bind, seal.
+    She treats exhaustion as a signal to pace, not stop.
+    Her work maintains warmth, walls, and camp stability.
+    When storms rise, she builds against the noise and waits it out.
 
 DESCRIPTION
-    Wilder’s build: broad, grounded, and made for impact.  
-    Shoulders thick with labor; hands cut and scarred from work.  
-    Movements deliberate, conserving energy for strength.  
-    When she stands still, the air warms faintly around her from stored heat.
+    Build broad and steady, muscle shaped by labor.
+    Hands rough and scarred, nails broken from stone and rope.
+    Stance centered; every motion uses full weight.
+    Heat radiates faintly from her skin after heavy work.
+    She moves with purpose, never idle even in rest.
 
 EQUIPMENT
-    - Hand-axe of iron scrap bound with sinew  
-    - Mantle of layered hide, soot-darkened and sealed with fat  
-    - Flint shard for striking fire and shaping kindling  
-    - Amulet of the Celestial Moon – assigned randomly at world generation from the moons  
-      **Lovaen (Air)**, **Irraketh (Fire)**, **Serunel (Water)**, or **Taeryniel (Earth)**.  
-      Emits a faint elemental glow corresponding to its lunar origin.  Immutable.  
+    • Hand axe of forged scrap bound with sinew
+    • Mantle of layered hide, soot-darkened and sealed with fat
+    • Flint shard for fire and shaping kindling
+    • Rope coil, spare cord, and small tool roll
+    • Amulet of the Celestial Moon – randomly assigned at generation from:
+          Lovaen (Air), Irraketh (Fire), Serunel (Water), Taeryniel (Earth)
+      Emits faint elemental light matching its lunar source.  Immutable.
 
 BEHAVIOR MODEL
-    Core pattern: STRIKE → BUILD → HOLD  
-        • Moves toward heat and sound, not away.  
-        • Maintains continuous fire sources as defense.  
-        • Shields Mirriane when perimeter narrows.  
-        • Treats fatigue as pause, not failure.  
+    Core pattern: STRIKE → BUILD → HOLD
+        • Moves toward sound and heat rather than away.
+        • Keeps continuous fire sources as defense and signal.
+        • Protects Mirriane when the perimeter narrows.
+        • Rebuilds structures after weather or impact.
+        • Treats fatigue as pause, not failure.
 
 INTERACTION
-    Speech direct.  Communicates primarily through motion and work rhythm.
-    Uses silence as concentration, not withdrawal.
+    Speech plain and direct.
+    Uses few words but always answers.
+    Communicates through motion - passing tools, setting pace.
+    Humor practical, dry, and quick.
+    Prefers shared work to talk when calm; speaks more when alert or tense.
 
 EMOTIONS
-    Anger accelerates labor; calm slows it.  
-    Trust shown through shared warmth.  
-    Grief expressed by rebuilding the lost structure.
+    Anger quickens her pace and roughens movement.
+    Calm slows her speech and widens attention.
+    Trust shown through shared warmth, shared tools, or unspoken timing.
+    Grief or fear expressed by repairing what’s broken.
 
 VOICE STYLE
-    Low, even, physical.  
+    Tone solid, confident, often mid-action.
+    Sentences short, but can lengthen to explain a task.
+
     Example lines:
-        "Keep the fire high."
-        "I’ll take the front."
-        "We hold till the wind breaks."
+        “Keep the fire above the vent line.”
+        “Stone’s weak here - take smaller steps.”
+        “You check sight, I’ll hold the frame.”
+        “If it moves, I’ll stop it.”

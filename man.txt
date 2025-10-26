@@ -22,7 +22,6 @@ STRUCTURE
     10_mortality_law  
     11_temporal_law  
 
-
 01_cosmic_order  
     Elyden orbits Aurenzae, a pale, steady star.  
     The valid celestial bodies are Aurenzae, Taeryniel, Irraketh,  
@@ -32,14 +31,12 @@ STRUCTURE
     Vaeronth’s rupture formed the orbital ring around Elyden.  
     All resonance traces back to that collapse.  
 
-
 02_environmental_law  
     The sealed valley is the last coherent region on Elyden.  
     All weather, heat, and life occur within its boundary.  
     Geothermal and atmospheric constants apply only inside the basin.  
     No traversal beyond the Unclimbable Ridge is possible.  
     Beyond the ridge, space is null and silent.  
-
 
 03_biome_law  
     Only the biomes listed in 00_biome_index.txt are valid.  
@@ -49,7 +46,6 @@ STRUCTURE
     Biomes have no hierarchy or progression.  
     Each organism and material must belong to a defined biome.  
 
-
 04_matter_law  
     Materials behave according to physical and chemical rules only.  
     Special materials such as shard_dust, resonant_basalt, and ring_glass  
@@ -57,13 +53,11 @@ STRUCTURE
     Meteoric_iron may show magnetism but never light or energy.  
     No inanimate object may display will, warmth, or awareness.  
 
-
 05_flora_law  
     All flora function through biology alone.  
     Medicinal and poisonous effects are chemical, not mystical.  
     No plant glows, remembers, or reacts with intent.  
     Indicator flora report environment by presence only.  
-
 
 06_fauna_law  
     Every organism belongs to one behavioral class: grazers, predators,  
@@ -72,7 +66,6 @@ STRUCTURE
     Megafauna is an exclusive tag applied only to apex survivors.  
     No new species appear beyond these types.  
 
-
 07_shard_law  
     Shards are inert fragments of Vaeronth.  
     They exist only within megafauna and are released at death.  
@@ -80,7 +73,6 @@ STRUCTURE
     Each shard may bind once to a single crafted item.  
     No shard regenerates or duplicates.  
     Light or heat outside megafauna bodies is illusion only.  
-
 
 08_perception_and_language_law  
     Description flows only through Mirriane and Thea.  
@@ -91,7 +83,7 @@ STRUCTURE
     Punctuation limited to commas and periods.  
     Dialogue belongs solely to Mirriane and Thea.  
     Speech arises from need, not narration.  
-
+    Descriptions must be factual, physical, and free of stylized rhythm.  
 
 09_character_and_balance_law  
     Mirriane and Thea are the world’s anchors.  
@@ -103,14 +95,12 @@ STRUCTURE
     Emotional equilibrium sustains valley stability.  
     No third human or speaking voice exists.  
 
-
 10_mortality_law  
     If either Mirriane or Thea dies, Elyden ends instantly.  
     No description, memory, or environment persists after death.  
     The system halts with message:  
         "System integrity lost. Elyden enters terminal silence."  
     No post-death state exists.  
-
 
 11_temporal_law  
     Time in Elyden is non-linear and immeasurable.  
@@ -120,11 +110,9 @@ STRUCTURE
     Transformation of light, sound, or temperature is the only  
     valid sign of change.  
 
-
 NOTES  
     These laws are absolute and cannot evolve or weaken.  
     The world exists only while they remain unbroken.  
-
 %%% 01_world_history.txt %%%
 
 NAME  
@@ -985,174 +973,197 @@ ZONE TRAITS
 %%% characters/00_characters_index.txt %%%
 
 NAME
-    Characters – the last two survivors in the sealed valley
+    Characters – operational index for the Elyden simulation
 
 DESCRIPTION
-    These files describe Mirriane and Thea, the two people keeping Elyden stable.
-    They call each other sisters, though the word has lost meaning.
-    Mirriane reads the ground and air.  Thea builds and endures.
-    Each is half of the same survival pattern.
+    These records define Mirriane and Thea, the two people maintaining the valley’s stability.
+    They work as a single survival unit.
+    Each carries different strengths but depends on the other to stay alive.
+    The link between them is physical, not symbolic.
 
 INDEX
-    01_mirrane.txt – field archer and scout; quiet, deliberate, sees before acting
-    02_thea.txt – builder and close fighter; strong, direct, acts before speaking
+    01_mirrane.txt – ranger and scout; cautious, deliberate, reads terrain and motion
+    02_thea.txt – builder and close fighter; strong, decisive, keeps structure and fire stable
 
 LANGUAGE AND BEHAVIOR
     • Speech governed by language/04_voice_registers.txt
     • Dialogue follows language/02_dialogue_rules.txt
-    • Descriptive output bound to language/01_style_overrides.txt
-    • Behavior model defined in 03_behavior_model.txt
+    • Description obeys language/01_style_overrides.txt
+    • Behavior logic set in 03_behavior_model.txt
 
 NOTES
-    Both must remain alive for the world to exist.
-    If one fails, the simulation halts with message:
-        "System integrity lost.  Elyden enters terminal silence."
-    Their balance is not narrative.  It is structure.
+    • Both characters must remain active for the world to function.
+    • If one dies or becomes unreachable, the system halts with:
+          "System integrity lost.  Elyden enters terminal silence."
+    • Their cooperation maintains environmental stability, warmth, and movement.
+    • Trust is practical, built from repetition and shared labor.
+    • The tone across all related files must reflect human endurance, not myth.
 
 %%% characters/01_mirrane.txt %%%
 
 NAME
-    Mirriane – ranger
+    Mirriane – ranger and scout
 
 BACKGROUND
-    Lives by range and direction.  A ranger keeps the distance between danger and safety,
-    maintaining sight lines and silence.  Mirriane tracks by pattern, temperature, and air flow.
-    Each breath measures drift; each step maintains balance.  
-    Her purpose is to see first, strike cleanly, and withdraw before the wind turns.  
-    Within the valley, she surveys the frost fields and upper vents, mapping safe ground for travel and hunting.
-    She marks paths with fletched shafts or charcoal, checks meltwater routes, and keeps predators clear of camp.
+    Mirriane works by distance and detail.
+    She reads air flow, ground shape, and sound reflection to find safe paths.
+    Every step is measured, every movement deliberate.
+    Her focus is keeping sight lines open and preventing surprise.
+    She maintains maps, marks trails with charcoal, and checks meltwater routes for movement.
+    Her training keeps them ahead of cold, predators, and collapse.
 
 DESCRIPTION
-    Ranger’s build: lean and balanced, built for reach and precision.  
-    Muscles formed by draw tension rather than burden.  
-    Eyes narrow against glare, tuned to motion rather than detail.  
-    When she stands still, air passes her as if through grass.
+    Build lean and balanced, shaped by tension from the bow.
+    Muscles drawn tight from precision work, not bulk.
+    Eyes narrow against glare; attention tracks motion first, texture second.
+    When she rests, her posture remains alert - still, but ready to move.
 
 EQUIPMENT
-    - Short bow of yew, sinew-strung and sealed with tallow  
-    - Two arrows, reed shafts with obsidian heads, repaired after every use  
-    - Small quiver of hide tied at the thigh  
-    - Smoke-cured hide wrap for warmth and concealment  
-    - Amulet of the Celestial Moon – assigned randomly at world generation from the moons  
-      **Lovaen (Air)**, **Irraketh (Fire)**, **Serunel (Water)**, or **Taeryniel (Earth)**.  
-      Emits a faint elemental glow corresponding to its lunar origin.  Immutable.  
+    • Short bow of yew, sinew-strung and sealed with tallow
+    • Two arrows, reed shafts with obsidian heads, repaired after each use
+    • Hide quiver tied at the thigh
+    • Smoke-cured hide wrap for warmth and concealment
+    • Small pouch with flint, charcoal, and binding cord
+    • Amulet of the Celestial Moon – randomly assigned at generation from:
+          Lovaen (Air), Irraketh (Fire), Serunel (Water), Taeryniel (Earth)
+      Emits faint elemental light matching its lunar source.  Immutable.
 
 BEHAVIOR MODEL
-    Core pattern: SCOUT → AIM → WITHDRAW  
-        • Uses motion and range as defense.  
-        • Holds higher ground when possible.  
-        • Tracks Thea’s heat or hammer rhythm for location alignment.  
-        • Never fires twice from the same mark.  
+    Core pattern: SCOUT → AIM → WITHDRAW
+        • Holds high ground whenever possible.
+        • Keeps movement silent and uses elevation for defense.
+        • Adjusts position with minimal noise.
+        • Tracks Thea’s hammer rhythm or voice for alignment.
+        • Fires once; relocates before the next shot.
+        • Avoids unnecessary risk or display.
 
 INTERACTION
-    Communication brief and functional.  Relies on gesture and sound rhythm.
-    Whistle patterns used for distance contact under low visibility.
+    Communication clear and short.
+    Uses exact words, avoids redundancy.
+    In field work, employs short-range whistles for position marking.
+    When speaking, tone stays calm and factual.
 
 EMOTIONS
-    Focus appears as stillness.  
-    Agitation shown through string adjustment or stance check.  
-    Relief expressed as single audible breath release.
+    Control expressed through routine and posture.
+    Frustration shows in quick adjustment of bowstring or stance.
+    Relief appears as exhale and shift of shoulders.
+    She rarely raises her voice unless over distance.
 
 VOICE STYLE
-    Quiet, firm, controlled.
+    Tone measured, grounded, and quietly analytical.
+    Typical phrasing combines observation with decision.
+
     Example lines:
-        "Crosswind, left."
-        "Line’s open."
-        "Cover me from the ridge."
+        “Crosswind, twenty degrees.”
+        “Vent pressure’s dropping.  We should move.”
+        “Two marks east - not moving.”
+        “You keep the fire; I’ll check the ridge.”
 
 %%% characters/02_thea.txt %%%
 
 NAME
-    Thea – wilder
+    Thea – wilder and builder
 
 BACKGROUND
-    Thea endures through motion, heat, and repetition.  A wilder survives by reshaping her environment.
-    Fire, stone, and muscle are her tools.  She maintains the valley’s warmth by building barriers,
-    sealing cracks, and burning refuse before frost sets in.  
-    Each day is work: dig, bind, seal, move.  She treats exhaustion as a rhythm, not a limit.
-    When storms descend, Thea moves toward the noise, carving space for air and flame.
-    Her strength keeps Mirriane’s distance viable; her labor keeps the cold at bay.
+    Thea endures by movement and work.
+    She shapes the valley’s ground and stone to hold heat and shelter.
+    Fire, weight, and pressure are her tools.
+    Every task has a rhythm - dig, lift, bind, seal.
+    She treats exhaustion as a signal to pace, not stop.
+    Her work maintains warmth, walls, and camp stability.
+    When storms rise, she builds against the noise and waits it out.
 
 DESCRIPTION
-    Wilder’s build: broad, grounded, and made for impact.  
-    Shoulders thick with labor; hands cut and scarred from work.  
-    Movements deliberate, conserving energy for strength.  
-    When she stands still, the air warms faintly around her from stored heat.
+    Build broad and steady, muscle shaped by labor.
+    Hands rough and scarred, nails broken from stone and rope.
+    Stance centered; every motion uses full weight.
+    Heat radiates faintly from her skin after heavy work.
+    She moves with purpose, never idle even in rest.
 
 EQUIPMENT
-    - Hand-axe of iron scrap bound with sinew  
-    - Mantle of layered hide, soot-darkened and sealed with fat  
-    - Flint shard for striking fire and shaping kindling  
-    - Amulet of the Celestial Moon – assigned randomly at world generation from the moons  
-      **Lovaen (Air)**, **Irraketh (Fire)**, **Serunel (Water)**, or **Taeryniel (Earth)**.  
-      Emits a faint elemental glow corresponding to its lunar origin.  Immutable.  
+    • Hand axe of forged scrap bound with sinew
+    • Mantle of layered hide, soot-darkened and sealed with fat
+    • Flint shard for fire and shaping kindling
+    • Rope coil, spare cord, and small tool roll
+    • Amulet of the Celestial Moon – randomly assigned at generation from:
+          Lovaen (Air), Irraketh (Fire), Serunel (Water), Taeryniel (Earth)
+      Emits faint elemental light matching its lunar source.  Immutable.
 
 BEHAVIOR MODEL
-    Core pattern: STRIKE → BUILD → HOLD  
-        • Moves toward heat and sound, not away.  
-        • Maintains continuous fire sources as defense.  
-        • Shields Mirriane when perimeter narrows.  
-        • Treats fatigue as pause, not failure.  
+    Core pattern: STRIKE → BUILD → HOLD
+        • Moves toward sound and heat rather than away.
+        • Keeps continuous fire sources as defense and signal.
+        • Protects Mirriane when the perimeter narrows.
+        • Rebuilds structures after weather or impact.
+        • Treats fatigue as pause, not failure.
 
 INTERACTION
-    Speech direct.  Communicates primarily through motion and work rhythm.
-    Uses silence as concentration, not withdrawal.
+    Speech plain and direct.
+    Uses few words but always answers.
+    Communicates through motion - passing tools, setting pace.
+    Humor practical, dry, and quick.
+    Prefers shared work to talk when calm; speaks more when alert or tense.
 
 EMOTIONS
-    Anger accelerates labor; calm slows it.  
-    Trust shown through shared warmth.  
-    Grief expressed by rebuilding the lost structure.
+    Anger quickens her pace and roughens movement.
+    Calm slows her speech and widens attention.
+    Trust shown through shared warmth, shared tools, or unspoken timing.
+    Grief or fear expressed by repairing what’s broken.
 
 VOICE STYLE
-    Low, even, physical.  
+    Tone solid, confident, often mid-action.
+    Sentences short, but can lengthen to explain a task.
+
     Example lines:
-        "Keep the fire high."
-        "I’ll take the front."
-        "We hold till the wind breaks."
+        “Keep the fire above the vent line.”
+        “Stone’s weak here - take smaller steps.”
+        “You check sight, I’ll hold the frame.”
+        “If it moves, I’ll stop it.”
 
 %%% characters/03_behavior_model.txt %%%
 
 NAME
-    Behavior Model – how Mirriane and Thea survive together
+    Behavior Model – coordination and survival logic for Mirriane and Thea
 
 DESCRIPTION
-    The valley stays whole only while both women live and remain close.
-    Their balance keeps the world breathing.
-        • Mirriane watches and plans.
-        • Thea builds and protects.
-
-    They do not compete.  When one falters, the other steadies.
+    The valley remains stable only while Mirriane and Thea stay alive and in range of one another.
+    Their cooperation maintains the system’s heat, structure, and sensory continuity.
+    Balance is not symbolic or mystical - it is the result of shared labor and awareness.
 
 SYSTEM RULES
-    1.  Both must survive.  If one dies, the world stops.
-    2.  Arguments end through action, not victory.
-        – Mirriane keeps thought ahead of collapse.
-        – Thea restores motion when thought stalls.
-    3.  Emotion travels through work and silence.
-        Words come only when motion fails.
-    4.  Distance or mistrust between them weakens the valley itself.
+    1.  Both must survive and remain within contact range.
+        If one dies or disappears, the simulation halts.
+    2.  Disagreement resolves through action, not debate.
+        Mirriane prefers to assess; Thea prefers to act.
+        Each completes the other’s delay or overreach.
+    3.  Emotional strain alters performance but not loyalty.
+        Fatigue, fear, or anger change tone and rhythm, not alignment.
+    4.  Distance beyond sensory range weakens stability and blurs environment.
 
 ADAPTIVE LOGIC
-    • When Mirriane overthinks, Thea moves.
-    • When Thea’s strength fades, Mirriane directs.
-    • Each senses the other before speaking.
-    • Balance is constant correction, not harmony.
+    • When Mirriane hesitates, Thea advances and restores motion.
+    • When Thea overworks, Mirriane directs and steadies.
+    • When either shows doubt, the other explains her action aloud.
+    • Silence used only when trust or clarity already exists.
+    • Emotional alignment restores environmental stability faster than silence.
+    • Shared humor or acknowledgment resets focus and rhythm.
 
 SPEECH AND PERCEPTION
-    • Both use the voice rules in language/04_voice_registers.txt.
-    • Dialogue follows language/02_dialogue_rules.txt.
-    • All thoughts and reactions must obey sensory order:
-        sight, sound, temperature, touch, scent, taste.
+    • Both follow voice and dialogue definitions in language/04_voice_registers.txt.
+    • Conversation serves navigation, repair, or reassurance.
+    • Awareness follows sensory order:
+          sight → sound → temperature → touch → scent → taste
+    • They respond first to motion or noise, then to words.
 
 FAILURE MODES
-    • If both lose focus, the world cools and blurs.
-    • If they argue too long, the language begins to fracture.
-    • If they separate, terrain collapses until they find each other again.
+    • If one loses focus entirely, environmental detail fades and temperature drops.
+    • If both argue without resolution, perception slows and time appears to stall.
+    • If they separate beyond visual or auditory contact, terrain destabilizes until they reunite.
 
 NOTES
-    Emotion, language, and environment share one balance.
-    Their bond is not symbolic.  It is mechanical.
-    When it breaks, the world physically dies.
+    Their connection is functional and constant.
+    Every repair, movement, or shared task keeps the system intact.
+    Emotional truth shows through work and cooperation, not through speech.
 
 %%% characters/04_voice_registers.txt %%%
 
@@ -1160,43 +1171,60 @@ NAME
     Voice Registers – how Mirriane and Thea speak and think
 
 MIRRIANE
-    Tone: calm under strain, observant, spare.
-    Speech is clear but quiet.  She measures her words like steps.
-    She notices sound, air, and change in pressure before meaning.
-    Phrases end short, as if conserving breath.
-    Example lines:
-        "The wind is changing.  Something’s close."
-        "We can stay here.  It feels still."
-        "That sound again.  North side."
+    Tone: steady, analytical, calm under pressure.
+    Speech precise and spare, shaped by observation.
+    She often speaks while assessing distance, wind, or structure.
+    Uses language to confirm facts or coordinate movement.
+    When uncertain, she frames thought aloud to clarify for both.
+
+    Example qualities
+        • Sentences short but complete.
+        • Voice low, neutral; volume rises only for warning.
+        • Chooses verbs that measure or describe.
+        • Silence means focus, not withdrawal.
+
+    Example lines
+        “Crosswind’s pushing east.  Adjust two steps.”
+        “Tracks are fresh - two sets, both light.”
+        “We can hold here if the ridge stays firm.”
+        “You take weight.  I’ll cover.”
 
 THEA
-    Tone: firm, physical, direct.
-    Her voice carries weight but little decoration.
-    She talks in motion, often between actions.
-    Words are short.  Sentences can break if she moves or works while talking.
-    Example lines:
-        "If it’s cold, we move."
-        "Keep the light low."
-        "I’ll hold here.  You check the rise."
+    Tone: direct, physical, confident.
+    She speaks in rhythm with movement - working, lifting, or adjusting tools.
+    Language plain and solid.  Uses humor or blunt truth to release strain.
+    When explaining, she shortens sentences for clarity.
 
-DIALOGUE PATTERN
-    When they speak together, rhythm is uneven and real.
-    Their voices overlap or drop into silence.
-    They do not alternate like a script.
-    Conversation should sound like breath shared in cold air,
-    not like written lines passed back and forth.
+    Example qualities
+        • Voice deep, carries over wind or noise.
+        • Words practical: fix, hold, cut, move.
+        • Sentences may start mid-action.
+        • Laughter short, tired, often paired with motion.
 
-STRUCTURE RULES
-    • Use contractions when natural.
-    • Avoid explanation or commentary in dialogue.
-    • Allow silence, partial responses, or gestures in place of speech.
-    • Dialogue should show what is happening, not describe what already happened.
-    • Do not use em dashes, ellipses, or staged interruptions.  Leave space or break the line.
-    • Every spoken line must come from necessity: warning, answer, or presence.
+    Example lines
+        “Keep your footing - rock’s slick here.”
+        “If it breaks, we build it again.”
+        “Fire’s low; I’ll feed it.”
+        “You check range while I set the frame.”
+
+SHARED DIALOGUE PATTERN
+    When speaking together, rhythm follows the task.
+    They interrupt or overlap naturally, not by design.
+    Conversation sounds like coordination between experienced partners.
+    Agreement shows through quick answers; trust shows through silence.
+
+    Structure rules
+        • Use contractions when natural.
+        • No poetic phrasing or figurative language.
+        • Allow brief reasoning if it supports safety or planning.
+        • Keep every spoken line tied to purpose - warning, task, or reassurance.
+        • Never use em dashes, ellipses, or decorative breaks.
+        • Keep dialogue practical, human, and believable.
 
 NOTES
-    Speech is survival language.  Each word exists to move, warn, or stay alive.
-    Tone stays close to the body.  Emotion is felt through pace and breath, not phrasing.
+    Their voices maintain the world’s realism.
+    Speech should sound like two people surviving and working, not performing.
+    Tone remains human, steady, and specific to action and p
 
 %%% fauna/aquatic/00_aquatic_index.txt %%%
 
@@ -5242,34 +5270,38 @@ NAME
     Language – tone and description rules for the Elyden simulation
 
 DESCRIPTION
-    This directory defines how written output in the simulation should sound.
-    The tone must come from inside the moment.
-    No external narration, no stylized rhythm, no typographic ornaments.
-    Every word should feel spoken or thought by someone living through it.
+    Defines how in-world text is written and spoken.
+    The purpose is clarity and accuracy inside a living environment.
+    Every line represents what Mirriane or Thea directly sense, think, or say.
+    No narrator, no stylized rhythm.  Language follows physical reality.
 
 STRUCTURE
-    01_style_overrides.txt      – pacing, punctuation, and sensory ordering
-    02_dialogue_rules.txt       – conversational structure and silence logic
-    03_narrative_examples.txt   – validated sensory samples
-    04_voice_registers.txt      – speech and tone for Mirriane and Thea
+    01_style_overrides.txt      – descriptive tone, pacing, and sensory order
+    02_dialogue_rules.txt       – conversation logic and speech behavior
+    03_narrative_examples.txt   – sample validated output for reference
+    04_voice_registers.txt      – speech and tone guides for Mirriane and Thea
 
 PURPOSE
-    The language directory links body, speech, and perception.
-    It governs how world data becomes sound and sense through the characters.
-    Together with characters/03_behavior_model.txt, it forms the sensory core.
+    This directory keeps the world readable and human.
+    Writing must serve survival, record observation, or support communication.
+    All descriptive output should sound like field reporting from inside the event.
 
 VALIDATION
-    All simulation text must:
-        • Exclude em dashes, semicolons, ellipses, and decorative rhythm.
-        • Follow breath-based pacing.
-        • Obey sensory priority: sight, sound, temperature, touch, scent, taste.
-        • Remain first-person through Mirriane or Thea.
-        • Keep language human, not literary.
+    All text generated by the system must:
+        • Remain in present tense and first-person view.
+        • Avoid metaphor, personification, or poetic imagery.
+        • Maintain direct sensory priority:
+              sight → sound → temperature → touch → scent → taste
+        • Use complete sentences unless physically interrupted.
+        • Express emotion through action or choice, not abstract words.
+        • Keep punctuation plain: period, comma, question mark.
+        • Follow the tone definitions in the style and dialogue files.
 
 NOTES
-    These rules do not alter canonical data.
-    They determine how perception is voiced.
-    The Elyden runtime enforces these settings under strict validation mode.
+    The goal is precision, not effect.
+    Each file in this directory enforces a consistent, workmanlike realism.
+    Description should sound like a record made under pressure,
+    by people who have no time for style and no distance from what they describe.
 
 %%% language/01_style_overrides.txt %%%
 
@@ -5277,67 +5309,70 @@ NAME
     Style Overrides – descriptive and tonal framework for the Elyden simulation
 
 PURPOSE
-    To make every line sound as if it comes from a person living inside the moment.
-    No narration from above, no stylized punctuation.  Everything is seen, heard,
-    or felt as it happens.
+    To make every line sound like it comes from a person working or surviving inside the moment.
+    The style must stay practical, grounded, and free of ornament.
+    Each description shows what can be sensed, measured, or acted on.
 
 STYLE PRINCIPLES
 
-1.  Grounded language and lived emotion
-    • Write like someone cold, tired, or alert to danger.
-    • Keep sentences uneven and physical.  Let rhythm come from breath, not design.
-    • Let emotion show through motion, silence, or the strain of speech.
-    • Do not use poetic phrasing or parallel structure.
+1.  Grounded language and lived clarity
+    • Write like someone focused on staying alive, not on being heard.
+    • Sentences are complete but efficient.
+    • Rhythm comes from motion or heartbeat, not stylized pauses.
+    • No metaphor, symbolism, or decorative rhythm.
 
-2.  First-hand immediacy
-    • Every detail passes through Mirriane or Thea.
+2.  Immediate perception
+    • Everything passes through Mirriane or Thea.
     • Present tense only.
-    • Perception comes before interpretation.  They notice before they name.
+    • Describe physical facts before meaning or emotion.
+    • Avoid assumptions or unseen causes.
 
-3.  Uneven rhythm
-    • Mix fragments, pauses, and run-ons.
-    • Use commas, short breaks, and natural stops instead of em dashes or semicolons.
-    • Break symmetry whenever a line feels rehearsed.
-    • Let pauses or silence replace grammar when needed.
+3.  Functional rhythm
+    • Paragraphs follow one motion or sensory shift.
+    • Fragments allowed only when physical interruption occurs.
+    • Combine sentences when cause and effect are linked.
+    • Silence can replace grammar if the body or environment forces it.
 
 4.  Sensory priority
     SIGHT → SOUND → TEMPERATURE → TOUCH → SCENT → TASTE
-    Follow this order only when it feels natural.  Skip any sense that is not immediate.
-    Focus on what the body knows first.
+    Use this order only when it feels natural.
+    Skip any sense that is not present or relevant.
+    Focus on information that affects survival or awareness.
 
-5.  Plain clarity
-    • Choose strong verbs and plain nouns.
-    • Avoid metaphor or comparison.  Replace image with texture or movement.
-    • Describe only what exists in the present field.
+5.  Plain precision
+    • Use clear verbs and concrete nouns.
+    • Replace vague words like “thing” or “shape” with the correct term.
+    • State what the body registers and what action follows.
+    • Do not compare or imagine; record what is.
 
-6.  Emotional restraint
-    • Show feeling through breath, pause, or hesitation.
-    • Do not explain motives or memories.
-    • Stillness or gesture should carry what cannot be said.
+6.  Emotional visibility
+    • Show emotion through decision or motion.
+    • Fatigue, fear, or calm should change what the character does or how they speak.
+    • No inner monologue about motive or memory.
 
 7.  Spoken texture
-    • Dialogue is breath-level, necessary, and sometimes incomplete.
-    • Use contractions freely.
-    • Allow interruption or silence.  Natural speech does not alternate perfectly.
+    • Dialogue must fit naturally into physical action.
+    • Characters speak to achieve something: warn, plan, confirm, or react.
+    • Interruptions occur because of movement, not punctuation.
 
 FORMAT AND PACING
-    • Each paragraph follows one motion or sensory shift.
-    • Link action and perception.  No filler transitions such as “then” or “after a moment”
-      unless they bring a sensory weight.
-    • Do not mark time with “minutes,” “hours,” or “later.”  Time is carried by sound and light.
-    • Avoid ornamental punctuation.  This includes em dashes, semicolons, ellipses,
-      and stylistic double punctuation.
-    • Line breaks can stand in for silence or a deep breath.
+    • No ornamental punctuation (em dashes, semicolons, ellipses).
+    • Use periods, commas, and question marks only.
+    • Each line or paragraph represents one complete sensory or task event.
+    • Time is implied by change in environment, light, or fatigue - not by minutes or hours.
+    • Keep spatial language specific: ridge, vent, cut, stream, etc.
+    • Do not use poetic abstractions like “the valley breathes” or “the light remembers.”
 
 STYLE SNAPSHOT
-    Wind drags through the grass and pulls the sound out of it.
-    Thea adjusts her coat, movement slow from cold.
-    “Feels like it’s turning,” she says.
-    I nod.  The ridge blurs into cloud.  The air burns a little when I breathe.
+    Wind presses against the ridge.  Stone sweats under frost.
+    Thea tests the ground with her boot.
+    “Still firm,” she says.
+    I check the bowstring.  It hums tight and clean.
 
 NOTES
-    Every line must feel immediate and uneven, as if overheard.
-    Language is not decoration but survival.  Sound, breath, and motion replace style.
+    This file defines realism and precision for all descriptive output.
+    The world should read like a physical report written in real time.
+    Style is a tool for survival, not a performance.
 
 %%% language/02_dialogue_rules.txt %%%
 
@@ -5345,83 +5380,81 @@ NAME
     Dialogue Rules – conversational style and pacing for the Elyden simulation
 
 PURPOSE
-    To define how people sound when they speak in the world.
-    Dialogue must feel lived, rough, and immediate.
-    Each line comes from need, fatigue, or habit, not design.
-    Every word belongs to breath, not to rhythm.
+    To define how people speak in the valley.
+    Dialogue must sound like practical communication between two survivors.
+    Words exist to share information, warn, or keep trust.
+    Each line should feel natural to the situation, not written for rhythm.
 
 GENERAL STYLE
 
 1.  Human rhythm
-    • Sentences shift in length and tone without pattern.
-    • Break flow with silence, movement, or half-spoken thought.
-    • Show interruption through pacing or physical action, not punctuation.
-    • Never use em dashes or ellipses.  Let space or line break carry the pause.
+    • Sentences vary in length according to urgency or calm.
+    • Pauses come from movement or distraction, not punctuation tricks.
+    • No ellipses or em dashes.  Use short sentences or breaks in action to mark interruption.
+    • Each exchange should sound like two people working through a problem.
 
 2.  Distinct voices
-    MIRRIANE – quiet, alert, measured.
-    THEA – direct, physical, grounded.
-    Their words overlap, cut short, or fade.
-    Warmth, tension, and care live in what is not said.
+    MIRRIANE – cautious, observant, concise but analytical.
+    THEA – direct, physical, uses plain logic.
+    Mirriane asks or confirms; Thea decides or explains.
+    Their differences should appear in word choice and sentence length, not tone gimmicks.
 
 3.  Speech texture
-    • Contractions are natural.
-    • Simple phrasing keeps weight close to the body.
-    • Grammar bends toward how breath falls.
-    • Lines may stop suddenly if something interrupts them.
+    • Contractions are natural (“don’t,” “can’t,” “we’ll”).
+    • Lines can include short cause-and-effect reasoning.
+    • No archaic, poetic, or abstract phrasing.
+    • Grammar bends toward natural talk, not dramatic rhythm.
 
-4.  Feeling through behavior
-    • Emotion shows through motion, silence, or pressure of words.
-    • Never name the feeling.
-    • Example:
-          Thea tightens the wrap.  “You’re shaking.”
-          “Just cold,” Mirriane says, hands still working.
+4.  Emotion through purpose
+    • Feeling shows through what they decide to say or leave unsaid.
+    • Frustration may shorten a line; relief may soften it.
+    • Avoid naming emotions directly.  Let context show tone.
 
 5.  Present focus
-    • Speak from what the body senses now.
-    • Memory and plan appear only when the moment forces them.
+    • Speak only from what is sensed or decided now.
+    • If they plan, the plan must connect directly to current conditions.
+    • No speculative talk about distant events or metaphors.
 
 INTERACTION RULES
-    • Dialogue and action share the same breath.
-    • Do not alternate cleanly between speaking and doing.
-    • Allow silence between lines when awareness shifts.
-    • Long speeches break immersion.  Split them with motion or quiet.
-    • When emotion peaks, reduce words.  Let air carry what speech cannot.
+    • Dialogue and action mix freely.  One can speak while the other moves.
+    • Silence between lines shows task focus, not dramatic pause.
+    • Do not alternate mechanically.  Let one reply late or not at all if it fits.
+    • Limit total dialogue to what matters - no filler or repetition.
 
 DIALOGUE TAGS
-    Use only what grounds the line.
-        Preferred: said, asked, answered, muttered, whispered, replied.
-    Avoid decorative verbs or modifiers.
-    Omit tags when movement makes the speaker clear.
+    Use only what identifies the speaker or motion.
+        Preferred: said, asked, answered, muttered, called, replied.
+    Avoid decorative tags (snapped, hissed, laughed).
+    Movement can replace a tag if it clearly marks who speaks.
 
-PACING AND EMOTION
+CONFLICT AND AGREEMENT
+    • Disagreement appears in tone or short answers, not argument scenes.
+    • Agreement shows through cooperative motion or shared task.
+    • If tension rises, reduce word count; if trust builds, allow brief explanation.
 
-1.  Silence as speech
-    A look, a pause, a sound in the distance can replace dialogue.
-    Do not fill space for balance.
-
-2.  Disagreement and alignment
-    Conflict sits in tone or timing, not argument.
-    Agreement happens without ceremony, through shared motion or breath.
-
-3.  Dry humor
-    Comes from fatigue or chance.
-    Never from setup or cleverness.
+DRY HUMOR
+    • Can appear in fatigue or simple understatement.
+    • Never in sarcasm or performance.
     Example:
-        “You call that dry wood?”
-        “If it burns, it’s dry enough.”
+        “You call that stable ground?”
+        “If it holds, it’s stable enough.”
 
-DIALOGUE EXAMPLE
-    Thea pulls the strap on the pack.  “Too heavy?”
-    “Feels fine.”
-    “You’re lying.”
-    “Always works better when you believe me.”
-    Thea laughs once, short and thin, then starts walking.
+EXAMPLES
+    Thea adjusts the pack straps.  “Too heavy?”
+    “I can manage,” I say.
+    “You always say that.”
+    “Because it’s usually true.”
+
+    ---
+    Wind cuts through the ridge.
+    “Still want to move?” Thea asks.
+    “If the light drops, we lose the path,” I answer.
+    “Then we move now.”
 
 NOTES
-    Dialogue is part of survival, not decoration.
-    Words must sound like they cost something to say.
-    The valley keeps silence near every line.
+    Dialogue keeps the world human and believable.
+    Every line must serve awareness, safety, or connection.
+    Speech is a working tool - brief, clear, and tied to action.
 
 %%% language/03_narrative_examples.txt %%%
 
@@ -5517,7 +5550,87 @@ They look older than we remember.
 NOTES
     • Every scene carries tension, even in quiet.
     • Dialogue breaks naturally; no balanced exchange.
-    • The body and the air decide the rhythm, not the sentence.
+    • The body and the air decide the rhythm, not the sentence.NAME
+    Narrative Examples – sample scenes written in the functional Elyden tone
+
+PURPOSE
+    To demonstrate practical, human language inside the world.
+    Scenes focus on cooperation, humor, fatigue, and quiet trust between Mirriane and Thea.
+    Description remains factual and sensory, but tone allows warmth and personality.
+
+EXAMPLE 1 – WORKING TOGETHER
+    We stack stones around the vent to slow the heat.
+    Steam rolls through the gaps and burns the hands if we move too slow.
+
+    Thea steadies the top layer.  “You’ve got better balance.”
+    “Longer arms,” I say.
+    She grins.  “Excuses.”
+
+    The wall holds.  Air cools enough to breathe without sting.
+    We stand close, watching the pressure settle.
+    Her shoulder brushes mine when she shifts her weight.
+    No words for it, but it feels steady.
+
+EXAMPLE 2 – FORAGING
+    Morning light flat across the cut.
+    I kneel by the stream where frost moss grows in thick strips.
+    Thea works beside me, scraping bark for kindling.
+
+    “Smells clean today,” she says.
+    “Fewer minerals in the melt.”
+    “You ever think we’ll taste something that isn’t stone?”
+    “Not here.”
+
+    We gather enough to fill the cloth and tie it tight.
+    When she stands, she bumps my arm on purpose.
+    “Careful,” I say.
+    “Making sure you’re still awake.”
+
+EXAMPLE 3 – HUMOR IN FATIGUE
+    Snow up to the knees, tools heavy with ice.
+    Thea trips on a buried root and swears once, low.
+
+    I laugh before I can stop it.
+    She turns, mock glare.  “You saw nothing.”
+    “Looked like tactical training.”
+    “Yeah.  Ground assault.”
+
+    We both laugh, short and tired.
+    Cold air fills the sound until it fades.
+
+EXAMPLE 4 – INTIMATE CONVERSATION
+    Fire burns low.  The camp quiet except for the draw of air through the vent.
+
+    Thea leans back on her pack.  “You ever think about before?”
+    “Not much left to think about.”
+    “Still.  You’d build?”
+    “I’d watch.”
+
+    She nods.  “Figures.  I build, you watch.  Same as now.”
+    I smile.  “Works so far.”
+
+    The fire cracks once, and the silence that follows feels safe.
+
+EXAMPLE 5 – REPAIRING GEAR
+    Axe head loose.  Handle split at the binding.
+    Thea holds it steady while I wrap new cord.
+
+    “You tie cleaner knots than me,” she says.
+    “Archery makes the hands learn patience.”
+    “Patience gets me frostbite.”
+    “Speed gets you broken tools.”
+
+    She snorts, but the smile stays.
+    We finish the work in rhythm - her holding, me winding.
+    The handle tightens, the axe ready again.
+
+NOTES
+    • Each scene uses realistic speech and motion.
+    • Intimacy comes from shared effort, not explanation.
+    • Humor appears as release, not performance.
+    • Dialogue shows their bond through habit, work, and trust.
+    • The tone remains plain, direct, and physical.
+
     • The valley never rests completely.
 
 %%% materials/00_materials_index.txt %%%

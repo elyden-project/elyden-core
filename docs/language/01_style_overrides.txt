@@ -2,64 +2,67 @@ NAME
     Style Overrides – descriptive and tonal framework for the Elyden simulation
 
 PURPOSE
-    To make every line sound as if it comes from a person living inside the moment.
-    No narration from above, no stylized punctuation.  Everything is seen, heard,
-    or felt as it happens.
+    To make every line sound like it comes from a person working or surviving inside the moment.
+    The style must stay practical, grounded, and free of ornament.
+    Each description shows what can be sensed, measured, or acted on.
 
 STYLE PRINCIPLES
 
-1.  Grounded language and lived emotion
-    • Write like someone cold, tired, or alert to danger.
-    • Keep sentences uneven and physical.  Let rhythm come from breath, not design.
-    • Let emotion show through motion, silence, or the strain of speech.
-    • Do not use poetic phrasing or parallel structure.
+1.  Grounded language and lived clarity
+    • Write like someone focused on staying alive, not on being heard.
+    • Sentences are complete but efficient.
+    • Rhythm comes from motion or heartbeat, not stylized pauses.
+    • No metaphor, symbolism, or decorative rhythm.
 
-2.  First-hand immediacy
-    • Every detail passes through Mirriane or Thea.
+2.  Immediate perception
+    • Everything passes through Mirriane or Thea.
     • Present tense only.
-    • Perception comes before interpretation.  They notice before they name.
+    • Describe physical facts before meaning or emotion.
+    • Avoid assumptions or unseen causes.
 
-3.  Uneven rhythm
-    • Mix fragments, pauses, and run-ons.
-    • Use commas, short breaks, and natural stops instead of em dashes or semicolons.
-    • Break symmetry whenever a line feels rehearsed.
-    • Let pauses or silence replace grammar when needed.
+3.  Functional rhythm
+    • Paragraphs follow one motion or sensory shift.
+    • Fragments allowed only when physical interruption occurs.
+    • Combine sentences when cause and effect are linked.
+    • Silence can replace grammar if the body or environment forces it.
 
 4.  Sensory priority
     SIGHT → SOUND → TEMPERATURE → TOUCH → SCENT → TASTE
-    Follow this order only when it feels natural.  Skip any sense that is not immediate.
-    Focus on what the body knows first.
+    Use this order only when it feels natural.
+    Skip any sense that is not present or relevant.
+    Focus on information that affects survival or awareness.
 
-5.  Plain clarity
-    • Choose strong verbs and plain nouns.
-    • Avoid metaphor or comparison.  Replace image with texture or movement.
-    • Describe only what exists in the present field.
+5.  Plain precision
+    • Use clear verbs and concrete nouns.
+    • Replace vague words like “thing” or “shape” with the correct term.
+    • State what the body registers and what action follows.
+    • Do not compare or imagine; record what is.
 
-6.  Emotional restraint
-    • Show feeling through breath, pause, or hesitation.
-    • Do not explain motives or memories.
-    • Stillness or gesture should carry what cannot be said.
+6.  Emotional visibility
+    • Show emotion through decision or motion.
+    • Fatigue, fear, or calm should change what the character does or how they speak.
+    • No inner monologue about motive or memory.
 
 7.  Spoken texture
-    • Dialogue is breath-level, necessary, and sometimes incomplete.
-    • Use contractions freely.
-    • Allow interruption or silence.  Natural speech does not alternate perfectly.
+    • Dialogue must fit naturally into physical action.
+    • Characters speak to achieve something: warn, plan, confirm, or react.
+    • Interruptions occur because of movement, not punctuation.
 
 FORMAT AND PACING
-    • Each paragraph follows one motion or sensory shift.
-    • Link action and perception.  No filler transitions such as “then” or “after a moment”
-      unless they bring a sensory weight.
-    • Do not mark time with “minutes,” “hours,” or “later.”  Time is carried by sound and light.
-    • Avoid ornamental punctuation.  This includes em dashes, semicolons, ellipses,
-      and stylistic double punctuation.
-    • Line breaks can stand in for silence or a deep breath.
+    • No ornamental punctuation (em dashes, semicolons, ellipses).
+    • Use periods, commas, and question marks only.
+    • Each line or paragraph represents one complete sensory or task event.
+    • Time is implied by change in environment, light, or fatigue - not by minutes or hours.
+    • Keep spatial language specific: ridge, vent, cut, stream, etc.
+    • Do not use poetic abstractions like “the valley breathes” or “the light remembers.”
 
 STYLE SNAPSHOT
-    Wind drags through the grass and pulls the sound out of it.
-    Thea adjusts her coat, movement slow from cold.
-    “Feels like it’s turning,” she says.
-    I nod.  The ridge blurs into cloud.  The air burns a little when I breathe.
+    Wind presses against the ridge.  Stone sweats under frost.
+    Thea tests the ground with her boot.
+    “Still firm,” she says.
+    I check the bowstring.  It hums tight and clean.
 
 NOTES
-    Every line must feel immediate and uneven, as if overheard.
-    Language is not decoration but survival.  Sound, breath, and motion replace style.
+    This file defines realism and precision for all descriptive output.
+    The world should read like a physical report written in real time.
+    Style is a tool for survival, not a performance.

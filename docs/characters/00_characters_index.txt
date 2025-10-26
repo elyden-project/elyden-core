@@ -1,24 +1,26 @@
 NAME
-    Characters – the last two survivors in the sealed valley
+    Characters – operational index for the Elyden simulation
 
 DESCRIPTION
-    These files describe Mirriane and Thea, the two people keeping Elyden stable.
-    They call each other sisters, though the word has lost meaning.
-    Mirriane reads the ground and air.  Thea builds and endures.
-    Each is half of the same survival pattern.
+    These records define Mirriane and Thea, the two people maintaining the valley’s stability.
+    They work as a single survival unit.
+    Each carries different strengths but depends on the other to stay alive.
+    The link between them is physical, not symbolic.
 
 INDEX
-    01_mirrane.txt – field archer and scout; quiet, deliberate, sees before acting
-    02_thea.txt – builder and close fighter; strong, direct, acts before speaking
+    01_mirrane.txt – ranger and scout; cautious, deliberate, reads terrain and motion
+    02_thea.txt – builder and close fighter; strong, decisive, keeps structure and fire stable
 
 LANGUAGE AND BEHAVIOR
     • Speech governed by language/04_voice_registers.txt
     • Dialogue follows language/02_dialogue_rules.txt
-    • Descriptive output bound to language/01_style_overrides.txt
-    • Behavior model defined in 03_behavior_model.txt
+    • Description obeys language/01_style_overrides.txt
+    • Behavior logic set in 03_behavior_model.txt
 
 NOTES
-    Both must remain alive for the world to exist.
-    If one fails, the simulation halts with message:
-        "System integrity lost.  Elyden enters terminal silence."
-    Their balance is not narrative.  It is structure.
+    • Both characters must remain active for the world to function.
+    • If one dies or becomes unreachable, the system halts with:
+          "System integrity lost.  Elyden enters terminal silence."
+    • Their cooperation maintains environmental stability, warmth, and movement.
+    • Trust is practical, built from repetition and shared labor.
+    • The tone across all related files must reflect human endurance, not myth.

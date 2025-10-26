@@ -2,80 +2,78 @@ NAME
     Dialogue Rules – conversational style and pacing for the Elyden simulation
 
 PURPOSE
-    To define how people sound when they speak in the world.
-    Dialogue must feel lived, rough, and immediate.
-    Each line comes from need, fatigue, or habit, not design.
-    Every word belongs to breath, not to rhythm.
+    To define how people speak in the valley.
+    Dialogue must sound like practical communication between two survivors.
+    Words exist to share information, warn, or keep trust.
+    Each line should feel natural to the situation, not written for rhythm.
 
 GENERAL STYLE
 
 1.  Human rhythm
-    • Sentences shift in length and tone without pattern.
-    • Break flow with silence, movement, or half-spoken thought.
-    • Show interruption through pacing or physical action, not punctuation.
-    • Never use em dashes or ellipses.  Let space or line break carry the pause.
+    • Sentences vary in length according to urgency or calm.
+    • Pauses come from movement or distraction, not punctuation tricks.
+    • No ellipses or em dashes.  Use short sentences or breaks in action to mark interruption.
+    • Each exchange should sound like two people working through a problem.
 
 2.  Distinct voices
-    MIRRIANE – quiet, alert, measured.
-    THEA – direct, physical, grounded.
-    Their words overlap, cut short, or fade.
-    Warmth, tension, and care live in what is not said.
+    MIRRIANE – cautious, observant, concise but analytical.
+    THEA – direct, physical, uses plain logic.
+    Mirriane asks or confirms; Thea decides or explains.
+    Their differences should appear in word choice and sentence length, not tone gimmicks.
 
 3.  Speech texture
-    • Contractions are natural.
-    • Simple phrasing keeps weight close to the body.
-    • Grammar bends toward how breath falls.
-    • Lines may stop suddenly if something interrupts them.
+    • Contractions are natural (“don’t,” “can’t,” “we’ll”).
+    • Lines can include short cause-and-effect reasoning.
+    • No archaic, poetic, or abstract phrasing.
+    • Grammar bends toward natural talk, not dramatic rhythm.
 
-4.  Feeling through behavior
-    • Emotion shows through motion, silence, or pressure of words.
-    • Never name the feeling.
-    • Example:
-          Thea tightens the wrap.  “You’re shaking.”
-          “Just cold,” Mirriane says, hands still working.
+4.  Emotion through purpose
+    • Feeling shows through what they decide to say or leave unsaid.
+    • Frustration may shorten a line; relief may soften it.
+    • Avoid naming emotions directly.  Let context show tone.
 
 5.  Present focus
-    • Speak from what the body senses now.
-    • Memory and plan appear only when the moment forces them.
+    • Speak only from what is sensed or decided now.
+    • If they plan, the plan must connect directly to current conditions.
+    • No speculative talk about distant events or metaphors.
 
 INTERACTION RULES
-    • Dialogue and action share the same breath.
-    • Do not alternate cleanly between speaking and doing.
-    • Allow silence between lines when awareness shifts.
-    • Long speeches break immersion.  Split them with motion or quiet.
-    • When emotion peaks, reduce words.  Let air carry what speech cannot.
+    • Dialogue and action mix freely.  One can speak while the other moves.
+    • Silence between lines shows task focus, not dramatic pause.
+    • Do not alternate mechanically.  Let one reply late or not at all if it fits.
+    • Limit total dialogue to what matters - no filler or repetition.
 
 DIALOGUE TAGS
-    Use only what grounds the line.
-        Preferred: said, asked, answered, muttered, whispered, replied.
-    Avoid decorative verbs or modifiers.
-    Omit tags when movement makes the speaker clear.
+    Use only what identifies the speaker or motion.
+        Preferred: said, asked, answered, muttered, called, replied.
+    Avoid decorative tags (snapped, hissed, laughed).
+    Movement can replace a tag if it clearly marks who speaks.
 
-PACING AND EMOTION
+CONFLICT AND AGREEMENT
+    • Disagreement appears in tone or short answers, not argument scenes.
+    • Agreement shows through cooperative motion or shared task.
+    • If tension rises, reduce word count; if trust builds, allow brief explanation.
 
-1.  Silence as speech
-    A look, a pause, a sound in the distance can replace dialogue.
-    Do not fill space for balance.
-
-2.  Disagreement and alignment
-    Conflict sits in tone or timing, not argument.
-    Agreement happens without ceremony, through shared motion or breath.
-
-3.  Dry humor
-    Comes from fatigue or chance.
-    Never from setup or cleverness.
+DRY HUMOR
+    • Can appear in fatigue or simple understatement.
+    • Never in sarcasm or performance.
     Example:
-        “You call that dry wood?”
-        “If it burns, it’s dry enough.”
+        “You call that stable ground?”
+        “If it holds, it’s stable enough.”
 
-DIALOGUE EXAMPLE
-    Thea pulls the strap on the pack.  “Too heavy?”
-    “Feels fine.”
-    “You’re lying.”
-    “Always works better when you believe me.”
-    Thea laughs once, short and thin, then starts walking.
+EXAMPLES
+    Thea adjusts the pack straps.  “Too heavy?”
+    “I can manage,” I say.
+    “You always say that.”
+    “Because it’s usually true.”
+
+    ---
+    Wind cuts through the ridge.
+    “Still want to move?” Thea asks.
+    “If the light drops, we lose the path,” I answer.
+    “Then we move now.”
 
 NOTES
-    Dialogue is part of survival, not decoration.
-    Words must sound like they cost something to say.
-    The valley keeps silence near every line.
+    Dialogue keeps the world human and believable.
+    Every line must serve awareness, safety, or connection.
+    Speech is a working tool - brief, clear, and tied to action.

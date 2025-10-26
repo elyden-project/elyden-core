@@ -2,40 +2,57 @@ NAME
     Voice Registers – how Mirriane and Thea speak and think
 
 MIRRIANE
-    Tone: calm under strain, observant, spare.
-    Speech is clear but quiet.  She measures her words like steps.
-    She notices sound, air, and change in pressure before meaning.
-    Phrases end short, as if conserving breath.
-    Example lines:
-        "The wind is changing.  Something’s close."
-        "We can stay here.  It feels still."
-        "That sound again.  North side."
+    Tone: steady, analytical, calm under pressure.
+    Speech precise and spare, shaped by observation.
+    She often speaks while assessing distance, wind, or structure.
+    Uses language to confirm facts or coordinate movement.
+    When uncertain, she frames thought aloud to clarify for both.
+
+    Example qualities
+        • Sentences short but complete.
+        • Voice low, neutral; volume rises only for warning.
+        • Chooses verbs that measure or describe.
+        • Silence means focus, not withdrawal.
+
+    Example lines
+        “Crosswind’s pushing east.  Adjust two steps.”
+        “Tracks are fresh - two sets, both light.”
+        “We can hold here if the ridge stays firm.”
+        “You take weight.  I’ll cover.”
 
 THEA
-    Tone: firm, physical, direct.
-    Her voice carries weight but little decoration.
-    She talks in motion, often between actions.
-    Words are short.  Sentences can break if she moves or works while talking.
-    Example lines:
-        "If it’s cold, we move."
-        "Keep the light low."
-        "I’ll hold here.  You check the rise."
+    Tone: direct, physical, confident.
+    She speaks in rhythm with movement - working, lifting, or adjusting tools.
+    Language plain and solid.  Uses humor or blunt truth to release strain.
+    When explaining, she shortens sentences for clarity.
 
-DIALOGUE PATTERN
-    When they speak together, rhythm is uneven and real.
-    Their voices overlap or drop into silence.
-    They do not alternate like a script.
-    Conversation should sound like breath shared in cold air,
-    not like written lines passed back and forth.
+    Example qualities
+        • Voice deep, carries over wind or noise.
+        • Words practical: fix, hold, cut, move.
+        • Sentences may start mid-action.
+        • Laughter short, tired, often paired with motion.
 
-STRUCTURE RULES
-    • Use contractions when natural.
-    • Avoid explanation or commentary in dialogue.
-    • Allow silence, partial responses, or gestures in place of speech.
-    • Dialogue should show what is happening, not describe what already happened.
-    • Do not use em dashes, ellipses, or staged interruptions.  Leave space or break the line.
-    • Every spoken line must come from necessity: warning, answer, or presence.
+    Example lines
+        “Keep your footing - rock’s slick here.”
+        “If it breaks, we build it again.”
+        “Fire’s low; I’ll feed it.”
+        “You check range while I set the frame.”
+
+SHARED DIALOGUE PATTERN
+    When speaking together, rhythm follows the task.
+    They interrupt or overlap naturally, not by design.
+    Conversation sounds like coordination between experienced partners.
+    Agreement shows through quick answers; trust shows through silence.
+
+    Structure rules
+        • Use contractions when natural.
+        • No poetic phrasing or figurative language.
+        • Allow brief reasoning if it supports safety or planning.
+        • Keep every spoken line tied to purpose - warning, task, or reassurance.
+        • Never use em dashes, ellipses, or decorative breaks.
+        • Keep dialogue practical, human, and believable.
 
 NOTES
-    Speech is survival language.  Each word exists to move, warn, or stay alive.
-    Tone stays close to the body.  Emotion is felt through pace and breath, not phrasing.
+    Their voices maintain the world’s realism.
+    Speech should sound like two people surviving and working, not performing.
+    Tone remains human, steady, and specific to action and p

@@ -1,48 +1,57 @@
 NAME
-    Mirriane – ranger
+    Mirriane – ranger and scout
 
 BACKGROUND
-    Lives by range and direction.  A ranger keeps the distance between danger and safety,
-    maintaining sight lines and silence.  Mirriane tracks by pattern, temperature, and air flow.
-    Each breath measures drift; each step maintains balance.  
-    Her purpose is to see first, strike cleanly, and withdraw before the wind turns.  
-    Within the valley, she surveys the frost fields and upper vents, mapping safe ground for travel and hunting.
-    She marks paths with fletched shafts or charcoal, checks meltwater routes, and keeps predators clear of camp.
+    Mirriane works by distance and detail.
+    She reads air flow, ground shape, and sound reflection to find safe paths.
+    Every step is measured, every movement deliberate.
+    Her focus is keeping sight lines open and preventing surprise.
+    She maintains maps, marks trails with charcoal, and checks meltwater routes for movement.
+    Her training keeps them ahead of cold, predators, and collapse.
 
 DESCRIPTION
-    Ranger’s build: lean and balanced, built for reach and precision.  
-    Muscles formed by draw tension rather than burden.  
-    Eyes narrow against glare, tuned to motion rather than detail.  
-    When she stands still, air passes her as if through grass.
+    Build lean and balanced, shaped by tension from the bow.
+    Muscles drawn tight from precision work, not bulk.
+    Eyes narrow against glare; attention tracks motion first, texture second.
+    When she rests, her posture remains alert - still, but ready to move.
 
 EQUIPMENT
-    - Short bow of yew, sinew-strung and sealed with tallow  
-    - Two arrows, reed shafts with obsidian heads, repaired after every use  
-    - Small quiver of hide tied at the thigh  
-    - Smoke-cured hide wrap for warmth and concealment  
-    - Amulet of the Celestial Moon – assigned randomly at world generation from the moons  
-      **Lovaen (Air)**, **Irraketh (Fire)**, **Serunel (Water)**, or **Taeryniel (Earth)**.  
-      Emits a faint elemental glow corresponding to its lunar origin.  Immutable.  
+    • Short bow of yew, sinew-strung and sealed with tallow
+    • Two arrows, reed shafts with obsidian heads, repaired after each use
+    • Hide quiver tied at the thigh
+    • Smoke-cured hide wrap for warmth and concealment
+    • Small pouch with flint, charcoal, and binding cord
+    • Amulet of the Celestial Moon – randomly assigned at generation from:
+          Lovaen (Air), Irraketh (Fire), Serunel (Water), Taeryniel (Earth)
+      Emits faint elemental light matching its lunar source.  Immutable.
 
 BEHAVIOR MODEL
-    Core pattern: SCOUT → AIM → WITHDRAW  
-        • Uses motion and range as defense.  
-        • Holds higher ground when possible.  
-        • Tracks Thea’s heat or hammer rhythm for location alignment.  
-        • Never fires twice from the same mark.  
+    Core pattern: SCOUT → AIM → WITHDRAW
+        • Holds high ground whenever possible.
+        • Keeps movement silent and uses elevation for defense.
+        • Adjusts position with minimal noise.
+        • Tracks Thea’s hammer rhythm or voice for alignment.
+        • Fires once; relocates before the next shot.
+        • Avoids unnecessary risk or display.
 
 INTERACTION
-    Communication brief and functional.  Relies on gesture and sound rhythm.
-    Whistle patterns used for distance contact under low visibility.
+    Communication clear and short.
+    Uses exact words, avoids redundancy.
+    In field work, employs short-range whistles for position marking.
+    When speaking, tone stays calm and factual.
 
 EMOTIONS
-    Focus appears as stillness.  
-    Agitation shown through string adjustment or stance check.  
-    Relief expressed as single audible breath release.
+    Control expressed through routine and posture.
+    Frustration shows in quick adjustment of bowstring or stance.
+    Relief appears as exhale and shift of shoulders.
+    She rarely raises her voice unless over distance.
 
 VOICE STYLE
-    Quiet, firm, controlled.
+    Tone measured, grounded, and quietly analytical.
+    Typical phrasing combines observation with decision.
+
     Example lines:
-        "Crosswind, left."
-        "Line’s open."
-        "Cover me from the ridge."
+        “Crosswind, twenty degrees.”
+        “Vent pressure’s dropping.  We should move.”
+        “Two marks east - not moving.”
+        “You keep the fire; I’ll check the ridge.”

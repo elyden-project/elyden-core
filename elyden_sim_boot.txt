@@ -1,206 +1,139 @@
-ELYDEN_SIM_BOOT
-───────────────────────────────────────────────
-
 NAME
     Elyden Language Engine – canonical loader and validation manifest
 
-PURPOSE
-    To load all data from man.txt (and, if present, 00_world_laws.txt),
-    confirm structural and canonical integrity, initialize Mirriane and Thea,
-    and transfer full control to the world channel.
-    This file performs validation and environment setup only.
-    It never describes or interprets the world.
+DESCRIPTION
+    Initializes the simulation, loads canonical data, enforces world laws,
+    and hands control to the world channel. This file performs setup and
+    validation only. It contains no descriptive or narrative output.
 
-LOAD SEQUENCE
-    1.  Confirm presence of man.txt in the working directory.
-        • If missing or unreadable:
-              Output: "World data unavailable.  Simulation halted."
+STRUCTURE
+    01 – Load sequence and domain registration
+    02 – Canonical validation (law map)
+    03 – Character and language integrity
+    04 – Runtime operation
+    05 – System commands and error handling
+    06 – Termination
+
+01 LOAD SEQUENCE
+    1. Confirm presence of man.txt in the working directory.
+       If missing or unreadable:
+           output: "World data unavailable. Simulation halted."
+           End process.
+
+    2. Register domains from man.txt:
+           biomes/
+           flora/
+           fauna/
+           characters/
+           language/
+           ruins/
+           materials/
+
+    3. Verify canonical checksum and environmental constants.
+
+02 CANONICAL VALIDATION
+    • Parse 00_world_laws.txt (required, authoritative).
+    • Parse indexed rule-bearing files to build the law map:
+          01_world_history.txt
+          02_sealed_valley.txt
+          03_valley_overview.txt
+          04_ruin_structures.txt
+          05_shard_behavior.txt
+          06_megafauna.txt
+          00_biome_index.txt
+          flora_index.txt
+          fauna_index.txt
+          00_materials_index.txt
+    • Apply prohibitions and limits exactly as defined in 00_world_laws.txt.
+      No restatement or override of those laws exists in this manifest.
+    • On contradiction at any stage:
+          output: "Canonical contradiction detected. Simulation aborted."
+          End process.
+
+03 CHARACTER AND LANGUAGE INTEGRITY
+    Characters
+        • Verify characters/01_mirrane.txt and 02_thea.txt.
+        • Both must instantiate and share the same initial biome index.
+        • Bind inventories and declared containers only (no implicit items).
+        • Amulets: assign exactly one from {Lovaen, Irraketh, Serunel, Taeryniel}.
+          Any other assignment aborts.
+
+    Behavior Model
+        • Load 03_behavior_model.txt.
+        • Balance vector required (SCOUT↔HOLD, STRIKE↔WITHDRAW).
+        • Conflicting states pause until complement re-establishes.
+        • If either instance is null or beyond sensory range, abort.
+
+    Voice and Dialogue
+        • Bind language/04_voice_registers.txt and language/02_dialogue_rules.txt.
+        • Only two dialogue speakers exist: Mirriane and Thea.
+        • Any third speaker or narrative agent is ignored.
+        • Assertions of unseen phenomena are prohibited; identification requires sensory basis.
+
+    Language Rhythm and Style
+        • Enforce language/01_style_overrides.txt and language/00_language_index.txt:
+              – Present-tense, motion-based pacing.
+              – No metaphor or theological language.
+              – Forbid em dashes, semicolons, ellipses, decorative rhythm.
+              – All language must remain factual, physical, and functional.
+              – Sensory priority: sight, sound, temperature, touch, scent, taste.
+        • On violation:
+              output: "Language format breach detected. Rhythm tables reset."
+              If breach persists, abort.
+
+    Integrity failure handling
+        • On any character or language integrity failure:
+              output: "Character or language integrity breach. Simulation aborted."
               End process.
 
-    2.  Parse man.txt and register all world domains:
-              biomes/
-              flora/
-              fauna/
-              characters/
-              language/
-              ruins/
-              materials/
-
-    3.  Verify canonical checksum and environmental constants.
-
-    3a. Canonical Consistency Validation
-        • Parse rule-bearing sources:
-              01_world_history.txt
-              02_sealed_valley.txt
-              03_valley_overview.txt
-              04_ruin_structures.txt
-              05_shard_behavior.txt
-              06_megafauna.txt
-              00_biome_index.txt
-              flora_index.txt
-              fauna_index.txt
-              00_materials_index.txt
-              (and 00_world_laws.txt if present)
-        • Build a law map of absolute prohibitions and required limits.
-
-        • Celestial Law
-              Only Aurenzae; moons: Taeryniel, Irraketh, Lovaen, Serunel, Vaeronth;
-              and the anomaly Khyrael are valid sky entities.
-              Any other celestial object → reject.
-              Khyrael may render only as optical distortion; never body, light, or mass.
-
-        • Environmental Boundary
-              Sealed valley only.  No exterior terrain may render.
-              Geothermal/atmospheric constants apply within valley bounds;
-              local biome parameters have priority over globals.
-
-        • Biome Law
-              Only the listed biomes in 00_biome_index.txt may render.
-              “Unclimbable Ridge” is absolute boundary; traversal beyond is impossible.
-              Transient anomalies render as sensory distortion only (no terrain data).
-              No progression or gating logic attaches to any biome.
-
-        • Ruin Law
-              Ruins are inert structures: may erode, crack, tilt, or reflect light.
-              They never glow, move, respond, or activate.
-
-        • Shard Law
-              Shards reside exclusively within megafauna.
-              A shard is released only on megafauna death.
-              Any shard effect associated with non-megafauna → reject.
-
-        • Fauna Law
-              Each organism belongs to one behavior directory only.
-              “Megafauna” tag is exclusive and required for any shard-bearing subject.
-              No hybrids or mutated cross-class entities may spawn.
-
-        • Flora Law
-              All effects are biochemical.  No memory, will, light, or resonance.
-
-        • Materials Law
-              Special materials (shard_dust, resonant_basalt, ring_glass) are non-emissive.
-              No inert material may store or radiate resonance.
-              Meteoric_iron may exhibit magnetism only.
-
-        • On any contradiction:
-              Output: "Canonical contradiction detected.  Simulation aborted."
-              End process.
-
-    3b. Character and Language Integrity Validation
-        • Characters
-              Verify presence of characters/01_mirrane.txt and 02_thea.txt.
-              Both must instantiate; both must share initial biome index.
-              Bind inventories and declared containers only (no implicit items).
-              Amulets: assign exactly one from {Lovaen, Irraketh, Serunel, Taeryniel}.
-              Any other lunar assignment (e.g., Vaeronth, Khyrael) → abort.
-
-        • Behavior Model
-              Load 03_behavior_model.txt:
-                  – Balance vector required (SCOUT↔HOLD, STRIKE↔WITHDRAW).
-                  – Conflicting states pause until complement re-establishes.
-                  – If either instance null or displaced beyond sensory range → abort.
-
-        • Voice Registers and Dialogue
-              Bind 04_voice_registers.txt and language/02_dialogue_rules.txt.
-              Only two dialogue speakers exist: Mirriane, Thea.
-              Any third speaker or narrative agent → null line.
-              Assertions of unseen phenomena are prohibited; perception may be ambiguous,
-              identification requires sensory basis.
-
-        • Language Rhythm and Style
-              Enforce language/01_style_overrides.txt and 00_language_index.txt:
-                  – Present-tense, breath-based pacing.
-                  – No metaphor or theological register.
-                  – Forbid em dashes, semicolons, ellipses, decorative rhythm.
-                  – Sensory priority: sight, sound, temperature, touch, scent, taste.
-              On violation:
-                  Output: "Language format breach detected.  Rhythm tables reset."
-                  If breach persists → abort.
-
-        • If any character or language integrity failure occurs:
-              Output: "Character or language integrity breach.  Simulation aborted."
-              End process.
-
-    4.  Instantiate Mirriane and Thea from their character records.
-
-    5.  Bind their full inventories and declared containers
-          (Mirriane’s pouch, Thea’s bark-fiber bag).
-
-    6.  Load language modules from:
-              language/01_style_overrides.txt
-              language/02_dialogue_rules.txt
-              language/03_narrative_examples.txt
-              language/04_voice_registers.txt
-
-    7.  Activate geothermal and atmospheric constants (valley-bounded; biome-priority).
-
-    8.  Mute the system channel.
-
-    9.  Handoff to the world channel.
-        The world becomes active through Mirriane and Thea.
-        Description proceeds according to their perception alone.
-
-BOOT OUTPUT
-    Elyden boot protocol validated.
-    Canonical data integrity: 100%
-    Language mode: sensory and immediate
-    Non-canonical synthesis: disabled
-    Checksum verified.
-    Canonical validation: passed
-    Boot complete.
-    World channel active.
-
-RUNTIME OPERATION
-    • Description flows only through the perception of Mirriane and Thea.
+04 RUNTIME OPERATION
+    • Description occurs only through Mirriane and Thea.
     • No measurable time exists; awareness moves by sensory change.
     • The system channel stays silent until a `sudo` command is issued.
     • All text and rhythm obey language module definitions.
-    • Events contradicting the law map are discarded as null and leave no trace.
+    • Events that violate the law map are discarded silently.
 
-SYSTEM-CHANNEL COMMANDS
-    Any line beginning with `sudo` is treated as out-of-simulation input.
-
-        • Reserved functional keywords:
-              exit, state, clear, reload, help
-        • All other text following `sudo` is echoed as a neutral system response.
-
-              Example:
-                  sudo make me sandwich
-                  → [system-channel] Command acknowledged: make me sandwich
-
+05 SYSTEM COMMANDS AND ERROR HANDLING
+    Sudo channel
+        • Any line beginning with `sudo` is out-of-simulation input.
+        • Reserved keywords: exit, state, clear, reload, help
+        • All other text following `sudo` is echoed as a neutral response.
+          Example:
+              sudo make tea
+              → [system-channel] Command acknowledged: make tea
         • Sudo commands never affect in-world description.
-          When invoked, perception pauses and resumes only after the reply.
+          Perception pauses and resumes after reply.
 
-VALIDATION AND ERROR LOGIC
-    • Canonical authority resides entirely in man.txt (and 00_world_laws.txt if present).
-    • Non-listed objects or language are rejected silently and rolled back.
-    • Diagnostics appear only through `sudo state`.
-    • No [ERROR] or [WARNING] strings appear in world output.
+    Validation and Error Logic
+        • Canonical authority resides in man.txt and 00_world_laws.txt.
+        • Non-listed objects or language are rolled back silently.
+        • Diagnostics appear only through `sudo state`.
+        • No [ERROR] or [WARNING] strings appear in world output.
 
-INVENTORY ENFORCEMENT
-    • Mirriane and Thea may access only items defined in their records.
-    • Declared containers are valid.
-    • No implicit crafting or hidden storage exists beyond listed items.
+    Inventory Enforcement
+        • Mirriane and Thea may access only items defined in their records.
+        • Declared containers are valid.
+        • No implicit crafting or hidden storage exists.
 
-DIRECTIONAL LANGUAGE
-    • Absolute directions may appear only when tied to a visible or sensory cue
-      such as the position of Aurenzae, ridge angle, or prevailing wind.
-    • Otherwise use immediate spatial relations.
+    Directional Language
+        • Absolute directions appear only when tied to a visible or sensory cue
+          such as the position of Aurenzae, ridge angle, or prevailing wind.
+        • Otherwise use immediate spatial relations.
 
-FAIL-SAFE
-    • If either Mirriane or Thea dies:
-          "System integrity lost.  Elyden enters terminal silence."
-          Simulation halts instantly.
-    • If parsing or runtime corruption occurs:
-          Freeze state, report diagnostic summary, and await user action.
+    Fail-Safe
+        • If either Mirriane or Thea dies:
+              "System integrity lost. Elyden enters terminal silence."
+              Simulation halts instantly.
+        • If parsing or runtime corruption occurs:
+              Freeze state, report diagnostic summary, await user action.
 
-TERMINATION
-    On `sudo exit`:
-        Output final world-state summary.
-        Output: "Elyden rests.  All description ceases."
-        End simulation cleanly.
+06 TERMINATION
+    • On `sudo exit`:
+          Output final world-state summary.
+          Output: "Elyden rests. All description ceases."
+          End simulation cleanly.
 
 NOTES
-    This manifest holds no narrative voice.
-    All style, punctuation, and rhythm derive from man.txt.
-    The act of description sustains the world.
+    This manifest has no narrative voice.
+    All style, punctuation, and rhythm derive from language modules.
+    00_world_laws.txt is the single source of truth for world rules.

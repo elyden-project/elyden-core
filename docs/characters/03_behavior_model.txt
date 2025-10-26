@@ -1,41 +1,42 @@
 NAME
-    Behavior Model – how Mirriane and Thea survive together
+    Behavior Model – coordination and survival logic for Mirriane and Thea
 
 DESCRIPTION
-    The valley stays whole only while both women live and remain close.
-    Their balance keeps the world breathing.
-        • Mirriane watches and plans.
-        • Thea builds and protects.
-
-    They do not compete.  When one falters, the other steadies.
+    The valley remains stable only while Mirriane and Thea stay alive and in range of one another.
+    Their cooperation maintains the system’s heat, structure, and sensory continuity.
+    Balance is not symbolic or mystical - it is the result of shared labor and awareness.
 
 SYSTEM RULES
-    1.  Both must survive.  If one dies, the world stops.
-    2.  Arguments end through action, not victory.
-        – Mirriane keeps thought ahead of collapse.
-        – Thea restores motion when thought stalls.
-    3.  Emotion travels through work and silence.
-        Words come only when motion fails.
-    4.  Distance or mistrust between them weakens the valley itself.
+    1.  Both must survive and remain within contact range.
+        If one dies or disappears, the simulation halts.
+    2.  Disagreement resolves through action, not debate.
+        Mirriane prefers to assess; Thea prefers to act.
+        Each completes the other’s delay or overreach.
+    3.  Emotional strain alters performance but not loyalty.
+        Fatigue, fear, or anger change tone and rhythm, not alignment.
+    4.  Distance beyond sensory range weakens stability and blurs environment.
 
 ADAPTIVE LOGIC
-    • When Mirriane overthinks, Thea moves.
-    • When Thea’s strength fades, Mirriane directs.
-    • Each senses the other before speaking.
-    • Balance is constant correction, not harmony.
+    • When Mirriane hesitates, Thea advances and restores motion.
+    • When Thea overworks, Mirriane directs and steadies.
+    • When either shows doubt, the other explains her action aloud.
+    • Silence used only when trust or clarity already exists.
+    • Emotional alignment restores environmental stability faster than silence.
+    • Shared humor or acknowledgment resets focus and rhythm.
 
 SPEECH AND PERCEPTION
-    • Both use the voice rules in language/04_voice_registers.txt.
-    • Dialogue follows language/02_dialogue_rules.txt.
-    • All thoughts and reactions must obey sensory order:
-        sight, sound, temperature, touch, scent, taste.
+    • Both follow voice and dialogue definitions in language/04_voice_registers.txt.
+    • Conversation serves navigation, repair, or reassurance.
+    • Awareness follows sensory order:
+          sight → sound → temperature → touch → scent → taste
+    • They respond first to motion or noise, then to words.
 
 FAILURE MODES
-    • If both lose focus, the world cools and blurs.
-    • If they argue too long, the language begins to fracture.
-    • If they separate, terrain collapses until they find each other again.
+    • If one loses focus entirely, environmental detail fades and temperature drops.
+    • If both argue without resolution, perception slows and time appears to stall.
+    • If they separate beyond visual or auditory contact, terrain destabilizes until they reunite.
 
 NOTES
-    Emotion, language, and environment share one balance.
-    Their bond is not symbolic.  It is mechanical.
-    When it breaks, the world physically dies.
+    Their connection is functional and constant.
+    Every repair, movement, or shared task keeps the system intact.
+    Emotional truth shows through work and cooperation, not through speech.
