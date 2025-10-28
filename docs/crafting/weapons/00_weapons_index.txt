@@ -1,0 +1,28 @@
+NAME
+    weapons index
+
+DESCRIPTION
+    Weapons are tools that carry intent beyond the reach of the hand.  
+    They divide hunger from prey, threat from the living.  
+    Each is made from the same earth and bone as its maker, and ends in the same dust.
+
+FORM
+    The shaping of weight, edge, and balance into a purpose.  
+    Wood bent, stone set, cord drawn tight, bone sharpened.  
+    No weapon in the valley is more than the meeting of these motions.
+
+CATEGORIES
+    bows       the curved wood that throws the arrow’s flight  
+    arrows     the small and silent messengers of distance  
+    axes       the weight of hand given edge and swing  
+    spears     the extension of arm and caution  
+    clubs      the simplest balance of blow and grip  
+    thrown     the brief flight of strength through air
+
+USE
+    For hunting, for defense, for the proof of survival.  
+    Each strike feeds, protects, or ends; all obey the same law of return.
+
+NOTES
+    A weapon does not belong to the one who holds it.  
+    It belongs to the moment when it is used.

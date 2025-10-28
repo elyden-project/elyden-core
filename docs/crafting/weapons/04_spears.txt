@@ -1,0 +1,26 @@
+NAME
+    spears
+
+DESCRIPTION
+    The spear is distance made solid.  
+    It reaches where the hand dares not go and keeps what is near at bay.  
+    Its point is the memory of the first hunt and the promise of the next.
+
+FORM
+    A long shaft carved from straight wood, smoothed by sand and fire.  
+    Its tip shaped from stone, bone, or sharpened metal, fixed with sinew and resin.  
+    Some bear crosspieces of horn to stop the thrust and save the wielder’s life.  
+    Balance lies where grip and weight meet in calm accord.
+
+USE
+    For driving deep into flesh or soil, for walking the uneven ground.  
+    In water it becomes a fisher’s fork; in forest, a silent companion.  
+    The spear is patient, waiting for approach.
+
+LIMITS
+    Shafts warp when left against heat, heads loosen with rain.  
+    Each must be checked by light and sound before use; the careless die by splinter.
+
+NOTES
+    The spear teaches reach and restraint.  
+    Its virtue is not in the wound, but in the distance kept.

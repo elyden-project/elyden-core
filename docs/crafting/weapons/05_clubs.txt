@@ -1,0 +1,26 @@
+NAME
+    clubs
+
+DESCRIPTION
+    The club is the valley’s simplest weapon.  
+    A length of wood held until it learns the path of the arm.  
+    It speaks in impact, not in edge.
+
+FORM
+    A branch chosen for weight and grain, bark left for grip.  
+    Some are shaped by fire, ends blackened and hardened.  
+    Others are bound with stone or bone to carry more force.  
+    No two are alike, yet all remember the hand that swings them.
+
+USE
+    For striking, for breaking, for warning.  
+    A tool of defense when edge is gone, a hammer when camp is built.  
+    It ends quarrels with the honesty of weight.
+
+LIMITS
+    Wood splits after long service, fibers crush under cold.  
+    When cracked, the club must burn or be reborn from new branch.
+
+NOTES
+    The club knows nothing of distance or aim.  
+    It trusts only in closeness and resolve.

@@ -1,0 +1,28 @@
+NAME
+    tools index
+
+DESCRIPTION
+    Tools are the extensions of hand and thought.  
+    Each one exists to shape, divide, bind, carry, or mend the matter of the valley.  
+    Their making follows the same law as their use: nothing hidden, nothing wasted.
+
+FORM
+    The simplest tool is born from contact between hard and soft.  
+    Stone strikes wood, bone scrapes hide, cord draws tight around haft.  
+    Fire seals what fingers cannot hold.
+
+CATEGORIES
+    firemaking     the work of heat and ember  
+    cutting        the making of edges and their upkeep  
+    binding        the joining of parts by cord, sinew, or glue  
+    gathering      the carrying and keeping of food or fiber  
+    repair         the restoration of what is frayed or broken  
+    waterwork      the holding and warming of water without vessel
+
+USE
+    Tools allow survival to become repetition.  
+    Through them, each act is remembered by the marks it leaves in wood and soil.
+
+NOTES
+    No tool stands apart from its maker.  Every handle shows the wear of its user.  
+    When one breaks, the valley returns it to material and waits to be shaped again.

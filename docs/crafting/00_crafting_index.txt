@@ -1,0 +1,26 @@
+NAME
+    crafting index
+
+DESCRIPTION
+    The record of all lawful making within the sealed valley.  
+    Crafting is the shaping of matter by hand and patience.  
+    It binds the two survivors to the valley through work and endurance.  
+
+FORM
+    All forms arise from visible matter.  Each cut, knot, and join must be seen.  
+    Nothing is conjured, nothing is hidden.  Every tool, weapon, and armor piece  
+    belongs to this record when its making can be traced from what lies in reach.
+
+CATEGORIES
+    tools      implements that serve the body in labour and repair  
+    weapons    instruments that carry force for hunting or defense  
+    armor      coverings that turn tooth, claw, wind, or cold  
+
+USE
+    The pages that follow describe each class of making in their lawful order.  
+    They hold no secret instruction, only the witness of matter shaped to purpose.
+
+NOTES
+    Crafting is labour, not progress.  A form once lost must be relearned by sight.  
+    The valley permits no art beyond what its soil and ruin provide.  
+    Every object that endures does so because the hands remember.

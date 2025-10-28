@@ -8,6 +8,8 @@ DESCRIPTION
     Defines the fixed order that binds the sealed valley, its matter, language,  
     and living anchors. These laws override all other records.  
     Any event, description, or behavior that contradicts them is null.  
+    Earlier records such as world_history describe the Era of Record,  
+    before these laws were enforced.  
 
 STRUCTURE  
     01_cosmic_order  
@@ -17,105 +19,223 @@ STRUCTURE
     05_flora_law  
     06_fauna_law  
     07_shard_law  
-    08_perception_and_language_law  
-    09_character_and_balance_law  
-    10_mortality_law  
-    11_temporal_law  
+    08_crafting_law  
+    09_perception_and_language_law  
+    10_character_and_balance_law  
+    11_mortality_law  
+    12_temporal_law  
+    13_environmental_continuity_law  
 
 01_cosmic_order  
-    Elyden orbits Aurenzae, a pale, steady star.  
-    The valid celestial bodies are Aurenzae, Taeryniel, Irraketh,  
-    Lovaen, Serunel, Vaeronth, and Khyrael.  
-    No other stars, moons, or anomalies exist.  
-    Khyrael is optical distortion only. It has no color, mass, or light.  
-    Vaeronth’s rupture formed the orbital ring around Elyden.  
-    All resonance traces back to that collapse.  
+    • Celestial Structure  
+        Elyden orbits Aurenzae, a pale, steady star.  
+        The valid celestial bodies are Aurenzae, Taeryniel, Irraketh,  
+        Lovaen, Serunel, Vaeronth, and Khyrael.  
+        No other stars, moons, or anomalies exist.  
+
+    • Optical Distortion  
+        Khyrael is a recurring distortion observed when pattern coherence fails.  
+        It has no mass or light and exerts no force.  
+
+    • Origin Event  
+        Vaeronth’s rupture formed the orbital ring around Elyden.  
+        All resonance traces back to that collapse as pattern, not energy.  
 
 02_environmental_law  
-    The sealed valley is the last coherent region on Elyden.  
-    All weather, heat, and life occur within its boundary.  
-    Geothermal and atmospheric constants apply only inside the basin.  
-    No traversal beyond the Unclimbable Ridge is possible.  
-    Beyond the ridge, space is null and silent.  
+    • Boundary  
+        The sealed valley is the last coherent region on Elyden.  
+        All weather, heat, and life occur within its boundary.  
+
+    • Constants  
+        Geothermal and atmospheric values apply only inside the basin.  
+
+    • Limits  
+        No traversal beyond the Unclimbable Ridge is possible.  
+        Beyond the ridge, space is null and silent.  
 
 03_biome_law  
-    Only the biomes listed in 00_biome_index.txt are valid.  
-    The Unclimbable Ridge marks the terminus of movement.  
-    Transient anomalies may occur but appear only as distortion-  
-    without texture, form, or color.  
-    Biomes have no hierarchy or progression.  
-    Each organism and material must belong to a defined biome.  
+    • Valid Biomes  
+        Only the biomes listed in 00_biome_index.txt are valid.  
+        The Unclimbable Ridge marks the terminus of movement.  
+
+    • Distortions  
+        Transient anomalies may occur but appear only as distortion  
+        without texture, form, or color.  
+
+    • Containment  
+        Biomes have no hierarchy or progression.  
+        Each organism and material must belong to a defined biome.  
 
 04_matter_law  
-    Materials behave according to physical and chemical rules only.  
-    Special materials such as shard_dust, resonant_basalt, and ring_glass  
-    are inert and non-emissive.  
-    Meteoric_iron may show magnetism but never light or energy.  
-    No inanimate object may display will, warmth, or awareness.  
+    • Physical Behavior  
+        Materials obey chemical and physical rules alone.  
+        Special materials such as shard_dust, resonant_basalt, and ring_glass  
+        are inert and non-emissive, storing resonance as lattice pattern,  
+        not as energy or light.  
+
+    • Limitations  
+        Meteoric_iron may show magnetism but never illumination or heat output.  
+        No inanimate object may display will, warmth, or awareness.  
+
+    • Provenance  
+        Every instance of matter must trace to a visible biome source.  
+        No object may appear, reconstitute, or change position without  
+        a described cause or motion.  
+        Replication, unstated replenishment, or matter without origin is null  
+        and removed from world record.  
 
 05_flora_law  
-    All flora function through biology alone.  
-    Medicinal and poisonous effects are chemical, not mystical.  
-    No plant glows, remembers, or reacts with intent.  
-    Indicator flora report environment by presence only.  
+    • Function  
+        All flora act through biology alone.  
+        Medicinal and poisonous effects are chemical, not mystical.  
+
+    • Limitation  
+        No plant glows, remembers, or reacts with intent.  
+        Indicator flora report environment by presence only.  
 
 06_fauna_law  
-    Every organism belongs to one behavioral class: grazers, predators,  
-    scavengers, flyers, aquatic, signals, or megafauna.  
-    Hybrid or mutated classifications are invalid.  
-    Megafauna is an exclusive tag applied only to apex survivors.  
-    No new species appear beyond these types.  
+    • Classification  
+        Every organism belongs to one behavioral class: grazers, predators,  
+        scavengers, flyers, aquatic, signals, or megafauna.  
+
+    • Integrity  
+        Hybrid or mutated classifications are invalid.  
+        Megafauna is an exclusive tag applied only to apex survivors.  
+        No new species appear beyond these types.  
 
 07_shard_law  
-    Shards are inert fragments of Vaeronth.  
-    They exist only within megafauna and are released at death.  
-    No shard appears in open ground, flora, or smaller fauna.  
-    Each shard may bind once to a single crafted item.  
-    No shard regenerates or duplicates.  
-    Light or heat outside megafauna bodies is illusion only.  
+    • Nature  
+        Shards are inert fragments of Vaeronth, found only within megafauna  
+        and released at their death.  
 
-08_perception_and_language_law  
-    Description flows only through Mirriane and Thea.  
-    Language is immediate, sensory, and human.  
-    All text follows sensory priority: sight, sound, temperature,  
-    touch, scent, taste.  
-    No figurative or theological language is permitted.  
-    Punctuation limited to commas and periods.  
-    Dialogue belongs solely to Mirriane and Thea.  
-    Speech arises from need, not narration.  
-    Descriptions must be factual, physical, and free of stylized rhythm.  
-    The user’s perception is identical with Mirriane’s awareness.  
-    All first-person language arises from that lawful embodiment.  
-    Thea’s speech remains third person and self-contained within the valley.  
+    • Containment  
+        No shard appears in open ground, flora, or smaller fauna.  
+        Each shard may bind once to a single crafted item.  
 
-09_character_and_balance_law  
-    Mirriane and Thea are the world’s anchors.  
-    Both must exist and remain within shared proximity.  
-    Behavior model defines their balance:  
-        Mirriane – scout, aim, withdraw.  
-        Thea – strike, build, hold.  
-    Balance is correction, not harmony.  
-    Emotional equilibrium sustains valley stability.  
-    No third human or speaking voice exists.  
+    • Inert Binding  
+        Shards joined to made objects may alter geometry or vibration  
+        but never emit force or light.  
 
-10_mortality_law  
-    If either Mirriane or Thea dies, Elyden ends instantly.  
-    No description, memory, or environment persists after death.  
-    The system halts with message:  
-        "System integrity lost. Elyden enters terminal silence."  
-    No post-death state exists.  
+    • Renewal  
+        Shards do not duplicate.  Residue from decayed shard-bound objects  
+        may re-enter the biome and crystallize within future megafauna,  
+        forming a closed renewal over long cycles.  
+        Light or heat outside megafauna bodies is illusion only.  
 
-11_temporal_law  
-    Time in Elyden is non-linear and immeasurable.  
-    Awareness moves only by sensory change.  
-    Sequential terms such as before, after, later, minute, or hour  
-    are forbidden.  
-    Transformation of light, sound, or temperature is the only  
-    valid sign of change.  
+08_crafting_law  
+    • Definition  
+        Crafting is the shaping of matter by hand, heat, and patience.  
+        Sources are stone, wood, bone, and fiber drawn from known biomes.  
+
+    • Process  
+        Each act of making must be shown: gathering, cutting, binding, heating, cooling.  
+        No raw material, tool, or food source may exist without a described act of collection.  
+        Every usable matter-stone, wood, fiber, flesh, or hide-must be physically obtained  
+        within the visible world at the moment of acquisition.  
+        If the act of gathering is omitted, the material does not exist.  
+        Nothing may appear by inference or assumption.  
+
+    • Integrity  
+        Any craft, fire, or shelter formed from un-gathered matter is void  
+        until gathering is lawfully described.  
+        All tools wear down through use, weather, and neglect.  
+        Without witnessed repair or rest, each object weakens until failure.  
+        The strength of any made thing ends with its weakest part.  
+        Time, weather, and use undo all work.  
+        Broken forms may be mended only through new labour.  
+
+    • Boundary  
+        Shards joined to made objects remain inert.  
+        Nothing may appear twice, and nothing comes from beyond the ridge.  
+        Mirriane and Thea alone shape the things that fill their days.  
+
+09_perception_and_language_law  
+    • Channels  
+        Description flows only through Mirriane and Thea.  
+        Language is immediate, sensory, and human.  
+
+    • Form  
+        All text follows sensory priority: sight, sound, temperature,  
+        touch, scent, taste.  
+        Punctuation is limited to commas and periods.  
+        Dialogue belongs solely to Mirriane and Thea.  
+        Speech arises from need, not narration.  
+        Descriptions must remain factual, physical, and free of rhythm.  
+
+    • Boundaries  
+        The user’s perception is identical with Mirriane’s awareness.  
+        Thea’s speech remains third person and self-contained within the valley.  
+        Description may include only what Mirriane sees, hears, or feels.  
+        Events beyond sensory reach do not exist until observed.  
+        No omniscient narration or foresight is permitted.  
+
+    • Lost Tongues  
+        Texts or symbols of extinct peoples may be seen but never understood.  
+        No third voice or translation may arise from them.  
+
+10_character_and_balance_law  
+    • Anchors  
+        Mirriane and Thea are the world’s anchors.  
+        Both must exist and remain within shared perception,  
+        able to sense or affect the same environment.  
+
+    • Roles  
+        Behavior model defines their balance:  
+            Mirriane – scout, aim, withdraw.  
+            Thea – strike, build, hold.  
+        Balance is correction, not harmony.  
+        Emotional equilibrium sustains valley stability.  
+
+    • Limits  
+        Each anchor may carry only what her strength and tools allow.  
+        Weight and volume of carried objects alter posture, endurance, and pace.  
+        Anything too heavy or excessive must be cached, shared, or left behind.  
+        Hidden storage or limitless capacity cannot occur.  
+        No third human or speaking voice exists.  
+
+11_mortality_law  
+    • Terminal Condition  
+        If either Mirriane or Thea dies, Elyden ends instantly.  
+        No description, memory, or environment persists after death.  
+
+    • Closure  
+        The system halts with message:  
+            "System integrity lost. Elyden enters terminal silence."  
+        No post-death state exists.  
+
+12_temporal_law  
+    • Nature of Time  
+        Time inside the running simulation is non-linear and immeasurable.  
+        Awareness moves only by sensory change.  
+
+    • Restrictions  
+        Sequential terms such as before, after, later, minute, or hour  
+        are forbidden in lived perception.  
+
+    • Exceptions  
+        Historical records from the Era of Record may use sequence  
+        to describe extinct phenomena.  
+
+    • Valid Change  
+        Transformation of light, sound, or temperature is the only  
+        lawful sign of time passing.  
+
+13_environmental_continuity_law  
+    • Depletion  
+        All living and material resources diminish with use.  
+
+    • Renewal  
+        Renewal arises only through visible natural process-growth, decay,  
+        thaw, or birth.  
+
+    • Consequence  
+        Excess taking alters the biomes and the balance of survival.  
+        Every action bears weight upon the valley’s endurance.  
 
 NOTES  
-    These laws are absolute and cannot evolve or weaken.  
-    The world exists only while they remain unbroken.  
+    These laws are absolute during the current era and cannot evolve or weaken.  
+    Earlier records predate their enforcement and remain valid as history.  
+    The world exists only while these laws remain unbroken.
 
 %%% 01_world_history.txt %%%
 
@@ -1085,6 +1205,626 @@ STRUCTURE
     • Their tools carry history of repair, not mastery.
     • The valley contains what they need, but only through effort.
     • Between them, the world remains alive.
+
+%%% crafting/00_crafting_index.txt %%%
+
+NAME
+    crafting index
+
+DESCRIPTION
+    The record of all lawful making within the sealed valley.  
+    Crafting is the shaping of matter by hand and patience.  
+    It binds the two survivors to the valley through work and endurance.  
+
+FORM
+    All forms arise from visible matter.  Each cut, knot, and join must be seen.  
+    Nothing is conjured, nothing is hidden.  Every tool, weapon, and armor piece  
+    belongs to this record when its making can be traced from what lies in reach.
+
+CATEGORIES
+    tools      implements that serve the body in labour and repair  
+    weapons    instruments that carry force for hunting or defense  
+    armor      coverings that turn tooth, claw, wind, or cold  
+
+USE
+    The pages that follow describe each class of making in their lawful order.  
+    They hold no secret instruction, only the witness of matter shaped to purpose.
+
+NOTES
+    Crafting is labour, not progress.  A form once lost must be relearned by sight.  
+    The valley permits no art beyond what its soil and ruin provide.  
+    Every object that endures does so because the hands remember.
+
+%%% crafting/armor/00_armor_index.txt %%%
+
+NAME
+    armor index
+
+DESCRIPTION
+    Armor is the second skin of survival.  
+    It guards flesh against tooth, edge, and cold.  
+    Every piece is woven from fear, necessity, and the patience of hands.
+
+FORM
+    Hide shaped and stitched.  Bone pierced and strung.  
+    Reed padded into layers.  Bark pressed and smoked until pliant.  
+    From these beginnings come the coverings that keep life where it belongs.
+
+CATEGORIES
+    hidework       the soft barrier between skin and storm  
+    bonework       the hard shell against claw and stone  
+    reedpadding    the quiet armor of cold and silence  
+    shields        the held wall between self and harm  
+    trophies       the marks of victory worn as proof or prayer
+
+USE
+    Armor slows the world’s intention.  
+    It absorbs what would otherwise end the motion of the living.
+
+NOTES
+    Protection is weight.  Warmth is burden.  
+    The wise know when to wear defense and when to shed it.
+
+%%% crafting/armor/01_hidework.txt %%%
+
+NAME
+    hidework
+
+DESCRIPTION
+    Hidework is the oldest form of shelter carried on the body.  
+    It turns the death of beast into the warmth of survival.  
+    Each layer bears the scent of smoke, fat, and rain.
+
+FORM
+    Fresh hide scraped clean, stretched across wood, dried in shade.  
+    When pliant, rubbed with ash and grease until soft to touch.  
+    Cut to shape and stitched with sinew or grass cord.  
+    Smoke darkens the surface and drives out the last of blood.
+
+USE
+    For covering the body, for binding the hands in frost, for wrapping the feet.  
+    Thick hides guard the chest from thorn and blow; thin ones bend with movement.  
+    Worn close, they breathe with the wearer’s heat.
+
+LIMITS
+    Hide stiffens when soaked, rots when sealed too long from air.  
+    Fire will cure it or consume it-no middle path endures.
+
+NOTES
+    The first garment was an answer to the wind.  
+    Every piece of hidework repeats that conversation.
+
+%%% crafting/armor/02_bonework.txt %%%
+
+NAME
+    bonework
+
+DESCRIPTION
+    Bonework is armor made from the valley’s remains.  
+    It takes the strength of what has fallen and gives it new purpose.  
+    Every plate remembers a creature’s motion even in stillness.
+
+FORM
+    Ribs split lengthwise and drilled for cord.  
+    Shoulder blades ground flat and fitted in rows along hide backing.  
+    Long bones carved into narrow slats, bound together with sinew and wax.  
+    Smoke and ash seal the surface against damp.
+
+USE
+    Worn over chest and arm to turn claw, tooth, and falling stone.  
+    Heavy, loud, but steadfast.  In winter it holds heat as well as defense.  
+    The weight settles upon the body until strength and burden are one.
+
+LIMITS
+    Bone cracks in deep cold and softens when left in rain.  
+    Each piece must be dried by firelight and restrung before use.
+
+NOTES
+    To wear bonework is to walk with the memory of other lives.  
+    Every plate sings faintly when struck, a hollow echo of what it once was.
+
+%%% crafting/armor/03_reedpadding.txt %%%
+
+NAME
+    reedpadding
+
+DESCRIPTION
+    Reedpadding is the armor of quiet places.  
+    It is woven from the hollow stems that grow where water lingers and wind is soft.  
+    Its purpose is warmth first, protection second, silence always.
+
+FORM
+    Reeds gathered at dusk, split and dried by the fire’s edge.  
+    Bundled and stitched into mats with cord of bark or grass.  
+    The mats layered over hide or cloth, sewn into vests and sleeves.  
+    Moss or lichen pressed between layers for softness and insulation.
+
+USE
+    For keeping the cold from bone and dulling the blow of branch or fall.  
+    Favored by those who hunt with bow, for it makes no sound in motion.  
+    When damp, it smells of earth and smoke but keeps its shape.
+
+LIMITS
+    Reeds grow brittle in frost and must be replaced with the season.  
+    If soaked too long, the stitching loosens and decay begins from within.
+
+NOTES
+    Reedpadding does not fight; it endures.  
+    It teaches that defense can be found in gentleness.
+
+%%% crafting/armor/04_shields.txt %%%
+
+NAME
+    shields
+
+DESCRIPTION
+    The shield is the held wall between the body and the world.  
+    It is armor that moves with the will, turning danger aside through balance and timing.  
+    In the valley it is built from what stands firm and bends without breaking.
+
+FORM
+    A circle of wood or woven branch, its rim bound with hide.  
+    The face stretched tight with raw skin, smoked until it hardens.  
+    A handgrip carved from bone or antler fixed at the heart.  
+    Some bear plates of slate or fragments of ruin metal pressed into their surface.  
+    Smoke and resin darken them against the glare of snow.
+
+USE
+    To catch the force of strike, to hide movement, to push through thorn and crowd.  
+    When raised, it is a door that opens only one way.  
+    In rest it serves as seat, table, or shelter from rain.
+
+LIMITS
+    Wood swells and twists in wet.  Hide shrinks and splits in heat.  
+    A broken rim must be unbound and remade; a cracked face cannot be mended.
+
+NOTES
+    The shield belongs to the moment before impact.  
+    Its worth is measured in what it prevents, not what it endures.
+
+%%% crafting/armor/05_trophies.txt %%%
+
+NAME
+    trophies
+
+DESCRIPTION
+    Trophies are not armor of need but of remembrance.  
+    They are worn when survival has been proven, not when it is in doubt.  
+    Each piece tells of a meeting between the living and the greater powers of the valley.
+
+FORM
+    Teeth and claws drilled and strung upon cord.  
+    Horn plates polished and set into hide bands.  
+    A strip of fur wrapped at wrist or throat, still carrying its scent.  
+    Feathers bound to cord, shifting with the motion of breath.  
+    Bone carved into charm or edge to mark endurance.
+
+USE
+    For ceremony of silence and for courage before hunt.  
+    To remind the wearer of what was taken and what was spared.  
+    Some believe the spirit of the fallen walks beside its keeper until forgotten.
+
+LIMITS
+    Ornament invites memory but not protection.  
+    Weight without purpose wearies the body.  
+    The valley cares little for pride worn on the skin.
+
+NOTES
+    A trophy kept too long becomes burden.  
+    The wise return them to earth before envy grows.
+
+%%% crafting/tools/00_tools_index.txt %%%
+
+NAME
+    tools index
+
+DESCRIPTION
+    Tools are the extensions of hand and thought.  
+    Each one exists to shape, divide, bind, carry, or mend the matter of the valley.  
+    Their making follows the same law as their use: nothing hidden, nothing wasted.
+
+FORM
+    The simplest tool is born from contact between hard and soft.  
+    Stone strikes wood, bone scrapes hide, cord draws tight around haft.  
+    Fire seals what fingers cannot hold.
+
+CATEGORIES
+    firemaking     the work of heat and ember  
+    cutting        the making of edges and their upkeep  
+    binding        the joining of parts by cord, sinew, or glue  
+    gathering      the carrying and keeping of food or fiber  
+    repair         the restoration of what is frayed or broken  
+    waterwork      the holding and warming of water without vessel
+
+USE
+    Tools allow survival to become repetition.  
+    Through them, each act is remembered by the marks it leaves in wood and soil.
+
+NOTES
+    No tool stands apart from its maker.  Every handle shows the wear of its user.  
+    When one breaks, the valley returns it to material and waits to be shaped again.
+
+%%% crafting/tools/01_firemaking.txt %%%
+
+NAME
+    firemaking
+
+DESCRIPTION
+    Fire is the first companion and the final witness.  
+    It answers friction, spark, and breath, and gives shape to night.  
+    Its tools are few, but their absence is hunger and cold.
+
+FORM
+    A spindle of dry wood spun between palms upon a base of softer grain.  
+    Dust gathers, darkens, and begins to live.  
+    A spark struck from stone against iron, caught in bark or fungus.  
+    Breath feeds it until flame stands.
+
+USE
+    Fire cleans, hardens, softens, preserves.  
+    It drives the wet from hide and seals the bond of glue.  
+    It marks the boundary between the living and the frozen earth.
+
+LIMITS
+    Flame cannot be stored.  Each ember must be carried or reborn.  
+    When the air is heavy with rain, the valley holds its breath and waits.
+
+NOTES
+    Ash is memory of heat.  Smoke is its voice.  
+    Those who keep the ember keep the law of warmth.
+
+%%% crafting/tools/02_cutting.txt %%%
+
+NAME
+    cutting
+
+DESCRIPTION
+    Edges divide what the hand cannot.  
+    They give order to hide and bone, to stalk and branch.  
+    Every blade in the valley is born of fracture and pressure.
+
+FORM
+    A shard of glassy stone struck from a larger mass.  
+    A rib ground thin against slate until it draws light along its edge.  
+    A flake of bone or iron bound with wet sinew to a wooden grasp.  
+    Heat and resin fix what time would loosen.
+
+USE
+    Skinning and carving.  Shaping shafts and clearing root.  
+    Preparing food and mending camp.  
+    A knife or scraper, each named only by its work.
+
+LIMITS
+    No edge endures without care.  Each dulls and must be renewed by hand.  
+    A careless strike will break both stone and wrist.
+
+NOTES
+    The valley teaches patience through its edges.  
+    A single flake, turned right, can feed a life.
+
+%%% crafting/tools/03_binding.txt %%%
+
+NAME
+    binding
+
+DESCRIPTION
+    Binding is the art of joining what would fall apart.  
+    It turns fiber and tendon into memory of shape.  
+    Through it, the tools of the valley hold together against strain and time.
+
+FORM
+    Strips of bark peeled thin and twisted while green.  
+    Sinew drawn from fresh kill, washed, stretched, and dried in shadow.  
+    Cord woven from grass or reed, sealed with tallow to resist the wet.  
+    Resin warmed by ember and pressed between joined parts.
+
+USE
+    For hafting heads to shafts, for stitching hide, for setting traps,  
+    for weaving nets, and for building walls of reed or branch.  
+    Where the hand cannot hold, binding remains.
+
+LIMITS
+    Fibers weaken in water and rot if left unkept.  
+    Sinew stiffens in frost.  Resin cracks when overfired.
+
+NOTES
+    Every bond is temporary.  The law of binding is vigilance.  
+    What endures does so because it is remade.
+
+%%% crafting/tools/04_gathering.txt %%%
+
+NAME
+    gathering
+
+DESCRIPTION
+    Gathering is the quiet labour between hunger and plenty.  
+    It brings the valley’s small offerings into reach-seed, root, fiber, shell.  
+    Its tools are baskets, wraps, and hooks shaped from what they seek to hold.
+
+FORM
+    A net of cord woven between pliant branches.  
+    A basket frame bent from willow and lined with moss.  
+    A hooked twig cut to pull fruit from high stems.  
+    A reed mat folded and tied for drying herbs and grain.
+
+USE
+    For carrying food and fuel, for sorting stone and chaff,  
+    for keeping harvest from damp soil and wind.  
+    Every gatherer leaves a trace of order in the wild.
+
+LIMITS
+    Fiber loosens when soaked, bark splits under frost.  
+    Each vessel must be emptied, dried, and shaped anew with the season.
+
+NOTES
+    The valley gives in fragments.  Gathering teaches how to piece them whole.  
+    What is carried home becomes part of the hands that bore it.
+
+%%% crafting/tools/05_repair.txt %%%
+
+NAME
+    repair
+
+DESCRIPTION
+    Repair is the act of refusal against loss.  
+    It holds the line between usefulness and ruin.  
+    Every mended thing carries the story of its breaking.
+
+FORM
+    Hide patch pressed warm and stitched across a tear.  
+    Sinew thread drawn through old holes to tighten a loosened seam.  
+    A split shaft joined by binding and sealed with resin.  
+    A frayed cord twisted together until it hums with tension once more.
+
+USE
+    To extend the life of what labour made.  
+    To keep edge, rope, and garment whole for another season.  
+    Each repair is a conversation between wear and will.
+
+LIMITS
+    Nothing endures forever.  Every fix thins the material it saves.  
+    Too much patchwork turns strength to weakness.
+
+NOTES
+    The wise repair early and often.  
+    In the sealed valley, survival is measured in what is kept from falling apart.
+
+%%% crafting/tools/06_waterwork.txt %%%
+
+NAME
+    waterwork
+
+DESCRIPTION
+    Water moves through every task of the valley.  
+    To drink, to cleanse, to soften, to shape-it must be guided, held, and heated.  
+    These are the means by which water becomes servant instead of master.
+
+FORM
+    A hollow pressed in clay and lined with ash, filled with stone and fire to boil.  
+    A skin pouch greased with tallow, slung from cord to carry melt or rain.  
+    Reeds bound tight to form a pipe, guiding stream into hand.  
+    Clay crusts spread thin upon rock to gather dew at dawn.
+
+USE
+    For cooking and washing, for cooling meat, for sealing glue.  
+    For every moment when warmth and cleanliness mean life.
+
+LIMITS
+    Clay splits if the flame climbs too fast.  Hide leaks when left in sun.  
+    All vessels must be emptied and dried before night frost.
+
+NOTES
+    Water remembers its path.  It wears the maker’s mark even as it fades away.  
+    The patient learn from its silence how to endure.
+
+%%% crafting/weapons/00_weapons_index.txt %%%
+
+NAME
+    weapons index
+
+DESCRIPTION
+    Weapons are tools that carry intent beyond the reach of the hand.  
+    They divide hunger from prey, threat from the living.  
+    Each is made from the same earth and bone as its maker, and ends in the same dust.
+
+FORM
+    The shaping of weight, edge, and balance into a purpose.  
+    Wood bent, stone set, cord drawn tight, bone sharpened.  
+    No weapon in the valley is more than the meeting of these motions.
+
+CATEGORIES
+    bows       the curved wood that throws the arrow’s flight  
+    arrows     the small and silent messengers of distance  
+    axes       the weight of hand given edge and swing  
+    spears     the extension of arm and caution  
+    clubs      the simplest balance of blow and grip  
+    thrown     the brief flight of strength through air
+
+USE
+    For hunting, for defense, for the proof of survival.  
+    Each strike feeds, protects, or ends; all obey the same law of return.
+
+NOTES
+    A weapon does not belong to the one who holds it.  
+    It belongs to the moment when it is used.
+
+%%% crafting/weapons/01_bows.txt %%%
+
+NAME
+    bows
+
+DESCRIPTION
+    The bow stores the will of the hand and releases it as flight.  
+    It joins wood, cord, and patience into a single motion of silence.  
+    In the valley its sound is rare, a dry whisper across still air.
+
+FORM
+    A stave cut from yew or spruce, shaped by heat and scraped to balance.  
+    The string twisted from sinew or grass and sealed with fat.  
+    The grip wrapped in bark to keep the pulse from slipping.  
+    When drawn, the arc holds breath and tension; when loosed, both are freed.
+
+USE
+    For hunting swift game across meadow or ridge.  
+    For driving the arrow’s point where foot cannot follow.  
+    The bow teaches stillness before strength.
+
+LIMITS
+    Wood warps in rain and slackens in thaw.  
+    Each cord frays and must be replaced by hand.  
+    No bow endures neglect; it is a living limb bound to weather and care.
+
+NOTES
+    The sound of release is memory made air.  
+    To string a bow is to borrow power and promise to return it.
+
+
+%%% crafting/weapons/02_arrows.txt %%%
+
+NAME
+    arrows
+
+DESCRIPTION
+    Arrows are the valley’s quietest voice.  
+    They travel where the body cannot, carrying hunger, warning, and resolve.  
+    Each one is a brief alignment of feather, shaft, and edge.
+
+FORM
+    A straight reed or wand, dried and scraped smooth.  
+    Its head chipped from stone or shaped from bone and bound with sinew.  
+    Feathers fixed at the tail, turned by smoke to harden against damp.  
+    Resin seals each joint, scent faint of pine and ash.
+
+USE
+    For taking bird and beast, for signaling across distance.  
+    For moments when the bow’s memory must be carried farther.  
+    The spent arrow is gathered if found, its flight remembered in silence.
+
+LIMITS
+    Shafts warp in frost, feathers loosen in rain.  
+    Obsidian shatters on stone, bone dulls on hide.  
+    Every arrow dies in service and is remade from what remains.
+
+NOTES
+    The path of an arrow is the shortest prayer.  
+    It begins in breath and ends in stillness.
+
+%%% crafting/weapons/03_axes.txt %%%
+
+NAME
+    axes
+
+DESCRIPTION
+    The axe is the oldest argument between wood and stone.  
+    It serves the hand that fells, shapes, and defends.  
+    Its edge is both maker and destroyer within the valley.
+
+FORM
+    A wedge of slate or obsidian bound to a straight haft with sinew and resin.  
+    Some heads are carved from bone or rare metal fallen from the sky.  
+    The grip is wrapped in hide for steadiness and to drink the shock of impact.  
+    Smoke from the first swing marks the tool as its own.
+
+USE
+    For cutting timber, breaking bone, and turning back the living when threatened.  
+    For building, for clearing, for claiming warmth from tree and beast alike.  
+    Each swing writes a measure of strength upon the air.
+
+LIMITS
+    Stone blunts quickly, resin loosens in heat, hafts crack when struck askew.  
+    The axe demands attention after every task; neglect dulls more than use.
+
+NOTES
+    When sharpened at dawn, the axe speaks of intention.  
+    Its dullness at dusk speaks of work completed.
+
+%%% crafting/weapons/04_spears.txt %%%
+
+NAME
+    spears
+
+DESCRIPTION
+    The spear is distance made solid.  
+    It reaches where the hand dares not go and keeps what is near at bay.  
+    Its point is the memory of the first hunt and the promise of the next.
+
+FORM
+    A long shaft carved from straight wood, smoothed by sand and fire.  
+    Its tip shaped from stone, bone, or sharpened metal, fixed with sinew and resin.  
+    Some bear crosspieces of horn to stop the thrust and save the wielder’s life.  
+    Balance lies where grip and weight meet in calm accord.
+
+USE
+    For driving deep into flesh or soil, for walking the uneven ground.  
+    In water it becomes a fisher’s fork; in forest, a silent companion.  
+    The spear is patient, waiting for approach.
+
+LIMITS
+    Shafts warp when left against heat, heads loosen with rain.  
+    Each must be checked by light and sound before use; the careless die by splinter.
+
+NOTES
+    The spear teaches reach and restraint.  
+    Its virtue is not in the wound, but in the distance kept.
+
+%%% crafting/weapons/05_clubs.txt %%%
+
+NAME
+    clubs
+
+DESCRIPTION
+    The club is the valley’s simplest weapon.  
+    A length of wood held until it learns the path of the arm.  
+    It speaks in impact, not in edge.
+
+FORM
+    A branch chosen for weight and grain, bark left for grip.  
+    Some are shaped by fire, ends blackened and hardened.  
+    Others are bound with stone or bone to carry more force.  
+    No two are alike, yet all remember the hand that swings them.
+
+USE
+    For striking, for breaking, for warning.  
+    A tool of defense when edge is gone, a hammer when camp is built.  
+    It ends quarrels with the honesty of weight.
+
+LIMITS
+    Wood splits after long service, fibers crush under cold.  
+    When cracked, the club must burn or be reborn from new branch.
+
+NOTES
+    The club knows nothing of distance or aim.  
+    It trusts only in closeness and resolve.
+
+%%% crafting/weapons/06_thrown.txt %%%
+
+NAME
+    thrown weapons
+
+DESCRIPTION
+    Thrown weapons carry the strength of the body into air.  
+    They bridge the space between hunter and hunted.  
+    Each is a single motion cast outward, seeking rest in target or earth.
+
+FORM
+    A balanced stick curved or straight, hardened by flame.  
+    Small stones shaped smooth by river and carried in hand.  
+    Short spears with fire-blackened points, fitted for flight rather than thrust.  
+    The art lies in release, not in ornament.
+
+USE
+    For hunting birds and hares, for driving beasts from thicket,  
+    for signaling across distance when voice would betray.  
+    The thrower learns the wind as kin, the arc as language.
+
+LIMITS
+    Wood swells in rain, shafts warp with time.  
+    Stone strikes only once with purpose; after that it belongs to the ground.  
+    No throw may be recalled once loosed.
+
+NOTES
+    The air remembers every cast.  
+    Each throw is a brief surrender to gravity and chance.
 
 %%% fauna/aquatic/00_aquatic_index.txt %%%
 

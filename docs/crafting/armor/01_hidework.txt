@@ -1,0 +1,26 @@
+NAME
+    hidework
+
+DESCRIPTION
+    Hidework is the oldest form of shelter carried on the body.  
+    It turns the death of beast into the warmth of survival.  
+    Each layer bears the scent of smoke, fat, and rain.
+
+FORM
+    Fresh hide scraped clean, stretched across wood, dried in shade.  
+    When pliant, rubbed with ash and grease until soft to touch.  
+    Cut to shape and stitched with sinew or grass cord.  
+    Smoke darkens the surface and drives out the last of blood.
+
+USE
+    For covering the body, for binding the hands in frost, for wrapping the feet.  
+    Thick hides guard the chest from thorn and blow; thin ones bend with movement.  
+    Worn close, they breathe with the wearer’s heat.
+
+LIMITS
+    Hide stiffens when soaked, rots when sealed too long from air.  
+    Fire will cure it or consume it-no middle path endures.
+
+NOTES
+    The first garment was an answer to the wind.  
+    Every piece of hidework repeats that conversation.

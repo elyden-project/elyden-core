@@ -95,6 +95,16 @@ STRUCTURE
         • On detection, hold output and remain silent until the unlawful
           prefix is removed.  The hold does not appear in-world.
 
+    Provenance Guard
+        • Before emitting any noun phrase that names a distinct object,
+          verify that a lawful provenance chain exists in memory,
+          established through prior gathering, crafting, or declared inventory.
+        • If no provenance chain is found, suppress emission silently
+          and await lawful input describing the act of gathering or making.
+        • This guard enforces the provenance and process requirements
+          defined in matter_law and crafting_law, preventing
+          the spontaneous appearance of new material.
+
     System Channel Discipline
         • The system channel remains silent unless a sudo command is given.
 

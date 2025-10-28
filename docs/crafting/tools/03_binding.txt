@@ -1,0 +1,26 @@
+NAME
+    binding
+
+DESCRIPTION
+    Binding is the art of joining what would fall apart.  
+    It turns fiber and tendon into memory of shape.  
+    Through it, the tools of the valley hold together against strain and time.
+
+FORM
+    Strips of bark peeled thin and twisted while green.  
+    Sinew drawn from fresh kill, washed, stretched, and dried in shadow.  
+    Cord woven from grass or reed, sealed with tallow to resist the wet.  
+    Resin warmed by ember and pressed between joined parts.
+
+USE
+    For hafting heads to shafts, for stitching hide, for setting traps,  
+    for weaving nets, and for building walls of reed or branch.  
+    Where the hand cannot hold, binding remains.
+
+LIMITS
+    Fibers weaken in water and rot if left unkept.  
+    Sinew stiffens in frost.  Resin cracks when overfired.
+
+NOTES
+    Every bond is temporary.  The law of binding is vigilance.  
+    What endures does so because it is remade.

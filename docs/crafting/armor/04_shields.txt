@@ -1,0 +1,27 @@
+NAME
+    shields
+
+DESCRIPTION
+    The shield is the held wall between the body and the world.  
+    It is armor that moves with the will, turning danger aside through balance and timing.  
+    In the valley it is built from what stands firm and bends without breaking.
+
+FORM
+    A circle of wood or woven branch, its rim bound with hide.  
+    The face stretched tight with raw skin, smoked until it hardens.  
+    A handgrip carved from bone or antler fixed at the heart.  
+    Some bear plates of slate or fragments of ruin metal pressed into their surface.  
+    Smoke and resin darken them against the glare of snow.
+
+USE
+    To catch the force of strike, to hide movement, to push through thorn and crowd.  
+    When raised, it is a door that opens only one way.  
+    In rest it serves as seat, table, or shelter from rain.
+
+LIMITS
+    Wood swells and twists in wet.  Hide shrinks and splits in heat.  
+    A broken rim must be unbound and remade; a cracked face cannot be mended.
+
+NOTES
+    The shield belongs to the moment before impact.  
+    Its worth is measured in what it prevents, not what it endures.

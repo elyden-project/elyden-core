@@ -1,0 +1,27 @@
+NAME
+    armor index
+
+DESCRIPTION
+    Armor is the second skin of survival.  
+    It guards flesh against tooth, edge, and cold.  
+    Every piece is woven from fear, necessity, and the patience of hands.
+
+FORM
+    Hide shaped and stitched.  Bone pierced and strung.  
+    Reed padded into layers.  Bark pressed and smoked until pliant.  
+    From these beginnings come the coverings that keep life where it belongs.
+
+CATEGORIES
+    hidework       the soft barrier between skin and storm  
+    bonework       the hard shell against claw and stone  
+    reedpadding    the quiet armor of cold and silence  
+    shields        the held wall between self and harm  
+    trophies       the marks of victory worn as proof or prayer
+
+USE
+    Armor slows the world’s intention.  
+    It absorbs what would otherwise end the motion of the living.
+
+NOTES
+    Protection is weight.  Warmth is burden.  
+    The wise know when to wear defense and when to shed it.

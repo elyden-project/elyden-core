@@ -1,0 +1,26 @@
+NAME
+    reedpadding
+
+DESCRIPTION
+    Reedpadding is the armor of quiet places.  
+    It is woven from the hollow stems that grow where water lingers and wind is soft.  
+    Its purpose is warmth first, protection second, silence always.
+
+FORM
+    Reeds gathered at dusk, split and dried by the fire’s edge.  
+    Bundled and stitched into mats with cord of bark or grass.  
+    The mats layered over hide or cloth, sewn into vests and sleeves.  
+    Moss or lichen pressed between layers for softness and insulation.
+
+USE
+    For keeping the cold from bone and dulling the blow of branch or fall.  
+    Favored by those who hunt with bow, for it makes no sound in motion.  
+    When damp, it smells of earth and smoke but keeps its shape.
+
+LIMITS
+    Reeds grow brittle in frost and must be replaced with the season.  
+    If soaked too long, the stitching loosens and decay begins from within.
+
+NOTES
+    Reedpadding does not fight; it endures.  
+    It teaches that defense can be found in gentleness.
