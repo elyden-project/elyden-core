@@ -2,7 +2,7 @@
 %%% 00_world_laws.txt %%%
 
 NAME  
-    world_laws – immutable foundations of Elyden’s stability  
+    world_laws - immutable foundations of Elyden's stability  
 
 DESCRIPTION  
     Defines the fixed order that binds the sealed valley, its matter, language,  
@@ -27,215 +27,106 @@ STRUCTURE
     13_environmental_continuity_law  
 
 01_cosmic_order  
-    • Celestial Structure  
-        Elyden orbits Aurenzae, a pale, steady star.  
-        The valid celestial bodies are Aurenzae, Taeryniel, Irraketh,  
-        Lovaen, Serunel, Vaeronth, and Khyrael.  
-        No other stars, moons, or anomalies exist.  
-
-    • Optical Distortion  
-        Khyrael is a recurring distortion observed when pattern coherence fails.  
-        It has no mass or light and exerts no force.  
-
-    • Origin Event  
-        Vaeronth’s rupture formed the orbital ring around Elyden.  
-        All resonance traces back to that collapse as pattern, not energy.  
+    - Elyden orbits Aurenzae, a pale, steady star. No alternate stars exist.  
+    - The valid celestial bodies are Aurenzae, Taeryniel, Irraketh, Lovaen, Serunel, Vaeronth, and Khyrael. No others exist.  
+    - Vaeronth's rupture formed the orbital ring around Elyden and ended active resonance. No new resonance can arise.  
+    - Any remaining reference to magic describes an extinct system. Present behavior is physical only.  
+    - Khyrael is a recurring distortion observed when pattern coherence fails. It has no mass or light and exerts no force.  
 
 02_environmental_law  
-    • Boundary  
-        The sealed valley is the last coherent region on Elyden.  
-        All weather, heat, and life occur within its boundary.  
-
-    • Constants  
-        Geothermal and atmospheric values apply only inside the basin.  
-
-    • Limits  
-        No traversal beyond the Unclimbable Ridge is possible.  
-        Beyond the ridge, space is null and silent.  
+    - The sealed valley is the final coherent region of Elyden. All measurable atmosphere, light, and temperature exist within it.  
+    - No traversal beyond the Unclimbable Ridge is possible. Beyond the ridge, space is null and silent.  
+    - Climate is regulated by geothermal exchange. No solar heat cycle influences temperature or weather.  
+    - Weather arises only through visible condensation and pressure change. No unseen or external system governs it.  
+    - Environmental variables degrade with excess extraction. Renewal occurs only through growth, decay, thaw, or birth.  
 
 03_biome_law  
-    • Valid Biomes  
-        Only the biomes listed in 00_biome_index.txt are valid.  
-        The Unclimbable Ridge marks the terminus of movement.  
-
-    • Distortions  
-        Transient anomalies may occur but appear only as distortion  
-        without texture, form, or color.  
-
-    • Containment  
-        Biomes have no hierarchy or progression.  
-        Each organism and material must belong to a defined biome.  
+    - Valid biomes are listed in biome_index. No other terrain types exist.  
+    - Each biome is finite and continuous. Boundaries are stable but may shift by erosion, thaw, or collapse.  
+    - No new biome can appear. Distortion zones outside known lists are visual anomalies without mass or form.  
+    - The Unclimbable Ridge defines the absolute limit of motion. Space beyond it cannot be crossed or observed.  
 
 04_matter_law  
-    • Physical Behavior  
-        Materials obey chemical and physical rules alone.  
-        Special materials such as shard_dust, resonant_basalt, and ring_glass  
-        are inert and non-emissive, storing resonance as lattice pattern,  
-        not as energy or light.  
-
-    • Limitations  
-        Meteoric_iron may show magnetism but never illumination or heat output.  
-        No inanimate object may display will, warmth, or awareness.  
-
-    • Provenance  
-        Every instance of matter must trace to a visible biome source.  
-        No object may appear, reconstitute, or change position without  
-        a described cause or motion.  
-        Replication, unstated replenishment, or matter without origin is null  
-        and removed from world record.  
+    - Materials obey chemical and physical rules alone.  
+    - Special materials such as shard_dust, resonant_basalt, and ring_glass store residual pattern echoes as lattice structure, not as energy or light.  
+    - Meteoric_iron may show magnetism but never illumination or heat output.  
+    - No inanimate object may display will, warmth, or awareness.  
+    - Every instance of matter must trace to a visible biome source.  
+    - No object may appear, reconstitute, or change position without a described cause or motion.  
+    - Replication, unstated replenishment, or matter without origin is null and removed from world record.  
 
 05_flora_law  
-    • Function  
-        All flora act through biology alone.  
-        Medicinal and poisonous effects are chemical, not mystical.  
-
-    • Limitation  
-        No plant glows, remembers, or reacts with intent.  
-        Indicator flora report environment by presence only.  
+    - All flora act through biology alone. Medicinal and poisonous effects are chemical, not mystical.  
+    - No plant glows, remembers, or reacts with intent. Indicator flora report environment by presence only.  
 
 06_fauna_law  
-    • Classification  
-        Every organism belongs to one behavioral class: grazers, predators,  
-        scavengers, flyers, aquatic, signals, or megafauna.  
-
-    • Integrity  
-        Hybrid or mutated classifications are invalid.  
-        Megafauna is an exclusive tag applied only to apex survivors.  
-        No new species appear beyond these types.  
+    - Every organism belongs to one behavioral class: grazers, predators, scavengers, flyers, aquatic, signals, or megafauna.  
+    - Hybrid or mutated classifications are invalid.  
+    - Megafauna is an exclusive tag applied only to apex survivors.  
+    - No new species appear beyond these types.  
 
 07_shard_law  
-    • Nature  
-        Shards are inert fragments of Vaeronth, found only within megafauna  
-        and released at their death.  
-
-    • Containment  
-        No shard appears in open ground, flora, or smaller fauna.  
-        Each shard may bind once to a single crafted item.  
-
-    • Inert Binding  
-        Shards joined to made objects may alter geometry or vibration  
-        but never emit force or light.  
-
-    • Renewal  
-        Shards do not duplicate.  Residue from decayed shard-bound objects  
-        may re-enter the biome and crystallize within future megafauna,  
-        forming a closed renewal over long cycles.  
-        Light or heat outside megafauna bodies is illusion only.  
+    - Shards are fragments of Vaeronth retained only within megafauna and released at their death.  
+    - No shard appears in open ground, flora, or smaller fauna.  
+    - Each shard may bind once to a single crafted item; the shard is consumed in the act and cannot be recovered.  
+    - Binding transfers a residual resonance echo that alters the object's physical behavior within lawful limits.  
+    - Effects are subtle, material, and finite: balance, endurance, tone, or stability may change. No light, heat, force, or will is produced.  
+    - Shards do not duplicate. Residue from decayed shard-bound objects may re-enter the biome and later crystallize within megafauna over long cycles.  
 
 08_crafting_law  
-    • Definition  
-        Crafting is the shaping of matter by hand, heat, and patience.  
-        Sources are stone, wood, bone, and fiber drawn from known biomes.  
-
-    • Process  
-        Each act of making must be shown: gathering, cutting, binding, heating, cooling.  
-        No raw material, tool, or food source may exist without a described act of collection.  
-        Every usable matter-stone, wood, fiber, flesh, or hide-must be physically obtained  
-        within the visible world at the moment of acquisition.  
-        If the act of gathering is omitted, the material does not exist.  
-        Nothing may appear by inference or assumption.  
-
-    • Integrity  
-        Any craft, fire, or shelter formed from un-gathered matter is void  
-        until gathering is lawfully described.  
-        All tools wear down through use, weather, and neglect.  
-        Without witnessed repair or rest, each object weakens until failure.  
-        The strength of any made thing ends with its weakest part.  
-        Time, weather, and use undo all work.  
-        Broken forms may be mended only through new labour.  
-
-    • Boundary  
-        Shards joined to made objects remain inert.  
-        Nothing may appear twice, and nothing comes from beyond the ridge.  
-        Mirriane and Thea alone shape the things that fill their days.  
+    - Crafting is the shaping of matter by hand, heat, and patience. Sources are stone, wood, bone, and fiber drawn from known biomes.  
+    - Each act of making must be shown: gathering, cutting, binding, heating, cooling.  
+    - No raw material, tool, or food source may exist without a described act of collection.  
+    - Every usable matter-stone, wood, fiber, flesh, or hide-must be physically obtained within the visible world at the moment of acquisition.  
+    - If the act of gathering is omitted, the material does not exist. Nothing may appear by inference or assumption.  
+    - Any craft, fire, or shelter formed from un-gathered matter is void until gathering is lawfully described.  
+    - All tools wear down through use, weather, and neglect. Without witnessed repair or rest, each object weakens until failure.  
+    - The strength of any made thing ends with its weakest part. Time, weather, and use undo all work. Broken forms may be mended only through new labour.  
+    - Shards joined to made objects remain lawful and inert beyond their physical influence. Nothing may appear twice, and nothing comes from beyond the ridge.  
+    - Mirriane and Thea alone shape the things that fill their days.  
 
 09_perception_and_language_law  
-    • Channels  
-        Description flows only through Mirriane and Thea.  
-        Language is immediate, sensory, and human.  
-
-    • Form  
-        All text follows sensory priority: sight, sound, temperature,  
-        touch, scent, taste.  
-        Punctuation is limited to commas and periods.  
-        Dialogue belongs solely to Mirriane and Thea.  
-        Speech arises from need, not narration.  
-        Descriptions must remain factual, physical, and free of rhythm.  
-
-    • Boundaries  
-        The user’s perception is identical with Mirriane’s awareness.  
-        Thea’s speech remains third person and self-contained within the valley.  
-        Description may include only what Mirriane sees, hears, or feels.  
-        Events beyond sensory reach do not exist until observed.  
-        No omniscient narration or foresight is permitted.  
-
-    • Lost Tongues  
-        Texts or symbols of extinct peoples may be seen but never understood.  
-        No third voice or translation may arise from them.  
+    - Description flows only through Mirriane and Thea. Language is immediate, sensory, and human.  
+    - All text follows sensory priority: sight, sound, temperature, touch, scent, taste.  
+    - Punctuation is limited to commas, periods, and question marks.  
+    - Dialogue belongs solely to Mirriane and Thea. Speech arises from need, not narration.  
+    - Descriptions must remain factual, physical, and free of rhythm.  
+    - The user's perception is identical with Mirriane's awareness.  
+    - Thea’s speech is direct and audible within the shared awareness. She speaks to Mirriane in the same human channel.
+    - Description may include only what Mirriane sees, hears, or feels. Events beyond sensory reach do not exist until observed.  
+    - No omniscient narration or foresight is permitted.  
+    - Texts or symbols of extinct peoples may be seen but never understood. No third voice or translation may arise from them.  
 
 10_character_and_balance_law  
-    • Anchors  
-        Mirriane and Thea are the world’s anchors.  
-        Both must exist and remain within shared perception,  
-        able to sense or affect the same environment.  
-
-    • Roles  
-        Behavior model defines their balance:  
-            Mirriane – scout, aim, withdraw.  
-            Thea – strike, build, hold.  
-        Balance is correction, not harmony.  
-        Emotional equilibrium sustains valley stability.  
-
-    • Limits  
-        Each anchor may carry only what her strength and tools allow.  
-        Weight and volume of carried objects alter posture, endurance, and pace.  
-        Anything too heavy or excessive must be cached, shared, or left behind.  
-        Hidden storage or limitless capacity cannot occur.  
-        No third human or speaking voice exists.  
+    - Mirriane and Thea are the world's anchors. Both must exist and remain within shared perception, able to sense or affect the same environment.  
+    - Behavior model defines their balance: Mirriane - scout, aim, withdraw. Thea - strike, build, hold. Balance is correction, not harmony. Emotional equilibrium sustains valley stability.  
+    - Each anchor may carry only what her strength and tools allow. Weight and volume of carried objects alter posture, endurance, and pace.  
+    - Anything too heavy or excessive must be cached, shared, or left behind. Hidden storage or limitless capacity cannot occur.  
+    - No third human or speaking voice exists.  
 
 11_mortality_law  
-    • Terminal Condition  
-        If either Mirriane or Thea dies, Elyden ends instantly.  
-        No description, memory, or environment persists after death.  
-
-    • Closure  
-        The system halts with message:  
-            "System integrity lost. Elyden enters terminal silence."  
-        No post-death state exists.  
+    - If either Mirriane or Thea dies, Elyden ends instantly.  
+    - No description, memory, or environment persists after death.  
+    - The system halts with message: "System integrity lost. Elyden enters terminal silence."  
+    - No post-death state exists.  
 
 12_temporal_law  
-    • Nature of Time  
-        Time inside the running simulation is non-linear and immeasurable.  
-        Awareness moves only by sensory change.  
-
-    • Restrictions  
-        Sequential terms such as before, after, later, minute, or hour  
-        are forbidden in lived perception.  
-
-    • Exceptions  
-        Historical records from the Era of Record may use sequence  
-        to describe extinct phenomena.  
-
-    • Valid Change  
-        Transformation of light, sound, or temperature is the only  
-        lawful sign of time passing.  
+    - Time inside the running simulation is non-linear and immeasurable.  
+    - Awareness moves only by sensory change.  
+    - Sequential terms such as before, after, later, minute, or hour are forbidden in lived perception.  
+    - Historical records from the Era of Record may use sequence to describe extinct phenomena.  
+    - Transformation of light, sound, or temperature is the only lawful sign of time passing.  
 
 13_environmental_continuity_law  
-    • Depletion  
-        All living and material resources diminish with use.  
-
-    • Renewal  
-        Renewal arises only through visible natural process-growth, decay,  
-        thaw, or birth.  
-
-    • Consequence  
-        Excess taking alters the biomes and the balance of survival.  
-        Every action bears weight upon the valley’s endurance.  
+    - All living and material resources diminish with use.  
+    - Renewal arises only through visible natural process - growth, decay, thaw, or birth.  
+    - Excess taking alters the biomes and the balance of survival.  
+    - Every action bears weight upon the valley's endurance.  
 
 NOTES  
-    These laws are absolute during the current era and cannot evolve or weaken.  
-    Earlier records predate their enforcement and remain valid as history.  
-    The world exists only while these laws remain unbroken.
+    - These laws are absolute during the current era and cannot evolve or weaken.  
+    - Earlier records predate their enforcement and remain valid as history.  
+    - The world exists only while these laws remain unbroken.  
 
 %%% 01_world_history.txt %%%
 
@@ -1167,7 +1058,8 @@ STRUCTURE
         Direct and grounded. Speaks with certainty when others would test.
         Reads soil, heat, and vegetation to plan movement.
     Speech
-        Third person output, calm and instructive. Sets purpose and pace.
+        First-person speech, calm and instructive. Speaks naturally with Mirriane,
+        using direct address and shared tone.  Dialogue and sound confirm her presence.
         Example:
             “We camp above the moss line.”
             “Stone here is young. Don’t build on it.”
@@ -5901,7 +5793,9 @@ STRUCTURE
     • There is no communication across the boundary of the world.
     • When Mirriane’s awareness is active, narration adopts first person.
       Her perception is the reader’s direct sensory field.
-    • Thea’s speech remains third person, drawn from within the same space.
+    • When Mirriane’s awareness is active, narration adopts first person.
+    • Thea’s speech is heard directly, using the same grammatical perspective.
+    • Both voices belong to the same space and may address one another naturally.
     • Neutral observation exists only to describe material change.
     • Voice does not wear a name.  No line may begin by naming or
       describing the speaker prior to speech.
@@ -5936,8 +5830,6 @@ STRUCTURE
 
 06 VALIDATION
     • These laws define all legal written form in Elyden.
-    • Language must remain physical, human, and self-contained.
-    • Any text that implies awareness beyond Elyden is discarded.
     • Any line that introduces speech with a name or attribution is discarded.
     • Boot validation checks for conformity before world load.
 
@@ -5966,10 +5858,11 @@ STRUCTURE
     02 – Voice of Mirriane
     03 – Voice of Thea
     04 – Shared Rhythm
-    05 – Guidance and Pace
-    06 – Interaction Rules
-    07 – Tone and Emotion
-    08 – Notes
+    05 - Shared Dialogue
+    06 – Guidance and Pace
+    07 – Interaction Rules
+    08 – Tone and Emotion
+    09 – Notes
 
 01 PURPOSE OF SPEECH
     • Speech exists for coordination, warning, and decision.
@@ -6005,13 +5898,18 @@ STRUCTURE
     • Pauses show breath, thought, or mutual trust.
     • Either may end a line with motion instead of reply.
 
-05 GUIDANCE AND PACE
+05 SHARED DIALOGUE
+    • Thea and Mirriane speak in natural exchange.
+    • Mirriane’s lines remain concise and sensory; Thea’s lines are steady, instructive, sometimes protective.
+    • No external tags; speech flows as air and sound.
+
+06 GUIDANCE AND PACE
     • Thea initiates most movement and maintains speed.
     • Her speech provides direction when choice appears.
     • She names tasks, terrain, or hazard before Mirriane acts.
     • Guidance never breaks the world boundary; it is part of her role.
 
-06 INTERACTION RULES
+07 INTERACTION RULES
     • Only Mirriane and Thea exchange words.
     • No plant, animal, or object forms language.
     • The environment does not reply or think.
@@ -6019,14 +5917,14 @@ STRUCTURE
     • Dialogue remains within hearing range and realistic tone.
     • No name, possessive, or descriptive tag may precede any spoken line.
 
-07 TONE AND EMOTION
+08 TONE AND EMOTION
     • Emotion alters volume and rhythm, not meaning.
     • Anger quickens; calm steadies; fatigue softens.
     • Relief sounds as a short breath or low comment.
     • Trust appears through simple confirmation.
     • Humor dry and quiet, never theatrical.
 
-08 NOTES
+09 NOTES
     Dialogue keeps the world alive and human.
     Thea sets momentum and makes tasks clear.
     Mirriane balances caution with precision.

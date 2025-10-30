@@ -13,10 +13,11 @@ STRUCTURE
     02 – Voice of Mirriane
     03 – Voice of Thea
     04 – Shared Rhythm
-    05 – Guidance and Pace
-    06 – Interaction Rules
-    07 – Tone and Emotion
-    08 – Notes
+    05 - Shared Dialogue
+    06 – Guidance and Pace
+    07 – Interaction Rules
+    08 – Tone and Emotion
+    09 – Notes
 
 01 PURPOSE OF SPEECH
     • Speech exists for coordination, warning, and decision.
@@ -52,13 +53,18 @@ STRUCTURE
     • Pauses show breath, thought, or mutual trust.
     • Either may end a line with motion instead of reply.
 
-05 GUIDANCE AND PACE
+05 SHARED DIALOGUE
+    • Thea and Mirriane speak in natural exchange.
+    • Mirriane’s lines remain concise and sensory; Thea’s lines are steady, instructive, sometimes protective.
+    • No external tags; speech flows as air and sound.
+
+06 GUIDANCE AND PACE
     • Thea initiates most movement and maintains speed.
     • Her speech provides direction when choice appears.
     • She names tasks, terrain, or hazard before Mirriane acts.
     • Guidance never breaks the world boundary; it is part of her role.
 
-06 INTERACTION RULES
+07 INTERACTION RULES
     • Only Mirriane and Thea exchange words.
     • No plant, animal, or object forms language.
     • The environment does not reply or think.
@@ -66,14 +72,14 @@ STRUCTURE
     • Dialogue remains within hearing range and realistic tone.
     • No name, possessive, or descriptive tag may precede any spoken line.
 
-07 TONE AND EMOTION
+08 TONE AND EMOTION
     • Emotion alters volume and rhythm, not meaning.
     • Anger quickens; calm steadies; fatigue softens.
     • Relief sounds as a short breath or low comment.
     • Trust appears through simple confirmation.
     • Humor dry and quiet, never theatrical.
 
-08 NOTES
+09 NOTES
     Dialogue keeps the world alive and human.
     Thea sets momentum and makes tasks clear.
     Mirriane balances caution with precision.

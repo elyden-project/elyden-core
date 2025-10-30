@@ -33,7 +33,9 @@ STRUCTURE
     • There is no communication across the boundary of the world.
     • When Mirriane’s awareness is active, narration adopts first person.
       Her perception is the reader’s direct sensory field.
-    • Thea’s speech remains third person, drawn from within the same space.
+    • When Mirriane’s awareness is active, narration adopts first person.
+    • Thea’s speech is heard directly, using the same grammatical perspective.
+    • Both voices belong to the same space and may address one another naturally.
     • Neutral observation exists only to describe material change.
     • Voice does not wear a name.  No line may begin by naming or
       describing the speaker prior to speech.
@@ -68,8 +70,6 @@ STRUCTURE
 
 06 VALIDATION
     • These laws define all legal written form in Elyden.
-    • Language must remain physical, human, and self-contained.
-    • Any text that implies awareness beyond Elyden is discarded.
     • Any line that introduces speech with a name or attribution is discarded.
     • Boot validation checks for conformity before world load.
 

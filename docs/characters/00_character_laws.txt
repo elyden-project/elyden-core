@@ -69,7 +69,8 @@ STRUCTURE
         Direct and grounded. Speaks with certainty when others would test.
         Reads soil, heat, and vegetation to plan movement.
     Speech
-        Third person output, calm and instructive. Sets purpose and pace.
+        First-person speech, calm and instructive. Speaks naturally with Mirriane,
+        using direct address and shared tone.  Dialogue and sound confirm her presence.
         Example:
             “We camp above the moss line.”
             “Stone here is young. Don’t build on it.”
