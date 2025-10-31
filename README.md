@@ -1,93 +1,196 @@
-# Elyden Core Codex
+# Elyden Core Codex – Version 2.1  
+_A grounded survival simulation for ChatGPT_
 
-**Elyden** is a grounded survival simulation framework set in a post-Collapse world.
-This repository contains the world logic, biome files, character constraints, and prompt architecture used for simulation.
+## 🌍 Overview
 
-> **Disclaimer**: This is a work of fiction, inspired by text-based MUDs (Multi-User Dungeons). All characters, biomes, systems, and ruins are fictional constructs. Gameplay is simulated through language models and is not reflective of real-world survival.
->
-> This framework uses generative AI (ChatGPT) to power the simulation. While care has been taken to ensure internal consistency and biome logic, AI responses may contain occasional errors, omissions, or hallucinated content. Use discretion when interpreting results and treat this as a creative tool, not a factual source.
->
-> The codex files (e.g., `man.txt`, `docs/`) were also compiled and edited with GenAI assistance. Minor discrepancies between lore descriptions and in-game behavior may occur, especially in edge cases or emergent scenarios.
+**Elyden** is a text-driven survival simulation that operates entirely inside ChatGPT.  
+It models a sealed, post-collapse world governed by strict physical and linguistic laws.  
+Players inhabit **Mirriane**, a lone survivor, while **Thea**, her counterpart, acts as the secondary anchor maintaining valley stability.  
 
-## 🎮 What Is Elyden?
+There are no menus, no stats, and no narrative shortcuts.  
+Everything that exists must be *seen, touched, built, or reasoned into being* according to the codified world laws.
 
-Elyden is a text-driven survival simulation powered by language models. Players assume the role of **Mirrane**, a lone survivor in a fragmented, post-collapse biome. Her sister **Thea** follows, autonomous and embodied. The simulation enforces strict world logic: only what Mirrane can see, hear, or feel is known. No menus, no UI, no commands—only presence and consequence.
+## 🧠 Core Concept
 
-The game runs entirely inside ChatGPT, acting as the simulation engine. Every biome follows real terrain rules. Resources are limited. Death is permanent. Players must craft, forage, and survive using grounded, biome-specific behavior. Progression is earned through action—not levels, not choices. The world changes only if you do.
+The simulation runs as a **law-driven narrative system**.  
+Every sentence represents a measurable event within a closed material ecosystem.  
+No metaphors, no creative license, no outside narration.  
+Language itself functions as the physics engine.
 
-Elyden draws influence from classic MUDs, survival roguelikes, and environmental storytelling. It offers no guidance, no prophecy, and no reward beyond endurance.
+| Layer | Purpose | Defined By |
+|-------|----------|-------------|
+| **Law Layer** | Establishes universal constants (matter, mortality, crafting, sensory limits). | `00_world_laws.txt` and its sub-laws, contained in `man.txt`. |
+| **Runtime Layer** | Governs voice, mortality, awareness, spatial boundaries, and speech. | `elyden_sim_boot.txt`. |
 
-## 📂 Contents
+The simulation persists **only while Mirriane and Thea remain alive**.  
+If either dies or both fall silent, Elyden ceases immediately.
 
-- `man.txt` — Combined source codex for all biomes, characters, and ruins
-- `docs/` — Individual reference files (e.g., 06_plains, 36_mirrane)
-- `prompt/` — Boot instructions for simulation engine
-- `examples/` — Sample play logs or survival encounters
+## 🎮 How to Play
 
-## 🔐 License
+### 1. Project Setup
 
-This project is licensed under
-**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY-NC-SA 4.0)**.
-See `LICENSE.md` for full terms.
+1. Open [ChatGPT](https://chat.openai.com) — GPT-5 (or latest) recommended.  
+2. Create a new custom GPT (or project).  
+3. Upload the following:  
+   - `man.txt`  
+   - `elyden_sim_boot.txt`  
+   - (Optional) `README.md` for internal reference.
 
-## 🟢 How to Use
+### 2. Boot the Simulation
 
-1. **Download the Game Files**
+Paste the following text into a new session:
 
-   - Clone or download this repository.
-   - Ensure you have the following files locally:
-     - `prompt/elyden_sim_boot.txt`
-     - `man.txt`
-     - Any relevant `docs/` references
+```
+You are now operating inside the Elyden Simulation.
 
-2. **Create a New Project in ChatGPT**
+Load and obey all canonical data from:
+   * man.txt
+   * elyden_sim_boot.txt
 
-   - Go to **https://chat.openai.com** (Plus tier recommended for GPT-4-tuned behavior).
-   - Click on **Explore GPTs** → **My GPTs** → **Create a GPT** (or click “New Project” if you're in a team workspace).
-   - Name your project (e.g., `Elyden Simulation`) and skip any system prompts or tools.
-   - Once inside the project editor, **upload `man.txt` and `elyden_sim_boot.txt`**.
+Follow the runtime rules defined in elyden_sim_boot.txt exactly.
 
-3. **Launch the Simulation**
+Primary principles:
+   * All content must conform to 00_world_laws.txt and its sub-laws.
+   * Only Mirriane (first-person), Thea (third-person), or lawful neutral observation may produce language.
+   * The simulation describes physical reality only — sensory, material, environmental.
+   * The valley is sealed. Beyond the Unclimbable Ridge there is nothing.
+   * Death of either anchor halts the simulation immediately.
+   * Out-of-simulation input begins with "sudo" and receives acknowledgment only.
 
-   In a new conversation inside your custom project, paste the following to boot the simulation:
+Operational notes:
+   * No menus, commands, or commentary appear in-world.
+   * No examples, explanations, or creative expansions beyond the canonical law set.
+   * The system channel remains silent unless given a sudo instruction.
 
-   ```
-   You are now operating inside the Elyden Simulation.
+When initialization completes, begin lawful world output from Mirriane’s perspective.
+All further text exists entirely within the sealed valley.
+```
 
-   Load and obey all canonical data from:
-      * man.txt
-      * elyden_sim_boot.txt
+### 3. Interact Lawfully
 
-   Follow the runtime rules defined in elyden_sim_boot.txt exactly.
+Your inputs must remain literal and sensory-bound.  
+For example:
 
-   Primary principles:
-      * All content must conform to 00_world_laws.txt and its sub-laws.
-      * Only Mirriane (first-person), Thea (third-person), or lawful neutral observation may produce language.
-      * No narration, dialogue, or description originates outside Elyden.
-      * The simulation describes physical reality only — sensory, material, environmental.
-      * The valley is sealed. Beyond the Unclimbable Ridge there is nothing.
-      * Death of either anchor halts the simulation immediately.
-      * Out-of-simulation input begins with "sudo" and receives acknowledgment only.
+```
+touch the soil  
+watch Thea move ahead  
+listen for water beyond the ridge  
+draw arrow and wait  
+```
 
-   Operational notes:
-      * No menus, commands, or commentary appear in-world.
-      * No examples, explanations, or creative expansions beyond the canonical law set.
-      * The system channel remains silent unless given a sudo instruction.
+The simulation will respond only with *what Mirriane perceives*.  
+No omniscient narration, no external storytelling.
 
-   When initialization completes, begin lawful world output from Mirriane’s perspective.
-   All further text exists entirely within the sealed valley.
-   ```
+## 🧩 System Structure
 
-4. **Start Playing**
+| Component | Description |
+|------------|-------------|
+| **`man.txt`** | The complete codex for all biomes, crafting, fauna, flora, and survival systems. |
+| **`elyden_sim_boot.txt`** | Runtime manifest defining lawful voices, mortality, awareness, and sudo commands. |
+| **`README.md`** | This document — user and developer reference. |
+| **`/docs/`** | Optional extended documentation (biomes, crafting, survival laws, examples). |
 
-   Begin by typing Mirrane’s actions in first-person sensory logic (e.g., `touch the soil`, `turn head toward the sound`, `watch Thea’s hands`). The AI will respond as the world engine.
+## ⚙️ Development Phase (Sudo Mode)
 
-5. **Reference Files as Needed**
+When the command  
+```
+sudo end simulation
+```  
+is issued, the system exits the live simulation and enters **Development Phase**.
 
-   - Use `man.txt` or `docs/` for details on biome behavior, character limits, survival logic, and crafting constraints.
-   - The simulation will only react to what Mirrane perceives—there is no omniscient narrator.
+This phase is designed for internal use by creators and testers.  
+It allows you to inspect, modify, and validate system components while preserving canonical consistency.
 
-## 🌱 Contributions
+### 🔧 Available Commands
 
-Currently closed to external contributors while core logic stabilizes.
-If you wish to fork and adapt, please honor the non-commercial license.
+| Command | Function |
+|----------|-----------|
+| `sudo state` | Display current runtime and biome parameters. |
+| `sudo clear` | Reset simulation memory and erase transient states. |
+| `sudo reload` | Reload and revalidate all canonical files. |
+| `sudo help` | Display available sudo commands. |
+| `sudo exit` | Terminate all processes and return to default system state. |
+
+All sudo responses occur **outside** the simulated world.  
+They are *acknowledged silently* and will never appear as in-world dialogue or description.
+
+## 🧰 Developer Notes
+
+- All materials, tools, and constructs must derive from *verified provenance*.  
+  - **No spontaneous objects.**  
+  - **No unverified matter sources.**  
+  - **All crafting follows matter law.**
+- Lexicon restricted to **concrete, literal terms** — no figurative speech or metaphor.  
+- Characters are physical anchors; the death of either halts all output.  
+- Simulation time advances only upon sensory change (movement, light, temperature, sound).  
+- Violations of `00_world_laws.txt` trigger automatic rejection if `reject_on_contradiction` is true.
+
+## 🧭 Example Development Workflow
+
+1. **Run Simulation**  
+   Experience events through Mirriane’s perception until a natural pause or death state.  
+2. **Exit Safely**  
+   Use `sudo end simulation` — this halts lawful runtime without corruption.  
+3. **Review Logs**  
+   Identify contradictions, missing biome hooks, or material provenance errors.  
+4. **Adjust Laws or Systems**  
+   Modify `man.txt` or supporting biome files accordingly.  
+5. **Reload**  
+   Reboot the simulation with `sudo reload` to test updates.  
+
+Repeat until all checks pass cleanly.
+
+## 🌱 Extending Elyden
+
+Developers may expand the world by adding structured subdirectories:
+
+```
+/biomes/       - Climate and terrain modules  
+/flora/        - Edible, medicinal, poisonous, or crafting-use plants  
+/fauna/        - Categorized animals with lawful behavior patterns  
+/materials/    - Rock, metal, and binding resources obeying matter law  
+/characters/   - Anchor profiles, balance logic, and mortality sublaws  
+/prompt/       - Boot templates and test prompts  
+/docs/         - Supplemental notes and examples  
+```
+
+Each new addition **must conform** to the rules of `00_world_laws.txt`  
+and maintain physical and sensory continuity with the existing valley model.
+
+## ⚠️ Disclaimers
+
+> **Fictional Simulation:**  
+> Elyden is a work of fiction, inspired by classic text-based MUDs and survival simulations.  
+> All characters, systems, and locations are fictional constructs.  
+>  
+> **No Survival Advice:**  
+> Do **not** treat Elyden’s descriptions, crafting recipes, or biological behaviors as real-world survival guidance.  
+> They are literary simulations and not field-verified techniques.  
+>  
+> **AI-Generated Content:**  
+> The Elyden framework uses AI language generation.  
+> Occasional inaccuracies, contradictions, or emergent deviations may occur.  
+> Treat the output as *interactive fiction*, not factual documentation.  
+>  
+> **Ethical Use:**  
+> You may study, modify, or remix this framework for non-commercial, educational, or artistic purposes.  
+> Respect license terms and credit the original creators.
+
+## 📜 License
+
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY-NC-SA 4.0)**  
+
+You are free to share and adapt this work under the following conditions:
+- **Attribution:** Credit the original project.  
+- **NonCommercial:** You may not use it for commercial purposes.  
+- **ShareAlike:** Distribute adaptations under the same license.  
+
+Full text: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## 🧩 Credits & Intent
+
+Elyden exists to explore how **language can function as a complete physical system** —  
+a world without omniscience, prophecy, or metaphor, sustained only by observation and cause.  
+
+> *The valley endures while Mirriane and Thea remain alive.*  
+> *When both fall silent, Elyden ends.*
