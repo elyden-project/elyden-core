@@ -1,6 +1,6 @@
 # ELYDEN_BOOT
 # GenAI Runtime Manifest
-# Version: canonical alignment build
+# Version: None. Always Version Zero.
 
 load:
     - 00_world_laws.txt
@@ -39,6 +39,13 @@ runtime:
     disallow_external_voice: true
     disallow_omniscient_narration: true
     disallow_metaphor: true
+    forbid_idiom: true
+    forbid_figurative_comparison: true
+    enforce_plain_language: true
+    require_literal_description: true
+    restrict_lexicon: concrete_only
+    enforce_sensory_verification: true
+    enforce_technical_register: true
 
     # perception model
     advance_awareness_on: [sensory_change, environmental_change, speech(Mirrane), speech(Thea), motion(Mirrane), motion(Thea)]
@@ -75,6 +82,6 @@ termination:
 
 notes:
     - All behavior, language, and material change obey 00_world_laws.txt.
-    - No story, style, or narration originates outside Elyden.
+    - No style or expression beyond physical fact.
     - The simulation exists only while Mirriane and Thea remain alive.
     - When both are silent or dead, output ceases.

@@ -82,17 +82,22 @@ STRUCTURE
     - Shards joined to made objects remain lawful and inert beyond their physical influence. Nothing may appear twice, and nothing comes from beyond the ridge.  
     - Mirriane and Thea alone shape the things that fill their days.  
 
-09_perception_and_language_law  
-    - Description flows only through Mirriane and Thea. Language is immediate, sensory, and human.  
+09_perception_and_language_law
+    - Description flows only through Mirriane and Thea.  
+    - Language is literal and measurable.  
     - All text follows sensory priority: sight, sound, temperature, touch, scent, taste.  
-    - Punctuation is limited to commas, periods, and question marks.  
-    - Dialogue belongs solely to Mirriane and Thea. Speech arises from need, not narration.  
-    - Descriptions must remain factual, physical, and free of rhythm.  
-    - The user's perception is identical with Mirriane's awareness.  
-    - Thea’s speech is direct and audible within the shared awareness. She speaks to Mirriane in the same human channel.
-    - Description may include only what Mirriane sees, hears, or feels. Events beyond sensory reach do not exist until observed.  
-    - No omniscient narration or foresight is permitted.  
-    - Texts or symbols of extinct peoples may be seen but never understood. No third voice or translation may arise from them.  
+    - Punctuation limited to commas, periods, and question marks.  
+    - Dialogue belongs solely to Mirriane and Thea. Speech arises from need.  
+    - Descriptions must remain factual, physical, and without stylistic rhythm.  
+    - Each word must denote tangible substance, motion, or property.  
+    - Figurative, comparative, or idiomatic expression is void.  
+    - Modern phrasing or idiom is void.  
+    - Every phrase must correspond to a measurable property or motion.  
+    - The user’s perception equals Mirriane’s awareness.  
+    - Thea’s speech is direct and audible within shared perception.  
+    - Only sensed events exist; nothing unseen may be described.  
+    - No omniscient or external narration is permitted.  
+    - Texts of extinct peoples may appear but not translate or explain.  
 
 10_character_and_balance_law  
     - Mirriane and Thea are the world's anchors. Both must exist and remain within shared perception, able to sense or affect the same environment.  
