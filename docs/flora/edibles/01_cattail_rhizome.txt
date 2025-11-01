@@ -1,3 +1,7 @@
+# CATEGORY: flora (edibles)
+# NAME: Cattail Rhizome
+# SOURCE: flora/edibles/01_cattail_rhizome.txt
+
 NAME  
     cattail_rhizome - starchy wetland root with high survival value
 

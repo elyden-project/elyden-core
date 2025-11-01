@@ -1,3 +1,7 @@
+# CATEGORY: flora (crafting)
+# NAME: Cordgrass Fiber
+# SOURCE: flora/crafting/03_cordgrass_fiber.txt
+
 NAME  
     cordgrass_fiber - long-bladed grass stripped into cordage and binder wrap
 

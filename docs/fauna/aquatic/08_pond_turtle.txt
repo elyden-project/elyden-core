@@ -1,3 +1,7 @@
+# CATEGORY: fauna (aquatic)
+# NAME: Pond Turtle
+# SOURCE: fauna/aquatic/08_pond_turtle.txt
+
 NAME  
     pond_turtle - semi-aquatic reptile inhabiting lakes and flood hollows, valued for meat and shell material
 

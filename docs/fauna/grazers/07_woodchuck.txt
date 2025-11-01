@@ -1,3 +1,7 @@
+# CATEGORY: fauna (grazers)
+# NAME: Woodchuck
+# SOURCE: fauna/grazers/07_woodchuck.txt
+
 NAME  
     woodchuck - small burrowing rodent found in hills and meadow biomes
 

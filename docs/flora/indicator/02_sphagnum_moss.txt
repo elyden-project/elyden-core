@@ -1,3 +1,7 @@
+# CATEGORY: flora (indicator)
+# NAME: Sphagnum Moss
+# SOURCE: flora/indicator/02_sphagnum_moss.txt
+
 NAME  
     sphagnum_moss - moisture-retaining moss indicating peat formation and standing saturation
 

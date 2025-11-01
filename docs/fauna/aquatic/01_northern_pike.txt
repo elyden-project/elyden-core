@@ -1,3 +1,7 @@
+# CATEGORY: fauna (aquatic)
+# NAME: Northern Pike
+# SOURCE: fauna/aquatic/01_northern_pike.txt
+
 NAME  
     northern_pike - ambush freshwater predator known for sharp teeth and rapid strikes
 

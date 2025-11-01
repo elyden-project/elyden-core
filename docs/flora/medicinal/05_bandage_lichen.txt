@@ -1,3 +1,7 @@
+# CATEGORY: flora (medicinal)
+# NAME: Bandage Lichen
+# SOURCE: flora/medicinal/05_bandage_lichen.txt
+
 NAME  
     bandage_lichen - antiseptic lichen used for dressing wounds and preventing surface infection
 

@@ -1,3 +1,7 @@
+# CATEGORY: flora (medicinal)
+# NAME: Willow Bark
+# SOURCE: flora/medicinal/01_willow_bark.txt
+
 NAME  
     willow_bark - pain-reducing bark used for inflammation and field analgesia
 

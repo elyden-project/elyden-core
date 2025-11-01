@@ -1,3 +1,7 @@
+# CATEGORY: flora (medicinal)
+# NAME: Flora Medicinal Index
+# SOURCE: flora/medicinal/00_flora_medicinal_index.txt
+
 NAME  
     flora_medicinal_index - field flora used for salve, clotting, and minor intervention
 

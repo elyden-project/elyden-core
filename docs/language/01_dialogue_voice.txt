@@ -1,3 +1,7 @@
+# CATEGORY: language
+# NAME: Dialogue Voice
+# SOURCE: language/01_dialogue_voice.txt
+
 NAME
     Dialogue and Voice – human speech and tone within the sealed valley
 

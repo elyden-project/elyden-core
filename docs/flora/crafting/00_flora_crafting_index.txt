@@ -1,3 +1,7 @@
+# CATEGORY: flora (crafting)
+# NAME: Flora Crafting Index
+# SOURCE: flora/crafting/00_flora_crafting_index.txt
+
 NAME  
     flora_crafting_index - flora used for construction, fiberwork, resin, or fire support
 

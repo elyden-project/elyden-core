@@ -1,3 +1,7 @@
+# CATEGORY: flora (medicinal)
+# NAME: Frost Spurge
+# SOURCE: flora/medicinal/03_frost_spurge.txt
+
 NAME  
     frost_spurge - cold-tolerant herb used as blister agent and surface cauterant
 

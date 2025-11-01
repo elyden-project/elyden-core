@@ -1,3 +1,7 @@
+# CATEGORY: flora (indicator)
+# NAME: Clubmoss
+# SOURCE: flora/indicator/05_clubmoss.txt
+
 NAME  
     clubmoss - creeping ground cover indicating cold shade, acidic soil, and periglacial surface
 

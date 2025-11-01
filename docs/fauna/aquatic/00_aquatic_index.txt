@@ -1,3 +1,7 @@
+# CATEGORY: fauna (aquatic)
+# NAME: Aquatic Index
+# SOURCE: fauna/aquatic/00_aquatic_index.txt
+
 NAME  
     aquatic_index - water-bound and semi-aquatic fauna inhabiting lakes, swamps, and runoff zones
 

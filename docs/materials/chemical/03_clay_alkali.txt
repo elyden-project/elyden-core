@@ -1,3 +1,7 @@
+# CATEGORY: materials (chemical)
+# NAME: Clay Alkali
+# SOURCE: materials/chemical/03_clay_alkali.txt
+
 NAME
     clay alkali - caustic sediment used in tanning and cleaning
 

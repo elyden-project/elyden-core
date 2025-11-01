@@ -1,3 +1,7 @@
+# CATEGORY: crafting (weapons)
+# NAME: Axes
+# SOURCE: crafting/weapons/03_axes.txt
+
 NAME
     axes
 

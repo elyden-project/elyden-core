@@ -1,3 +1,7 @@
+# CATEGORY: materials (mineral)
+# NAME: Limestone
+# SOURCE: materials/mineral/02_limestone.txt
+
 NAME
     limestone - soft pale rock used for powder and purification
 

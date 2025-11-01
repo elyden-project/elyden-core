@@ -1,3 +1,7 @@
+# CATEGORY: fauna (signals)
+# NAME: Cicada
+# SOURCE: fauna/signals/04_cicada.txt
+
 NAME  
     cicada - seasonal drone emitter used to monitor heat stability and canopy silence
 

@@ -1,3 +1,7 @@
+# CATEGORY: fauna (signals)
+# NAME: Meadowlark
+# SOURCE: fauna/signals/06_meadowlark.txt
+
 NAME  
     meadowlark - flute-toned ground bird used to assess air clarity and territorial calm
 

@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Ash Field
+# SOURCE: biomes/17_ash_field.txt
+
 NAME  
     ash_field - sterile flatland with particulate soil and residual heat
 

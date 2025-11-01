@@ -1,3 +1,7 @@
+# CATEGORY: fauna (megafauna)
+# NAME: Megafauna Index
+# SOURCE: fauna/megafauna/00_megafauna_index.txt
+
 NAME  
     megafauna_index - rare solitary organisms of extreme scale and ecological dominance
 

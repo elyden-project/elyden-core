@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Deciduous Forest
+# SOURCE: biomes/06_deciduous_forest.txt
+
 NAME  
     deciduous_forest - seasonal broadleaf canopy with layered undergrowth
 

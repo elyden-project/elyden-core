@@ -1,3 +1,7 @@
+# CATEGORY: materials (mineral)
+# NAME: Quartz
+# SOURCE: materials/mineral/01_quartz.txt
+
 NAME
     quartz - hard crystal used for scraping and spark ignition
 

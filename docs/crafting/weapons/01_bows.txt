@@ -1,3 +1,7 @@
+# CATEGORY: crafting (weapons)
+# NAME: Bows
+# SOURCE: crafting/weapons/01_bows.txt
+
 NAME
     bows
 

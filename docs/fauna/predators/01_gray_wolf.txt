@@ -1,3 +1,7 @@
+# CATEGORY: fauna (predators)
+# NAME: Gray Wolf
+# SOURCE: fauna/predators/01_gray_wolf.txt
+
 NAME  
     gray_wolf - territorial pack predator common to forests and plains
 

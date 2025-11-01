@@ -1,3 +1,7 @@
+# CATEGORY: flora (edibles)
+# NAME: Bluegrass Seeds
+# SOURCE: flora/edibles/04_bluegrass_seeds.txt
+
 NAME  
     bluegrass_seeds - clustered grass seed used for coarse meal and ration filler
 

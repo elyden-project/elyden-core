@@ -1,3 +1,7 @@
+# CATEGORY: characters
+# NAME: Character Laws
+# SOURCE: characters/00_character_laws.txt
+
 NAME
     Character Laws – human anchors and first tools of the sealed valley
 

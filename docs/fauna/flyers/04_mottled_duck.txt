@@ -1,3 +1,7 @@
+# CATEGORY: fauna (flyers)
+# NAME: Mottled Duck
+# SOURCE: fauna/flyers/04_mottled_duck.txt
+
 NAME  
     mottled_duck - medium-sized waterfowl inhabiting swamps and lakes with dense vegetation
 

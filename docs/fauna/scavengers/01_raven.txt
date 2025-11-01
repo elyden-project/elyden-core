@@ -1,3 +1,7 @@
+# CATEGORY: fauna (scavengers)
+# NAME: Raven
+# SOURCE: fauna/scavengers/01_raven.txt
+
 NAME  
     raven - intelligent scavenger associated with carrion and human detritus
 

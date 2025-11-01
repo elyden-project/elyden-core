@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Meadow
+# SOURCE: biomes/02_meadow.txt
+
 NAME  
     meadow - open lowland with seasonal growth and shallow biodiversity
 

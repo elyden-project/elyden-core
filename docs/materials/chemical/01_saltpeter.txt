@@ -1,3 +1,7 @@
+# CATEGORY: materials (chemical)
+# NAME: Saltpeter
+# SOURCE: materials/chemical/01_saltpeter.txt
+
 NAME
     saltpeter - nitrate crystals used for curing and preservation
 

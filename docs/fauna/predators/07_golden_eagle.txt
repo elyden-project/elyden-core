@@ -1,3 +1,7 @@
+# CATEGORY: fauna (predators)
+# NAME: Golden Eagle
+# SOURCE: fauna/predators/07_golden_eagle.txt
+
 NAME  
     golden_eagle - territorial raptor soaring over plains and badlands
 

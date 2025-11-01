@@ -1,3 +1,7 @@
+# CATEGORY: .
+# NAME: Megafauna
+# SOURCE: 06_megafauna.txt
+
 NAME  
     megafauna - surviving apex organisms from pre-collapse ecosystems
 

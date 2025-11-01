@@ -1,3 +1,7 @@
+# CATEGORY: fauna (aquatic)
+# NAME: Common Toad
+# SOURCE: fauna/aquatic/06_common_toad.txt
+
 NAME  
     common_toad - resilient amphibian inhabiting wet slopes and flood hollows, used as supplemental protein
 

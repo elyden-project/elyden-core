@@ -1,3 +1,7 @@
+# CATEGORY: fauna (grazers)
+# NAME: Snowshoe Hare
+# SOURCE: fauna/grazers/01_snowshoe_hare.txt
+
 NAME  
     snowshoe_hare - small seasonal grazer used for meat, hide, and trap calibration
 

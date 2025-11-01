@@ -1,3 +1,7 @@
+# CATEGORY: flora (edibles)
+# NAME: Lambs Quarters
+# SOURCE: flora/edibles/10_lambs_quarters.txt
+
 NAME  
     lambs_quarters - fast-growing leafy green with high mineral content
 

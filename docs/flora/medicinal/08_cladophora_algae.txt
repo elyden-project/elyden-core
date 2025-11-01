@@ -1,3 +1,7 @@
+# CATEGORY: flora (medicinal)
+# NAME: Cladophora Algae
+# SOURCE: flora/medicinal/08_cladophora_algae.txt
+
 NAME  
     cladophora_algae - filamentous freshwater algae used for cooling and surface moisture buffering
 

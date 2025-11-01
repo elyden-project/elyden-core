@@ -1,3 +1,7 @@
+# CATEGORY: materials (organic)
+# NAME: Fat Tallow
+# SOURCE: materials/organic/04_fat_tallow.txt
+
 NAME
     fat tallow - rendered animal fat for light and sealant
 

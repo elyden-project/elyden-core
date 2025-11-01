@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Plains
+# SOURCE: biomes/01_plains.txt
+
 NAME  
     plains - open lowland terrain with sparse vegetation and high exposure
 

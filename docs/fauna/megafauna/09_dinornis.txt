@@ -1,3 +1,7 @@
+# CATEGORY: fauna (megafauna)
+# NAME: Dinornis
+# SOURCE: fauna/megafauna/09_dinornis.txt
+
 NAME  
     dinornis - giant flightless bird inhabiting swamp and flood hollow biomes
 

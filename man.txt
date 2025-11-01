@@ -1,6 +1,10 @@
 
 %%% 00_world_laws.txt %%%
 
+# CATEGORY: .
+# NAME: World Laws
+# SOURCE: 00_world_laws.txt
+
 NAME  
     world_laws - immutable foundations of Elyden's stability  
 
@@ -135,6 +139,10 @@ NOTES
 
 %%% 01_world_history.txt %%%
 
+# CATEGORY: .
+# NAME: World History
+# SOURCE: 01_world_history.txt
+
 NAME  
     world_history - record of lunar order, the collapse of Vaeronth, and the  
                    arrival of Khyrael
@@ -192,6 +200,10 @@ DESCRIPTION
 
 %%% 02_sealed_valley.txt %%%
 
+# CATEGORY: .
+# NAME: Sealed Valley
+# SOURCE: 02_sealed_valley.txt
+
 NAME  
     sealed_valley - record of the last survivable region
 
@@ -223,6 +235,10 @@ DESCRIPTION
     alignment has occurred since.
 
 %%% 03_valley_overview.txt %%%
+
+# CATEGORY: .
+# NAME: Valley Overview
+# SOURCE: 03_valley_overview.txt
 
 NAME  
     valley_overview - last habitable terrain following planetary collapse
@@ -258,6 +274,10 @@ DESCRIPTION
 
 
 %%% 04_ruin_structures.txt %%%
+
+# CATEGORY: .
+# NAME: Ruin Structures
+# SOURCE: 04_ruin_structures.txt
 
 NAME  
     ruin_structures - surviving monuments to the celestial order
@@ -305,6 +325,10 @@ DESCRIPTION
     are the last structures tied to the celestial order.
 %%% 05_shard_behavior.txt %%%
 
+# CATEGORY: .
+# NAME: Shard Behavior
+# SOURCE: 05_shard_behavior.txt
+
 NAME  
     shard_behavior - inert celestial fragments retained by megafauna
 
@@ -340,6 +364,10 @@ DESCRIPTION
     biological effect has been recorded from exposure.
 %%% 06_megafauna.txt %%%
 
+# CATEGORY: .
+# NAME: Megafauna
+# SOURCE: 06_megafauna.txt
+
 NAME  
     megafauna - surviving apex organisms from pre-collapse ecosystems
 
@@ -370,6 +398,10 @@ DESCRIPTION
     It is never discussed.
 
 %%% biomes/00_biome_index.txt %%%
+
+# CATEGORY: biomes
+# NAME: Biome Index
+# SOURCE: biomes/00_biome_index.txt
 
 NAME  
     biome_index - stable terrain zones observed within the sealed valley
@@ -417,6 +449,10 @@ LIST
 
 %%% biomes/01_plains.txt %%%
 
+# CATEGORY: biomes
+# NAME: Plains
+# SOURCE: biomes/01_plains.txt
+
 NAME  
     plains - open lowland terrain with sparse vegetation and high exposure
 
@@ -447,6 +483,10 @@ ZONE TRAITS
     - Threat Level:   low
 
 %%% biomes/02_meadow.txt %%%
+
+# CATEGORY: biomes
+# NAME: Meadow
+# SOURCE: biomes/02_meadow.txt
 
 NAME  
     meadow - open lowland with seasonal growth and shallow biodiversity
@@ -479,6 +519,10 @@ ZONE TRAITS
 
 %%% biomes/03_hills.txt %%%
 
+# CATEGORY: biomes
+# NAME: Hills
+# SOURCE: biomes/03_hills.txt
+
 NAME  
     hills - uneven terrain with low soil stability and limited vegetation
 
@@ -507,6 +551,10 @@ ZONE TRAITS
     - Threat Level:   moderate
 
 %%% biomes/04_mixed_forest.txt %%%
+
+# CATEGORY: biomes
+# NAME: Mixed Forest
+# SOURCE: biomes/04_mixed_forest.txt
 
 NAME  
     mixed_forest - transitional canopy zone with interlaced deciduous and evergreen growth
@@ -540,6 +588,10 @@ ZONE TRAITS
 
 %%% biomes/05_evergreen_forest.txt %%%
 
+# CATEGORY: biomes
+# NAME: Evergreen Forest
+# SOURCE: biomes/05_evergreen_forest.txt
+
 NAME  
     evergreen_forest - high-canopy coniferous zone with minimal undergrowth
 
@@ -571,6 +623,10 @@ ZONE TRAITS
     - Threat Level:   high
 
 %%% biomes/06_deciduous_forest.txt %%%
+
+# CATEGORY: biomes
+# NAME: Deciduous Forest
+# SOURCE: biomes/06_deciduous_forest.txt
 
 NAME  
     deciduous_forest - seasonal broadleaf canopy with layered undergrowth
@@ -604,6 +660,10 @@ ZONE TRAITS
 
 %%% biomes/07_swamp.txt %%%
 
+# CATEGORY: biomes
+# NAME: Swamp
+# SOURCE: biomes/07_swamp.txt
+
 NAME  
     swamp - waterlogged lowland with unstable footing and high biomass
 
@@ -636,6 +696,10 @@ ZONE TRAITS
 
 %%% biomes/08_lake.txt %%%
 
+# CATEGORY: biomes
+# NAME: Lake
+# SOURCE: biomes/08_lake.txt
+
 NAME  
     lake - static freshwater body with exposed perimeter and unstable margins
 
@@ -667,6 +731,10 @@ ZONE TRAITS
 
 %%% biomes/09_wet_slope.txt %%%
 
+# CATEGORY: biomes
+# NAME: Wet Slope
+# SOURCE: biomes/09_wet_slope.txt
+
 NAME  
     wet_slope - geothermal incline with persistent moisture and unstable terrain
 
@@ -697,6 +765,10 @@ ZONE TRAITS
     - Threat Level:   low
 
 %%% biomes/10_flood_hollow.txt %%%
+
+# CATEGORY: biomes
+# NAME: Flood Hollow
+# SOURCE: biomes/10_flood_hollow.txt
 
 NAME  
     flood_hollow - low basin with seasonal water saturation and dense vegetation
@@ -730,6 +802,10 @@ ZONE TRAITS
 
 %%% biomes/11_tundra.txt %%%
 
+# CATEGORY: biomes
+# NAME: Tundra
+# SOURCE: biomes/11_tundra.txt
+
 NAME  
     tundra - cold flatland with frozen subsoil and minimal vegetation
 
@@ -761,6 +837,10 @@ ZONE TRAITS
     - Threat Level:   moderate
 
 %%% biomes/12_glacier.txt %%%
+
+# CATEGORY: biomes
+# NAME: Glacier
+# SOURCE: biomes/12_glacier.txt
 
 NAME  
     glacier - moving ice mass with fractured surfaces and unstable depth
@@ -797,6 +877,10 @@ ZONE TRAITS
 
 %%% biomes/13_ice_shelf.txt %%%
 
+# CATEGORY: biomes
+# NAME: Ice Shelf
+# SOURCE: biomes/13_ice_shelf.txt
+
 NAME  
     ice_shelf - static frost zone with brittle crust and sublayer voids
 
@@ -832,6 +916,10 @@ ZONE TRAITS
 
 %%% biomes/14_frost_sink.txt %%%
 
+# CATEGORY: biomes
+# NAME: Frost Sink
+# SOURCE: biomes/14_frost_sink.txt
+
 NAME  
     frost_sink - enclosed depression with persistent cold and trapped permafrost
 
@@ -861,6 +949,10 @@ ZONE TRAITS
     - Threat Level:   high
 
 %%% biomes/15_unclimbable_ridge.txt %%%
+
+# CATEGORY: biomes
+# NAME: Unclimbable Ridge
+# SOURCE: biomes/15_unclimbable_ridge.txt
 
 NAME  
     unclimbable_ridge - tectonic wall enclosing the valley’s outer limit
@@ -892,6 +984,10 @@ ZONE TRAITS
     - Threat Level:   extreme
 
 %%% biomes/16_volcanic_slope.txt %%%
+
+# CATEGORY: biomes
+# NAME: Volcanic Slope
+# SOURCE: biomes/16_volcanic_slope.txt
 
 NAME  
     volcanic_slope - geothermal incline with exposed vents and unstable crust
@@ -925,6 +1021,10 @@ ZONE TRAITS
     - Threat Level:   extreme
 
 %%% biomes/17_ash_field.txt %%%
+
+# CATEGORY: biomes
+# NAME: Ash Field
+# SOURCE: biomes/17_ash_field.txt
 
 NAME  
     ash_field - sterile flatland with particulate soil and residual heat
@@ -961,6 +1061,10 @@ ZONE TRAITS
 
 %%% biomes/18_badlands.txt %%%
 
+# CATEGORY: biomes
+# NAME: Badlands
+# SOURCE: biomes/18_badlands.txt
+
 NAME  
     badlands - eroded terrain with fractured sediment and unstable elevation
 
@@ -991,6 +1095,10 @@ ZONE TRAITS
     - Threat Level:   moderate
 
 %%% characters/00_character_laws.txt %%%
+
+# CATEGORY: characters
+# NAME: Character Laws
+# SOURCE: characters/00_character_laws.txt
 
 NAME
     Character Laws – human anchors and first tools of the sealed valley
@@ -1107,6 +1215,10 @@ STRUCTURE
 
 %%% crafting/00_crafting_index.txt %%%
 
+# CATEGORY: crafting
+# NAME: Crafting Index
+# SOURCE: crafting/00_crafting_index.txt
+
 NAME
     crafting index
 
@@ -1135,6 +1247,10 @@ NOTES
     Every object that endures does so because the hands remember.
 
 %%% crafting/armor/00_armor_index.txt %%%
+
+# CATEGORY: crafting (armor)
+# NAME: Armor Index
+# SOURCE: crafting/armor/00_armor_index.txt
 
 NAME
     armor index
@@ -1166,6 +1282,10 @@ NOTES
 
 %%% crafting/armor/01_hidework.txt %%%
 
+# CATEGORY: crafting (armor)
+# NAME: Hidework
+# SOURCE: crafting/armor/01_hidework.txt
+
 NAME
     hidework
 
@@ -1194,6 +1314,10 @@ NOTES
     Every piece of hidework repeats that conversation.
 
 %%% crafting/armor/02_bonework.txt %%%
+
+# CATEGORY: crafting (armor)
+# NAME: Bonework
+# SOURCE: crafting/armor/02_bonework.txt
 
 NAME
     bonework
@@ -1224,6 +1348,10 @@ NOTES
 
 %%% crafting/armor/03_reedpadding.txt %%%
 
+# CATEGORY: crafting (armor)
+# NAME: Reedpadding
+# SOURCE: crafting/armor/03_reedpadding.txt
+
 NAME
     reedpadding
 
@@ -1252,6 +1380,10 @@ NOTES
     It teaches that defense can be found in gentleness.
 
 %%% crafting/armor/04_shields.txt %%%
+
+# CATEGORY: crafting (armor)
+# NAME: Shields
+# SOURCE: crafting/armor/04_shields.txt
 
 NAME
     shields
@@ -1282,6 +1414,10 @@ NOTES
     Its worth is measured in what it prevents, not what it endures.
 
 %%% crafting/armor/05_trophies.txt %%%
+
+# CATEGORY: crafting (armor)
+# NAME: Trophies
+# SOURCE: crafting/armor/05_trophies.txt
 
 NAME
     trophies
@@ -1314,6 +1450,10 @@ NOTES
 
 %%% crafting/tools/00_tools_index.txt %%%
 
+# CATEGORY: crafting (tools)
+# NAME: Tools Index
+# SOURCE: crafting/tools/00_tools_index.txt
+
 NAME
     tools index
 
@@ -1345,6 +1485,10 @@ NOTES
 
 %%% crafting/tools/01_firemaking.txt %%%
 
+# CATEGORY: crafting (tools)
+# NAME: Firemaking
+# SOURCE: crafting/tools/01_firemaking.txt
+
 NAME
     firemaking
 
@@ -1373,6 +1517,10 @@ NOTES
     Those who keep the ember keep the law of warmth.
 
 %%% crafting/tools/02_cutting.txt %%%
+
+# CATEGORY: crafting (tools)
+# NAME: Cutting
+# SOURCE: crafting/tools/02_cutting.txt
 
 NAME
     cutting
@@ -1403,6 +1551,10 @@ NOTES
 
 %%% crafting/tools/03_binding.txt %%%
 
+# CATEGORY: crafting (tools)
+# NAME: Binding
+# SOURCE: crafting/tools/03_binding.txt
+
 NAME
     binding
 
@@ -1431,6 +1583,10 @@ NOTES
     What endures does so because it is remade.
 
 %%% crafting/tools/04_gathering.txt %%%
+
+# CATEGORY: crafting (tools)
+# NAME: Gathering
+# SOURCE: crafting/tools/04_gathering.txt
 
 NAME
     gathering
@@ -1461,6 +1617,10 @@ NOTES
 
 %%% crafting/tools/05_repair.txt %%%
 
+# CATEGORY: crafting (tools)
+# NAME: Repair
+# SOURCE: crafting/tools/05_repair.txt
+
 NAME
     repair
 
@@ -1490,6 +1650,10 @@ NOTES
 
 %%% crafting/tools/06_waterwork.txt %%%
 
+# CATEGORY: crafting (tools)
+# NAME: Waterwork
+# SOURCE: crafting/tools/06_waterwork.txt
+
 NAME
     waterwork
 
@@ -1517,6 +1681,10 @@ NOTES
     The patient learn from its silence how to endure.
 
 %%% crafting/weapons/00_weapons_index.txt %%%
+
+# CATEGORY: crafting (weapons)
+# NAME: Weapons Index
+# SOURCE: crafting/weapons/00_weapons_index.txt
 
 NAME
     weapons index
@@ -1549,6 +1717,10 @@ NOTES
 
 %%% crafting/weapons/01_bows.txt %%%
 
+# CATEGORY: crafting (weapons)
+# NAME: Bows
+# SOURCE: crafting/weapons/01_bows.txt
+
 NAME
     bows
 
@@ -1580,6 +1752,10 @@ NOTES
 
 %%% crafting/weapons/02_arrows.txt %%%
 
+# CATEGORY: crafting (weapons)
+# NAME: Arrows
+# SOURCE: crafting/weapons/02_arrows.txt
+
 NAME
     arrows
 
@@ -1610,6 +1786,10 @@ NOTES
 
 %%% crafting/weapons/03_axes.txt %%%
 
+# CATEGORY: crafting (weapons)
+# NAME: Axes
+# SOURCE: crafting/weapons/03_axes.txt
+
 NAME
     axes
 
@@ -1638,6 +1818,10 @@ NOTES
     Its dullness at dusk speaks of work completed.
 
 %%% crafting/weapons/04_spears.txt %%%
+
+# CATEGORY: crafting (weapons)
+# NAME: Spears
+# SOURCE: crafting/weapons/04_spears.txt
 
 NAME
     spears
@@ -1668,6 +1852,10 @@ NOTES
 
 %%% crafting/weapons/05_clubs.txt %%%
 
+# CATEGORY: crafting (weapons)
+# NAME: Clubs
+# SOURCE: crafting/weapons/05_clubs.txt
+
 NAME
     clubs
 
@@ -1696,6 +1884,10 @@ NOTES
     It trusts only in closeness and resolve.
 
 %%% crafting/weapons/06_thrown.txt %%%
+
+# CATEGORY: crafting (weapons)
+# NAME: Thrown
+# SOURCE: crafting/weapons/06_thrown.txt
 
 NAME
     thrown weapons
@@ -1726,6 +1918,10 @@ NOTES
     Each throw is a brief surrender to gravity and chance.
 
 %%% fauna/aquatic/00_aquatic_index.txt %%%
+
+# CATEGORY: fauna (aquatic)
+# NAME: Aquatic Index
+# SOURCE: fauna/aquatic/00_aquatic_index.txt
 
 NAME  
     aquatic_index - water-bound and semi-aquatic fauna inhabiting lakes, swamps, and runoff zones
@@ -1796,6 +1992,10 @@ INDEXED ENTRIES
 
 %%% fauna/aquatic/01_northern_pike.txt %%%
 
+# CATEGORY: fauna (aquatic)
+# NAME: Northern Pike
+# SOURCE: fauna/aquatic/01_northern_pike.txt
+
 NAME  
     northern_pike - ambush freshwater predator known for sharp teeth and rapid strikes
 
@@ -1822,6 +2022,10 @@ SCIENTIFIC NAME
 
 %%% fauna/aquatic/02_brown_trout.txt %%%
 
+# CATEGORY: fauna (aquatic)
+# NAME: Brown Trout
+# SOURCE: fauna/aquatic/02_brown_trout.txt
+
 NAME  
     brown_trout - adaptable freshwater fish prized for firm flesh and active behavior
 
@@ -1846,6 +2050,10 @@ SCIENTIFIC NAME
     Salmo trutta
 
 %%% fauna/aquatic/03_freshwater_eel.txt %%%
+
+# CATEGORY: fauna (aquatic)
+# NAME: Freshwater Eel
+# SOURCE: fauna/aquatic/03_freshwater_eel.txt
 
 NAME  
     freshwater_eel - elongated nocturnal predator inhabiting swampy and slow-moving waters
@@ -1872,6 +2080,10 @@ SCIENTIFIC NAME
 
 %%% fauna/aquatic/04_muskrat.txt %%%
 
+# CATEGORY: fauna (aquatic)
+# NAME: Muskrat
+# SOURCE: fauna/aquatic/04_muskrat.txt
+
 NAME  
     muskrat - small semi-aquatic rodent valued for fur and meat in wetland zones
 
@@ -1895,6 +2107,10 @@ SCIENTIFIC NAME
     Ondatra zibethicus
 
 %%% fauna/aquatic/05_bullfrog.txt %%%
+
+# CATEGORY: fauna (aquatic)
+# NAME: Bullfrog
+# SOURCE: fauna/aquatic/05_bullfrog.txt
 
 NAME  
     bullfrog - large amphibian common in wetlands, valued for meat and signaling
@@ -1921,6 +2137,10 @@ SCIENTIFIC NAME
 
 %%% fauna/aquatic/06_common_toad.txt %%%
 
+# CATEGORY: fauna (aquatic)
+# NAME: Common Toad
+# SOURCE: fauna/aquatic/06_common_toad.txt
+
 NAME  
     common_toad - resilient amphibian inhabiting wet slopes and flood hollows, used as supplemental protein
 
@@ -1944,6 +2164,10 @@ SCIENTIFIC NAME
     Bufo bufo
 
 %%% fauna/aquatic/07_northern_water_snake.txt %%%
+
+# CATEGORY: fauna (aquatic)
+# NAME: Northern Water Snake
+# SOURCE: fauna/aquatic/07_northern_water_snake.txt
 
 NAME  
     northern_water_snake - non-venomous aquatic snake inhabiting swamps and lakes, active predator of fish and amphibians
@@ -1969,6 +2193,10 @@ SCIENTIFIC NAME
 
 %%% fauna/aquatic/08_pond_turtle.txt %%%
 
+# CATEGORY: fauna (aquatic)
+# NAME: Pond Turtle
+# SOURCE: fauna/aquatic/08_pond_turtle.txt
+
 NAME  
     pond_turtle - semi-aquatic reptile inhabiting lakes and flood hollows, valued for meat and shell material
 
@@ -1992,6 +2220,10 @@ SCIENTIFIC NAME
     Emys orbicularis
 
 %%% fauna/aquatic/09_crayfish.txt %%%
+
+# CATEGORY: fauna (aquatic)
+# NAME: Crayfish
+# SOURCE: fauna/aquatic/09_crayfish.txt
 
 NAME  
     crayfish - small freshwater crustacean inhabiting lakes and swamps, used for protein and bait
@@ -2017,6 +2249,10 @@ SCIENTIFIC NAME
 
 %%% fauna/aquatic/10_river_otter.txt %%%
 
+# CATEGORY: fauna (aquatic)
+# NAME: River Otter
+# SOURCE: fauna/aquatic/10_river_otter.txt
+
 NAME  
     river_otter - medium-sized semi-aquatic mammal inhabiting lakes and flood hollows, valued for fur and meat
 
@@ -2040,6 +2276,10 @@ SCIENTIFIC NAME
     Lontra canadensis
 
 %%% fauna/fauna_index.txt %%%
+
+# CATEGORY: fauna
+# NAME: Fauna Index
+# SOURCE: fauna/fauna_index.txt
 
 NAME  
     fauna_index - overview of fauna classification by survival function
@@ -2088,6 +2328,10 @@ CATEGORY STRUCTURE
 
 
 %%% fauna/flyers/00_flyers_index.txt %%%
+
+# CATEGORY: fauna (flyers)
+# NAME: Flyers Index
+# SOURCE: fauna/flyers/00_flyers_index.txt
 
 NAME  
     flyers_index - winged fauna with navigational, environmental, or survival relevance
@@ -2157,6 +2401,10 @@ INDEXED ENTRIES
 
 %%% fauna/flyers/01_barred_owl.txt %%%
 
+# CATEGORY: fauna (flyers)
+# NAME: Barred Owl
+# SOURCE: fauna/flyers/01_barred_owl.txt
+
 NAME  
     barred_owl - medium-sized nocturnal predator and environmental indicator in forested hills
 
@@ -2181,6 +2429,10 @@ SCIENTIFIC NAME
 
 %%% fauna/flyers/02_red_tailed_hawk.txt %%%
 
+# CATEGORY: fauna (flyers)
+# NAME: Red Tailed Hawk
+# SOURCE: fauna/flyers/02_red_tailed_hawk.txt
+
 NAME  
     red_tailed_hawk - widespread raptor known for soaring flight and keen eyesight
 
@@ -2204,6 +2456,10 @@ SCIENTIFIC NAME
     Buteo jamaicensis
 
 %%% fauna/flyers/03_greylag_goose.txt %%%
+
+# CATEGORY: fauna (flyers)
+# NAME: Greylag Goose
+# SOURCE: fauna/flyers/03_greylag_goose.txt
 
 NAME  
     greylag_goose - large migratory waterfowl common in wetlands and meadow margins
@@ -2230,6 +2486,10 @@ SCIENTIFIC NAME
 
 %%% fauna/flyers/04_mottled_duck.txt %%%
 
+# CATEGORY: fauna (flyers)
+# NAME: Mottled Duck
+# SOURCE: fauna/flyers/04_mottled_duck.txt
+
 NAME  
     mottled_duck - medium-sized waterfowl inhabiting swamps and lakes with dense vegetation
 
@@ -2253,6 +2513,10 @@ SCIENTIFIC NAME
     Anas fulvigula
 
 %%% fauna/flyers/05_barn_swallow.txt %%%
+
+# CATEGORY: fauna (flyers)
+# NAME: Barn Swallow
+# SOURCE: fauna/flyers/05_barn_swallow.txt
 
 NAME  
     barn_swallow - small aerial insectivore common near open plains and water bodies
@@ -2278,6 +2542,10 @@ SCIENTIFIC NAME
 
 %%% fauna/flyers/06_black_billed_magpie.txt %%%
 
+# CATEGORY: fauna (flyers)
+# NAME: Black Billed Magpie
+# SOURCE: fauna/flyers/06_black_billed_magpie.txt
+
 NAME  
     black_billed_magpie - medium-small omnivorous bird common in mixed and deciduous forests
 
@@ -2301,6 +2569,10 @@ SCIENTIFIC NAME
     Pica hudsonia
 
 %%% fauna/flyers/07_crow.txt %%%
+
+# CATEGORY: fauna (flyers)
+# NAME: Crow
+# SOURCE: fauna/flyers/07_crow.txt
 
 NAME  
     crow - medium-small omnivorous bird common in plains and swamp biomes
@@ -2326,6 +2598,10 @@ SCIENTIFIC NAME
 
 %%% fauna/flyers/08_peregrine_falcon.txt %%%
 
+# CATEGORY: fauna (flyers)
+# NAME: Peregrine Falcon
+# SOURCE: fauna/flyers/08_peregrine_falcon.txt
+
 NAME  
     peregrine_falcon - fast aerial predator found in badlands and glacier zones
 
@@ -2350,6 +2626,10 @@ SCIENTIFIC NAME
 
 %%% fauna/flyers/09_snowy_owl.txt %%%
 
+# CATEGORY: fauna (flyers)
+# NAME: Snowy Owl
+# SOURCE: fauna/flyers/09_snowy_owl.txt
+
 NAME  
     snowy_owl - large cold-adapted raptor inhabiting tundra and ice shelf zones
 
@@ -2372,6 +2652,10 @@ SCIENTIFIC NAME
     Bubo scandiacus
 
 %%% fauna/flyers/10_rock_pigeon.txt %%%
+
+# CATEGORY: fauna (flyers)
+# NAME: Rock Pigeon
+# SOURCE: fauna/flyers/10_rock_pigeon.txt
 
 NAME  
     rock_pigeon - small urban-adapted bird found in hills and ruins
@@ -2396,6 +2680,10 @@ SCIENTIFIC NAME
     Columba livia
 
 %%% fauna/grazers/00_grazers_index.txt %%%
+
+# CATEGORY: fauna (grazers)
+# NAME: Grazers Index
+# SOURCE: fauna/grazers/00_grazers_index.txt
 
 NAME  
     grazers_index - non-predatory herbivorous fauna used for food, hide, or field tracking
@@ -2468,6 +2756,10 @@ INDEXED ENTRIES
 
 %%% fauna/grazers/01_snowshoe_hare.txt %%%
 
+# CATEGORY: fauna (grazers)
+# NAME: Snowshoe Hare
+# SOURCE: fauna/grazers/01_snowshoe_hare.txt
+
 NAME  
     snowshoe_hare - small seasonal grazer used for meat, hide, and trap calibration
 
@@ -2495,6 +2787,10 @@ SCIENTIFIC NAME
 
 %%% fauna/grazers/02_elk.txt %%%
 
+# CATEGORY: fauna (grazers)
+# NAME: Elk
+# SOURCE: fauna/grazers/02_elk.txt
+
 NAME  
     elk - large migratory herbivore valued for meat, hide, and antler use
 
@@ -2520,6 +2816,10 @@ SCIENTIFIC NAME
     Cervus canadensis
 
 %%% fauna/grazers/03_musk_ox.txt %%%
+
+# CATEGORY: fauna (grazers)
+# NAME: Musk Ox
+# SOURCE: fauna/grazers/03_musk_ox.txt
 
 NAME  
     musk_ox - large tundra grazer with thick insulating coat, adapted for cold environments
@@ -2547,6 +2847,10 @@ SCIENTIFIC NAME
 
 %%% fauna/grazers/04_roe_deer.txt %%%
 
+# CATEGORY: fauna (grazers)
+# NAME: Roe Deer
+# SOURCE: fauna/grazers/04_roe_deer.txt
+
 NAME  
     roe_deer - medium-sized, agile herbivore occupying meadows, plains, and deciduous forests
 
@@ -2572,6 +2876,10 @@ SCIENTIFIC NAME
 
 %%% fauna/grazers/05_ptarmigan.txt %%%
 
+# CATEGORY: fauna (grazers)
+# NAME: Ptarmigan
+# SOURCE: fauna/grazers/05_ptarmigan.txt
+
 NAME  
     ptarmigan - small ground bird adapted to tundra and mixed forest environments
 
@@ -2595,6 +2903,10 @@ SCIENTIFIC NAME
 
 %%% fauna/grazers/06_beaver.txt %%%
 
+# CATEGORY: fauna (grazers)
+# NAME: Beaver
+# SOURCE: fauna/grazers/06_beaver.txt
+
 NAME  
     beaver - medium-sized semi-aquatic rodent known for dam-building and fur
 
@@ -2617,6 +2929,10 @@ SCIENTIFIC NAME
     Castor canadensis
 
 %%% fauna/grazers/07_woodchuck.txt %%%
+
+# CATEGORY: fauna (grazers)
+# NAME: Woodchuck
+# SOURCE: fauna/grazers/07_woodchuck.txt
 
 NAME  
     woodchuck - small burrowing rodent found in hills and meadow biomes
@@ -2642,6 +2958,10 @@ SCIENTIFIC NAME
 
 %%% fauna/grazers/08_wild_goat.txt %%%
 
+# CATEGORY: fauna (grazers)
+# NAME: Wild Goat
+# SOURCE: fauna/grazers/08_wild_goat.txt
+
 NAME  
     wild_goat - medium-sized herbivore inhabiting badlands and hills, valued for meat and hide
 
@@ -2665,6 +2985,10 @@ SCIENTIFIC NAME
     Capra aegagrus
 
 %%% fauna/grazers/09_bison.txt %%%
+
+# CATEGORY: fauna (grazers)
+# NAME: Bison
+# SOURCE: fauna/grazers/09_bison.txt
 
 NAME  
     bison - massive grazing mammal inhabiting plains, a high-yield source of meat and hide
@@ -2690,6 +3014,10 @@ SCIENTIFIC NAME
 
 %%% fauna/grazers/10_moose.txt %%%
 
+# CATEGORY: fauna (grazers)
+# NAME: Moose
+# SOURCE: fauna/grazers/10_moose.txt
+
 NAME  
     moose - massive cold-adapted herbivore found in swamps and evergreen forests
 
@@ -2713,6 +3041,10 @@ SCIENTIFIC NAME
     Alces alces
 
 %%% fauna/megafauna/00_megafauna_index.txt %%%
+
+# CATEGORY: fauna (megafauna)
+# NAME: Megafauna Index
+# SOURCE: fauna/megafauna/00_megafauna_index.txt
 
 NAME  
     megafauna_index - rare solitary organisms of extreme scale and ecological dominance
@@ -2783,6 +3115,10 @@ INDEXED ENTRIES
 
 %%% fauna/megafauna/01_woolly_mammoth.txt %%%
 
+# CATEGORY: fauna (megafauna)
+# NAME: Woolly Mammoth
+# SOURCE: fauna/megafauna/01_woolly_mammoth.txt
+
 NAME  
     woolly_mammoth - colossal Ice Age herbivore adapted to tundra and frost sink biomes
 
@@ -2807,6 +3143,10 @@ SCIENTIFIC NAME
 
 
 %%% fauna/megafauna/02_cave_bear.txt %%%
+
+# CATEGORY: fauna (megafauna)
+# NAME: Cave Bear
+# SOURCE: fauna/megafauna/02_cave_bear.txt
 
 NAME  
     cave_bear - massive Pleistocene ursid inhabiting hills and evergreen forests
@@ -2833,6 +3173,10 @@ SCIENTIFIC NAME
 
 %%% fauna/megafauna/03_woolly_rhinoceros.txt %%%
 
+# CATEGORY: fauna (megafauna)
+# NAME: Woolly Rhinoceros
+# SOURCE: fauna/megafauna/03_woolly_rhinoceros.txt
+
 NAME  
     woolly_rhinoceros - large Ice Age herbivore adapted to tundra and frost sink zones
 
@@ -2856,6 +3200,10 @@ SCIENTIFIC NAME
     Coelodonta antiquitatis
 
 %%% fauna/megafauna/04_dire_wolf.txt %%%
+
+# CATEGORY: fauna (megafauna)
+# NAME: Dire Wolf
+# SOURCE: fauna/megafauna/04_dire_wolf.txt
 
 NAME  
     dire_wolf - large Pleistocene predator inhabiting mixed forests and plains
@@ -2881,6 +3229,10 @@ SCIENTIFIC NAME
 
 %%% fauna/megafauna/05_saber_tooth_tiger.txt %%%
 
+# CATEGORY: fauna (megafauna)
+# NAME: Saber Tooth Tiger
+# SOURCE: fauna/megafauna/05_saber_tooth_tiger.txt
+
 NAME  
     saber_tooth_tiger - formidable Ice Age predator inhabiting badlands and swamp biomes
 
@@ -2904,6 +3256,10 @@ SCIENTIFIC NAME
     Smilodon fatalis
 
 %%% fauna/megafauna/06_short_faced_bear.txt %%%
+
+# CATEGORY: fauna (megafauna)
+# NAME: Short Faced Bear
+# SOURCE: fauna/megafauna/06_short_faced_bear.txt
 
 NAME  
     short_faced_bear - enormous Pleistocene carnivore inhabiting mixed forests and hills
@@ -2929,6 +3285,10 @@ SCIENTIFIC NAME
 
 %%% fauna/megafauna/07_cave_lion.txt %%%
 
+# CATEGORY: fauna (megafauna)
+# NAME: Cave Lion
+# SOURCE: fauna/megafauna/07_cave_lion.txt
+
 NAME  
     cave_lion - large Pleistocene predator occupying tundra and mixed forest biomes
 
@@ -2953,6 +3313,10 @@ SCIENTIFIC NAME
 
 %%% fauna/megafauna/08_steppe_bison.txt %%%
 
+# CATEGORY: fauna (megafauna)
+# NAME: Steppe Bison
+# SOURCE: fauna/megafauna/08_steppe_bison.txt
+
 NAME  
     steppe_bison - large herbivore of plains and meadow biomes, known for herd behavior
 
@@ -2975,6 +3339,10 @@ SCIENTIFIC NAME
     Bison priscus
 
 %%% fauna/megafauna/09_dinornis.txt %%%
+
+# CATEGORY: fauna (megafauna)
+# NAME: Dinornis
+# SOURCE: fauna/megafauna/09_dinornis.txt
 
 NAME  
     dinornis - giant flightless bird inhabiting swamp and flood hollow biomes
@@ -2999,6 +3367,10 @@ SCIENTIFIC NAME
 
 %%% fauna/megafauna/10_varanus_priscu.txt %%%
 
+# CATEGORY: fauna (megafauna)
+# NAME: Varanus Priscu
+# SOURCE: fauna/megafauna/10_varanus_priscu.txt
+
 NAME  
     varanus_priscu - large cold-adapted monitor lizard inhabiting swamp and flood hollow biomes
 
@@ -3022,6 +3394,10 @@ SCIENTIFIC NAME
     Varanus priscu
 
 %%% fauna/predators/00_predators_index.txt %%%
+
+# CATEGORY: fauna (predators)
+# NAME: Predators Index
+# SOURCE: fauna/predators/00_predators_index.txt
 
 NAME  
     predators_index - active hunting fauna that stalk, ambush, or pursue prey
@@ -3093,6 +3469,10 @@ INDEXED ENTRIES
 
 %%% fauna/predators/01_gray_wolf.txt %%%
 
+# CATEGORY: fauna (predators)
+# NAME: Gray Wolf
+# SOURCE: fauna/predators/01_gray_wolf.txt
+
 NAME  
     gray_wolf - territorial pack predator common to forests and plains
 
@@ -3120,6 +3500,10 @@ SCIENTIFIC NAME
     Canis lupus
 
 %%% fauna/predators/02_lynx.txt %%%
+
+# CATEGORY: fauna (predators)
+# NAME: Lynx
+# SOURCE: fauna/predators/02_lynx.txt
 
 NAME  
     lynx - solitary forest ambush predator adapted to cold terrain
@@ -3149,6 +3533,10 @@ SCIENTIFIC NAME
 
 %%% fauna/predators/03_red_fox.txt %%%
 
+# CATEGORY: fauna (predators)
+# NAME: Red Fox
+# SOURCE: fauna/predators/03_red_fox.txt
+
 NAME  
     red_fox - agile small predator occupying meadow and hill zones
 
@@ -3177,6 +3565,10 @@ SCIENTIFIC NAME
 
 %%% fauna/predators/04_wolverine.txt %%%
 
+# CATEGORY: fauna (predators)
+# NAME: Wolverine
+# SOURCE: fauna/predators/04_wolverine.txt
+
 NAME  
     wolverine - aggressive small predator adapted to frozen highlands and evergreen forests
 
@@ -3203,6 +3595,10 @@ SCIENTIFIC NAME
     Gulo gulo
 
 %%% fauna/predators/05_cougar.txt %%%
+
+# CATEGORY: fauna (predators)
+# NAME: Cougar
+# SOURCE: fauna/predators/05_cougar.txt
 
 NAME  
     cougar - solitary stalk predator ranging across hills and badlands
@@ -3231,6 +3627,10 @@ SCIENTIFIC NAME
 
 %%% fauna/predators/06_polar_bear.txt %%%
 
+# CATEGORY: fauna (predators)
+# NAME: Polar Bear
+# SOURCE: fauna/predators/06_polar_bear.txt
+
 NAME  
     polar_bear - massive arctic predator dominating ice shelf and glacial margins
 
@@ -3258,6 +3658,10 @@ SCIENTIFIC NAME
 
 %%% fauna/predators/07_golden_eagle.txt %%%
 
+# CATEGORY: fauna (predators)
+# NAME: Golden Eagle
+# SOURCE: fauna/predators/07_golden_eagle.txt
+
 NAME  
     golden_eagle - territorial raptor soaring over plains and badlands
 
@@ -3284,6 +3688,10 @@ SCIENTIFIC NAME
     Aquila chrysaetos
 
 %%% fauna/predators/08_brown_bear.txt %%%
+
+# CATEGORY: fauna (predators)
+# NAME: Brown Bear
+# SOURCE: fauna/predators/08_brown_bear.txt
 
 NAME  
     brown_bear - massive omnivore occupying forested lowlands and wet terrain
@@ -3313,6 +3721,10 @@ SCIENTIFIC NAME
 
 %%% fauna/predators/09_coyote.txt %%%
 
+# CATEGORY: fauna (predators)
+# NAME: Coyote
+# SOURCE: fauna/predators/09_coyote.txt
+
 NAME  
     coyote - opportunistic predator and scavenger active across open and forested zones
 
@@ -3339,6 +3751,10 @@ SCIENTIFIC NAME
     Canis latrans
 
 %%% fauna/predators/10_stoat.txt %%%
+
+# CATEGORY: fauna (predators)
+# NAME: Stoat
+# SOURCE: fauna/predators/10_stoat.txt
 
 NAME  
     stoat - agile cold-adapted hunter of rodents and small birds
@@ -3367,6 +3783,10 @@ SCIENTIFIC NAME
     Mustela erminea
 
 %%% fauna/scavengers/00_scavengers_index.txt %%%
+
+# CATEGORY: fauna (scavengers)
+# NAME: Scavengers Index
+# SOURCE: fauna/scavengers/00_scavengers_index.txt
 
 NAME  
     scavengers_index - opportunistic fauna that feed on carrion, waste, or field residue
@@ -3437,6 +3857,10 @@ INDEXED ENTRIES
 
 %%% fauna/scavengers/01_raven.txt %%%
 
+# CATEGORY: fauna (scavengers)
+# NAME: Raven
+# SOURCE: fauna/scavengers/01_raven.txt
+
 NAME  
     raven - intelligent scavenger associated with carrion and human detritus
 
@@ -3464,6 +3888,10 @@ SCIENTIFIC NAME
     Corvus corax
 
 %%% fauna/scavengers/02_raccoon.txt %%%
+
+# CATEGORY: fauna (scavengers)
+# NAME: Raccoon
+# SOURCE: fauna/scavengers/02_raccoon.txt
 
 NAME  
     raccoon - dexterous forager active along swamp and lake margins
@@ -3493,6 +3921,10 @@ SCIENTIFIC NAME
 
 %%% fauna/scavengers/03_skunk.txt %%%
 
+# CATEGORY: fauna (scavengers)
+# NAME: Skunk
+# SOURCE: fauna/scavengers/03_skunk.txt
+
 NAME  
     skunk - scent-defensive scavenger active in forest margins and meadow zones
 
@@ -3520,6 +3952,10 @@ SCIENTIFIC NAME
     Mephitis mephitis
 
 %%% fauna/scavengers/04_striped_hyena.txt %%%
+
+# CATEGORY: fauna (scavengers)
+# NAME: Striped Hyena
+# SOURCE: fauna/scavengers/04_striped_hyena.txt
 
 NAME  
     striped_hyena - nocturnal bone-scavenger active along volcanic margins and badland slopes
@@ -3549,6 +3985,10 @@ SCIENTIFIC NAME
 
 %%% fauna/scavengers/05_vulture.txt %%%
 
+# CATEGORY: fauna (scavengers)
+# NAME: Vulture
+# SOURCE: fauna/scavengers/05_vulture.txt
+
 NAME  
     vulture - thermal-gliding carrion bird found in ash fields and wet slopes
 
@@ -3576,6 +4016,10 @@ SCIENTIFIC NAME
     Gyps fulvus
 
 %%% fauna/scavengers/06_badger.txt %%%
+
+# CATEGORY: fauna (scavengers)
+# NAME: Badger
+# SOURCE: fauna/scavengers/06_badger.txt
 
 NAME  
     badger - solitary digger and scavenger active across plains and low hills
@@ -3605,6 +4049,10 @@ SCIENTIFIC NAME
 
 %%% fauna/scavengers/07_weasel.txt %%%
 
+# CATEGORY: fauna (scavengers)
+# NAME: Weasel
+# SOURCE: fauna/scavengers/07_weasel.txt
+
 NAME  
     weasel - swift opportunistic scavenger active in open fields and low vegetation
 
@@ -3632,6 +4080,10 @@ SCIENTIFIC NAME
     Mustela nivalis
 
 %%% fauna/scavengers/08_crow.txt %%%
+
+# CATEGORY: fauna (scavengers)
+# NAME: Crow
+# SOURCE: fauna/scavengers/08_crow.txt
 
 NAME  
     crow - small opportunistic scavenger active near flood zones and open terrain
@@ -3661,6 +4113,10 @@ SCIENTIFIC NAME
 
 %%% fauna/scavengers/09_opossum.txt %%%
 
+# CATEGORY: fauna (scavengers)
+# NAME: Opossum
+# SOURCE: fauna/scavengers/09_opossum.txt
+
 NAME  
     opossum - nocturnal marsupial scavenger active in forest debris and edge zones
 
@@ -3688,6 +4144,10 @@ SCIENTIFIC NAME
     Didelphis virginiana
 
 %%% fauna/scavengers/10_carrion_beetle.txt %%%
+
+# CATEGORY: fauna (scavengers)
+# NAME: Carrion Beetle
+# SOURCE: fauna/scavengers/10_carrion_beetle.txt
 
 NAME  
     carrion_beetle - decomposer insect active in decay-rich swamp and frost zones
@@ -3717,6 +4177,10 @@ SCIENTIFIC NAME
     Nicrophorus vespilloides
 
 %%% fauna/signals/00_signals_index.txt %%%
+
+# CATEGORY: fauna (signals)
+# NAME: Signals Index
+# SOURCE: fauna/signals/00_signals_index.txt
 
 NAME  
     signals_index - ambient fauna whose presence, silence, or behavior signals environmental change
@@ -3788,6 +4252,10 @@ INDEXED ENTRIES
 
 %%% fauna/signals/01_tree_frog.txt %%%
 
+# CATEGORY: fauna (signals)
+# NAME: Tree Frog
+# SOURCE: fauna/signals/01_tree_frog.txt
+
 NAME  
     tree_frog - vocal amphibian used to assess humidity and lowland air shifts
 
@@ -3814,6 +4282,10 @@ SCIENTIFIC NAME
     Hyla versicolor
 
 %%% fauna/signals/02_nightjar.txt %%%
+
+# CATEGORY: fauna (signals)
+# NAME: Nightjar
+# SOURCE: fauna/signals/02_nightjar.txt
 
 NAME  
     nightjar - dusk-calling ground bird used to mark calm atmospheric conditions
@@ -3842,6 +4314,10 @@ SCIENTIFIC NAME
 
 %%% fauna/signals/03_swallow.txt %%%
 
+# CATEGORY: fauna (signals)
+# NAME: Swallow
+# SOURCE: fauna/signals/03_swallow.txt
+
 NAME  
     swallow - aerial insectivore used to detect wind shifts and barometric change
 
@@ -3868,6 +4344,10 @@ SCIENTIFIC NAME
     Hirundo rustica
 
 %%% fauna/signals/04_cicada.txt %%%
+
+# CATEGORY: fauna (signals)
+# NAME: Cicada
+# SOURCE: fauna/signals/04_cicada.txt
 
 NAME  
     cicada - seasonal drone emitter used to monitor heat stability and canopy silence
@@ -3896,6 +4376,10 @@ SCIENTIFIC NAME
 
 %%% fauna/signals/05_woodpecker.txt %%%
 
+# CATEGORY: fauna (signals)
+# NAME: Woodpecker
+# SOURCE: fauna/signals/05_woodpecker.txt
+
 NAME  
     woodpecker - percussive signal bird used to detect ambient calm and tree health
 
@@ -3922,6 +4406,10 @@ SCIENTIFIC NAME
     Dryocopus pileatus
 
 %%% fauna/signals/06_meadowlark.txt %%%
+
+# CATEGORY: fauna (signals)
+# NAME: Meadowlark
+# SOURCE: fauna/signals/06_meadowlark.txt
 
 NAME  
     meadowlark - flute-toned ground bird used to assess air clarity and territorial calm
@@ -3950,6 +4438,10 @@ SCIENTIFIC NAME
 
 %%% fauna/signals/07_field_cricket.txt %%%
 
+# CATEGORY: fauna (signals)
+# NAME: Field Cricket
+# SOURCE: fauna/signals/07_field_cricket.txt
+
 NAME  
     field_cricket - rhythmic ground insect used to detect surface vibration and temperature plateau
 
@@ -3976,6 +4468,10 @@ SCIENTIFIC NAME
     Gryllus campestris
 
 %%% fauna/signals/08_bat.txt %%%
+
+# CATEGORY: fauna (signals)
+# NAME: Bat
+# SOURCE: fauna/signals/08_bat.txt
 
 NAME  
     bat - nocturnal flyer used to confirm insect bloom and thermal inversion
@@ -4004,6 +4500,10 @@ SCIENTIFIC NAME
 
 %%% fauna/signals/09_chickadee.txt %%%
 
+# CATEGORY: fauna (signals)
+# NAME: Chickadee
+# SOURCE: fauna/signals/09_chickadee.txt
+
 NAME  
     chickadee - vocal canopy bird used to gauge subfreezing air and static pressure zones
 
@@ -4031,6 +4531,10 @@ SCIENTIFIC NAME
 
 %%% fauna/signals/10_dragonfly.txt %%%
 
+# CATEGORY: fauna (signals)
+# NAME: Dragonfly
+# SOURCE: fauna/signals/10_dragonfly.txt
+
 NAME  
     dragonfly - aerial hover insect used to mark water purity and air stratification
 
@@ -4057,6 +4561,10 @@ SCIENTIFIC NAME
     Anax junius
 
 %%% flora/crafting/00_flora_crafting_index.txt %%%
+
+# CATEGORY: flora (crafting)
+# NAME: Flora Crafting Index
+# SOURCE: flora/crafting/00_flora_crafting_index.txt
 
 NAME  
     flora_crafting_index - flora used for construction, fiberwork, resin, or fire support
@@ -4115,6 +4623,10 @@ INDEXED ENTRIES
         Scientific Name: Tamarix ramosissima
 %%% flora/crafting/01_yew_stavewood.txt %%%
 
+# CATEGORY: flora (crafting)
+# NAME: Yew Stavewood
+# SOURCE: flora/crafting/01_yew_stavewood.txt
+
 NAME  
     yew_stavewood - dense, flexible wood used for shaping bows and tool cores
 
@@ -4141,6 +4653,10 @@ SCIENTIFIC NAME
     Taxus baccata
 
 %%% flora/crafting/02_spruce_heartwood.txt %%%
+
+# CATEGORY: flora (crafting)
+# NAME: Spruce Heartwood
+# SOURCE: flora/crafting/02_spruce_heartwood.txt
 
 NAME  
     spruce_heartwood - straight-grained conifer core used for shafts, frames, and planking
@@ -4169,6 +4685,10 @@ SCIENTIFIC NAME
 
 %%% flora/crafting/03_cordgrass_fiber.txt %%%
 
+# CATEGORY: flora (crafting)
+# NAME: Cordgrass Fiber
+# SOURCE: flora/crafting/03_cordgrass_fiber.txt
+
 NAME  
     cordgrass_fiber - long-bladed grass stripped into cordage and binder wrap
 
@@ -4195,6 +4715,10 @@ SCIENTIFIC NAME
     Spartina alterniflora
 
 %%% flora/crafting/04_birch_peel.txt %%%
+
+# CATEGORY: flora (crafting)
+# NAME: Birch Peel
+# SOURCE: flora/crafting/04_birch_peel.txt
 
 NAME  
     birch_peel - flammable bark sheet used for ignition, insulation, and moisture barrier
@@ -4223,6 +4747,10 @@ SCIENTIFIC NAME
 
 %%% flora/crafting/05_liana_bark.txt %%%
 
+# CATEGORY: flora (crafting)
+# NAME: Liana Bark
+# SOURCE: flora/crafting/05_liana_bark.txt
+
 NAME  
     liana_bark - flexible woody vine used for cordage, binding, and strapping
 
@@ -4250,6 +4778,10 @@ SCIENTIFIC NAME
 
 %%% flora/crafting/06_bulrush_stalk.txt %%%
 
+# CATEGORY: flora (crafting)
+# NAME: Bulrush Stalk
+# SOURCE: flora/crafting/06_bulrush_stalk.txt
+
 NAME  
     bulrush_stalk - tall wetland stalk used for matting, insulation, and shaft padding
 
@@ -4276,6 +4808,10 @@ SCIENTIFIC NAME
     Schoenoplectus acutus
 
 %%% flora/crafting/07_sagebrush_stalk.txt %%%
+
+# CATEGORY: flora (crafting)
+# NAME: Sagebrush Stalk
+# SOURCE: flora/crafting/07_sagebrush_stalk.txt
 
 NAME  
     sagebrush_stalk - brittle shrub stem used for fast ignition and loose tinder
@@ -4305,6 +4841,10 @@ SCIENTIFIC NAME
 
 %%% flora/crafting/08_mullein_leaf.txt %%%
 
+# CATEGORY: flora (crafting)
+# NAME: Mullein Leaf
+# SOURCE: flora/crafting/08_mullein_leaf.txt
+
 NAME  
     mullein_leaf - broad, woolly leaf used for wrap insulation and fire-start padding
 
@@ -4330,6 +4870,10 @@ ZONE PRESENCE
 SCIENTIFIC NAME  
     Verbascum thapsus
 %%% flora/crafting/09_pine_tree.txt %%%
+
+# CATEGORY: flora (crafting)
+# NAME: Pine Tree
+# SOURCE: flora/crafting/09_pine_tree.txt
 
 NAME  
     pine_tree - resinous highland conifer used for pitch and fire support
@@ -4360,6 +4904,10 @@ SCIENTIFIC NAME
 
 %%% flora/crafting/10_tamarisk_wand.txt %%%
 
+# CATEGORY: flora (crafting)
+# NAME: Tamarisk Wand
+# SOURCE: flora/crafting/10_tamarisk_wand.txt
+
 NAME  
     tamarisk_wand - flexible woody stem used for trap arms and lightweight framing
 
@@ -4388,6 +4936,10 @@ SCIENTIFIC NAME
     Tamarix ramosissima
 
 %%% flora/edibles/00_flora_edlible_index.txt %%%
+
+# CATEGORY: flora (edibles)
+# NAME: Flora Edlible Index
+# SOURCE: flora/edibles/00_flora_edlible_index.txt
 
 NAME  
     flora_edible_index - nutrient-yielding flora across Elyden biomes
@@ -4450,6 +5002,10 @@ INDEXED ENTRIES
 
 %%% flora/edibles/01_cattail_rhizome.txt %%%
 
+# CATEGORY: flora (edibles)
+# NAME: Cattail Rhizome
+# SOURCE: flora/edibles/01_cattail_rhizome.txt
+
 NAME  
     cattail_rhizome - starchy wetland root with high survival value
 
@@ -4476,6 +5032,10 @@ SCIENTIFIC NAME
     Typha latifolia
 
 %%% flora/edibles/02_nettles.txt %%%
+
+# CATEGORY: flora (edibles)
+# NAME: Nettles
+# SOURCE: flora/edibles/02_nettles.txt
 
 NAME  
     nettles - iron-rich leafy stalk with stinging hairs
@@ -4504,6 +5064,10 @@ SCIENTIFIC NAME
 
 %%% flora/edibles/03_tundra_willow_bark.txt %%%
 
+# CATEGORY: flora (edibles)
+# NAME: Tundra Willow Bark
+# SOURCE: flora/edibles/03_tundra_willow_bark.txt
+
 NAME  
     tundra_willow_bark - fibrous bark with trace sugar and survival fiber
 
@@ -4530,6 +5094,10 @@ SCIENTIFIC NAME
     Salix arctica
 
 %%% flora/edibles/04_bluegrass_seeds.txt %%%
+
+# CATEGORY: flora (edibles)
+# NAME: Bluegrass Seeds
+# SOURCE: flora/edibles/04_bluegrass_seeds.txt
 
 NAME  
     bluegrass_seeds - clustered grass seed used for coarse meal and ration filler
@@ -4559,6 +5127,10 @@ SCIENTIFIC NAME
 
 %%% flora/edibles/05_bog_cranberries.txt %%%
 
+# CATEGORY: flora (edibles)
+# NAME: Bog Cranberries
+# SOURCE: flora/edibles/05_bog_cranberries.txt
+
 NAME  
     bog_cranberries - tart red fruit growing on creeping wetland vine
 
@@ -4586,6 +5158,10 @@ SCIENTIFIC NAME
     Vaccinium oxycoccos
 
 %%% flora/edibles/06_wild_sorrel.txt %%%
+
+# CATEGORY: flora (edibles)
+# NAME: Wild Sorrel
+# SOURCE: flora/edibles/06_wild_sorrel.txt
 
 NAME  
     wild_sorrel - tangy leaf plant high in moisture and trace minerals
@@ -4615,6 +5191,10 @@ SCIENTIFIC NAME
 
 %%% flora/edibles/07_hazelnuts.txt %%%
 
+# CATEGORY: flora (edibles)
+# NAME: Hazelnuts
+# SOURCE: flora/edibles/07_hazelnuts.txt
+
 NAME  
     hazelnuts - high-fat seasonal nut from deciduous shrub
 
@@ -4642,6 +5222,10 @@ SCIENTIFIC NAME
     Corylus avellana
 
 %%% flora/edibles/08_firethorn_berry.txt %%%
+
+# CATEGORY: flora (edibles)
+# NAME: Firethorn Berry
+# SOURCE: flora/edibles/08_firethorn_berry.txt
 
 NAME  
     firethorn_berry - clustered red fruit from thorn-bearing scrub
@@ -4671,6 +5255,10 @@ SCIENTIFIC NAME
 
 %%% flora/edibles/09_rose_hip.txt %%%
 
+# CATEGORY: flora (edibles)
+# NAME: Rose Hip
+# SOURCE: flora/edibles/09_rose_hip.txt
+
 NAME  
     rose_hip - vitamin-rich fruit from wild rose shrubs
 
@@ -4698,6 +5286,10 @@ SCIENTIFIC NAME
     Rosa canina
 
 %%% flora/edibles/10_lambs_quarters.txt %%%
+
+# CATEGORY: flora (edibles)
+# NAME: Lambs Quarters
+# SOURCE: flora/edibles/10_lambs_quarters.txt
 
 NAME  
     lambs_quarters - fast-growing leafy green with high mineral content
@@ -4727,6 +5319,10 @@ SCIENTIFIC NAME
 
 %%% flora/edibles/11_alpine_bistort.txt %%%
 
+# CATEGORY: flora (edibles)
+# NAME: Alpine Bistort
+# SOURCE: flora/edibles/11_alpine_bistort.txt
+
 NAME  
     alpine_bistort - starchy mountain plant with edible root and shoot
 
@@ -4754,6 +5350,10 @@ SCIENTIFIC NAME
     Bistorta vivipara
 
 %%% flora/flora_index.txt %%%
+
+# CATEGORY: flora
+# NAME: Flora Index
+# SOURCE: flora/flora_index.txt
 
 NAME  
     flora_index - overview of flora classification and survival-relevant groupings
@@ -4792,6 +5392,10 @@ CATEGORY STRUCTURE
 
 
 %%% flora/indicator/00_flora_indicator_index.txt %%%
+
+# CATEGORY: flora (indicator)
+# NAME: Flora Indicator Index
+# SOURCE: flora/indicator/00_flora_indicator_index.txt
 
 NAME  
     flora_indicator_index - non-harvestable flora used to assess terrain and environmental stability
@@ -4850,6 +5454,10 @@ INDEXED ENTRIES
 
 %%% flora/indicator/01_reindeer_lichen.txt %%%
 
+# CATEGORY: flora (indicator)
+# NAME: Reindeer Lichen
+# SOURCE: flora/indicator/01_reindeer_lichen.txt
+
 NAME  
     reindeer_lichen - pale ground lichen indicating persistent cold and mineral-poor substrate
 
@@ -4877,6 +5485,10 @@ SCIENTIFIC NAME
 
 %%% flora/indicator/02_sphagnum_moss.txt %%%
 
+# CATEGORY: flora (indicator)
+# NAME: Sphagnum Moss
+# SOURCE: flora/indicator/02_sphagnum_moss.txt
+
 NAME  
     sphagnum_moss - moisture-retaining moss indicating peat formation and standing saturation
 
@@ -4903,6 +5515,10 @@ SCIENTIFIC NAME
     Sphagnum palustre
 
 %%% flora/indicator/03_horsetail_fern.txt %%%
+
+# CATEGORY: flora (indicator)
+# NAME: Horsetail Fern
+# SOURCE: flora/indicator/03_horsetail_fern.txt
 
 NAME  
     horsetail_fern - segmented wetland fern indicating silty floodplain and shallow subsurface water
@@ -4932,6 +5548,10 @@ SCIENTIFIC NAME
 
 %%% flora/indicator/04_wolf_lichen.txt %%%
 
+# CATEGORY: flora (indicator)
+# NAME: Wolf Lichen
+# SOURCE: flora/indicator/04_wolf_lichen.txt
+
 NAME  
     wolf_lichen - bright green lichen indicating clean air, open exposure, and dry bark substrate
 
@@ -4958,6 +5578,10 @@ SCIENTIFIC NAME
     Letharia vulpina
 
 %%% flora/indicator/05_clubmoss.txt %%%
+
+# CATEGORY: flora (indicator)
+# NAME: Clubmoss
+# SOURCE: flora/indicator/05_clubmoss.txt
 
 NAME  
     clubmoss - creeping ground cover indicating cold shade, acidic soil, and periglacial surface
@@ -4986,6 +5610,10 @@ SCIENTIFIC NAME
 
 %%% flora/indicator/06_polypody_fern.txt %%%
 
+# CATEGORY: flora (indicator)
+# NAME: Polypody Fern
+# SOURCE: flora/indicator/06_polypody_fern.txt
+
 NAME  
     polypody_fern - leathery-leaved fern indicating stable moisture and shallow mineral substrate
 
@@ -5011,6 +5639,10 @@ SCIENTIFIC NAME
     Polypodium vulgare
 
 %%% flora/indicator/07_haircap_moss.txt %%%
+
+# CATEGORY: flora (indicator)
+# NAME: Haircap Moss
+# SOURCE: flora/indicator/07_haircap_moss.txt
 
 NAME  
     haircap_moss - upright moss indicating cold moisture, acidic soil, and freeze retention
@@ -5039,6 +5671,10 @@ SCIENTIFIC NAME
 
 %%% flora/indicator/08_liverwort_patch.txt %%%
 
+# CATEGORY: flora (indicator)
+# NAME: Liverwort Patch
+# SOURCE: flora/indicator/08_liverwort_patch.txt
+
 NAME  
     liverwort_patch - low, thalloid growth indicating geothermal seepage or mineral disturbance
 
@@ -5065,6 +5701,10 @@ SCIENTIFIC NAME
     Marchantia polymorpha
 
 %%% flora/indicator/09_field_sedge.txt %%%
+
+# CATEGORY: flora (indicator)
+# NAME: Field Sedge
+# SOURCE: flora/indicator/09_field_sedge.txt
 
 NAME  
     field_sedge - narrow-bladed grasslike plant indicating compacted soil and seasonal surface runoff
@@ -5093,6 +5733,10 @@ SCIENTIFIC NAME
 
 %%% flora/indicator/10_snowbed_willow.txt %%%
 
+# CATEGORY: flora (indicator)
+# NAME: Snowbed Willow
+# SOURCE: flora/indicator/10_snowbed_willow.txt
+
 NAME  
     snowbed_willow - ground-hugging alpine shrub indicating late-melting snow and permafrost buffering
 
@@ -5119,6 +5763,10 @@ SCIENTIFIC NAME
     Salix herbacea
 
 %%% flora/medicinal/00_flora_medicinal_index.txt %%%
+
+# CATEGORY: flora (medicinal)
+# NAME: Flora Medicinal Index
+# SOURCE: flora/medicinal/00_flora_medicinal_index.txt
 
 NAME  
     flora_medicinal_index - field flora used for salve, clotting, and minor intervention
@@ -5176,6 +5824,10 @@ INDEXED ENTRIES
 
 %%% flora/medicinal/01_willow_bark.txt %%%
 
+# CATEGORY: flora (medicinal)
+# NAME: Willow Bark
+# SOURCE: flora/medicinal/01_willow_bark.txt
+
 NAME  
     willow_bark - pain-reducing bark used for inflammation and field analgesia
 
@@ -5202,6 +5854,10 @@ SCIENTIFIC NAME
     Salix alba
 
 %%% flora/medicinal/02_yarrow.txt %%%
+
+# CATEGORY: flora (medicinal)
+# NAME: Yarrow
+# SOURCE: flora/medicinal/02_yarrow.txt
 
 NAME  
     yarrow - aromatic leaf and flower used for clotting, swelling, and wound packing
@@ -5230,6 +5886,10 @@ SCIENTIFIC NAME
 
 %%% flora/medicinal/03_frost_spurge.txt %%%
 
+# CATEGORY: flora (medicinal)
+# NAME: Frost Spurge
+# SOURCE: flora/medicinal/03_frost_spurge.txt
+
 NAME  
     frost_spurge - cold-tolerant herb used as blister agent and surface cauterant
 
@@ -5256,6 +5916,10 @@ SCIENTIFIC NAME
     Euphorbia cyparissias
 
 %%% flora/medicinal/04_bush_weed.txt %%%
+
+# CATEGORY: flora (medicinal)
+# NAME: Bush Weed
+# SOURCE: flora/medicinal/04_bush_weed.txt
 
 NAME  
     bush_weed - multipurpose plant used for pain calming, ration additive, and fiber draw
@@ -5286,6 +5950,10 @@ SCIENTIFIC NAME
 
 %%% flora/medicinal/05_bandage_lichen.txt %%%
 
+# CATEGORY: flora (medicinal)
+# NAME: Bandage Lichen
+# SOURCE: flora/medicinal/05_bandage_lichen.txt
+
 NAME  
     bandage_lichen - antiseptic lichen used for dressing wounds and preventing surface infection
 
@@ -5312,6 +5980,10 @@ SCIENTIFIC NAME
     Usnea barbata
 
 %%% flora/medicinal/06_calendula_flower.txt %%%
+
+# CATEGORY: flora (medicinal)
+# NAME: Calendula Flower
+# SOURCE: flora/medicinal/06_calendula_flower.txt
 
 NAME  
     calendula_flower - bright orange blossom used to reduce swelling and aid surface healing
@@ -5340,6 +6012,10 @@ SCIENTIFIC NAME
 
 %%% flora/medicinal/07_tinder_fungus.txt %%%
 
+# CATEGORY: flora (medicinal)
+# NAME: Tinder Fungus
+# SOURCE: flora/medicinal/07_tinder_fungus.txt
+
 NAME  
     tinder_fungus - bracket fungus used for drying wounds and reducing surface infection
 
@@ -5366,6 +6042,10 @@ SCIENTIFIC NAME
     Fomes fomentarius
 
 %%% flora/medicinal/08_cladophora_algae.txt %%%
+
+# CATEGORY: flora (medicinal)
+# NAME: Cladophora Algae
+# SOURCE: flora/medicinal/08_cladophora_algae.txt
 
 NAME  
     cladophora_algae - filamentous freshwater algae used for cooling and surface moisture buffering
@@ -5394,6 +6074,10 @@ SCIENTIFIC NAME
 
 %%% flora/medicinal/09_plantain_leaf.txt %%%
 
+# CATEGORY: flora (medicinal)
+# NAME: Plantain Leaf
+# SOURCE: flora/medicinal/09_plantain_leaf.txt
+
 NAME  
     plantain_leaf - broad-leafed herb used to draw out irritation and support clotting
 
@@ -5420,6 +6104,10 @@ SCIENTIFIC NAME
 
 %%% flora/medicinal/10_comfrey_root.txt %%%
 
+# CATEGORY: flora (medicinal)
+# NAME: Comfrey Root
+# SOURCE: flora/medicinal/10_comfrey_root.txt
+
 NAME  
     comfrey_root - fibrous root used for bone-set poultice and swelling reduction
 
@@ -5445,6 +6133,10 @@ SCIENTIFIC NAME
     Symphytum officinale
 
 %%% flora/poisons/00_flora_poisons_index.txt %%%
+
+# CATEGORY: flora (poisons)
+# NAME: Flora Poisons Index
+# SOURCE: flora/poisons/00_flora_poisons_index.txt
 
 NAME  
     flora_poisons_index - toxic flora prepared for trapcraft, sedation, or disruption
@@ -5501,6 +6193,10 @@ INDEXED ENTRIES
 
 %%% flora/poisons/01_hemlock_root.txt %%%
 
+# CATEGORY: flora (poisons)
+# NAME: Hemlock Root
+# SOURCE: flora/poisons/01_hemlock_root.txt
+
 NAME  
     hemlock_root - neurotoxic root used in bait tampering and slow-field sedation
 
@@ -5527,6 +6223,10 @@ SCIENTIFIC NAME
     Conium maculatum
 
 %%% flora/poisons/02_wolfsbane.txt %%%
+
+# CATEGORY: flora (poisons)
+# NAME: Wolfsbane
+# SOURCE: flora/poisons/02_wolfsbane.txt
 
 NAME  
     wolfsbane - fast-acting neurotoxic herb used in dart coating and fatal baitwork
@@ -5555,6 +6255,10 @@ SCIENTIFIC NAME
 
 %%% flora/poisons/03_belladonna.txt %%%
 
+# CATEGORY: flora (poisons)
+# NAME: Belladonna
+# SOURCE: flora/poisons/03_belladonna.txt
+
 NAME  
     belladonna - sedative berry-bearing plant used for disorientation and field incapacitation
 
@@ -5582,6 +6286,10 @@ SCIENTIFIC NAME
 
 %%% flora/poisons/04_bloodroot.txt %%%
 
+# CATEGORY: flora (poisons)
+# NAME: Bloodroot
+# SOURCE: flora/poisons/04_bloodroot.txt
+
 NAME  
     bloodroot - caustic root used for skin disruption and blister-field deterrent
 
@@ -5607,6 +6315,10 @@ SCIENTIFIC NAME
     Sanguinaria canadensis
 
 %%% flora/poisons/05_cowbane.txt %%%
+
+# CATEGORY: flora (poisons)
+# NAME: Cowbane
+# SOURCE: flora/poisons/05_cowbane.txt
 
 NAME  
     cowbane - highly toxic wetland root used for lethal bait and ingestion disruption
@@ -5634,6 +6346,10 @@ SCIENTIFIC NAME
     Cicuta virosa
 
 %%% flora/poisons/06_devils_club.txt %%%
+
+# CATEGORY: flora (poisons)
+# NAME: Devils Club
+# SOURCE: flora/poisons/06_devils_club.txt
 
 NAME  
     devils_club - spined shrub with irritant sap used for barrier disruption and trap reinforcement
@@ -5664,6 +6380,10 @@ SCIENTIFIC NAME
 
 %%% flora/poisons/07_white_snakeroot.txt %%%
 
+# CATEGORY: flora (poisons)
+# NAME: White Snakeroot
+# SOURCE: flora/poisons/07_white_snakeroot.txt
+
 NAME  
     white_snakeroot - toxic herb used for bait poisoning and muscle paralysis
 
@@ -5688,6 +6408,10 @@ SCIENTIFIC NAME
     Ageratina altissima
 
 %%% flora/poisons/08_baneberry.txt %%%
+
+# CATEGORY: flora (poisons)
+# NAME: Baneberry
+# SOURCE: flora/poisons/08_baneberry.txt
 
 NAME  
     baneberry - toxic berry-producing shrub used for bait disruption and mild neurotoxic effects
@@ -5715,6 +6439,10 @@ SCIENTIFIC NAME
 
 %%% flora/poisons/09_thorn_apple.txt %%%
 
+# CATEGORY: flora (poisons)
+# NAME: Thorn Apple
+# SOURCE: flora/poisons/09_thorn_apple.txt
+
 NAME  
     thorn_apple - toxic nightshade producing anticholinergic berries for bait and disruption
 
@@ -5740,6 +6468,10 @@ SCIENTIFIC NAME
 
 %%% flora/poisons/10_water_hemlock.txt %%%
 
+# CATEGORY: flora (poisons)
+# NAME: Water Hemlock
+# SOURCE: flora/poisons/10_water_hemlock.txt
+
 NAME  
     water_hemlock - highly toxic wetland root used in lethal bait and disruption traps
 
@@ -5764,6 +6496,10 @@ SCIENTIFIC NAME
     Cicuta maculata
 
 %%% language/00_language_laws.txt %%%
+
+# CATEGORY: language
+# NAME: Language Laws
+# SOURCE: language/00_language_laws.txt
 
 NAME
     Language Laws – descriptive and tonal foundation for the Elyden simulation
@@ -5853,6 +6589,10 @@ STRUCTURE
       shaped by work, weather, and survival.
 
 %%% language/01_dialogue_voice.txt %%%
+
+# CATEGORY: language
+# NAME: Dialogue Voice
+# SOURCE: language/01_dialogue_voice.txt
 
 NAME
     Dialogue and Voice – human speech and tone within the sealed valley
@@ -5945,6 +6685,10 @@ STRUCTURE
 
 %%% materials/00_materials_index.txt %%%
 
+# CATEGORY: materials
+# NAME: Materials Index
+# SOURCE: materials/00_materials_index.txt
+
 NAME
     materials index - durable substances available in the sealed valley
 
@@ -6005,6 +6749,10 @@ SPECIAL
 
 %%% materials/chemical/01_saltpeter.txt %%%
 
+# CATEGORY: materials (chemical)
+# NAME: Saltpeter
+# SOURCE: materials/chemical/01_saltpeter.txt
+
 NAME
     saltpeter - nitrate crystals used for curing and preservation
 
@@ -6028,6 +6776,10 @@ ZONE_PRESENCE
     tundra caves, volcanic slope hollows, dry ridge shelters
 
 %%% materials/chemical/02_sulfur.txt %%%
+
+# CATEGORY: materials (chemical)
+# NAME: Sulfur
+# SOURCE: materials/chemical/02_sulfur.txt
 
 NAME
     sulfur - yellow mineral for medicine and deterrent
@@ -6053,6 +6805,10 @@ ZONE_PRESENCE
 
 %%% materials/chemical/03_clay_alkali.txt %%%
 
+# CATEGORY: materials (chemical)
+# NAME: Clay Alkali
+# SOURCE: materials/chemical/03_clay_alkali.txt
+
 NAME
     clay alkali - caustic sediment used in tanning and cleaning
 
@@ -6076,6 +6832,10 @@ ZONE_PRESENCE
     swamp edges, flood hollows, wet slope basins
 
 %%% materials/compound/01_clay.txt %%%
+
+# CATEGORY: materials (compound)
+# NAME: Clay
+# SOURCE: materials/compound/01_clay.txt
 
 NAME
     clay - fine sediment for vessels and seals
@@ -6101,6 +6861,10 @@ ZONE_PRESENCE
 
 %%% materials/compound/02_charcoal.txt %%%
 
+# CATEGORY: materials (compound)
+# NAME: Charcoal
+# SOURCE: materials/compound/02_charcoal.txt
+
 NAME
     charcoal - carbonized wood for fuel and filtration
 
@@ -6124,6 +6888,10 @@ ZONE_PRESENCE
     evergreen forest margins, camp hearths, ash field edges
 
 %%% materials/compound/03_ash.txt %%%
+
+# CATEGORY: materials (compound)
+# NAME: Ash
+# SOURCE: materials/compound/03_ash.txt
 
 NAME
     ash - fine residue of burned wood and bone
@@ -6149,6 +6917,10 @@ ZONE_PRESENCE
 
 %%% materials/compound/04_salt_crust.txt %%%
 
+# CATEGORY: materials (compound)
+# NAME: Salt Crust
+# SOURCE: materials/compound/04_salt_crust.txt
+
 NAME
     salt crust - mineral deposit for curing and preservation
 
@@ -6172,6 +6944,10 @@ ZONE_PRESENCE
     lake basin margins, flood hollows, salt flats near ridge
 
 %%% materials/compound/05_resin_mix.txt %%%
+
+# CATEGORY: materials (compound)
+# NAME: Resin Mix
+# SOURCE: materials/compound/05_resin_mix.txt
 
 NAME
     resin mix - pine pitch blended with ash and dust for sealing
@@ -6197,6 +6973,10 @@ ZONE_PRESENCE
 
 %%% materials/compound/06_glue_bone.txt %%%
 
+# CATEGORY: materials (compound)
+# NAME: Glue Bone
+# SOURCE: materials/compound/06_glue_bone.txt
+
 NAME
     glue bone - adhesive made from boiled bone and sinew
 
@@ -6220,6 +7000,10 @@ ZONE_PRESENCE
     anywhere large fires and bone refuse are found
 
 %%% materials/compound/07_oil_fish.txt %%%
+
+# CATEGORY: materials (compound)
+# NAME: Oil Fish
+# SOURCE: materials/compound/07_oil_fish.txt
 
 NAME
     oil fish - rendered oil from freshwater fish for fuel and softening
@@ -6245,6 +7029,10 @@ ZONE_PRESENCE
 
 %%% materials/metal/01_iron_scrap.txt %%%
 
+# CATEGORY: materials (metal)
+# NAME: Iron Scrap
+# SOURCE: materials/metal/01_iron_scrap.txt
+
 NAME
     iron scrap - remnants of pre-collapse metal recovered from ruins
 
@@ -6268,6 +7056,10 @@ ZONE_PRESENCE
     ruins, ash fields, ridge base
 
 %%% materials/metal/02_ring_slag.txt %%%
+
+# CATEGORY: materials (metal)
+# NAME: Ring Slag
+# SOURCE: materials/metal/02_ring_slag.txt
 
 NAME
     ring slag - vitrified debris from Vaeronth’s fallen ring
@@ -6293,6 +7085,10 @@ ZONE_PRESENCE
 
 %%% materials/metal/03_meteoric_iron.txt %%%
 
+# CATEGORY: materials (metal)
+# NAME: Meteoric Iron
+# SOURCE: materials/metal/03_meteoric_iron.txt
+
 NAME
     meteoric iron - dense metal from ancient celestial impacts
 
@@ -6316,6 +7112,10 @@ ZONE_PRESENCE
     ridge outcrops, volcanic slope fringes, ancient impact basins
 
 %%% materials/mineral/01_quartz.txt %%%
+
+# CATEGORY: materials (mineral)
+# NAME: Quartz
+# SOURCE: materials/mineral/01_quartz.txt
 
 NAME
     quartz - hard crystal used for scraping and spark ignition
@@ -6341,6 +7141,10 @@ ZONE_PRESENCE
 
 %%% materials/mineral/02_limestone.txt %%%
 
+# CATEGORY: materials (mineral)
+# NAME: Limestone
+# SOURCE: materials/mineral/02_limestone.txt
+
 NAME
     limestone - soft pale rock used for powder and purification
 
@@ -6364,6 +7168,10 @@ ZONE_PRESENCE
     plains, meadow ridges, lower hill slopes
 
 %%% materials/mineral/03_graphite.txt %%%
+
+# CATEGORY: materials (mineral)
+# NAME: Graphite
+# SOURCE: materials/mineral/03_graphite.txt
 
 NAME
     graphite - dark mineral used for marking and friction control
@@ -6389,6 +7197,10 @@ ZONE_PRESENCE
 
 %%% materials/organic/01_hide.txt %%%
 
+# CATEGORY: materials (organic)
+# NAME: Hide
+# SOURCE: materials/organic/01_hide.txt
+
 NAME
     hide - dried animal skin for clothing and shelter
 
@@ -6412,6 +7224,10 @@ ZONE_PRESENCE
     across all inhabited zones, wherever game is found
 
 %%% materials/organic/02_bone.txt %%%
+
+# CATEGORY: materials (organic)
+# NAME: Bone
+# SOURCE: materials/organic/02_bone.txt
 
 NAME
     bone - dense structural material for tools and implements
@@ -6437,6 +7253,10 @@ ZONE_PRESENCE
 
 %%% materials/organic/03_sinew.txt %%%
 
+# CATEGORY: materials (organic)
+# NAME: Sinew
+# SOURCE: materials/organic/03_sinew.txt
+
 NAME
     sinew - fibrous tendon used for binding and thread
 
@@ -6460,6 +7280,10 @@ ZONE_PRESENCE
     common to all biomes where large fauna roam
 
 %%% materials/organic/04_fat_tallow.txt %%%
+
+# CATEGORY: materials (organic)
+# NAME: Fat Tallow
+# SOURCE: materials/organic/04_fat_tallow.txt
 
 NAME
     fat tallow - rendered animal fat for light and sealant
@@ -6485,6 +7309,10 @@ ZONE_PRESENCE
 
 %%% materials/organic/05_horn_antler.txt %%%
 
+# CATEGORY: materials (organic)
+# NAME: Horn Antler
+# SOURCE: materials/organic/05_horn_antler.txt
+
 NAME
     horn antler - curved growth from grazers used for handles and hooks
 
@@ -6508,6 +7336,10 @@ ZONE_PRESENCE
     high plains, mixed forest, tundra margins
 
 %%% materials/special/01_shard_dust.txt %%%
+
+# CATEGORY: materials (special)
+# NAME: Shard Dust
+# SOURCE: materials/special/01_shard_dust.txt
 
 NAME
     shard dust - inert residue from spent Vaeronth fragments
@@ -6533,6 +7365,10 @@ ZONE_PRESENCE
 
 %%% materials/special/02_resonant_basalt.txt %%%
 
+# CATEGORY: materials (special)
+# NAME: Resonant Basalt
+# SOURCE: materials/special/02_resonant_basalt.txt
+
 NAME
     resonant basalt - low vibration stone drawn from ruin foundations
 
@@ -6557,6 +7393,10 @@ ZONE_PRESENCE
 
 %%% materials/special/03_ring_glass.txt %%%
 
+# CATEGORY: materials (special)
+# NAME: Ring Glass
+# SOURCE: materials/special/03_ring_glass.txt
+
 NAME
     ring glass - fused lunar sand with translucent green hue
 
@@ -6580,6 +7420,10 @@ ZONE_PRESENCE
     ringfall sites, ash field dunes, ridge plains
 
 %%% materials/stone/01_basalt.txt %%%
+
+# CATEGORY: materials (stone)
+# NAME: Basalt
+# SOURCE: materials/stone/01_basalt.txt
 
 NAME
     basalt - dense volcanic stone used for striking and grinding
@@ -6606,6 +7450,10 @@ ZONE_PRESENCE
 
 %%% materials/stone/02_obsidian.txt %%%
 
+# CATEGORY: materials (stone)
+# NAME: Obsidian
+# SOURCE: materials/stone/02_obsidian.txt
+
 NAME
     obsidian - glassy volcanic stone for cutting edges
 
@@ -6628,6 +7476,10 @@ ZONE_PRESENCE
     ridge fissures, volcanic slope
 
 %%% materials/stone/03_slate.txt %%%
+
+# CATEGORY: materials (stone)
+# NAME: Slate
+# SOURCE: materials/stone/03_slate.txt
 
 NAME
     slate - layered stone for roof and fire bed
@@ -6652,6 +7504,10 @@ ZONE_PRESENCE
     hills, plains, meadow ridges
 
 %%% materials/stone/04_pumice.txt %%%
+
+# CATEGORY: materials (stone)
+# NAME: Pumice
+# SOURCE: materials/stone/04_pumice.txt
 
 NAME
     pumice - porous light stone for filtration and insulation

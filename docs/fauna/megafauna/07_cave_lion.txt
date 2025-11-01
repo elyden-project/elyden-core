@@ -1,3 +1,7 @@
+# CATEGORY: fauna (megafauna)
+# NAME: Cave Lion
+# SOURCE: fauna/megafauna/07_cave_lion.txt
+
 NAME  
     cave_lion - large Pleistocene predator occupying tundra and mixed forest biomes
 

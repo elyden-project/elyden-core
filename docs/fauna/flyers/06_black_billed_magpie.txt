@@ -1,3 +1,7 @@
+# CATEGORY: fauna (flyers)
+# NAME: Black Billed Magpie
+# SOURCE: fauna/flyers/06_black_billed_magpie.txt
+
 NAME  
     black_billed_magpie - medium-small omnivorous bird common in mixed and deciduous forests
 

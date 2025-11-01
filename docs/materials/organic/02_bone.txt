@@ -1,3 +1,7 @@
+# CATEGORY: materials (organic)
+# NAME: Bone
+# SOURCE: materials/organic/02_bone.txt
+
 NAME
     bone - dense structural material for tools and implements
 

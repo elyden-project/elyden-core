@@ -1,3 +1,7 @@
+# CATEGORY: materials (compound)
+# NAME: Charcoal
+# SOURCE: materials/compound/02_charcoal.txt
+
 NAME
     charcoal - carbonized wood for fuel and filtration
 

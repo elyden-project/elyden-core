@@ -1,3 +1,7 @@
+# CATEGORY: materials (stone)
+# NAME: Pumice
+# SOURCE: materials/stone/04_pumice.txt
+
 NAME
     pumice - porous light stone for filtration and insulation
 

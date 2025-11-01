@@ -1,3 +1,7 @@
+# CATEGORY: flora (poisons)
+# NAME: Wolfsbane
+# SOURCE: flora/poisons/02_wolfsbane.txt
+
 NAME  
     wolfsbane - fast-acting neurotoxic herb used in dart coating and fatal baitwork
 

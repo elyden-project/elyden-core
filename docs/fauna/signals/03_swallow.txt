@@ -1,3 +1,7 @@
+# CATEGORY: fauna (signals)
+# NAME: Swallow
+# SOURCE: fauna/signals/03_swallow.txt
+
 NAME  
     swallow - aerial insectivore used to detect wind shifts and barometric change
 

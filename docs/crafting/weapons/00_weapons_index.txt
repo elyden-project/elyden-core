@@ -1,3 +1,7 @@
+# CATEGORY: crafting (weapons)
+# NAME: Weapons Index
+# SOURCE: crafting/weapons/00_weapons_index.txt
+
 NAME
     weapons index
 

@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Ice Shelf
+# SOURCE: biomes/13_ice_shelf.txt
+
 NAME  
     ice_shelf - static frost zone with brittle crust and sublayer voids
 

@@ -1,3 +1,7 @@
+# CATEGORY: language
+# NAME: Language Laws
+# SOURCE: language/00_language_laws.txt
+
 NAME
     Language Laws – descriptive and tonal foundation for the Elyden simulation
 

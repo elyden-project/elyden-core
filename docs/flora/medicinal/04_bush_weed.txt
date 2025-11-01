@@ -1,3 +1,7 @@
+# CATEGORY: flora (medicinal)
+# NAME: Bush Weed
+# SOURCE: flora/medicinal/04_bush_weed.txt
+
 NAME  
     bush_weed - multipurpose plant used for pain calming, ration additive, and fiber draw
 

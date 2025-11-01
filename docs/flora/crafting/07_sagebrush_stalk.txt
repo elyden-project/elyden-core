@@ -1,3 +1,7 @@
+# CATEGORY: flora (crafting)
+# NAME: Sagebrush Stalk
+# SOURCE: flora/crafting/07_sagebrush_stalk.txt
+
 NAME  
     sagebrush_stalk - brittle shrub stem used for fast ignition and loose tinder
 

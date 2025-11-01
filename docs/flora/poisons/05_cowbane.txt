@@ -1,3 +1,7 @@
+# CATEGORY: flora (poisons)
+# NAME: Cowbane
+# SOURCE: flora/poisons/05_cowbane.txt
+
 NAME  
     cowbane - highly toxic wetland root used for lethal bait and ingestion disruption
 

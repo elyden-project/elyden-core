@@ -1,3 +1,7 @@
+# CATEGORY: flora
+# NAME: Flora Index
+# SOURCE: flora/flora_index.txt
+
 NAME  
     flora_index - overview of flora classification and survival-relevant groupings
 

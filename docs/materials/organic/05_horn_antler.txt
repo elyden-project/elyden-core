@@ -1,3 +1,7 @@
+# CATEGORY: materials (organic)
+# NAME: Horn Antler
+# SOURCE: materials/organic/05_horn_antler.txt
+
 NAME
     horn antler - curved growth from grazers used for handles and hooks
 

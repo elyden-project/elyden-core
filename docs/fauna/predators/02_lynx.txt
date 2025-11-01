@@ -1,3 +1,7 @@
+# CATEGORY: fauna (predators)
+# NAME: Lynx
+# SOURCE: fauna/predators/02_lynx.txt
+
 NAME  
     lynx - solitary forest ambush predator adapted to cold terrain
 

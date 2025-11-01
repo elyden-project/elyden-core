@@ -1,3 +1,7 @@
+# CATEGORY: fauna (megafauna)
+# NAME: Short Faced Bear
+# SOURCE: fauna/megafauna/06_short_faced_bear.txt
+
 NAME  
     short_faced_bear - enormous Pleistocene carnivore inhabiting mixed forests and hills
 

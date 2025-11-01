@@ -1,3 +1,7 @@
+# CATEGORY: flora (indicator)
+# NAME: Flora Indicator Index
+# SOURCE: flora/indicator/00_flora_indicator_index.txt
+
 NAME  
     flora_indicator_index - non-harvestable flora used to assess terrain and environmental stability
 

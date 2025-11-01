@@ -1,3 +1,7 @@
+# CATEGORY: .
+# NAME: Shard Behavior
+# SOURCE: 05_shard_behavior.txt
+
 NAME  
     shard_behavior - inert celestial fragments retained by megafauna
 

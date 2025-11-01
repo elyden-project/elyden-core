@@ -1,3 +1,7 @@
+# CATEGORY: fauna (grazers)
+# NAME: Bison
+# SOURCE: fauna/grazers/09_bison.txt
+
 NAME  
     bison - massive grazing mammal inhabiting plains, a high-yield source of meat and hide
 

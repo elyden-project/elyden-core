@@ -1,3 +1,7 @@
+# CATEGORY: fauna (predators)
+# NAME: Cougar
+# SOURCE: fauna/predators/05_cougar.txt
+
 NAME  
     cougar - solitary stalk predator ranging across hills and badlands
 

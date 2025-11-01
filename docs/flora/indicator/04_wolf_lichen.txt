@@ -1,3 +1,7 @@
+# CATEGORY: flora (indicator)
+# NAME: Wolf Lichen
+# SOURCE: flora/indicator/04_wolf_lichen.txt
+
 NAME  
     wolf_lichen - bright green lichen indicating clean air, open exposure, and dry bark substrate
 

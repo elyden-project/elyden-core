@@ -1,3 +1,7 @@
+# CATEGORY: .
+# NAME: World History
+# SOURCE: 01_world_history.txt
+
 NAME  
     world_history - record of lunar order, the collapse of Vaeronth, and the  
                    arrival of Khyrael

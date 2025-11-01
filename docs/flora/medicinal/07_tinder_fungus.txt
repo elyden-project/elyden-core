@@ -1,3 +1,7 @@
+# CATEGORY: flora (medicinal)
+# NAME: Tinder Fungus
+# SOURCE: flora/medicinal/07_tinder_fungus.txt
+
 NAME  
     tinder_fungus - bracket fungus used for drying wounds and reducing surface infection
 

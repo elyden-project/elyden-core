@@ -1,3 +1,7 @@
+# CATEGORY: fauna (aquatic)
+# NAME: Brown Trout
+# SOURCE: fauna/aquatic/02_brown_trout.txt
+
 NAME  
     brown_trout - adaptable freshwater fish prized for firm flesh and active behavior
 

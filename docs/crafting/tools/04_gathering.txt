@@ -1,3 +1,7 @@
+# CATEGORY: crafting (tools)
+# NAME: Gathering
+# SOURCE: crafting/tools/04_gathering.txt
+
 NAME
     gathering
 

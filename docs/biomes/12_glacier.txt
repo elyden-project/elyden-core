@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Glacier
+# SOURCE: biomes/12_glacier.txt
+
 NAME  
     glacier - moving ice mass with fractured surfaces and unstable depth
 

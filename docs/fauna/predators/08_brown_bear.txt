@@ -1,3 +1,7 @@
+# CATEGORY: fauna (predators)
+# NAME: Brown Bear
+# SOURCE: fauna/predators/08_brown_bear.txt
+
 NAME  
     brown_bear - massive omnivore occupying forested lowlands and wet terrain
 

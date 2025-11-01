@@ -1,3 +1,7 @@
+# CATEGORY: flora (edibles)
+# NAME: Firethorn Berry
+# SOURCE: flora/edibles/08_firethorn_berry.txt
+
 NAME  
     firethorn_berry - clustered red fruit from thorn-bearing scrub
 

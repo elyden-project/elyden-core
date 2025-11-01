@@ -1,3 +1,7 @@
+# CATEGORY: fauna (predators)
+# NAME: Predators Index
+# SOURCE: fauna/predators/00_predators_index.txt
+
 NAME  
     predators_index - active hunting fauna that stalk, ambush, or pursue prey
 

@@ -1,3 +1,7 @@
+# CATEGORY: flora (indicator)
+# NAME: Field Sedge
+# SOURCE: flora/indicator/09_field_sedge.txt
+
 NAME  
     field_sedge - narrow-bladed grasslike plant indicating compacted soil and seasonal surface runoff
 

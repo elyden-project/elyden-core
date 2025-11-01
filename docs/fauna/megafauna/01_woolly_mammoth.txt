@@ -1,3 +1,7 @@
+# CATEGORY: fauna (megafauna)
+# NAME: Woolly Mammoth
+# SOURCE: fauna/megafauna/01_woolly_mammoth.txt
+
 NAME  
     woolly_mammoth - colossal Ice Age herbivore adapted to tundra and frost sink biomes
 

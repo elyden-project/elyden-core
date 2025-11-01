@@ -1,3 +1,7 @@
+# CATEGORY: flora (crafting)
+# NAME: Pine Tree
+# SOURCE: flora/crafting/09_pine_tree.txt
+
 NAME  
     pine_tree - resinous highland conifer used for pitch and fire support
 

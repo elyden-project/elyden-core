@@ -1,3 +1,7 @@
+# CATEGORY: fauna (signals)
+# NAME: Woodpecker
+# SOURCE: fauna/signals/05_woodpecker.txt
+
 NAME  
     woodpecker - percussive signal bird used to detect ambient calm and tree health
 

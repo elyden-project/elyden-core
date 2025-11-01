@@ -1,3 +1,7 @@
+# CATEGORY: fauna (predators)
+# NAME: Stoat
+# SOURCE: fauna/predators/10_stoat.txt
+
 NAME  
     stoat - agile cold-adapted hunter of rodents and small birds
 

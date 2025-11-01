@@ -1,3 +1,7 @@
+# CATEGORY: crafting
+# NAME: Crafting Index
+# SOURCE: crafting/00_crafting_index.txt
+
 NAME
     crafting index
 

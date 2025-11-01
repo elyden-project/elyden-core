@@ -1,3 +1,7 @@
+# CATEGORY: materials (special)
+# NAME: Shard Dust
+# SOURCE: materials/special/01_shard_dust.txt
+
 NAME
     shard dust - inert residue from spent Vaeronth fragments
 

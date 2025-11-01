@@ -1,3 +1,7 @@
+# CATEGORY: flora (crafting)
+# NAME: Tamarisk Wand
+# SOURCE: flora/crafting/10_tamarisk_wand.txt
+
 NAME  
     tamarisk_wand - flexible woody stem used for trap arms and lightweight framing
 

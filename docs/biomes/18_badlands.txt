@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Badlands
+# SOURCE: biomes/18_badlands.txt
+
 NAME  
     badlands - eroded terrain with fractured sediment and unstable elevation
 

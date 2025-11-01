@@ -1,3 +1,7 @@
+# CATEGORY: crafting (weapons)
+# NAME: Arrows
+# SOURCE: crafting/weapons/02_arrows.txt
+
 NAME
     arrows
 

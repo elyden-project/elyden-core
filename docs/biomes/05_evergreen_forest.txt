@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Evergreen Forest
+# SOURCE: biomes/05_evergreen_forest.txt
+
 NAME  
     evergreen_forest - high-canopy coniferous zone with minimal undergrowth
 

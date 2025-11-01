@@ -1,3 +1,7 @@
+# CATEGORY: .
+# NAME: Sealed Valley
+# SOURCE: 02_sealed_valley.txt
+
 NAME  
     sealed_valley - record of the last survivable region
 

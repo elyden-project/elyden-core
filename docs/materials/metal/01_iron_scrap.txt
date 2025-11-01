@@ -1,3 +1,7 @@
+# CATEGORY: materials (metal)
+# NAME: Iron Scrap
+# SOURCE: materials/metal/01_iron_scrap.txt
+
 NAME
     iron scrap - remnants of pre-collapse metal recovered from ruins
 

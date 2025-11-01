@@ -1,3 +1,7 @@
+# CATEGORY: materials
+# NAME: Materials Index
+# SOURCE: materials/00_materials_index.txt
+
 NAME
     materials index - durable substances available in the sealed valley
 

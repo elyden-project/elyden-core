@@ -1,3 +1,7 @@
+# CATEGORY: fauna (scavengers)
+# NAME: Weasel
+# SOURCE: fauna/scavengers/07_weasel.txt
+
 NAME  
     weasel - swift opportunistic scavenger active in open fields and low vegetation
 

@@ -1,3 +1,7 @@
+# CATEGORY: fauna (aquatic)
+# NAME: Crayfish
+# SOURCE: fauna/aquatic/09_crayfish.txt
+
 NAME  
     crayfish - small freshwater crustacean inhabiting lakes and swamps, used for protein and bait
 

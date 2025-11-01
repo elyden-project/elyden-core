@@ -1,3 +1,7 @@
+# CATEGORY: materials (special)
+# NAME: Ring Glass
+# SOURCE: materials/special/03_ring_glass.txt
+
 NAME
     ring glass - fused lunar sand with translucent green hue
 

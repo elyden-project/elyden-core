@@ -1,3 +1,7 @@
+# CATEGORY: crafting (tools)
+# NAME: Repair
+# SOURCE: crafting/tools/05_repair.txt
+
 NAME
     repair
 

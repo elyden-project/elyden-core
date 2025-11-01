@@ -1,3 +1,7 @@
+# CATEGORY: flora (indicator)
+# NAME: Horsetail Fern
+# SOURCE: flora/indicator/03_horsetail_fern.txt
+
 NAME  
     horsetail_fern - segmented wetland fern indicating silty floodplain and shallow subsurface water
 

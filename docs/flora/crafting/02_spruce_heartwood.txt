@@ -1,3 +1,7 @@
+# CATEGORY: flora (crafting)
+# NAME: Spruce Heartwood
+# SOURCE: flora/crafting/02_spruce_heartwood.txt
+
 NAME  
     spruce_heartwood - straight-grained conifer core used for shafts, frames, and planking
 

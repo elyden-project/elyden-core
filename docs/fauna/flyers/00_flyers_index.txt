@@ -1,3 +1,7 @@
+# CATEGORY: fauna (flyers)
+# NAME: Flyers Index
+# SOURCE: fauna/flyers/00_flyers_index.txt
+
 NAME  
     flyers_index - winged fauna with navigational, environmental, or survival relevance
 

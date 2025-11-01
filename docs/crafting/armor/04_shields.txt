@@ -1,3 +1,7 @@
+# CATEGORY: crafting (armor)
+# NAME: Shields
+# SOURCE: crafting/armor/04_shields.txt
+
 NAME
     shields
 

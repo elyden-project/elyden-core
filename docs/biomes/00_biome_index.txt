@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Biome Index
+# SOURCE: biomes/00_biome_index.txt
+
 NAME  
     biome_index - stable terrain zones observed within the sealed valley
 

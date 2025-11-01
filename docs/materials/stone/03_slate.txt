@@ -1,3 +1,7 @@
+# CATEGORY: materials (stone)
+# NAME: Slate
+# SOURCE: materials/stone/03_slate.txt
+
 NAME
     slate - layered stone for roof and fire bed
 

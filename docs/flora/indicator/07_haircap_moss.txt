@@ -1,3 +1,7 @@
+# CATEGORY: flora (indicator)
+# NAME: Haircap Moss
+# SOURCE: flora/indicator/07_haircap_moss.txt
+
 NAME  
     haircap_moss - upright moss indicating cold moisture, acidic soil, and freeze retention
 

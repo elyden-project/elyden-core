@@ -1,3 +1,7 @@
+# CATEGORY: crafting (weapons)
+# NAME: Spears
+# SOURCE: crafting/weapons/04_spears.txt
+
 NAME
     spears
 

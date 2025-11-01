@@ -1,3 +1,7 @@
+# CATEGORY: materials (organic)
+# NAME: Hide
+# SOURCE: materials/organic/01_hide.txt
+
 NAME
     hide - dried animal skin for clothing and shelter
 

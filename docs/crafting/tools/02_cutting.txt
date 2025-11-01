@@ -1,3 +1,7 @@
+# CATEGORY: crafting (tools)
+# NAME: Cutting
+# SOURCE: crafting/tools/02_cutting.txt
+
 NAME
     cutting
 

@@ -1,3 +1,7 @@
+# CATEGORY: flora (medicinal)
+# NAME: Comfrey Root
+# SOURCE: flora/medicinal/10_comfrey_root.txt
+
 NAME  
     comfrey_root - fibrous root used for bone-set poultice and swelling reduction
 

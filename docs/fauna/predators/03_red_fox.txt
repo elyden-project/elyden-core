@@ -1,3 +1,7 @@
+# CATEGORY: fauna (predators)
+# NAME: Red Fox
+# SOURCE: fauna/predators/03_red_fox.txt
+
 NAME  
     red_fox - agile small predator occupying meadow and hill zones
 

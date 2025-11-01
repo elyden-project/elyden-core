@@ -1,3 +1,7 @@
+# CATEGORY: fauna (megafauna)
+# NAME: Woolly Rhinoceros
+# SOURCE: fauna/megafauna/03_woolly_rhinoceros.txt
+
 NAME  
     woolly_rhinoceros - large Ice Age herbivore adapted to tundra and frost sink zones
 

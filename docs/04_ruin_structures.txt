@@ -1,3 +1,7 @@
+# CATEGORY: .
+# NAME: Ruin Structures
+# SOURCE: 04_ruin_structures.txt
+
 NAME  
     ruin_structures - surviving monuments to the celestial order
 

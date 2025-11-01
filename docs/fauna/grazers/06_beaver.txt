@@ -1,3 +1,7 @@
+# CATEGORY: fauna (grazers)
+# NAME: Beaver
+# SOURCE: fauna/grazers/06_beaver.txt
+
 NAME  
     beaver - medium-sized semi-aquatic rodent known for dam-building and fur
 

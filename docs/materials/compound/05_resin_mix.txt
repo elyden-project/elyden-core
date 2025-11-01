@@ -1,3 +1,7 @@
+# CATEGORY: materials (compound)
+# NAME: Resin Mix
+# SOURCE: materials/compound/05_resin_mix.txt
+
 NAME
     resin mix - pine pitch blended with ash and dust for sealing
 

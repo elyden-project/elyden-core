@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Wet Slope
+# SOURCE: biomes/09_wet_slope.txt
+
 NAME  
     wet_slope - geothermal incline with persistent moisture and unstable terrain
 

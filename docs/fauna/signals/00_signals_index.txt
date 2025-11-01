@@ -1,3 +1,7 @@
+# CATEGORY: fauna (signals)
+# NAME: Signals Index
+# SOURCE: fauna/signals/00_signals_index.txt
+
 NAME  
     signals_index - ambient fauna whose presence, silence, or behavior signals environmental change
 

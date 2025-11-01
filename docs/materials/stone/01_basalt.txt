@@ -1,3 +1,7 @@
+# CATEGORY: materials (stone)
+# NAME: Basalt
+# SOURCE: materials/stone/01_basalt.txt
+
 NAME
     basalt - dense volcanic stone used for striking and grinding
 

@@ -1,3 +1,7 @@
+# CATEGORY: flora (crafting)
+# NAME: Liana Bark
+# SOURCE: flora/crafting/05_liana_bark.txt
+
 NAME  
     liana_bark - flexible woody vine used for cordage, binding, and strapping
 

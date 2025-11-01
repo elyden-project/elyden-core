@@ -1,3 +1,7 @@
+# CATEGORY: flora (medicinal)
+# NAME: Yarrow
+# SOURCE: flora/medicinal/02_yarrow.txt
+
 NAME  
     yarrow - aromatic leaf and flower used for clotting, swelling, and wound packing
 

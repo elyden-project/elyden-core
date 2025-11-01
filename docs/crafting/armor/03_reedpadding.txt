@@ -1,3 +1,7 @@
+# CATEGORY: crafting (armor)
+# NAME: Reedpadding
+# SOURCE: crafting/armor/03_reedpadding.txt
+
 NAME
     reedpadding
 

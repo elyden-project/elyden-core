@@ -1,3 +1,7 @@
+# CATEGORY: materials (metal)
+# NAME: Meteoric Iron
+# SOURCE: materials/metal/03_meteoric_iron.txt
+
 NAME
     meteoric iron - dense metal from ancient celestial impacts
 

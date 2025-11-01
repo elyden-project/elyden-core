@@ -1,3 +1,7 @@
+# CATEGORY: fauna (flyers)
+# NAME: Greylag Goose
+# SOURCE: fauna/flyers/03_greylag_goose.txt
+
 NAME  
     greylag_goose - large migratory waterfowl common in wetlands and meadow margins
 

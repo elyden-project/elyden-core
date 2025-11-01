@@ -1,3 +1,7 @@
+# CATEGORY: fauna (flyers)
+# NAME: Barn Swallow
+# SOURCE: fauna/flyers/05_barn_swallow.txt
+
 NAME  
     barn_swallow - small aerial insectivore common near open plains and water bodies
 

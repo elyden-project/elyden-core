@@ -1,3 +1,7 @@
+# CATEGORY: materials (chemical)
+# NAME: Sulfur
+# SOURCE: materials/chemical/02_sulfur.txt
+
 NAME
     sulfur - yellow mineral for medicine and deterrent
 

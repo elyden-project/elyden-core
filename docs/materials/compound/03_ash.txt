@@ -1,3 +1,7 @@
+# CATEGORY: materials (compound)
+# NAME: Ash
+# SOURCE: materials/compound/03_ash.txt
+
 NAME
     ash - fine residue of burned wood and bone
 

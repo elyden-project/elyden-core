@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Unclimbable Ridge
+# SOURCE: biomes/15_unclimbable_ridge.txt
+
 NAME  
     unclimbable_ridge - tectonic wall enclosing the valley’s outer limit
 

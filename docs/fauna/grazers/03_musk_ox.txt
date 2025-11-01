@@ -1,3 +1,7 @@
+# CATEGORY: fauna (grazers)
+# NAME: Musk Ox
+# SOURCE: fauna/grazers/03_musk_ox.txt
+
 NAME  
     musk_ox - large tundra grazer with thick insulating coat, adapted for cold environments
 

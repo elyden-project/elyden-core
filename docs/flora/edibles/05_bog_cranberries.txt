@@ -1,3 +1,7 @@
+# CATEGORY: flora (edibles)
+# NAME: Bog Cranberries
+# SOURCE: flora/edibles/05_bog_cranberries.txt
+
 NAME  
     bog_cranberries - tart red fruit growing on creeping wetland vine
 

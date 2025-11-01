@@ -1,3 +1,7 @@
+# CATEGORY: materials (compound)
+# NAME: Glue Bone
+# SOURCE: materials/compound/06_glue_bone.txt
+
 NAME
     glue bone - adhesive made from boiled bone and sinew
 

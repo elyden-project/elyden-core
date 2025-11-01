@@ -1,3 +1,7 @@
+# CATEGORY: fauna (grazers)
+# NAME: Roe Deer
+# SOURCE: fauna/grazers/04_roe_deer.txt
+
 NAME  
     roe_deer - medium-sized, agile herbivore occupying meadows, plains, and deciduous forests
 

@@ -1,3 +1,7 @@
+# CATEGORY: flora (edibles)
+# NAME: Wild Sorrel
+# SOURCE: flora/edibles/06_wild_sorrel.txt
+
 NAME  
     wild_sorrel - tangy leaf plant high in moisture and trace minerals
 

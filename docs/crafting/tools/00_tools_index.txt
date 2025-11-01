@@ -1,3 +1,7 @@
+# CATEGORY: crafting (tools)
+# NAME: Tools Index
+# SOURCE: crafting/tools/00_tools_index.txt
+
 NAME
     tools index
 

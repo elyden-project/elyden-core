@@ -1,3 +1,7 @@
+# CATEGORY: fauna (flyers)
+# NAME: Red Tailed Hawk
+# SOURCE: fauna/flyers/02_red_tailed_hawk.txt
+
 NAME  
     red_tailed_hawk - widespread raptor known for soaring flight and keen eyesight
 

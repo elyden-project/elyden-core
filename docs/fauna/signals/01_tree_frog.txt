@@ -1,3 +1,7 @@
+# CATEGORY: fauna (signals)
+# NAME: Tree Frog
+# SOURCE: fauna/signals/01_tree_frog.txt
+
 NAME  
     tree_frog - vocal amphibian used to assess humidity and lowland air shifts
 

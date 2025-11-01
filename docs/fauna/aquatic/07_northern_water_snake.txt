@@ -1,3 +1,7 @@
+# CATEGORY: fauna (aquatic)
+# NAME: Northern Water Snake
+# SOURCE: fauna/aquatic/07_northern_water_snake.txt
+
 NAME  
     northern_water_snake - non-venomous aquatic snake inhabiting swamps and lakes, active predator of fish and amphibians
 

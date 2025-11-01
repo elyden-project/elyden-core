@@ -1,3 +1,7 @@
+# CATEGORY: fauna (flyers)
+# NAME: Snowy Owl
+# SOURCE: fauna/flyers/09_snowy_owl.txt
+
 NAME  
     snowy_owl - large cold-adapted raptor inhabiting tundra and ice shelf zones
 

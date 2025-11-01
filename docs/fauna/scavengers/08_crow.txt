@@ -1,3 +1,7 @@
+# CATEGORY: fauna (scavengers)
+# NAME: Crow
+# SOURCE: fauna/scavengers/08_crow.txt
+
 NAME  
     crow - small opportunistic scavenger active near flood zones and open terrain
 

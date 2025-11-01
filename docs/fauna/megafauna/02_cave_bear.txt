@@ -1,3 +1,7 @@
+# CATEGORY: fauna (megafauna)
+# NAME: Cave Bear
+# SOURCE: fauna/megafauna/02_cave_bear.txt
+
 NAME  
     cave_bear - massive Pleistocene ursid inhabiting hills and evergreen forests
 

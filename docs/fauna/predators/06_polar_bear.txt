@@ -1,3 +1,7 @@
+# CATEGORY: fauna (predators)
+# NAME: Polar Bear
+# SOURCE: fauna/predators/06_polar_bear.txt
+
 NAME  
     polar_bear - massive arctic predator dominating ice shelf and glacial margins
 

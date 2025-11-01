@@ -1,3 +1,7 @@
+# CATEGORY: materials (special)
+# NAME: Resonant Basalt
+# SOURCE: materials/special/02_resonant_basalt.txt
+
 NAME
     resonant basalt - low vibration stone drawn from ruin foundations
 

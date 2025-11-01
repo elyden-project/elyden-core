@@ -1,3 +1,7 @@
+# CATEGORY: flora (poisons)
+# NAME: Belladonna
+# SOURCE: flora/poisons/03_belladonna.txt
+
 NAME  
     belladonna - sedative berry-bearing plant used for disorientation and field incapacitation
 

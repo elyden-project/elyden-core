@@ -1,3 +1,7 @@
+# CATEGORY: crafting (armor)
+# NAME: Hidework
+# SOURCE: crafting/armor/01_hidework.txt
+
 NAME
     hidework
 

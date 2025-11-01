@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Hills
+# SOURCE: biomes/03_hills.txt
+
 NAME  
     hills - uneven terrain with low soil stability and limited vegetation
 

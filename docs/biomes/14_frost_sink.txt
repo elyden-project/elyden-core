@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Frost Sink
+# SOURCE: biomes/14_frost_sink.txt
+
 NAME  
     frost_sink - enclosed depression with persistent cold and trapped permafrost
 

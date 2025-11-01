@@ -1,3 +1,7 @@
+# CATEGORY: crafting (armor)
+# NAME: Armor Index
+# SOURCE: crafting/armor/00_armor_index.txt
+
 NAME
     armor index
 

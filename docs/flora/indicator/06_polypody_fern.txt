@@ -1,3 +1,7 @@
+# CATEGORY: flora (indicator)
+# NAME: Polypody Fern
+# SOURCE: flora/indicator/06_polypody_fern.txt
+
 NAME  
     polypody_fern - leathery-leaved fern indicating stable moisture and shallow mineral substrate
 

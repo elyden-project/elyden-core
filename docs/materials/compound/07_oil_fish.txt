@@ -1,3 +1,7 @@
+# CATEGORY: materials (compound)
+# NAME: Oil Fish
+# SOURCE: materials/compound/07_oil_fish.txt
+
 NAME
     oil fish - rendered oil from freshwater fish for fuel and softening
 

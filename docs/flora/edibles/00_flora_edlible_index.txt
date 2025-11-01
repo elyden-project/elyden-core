@@ -1,3 +1,7 @@
+# CATEGORY: flora (edibles)
+# NAME: Flora Edlible Index
+# SOURCE: flora/edibles/00_flora_edlible_index.txt
+
 NAME  
     flora_edible_index - nutrient-yielding flora across Elyden biomes
 

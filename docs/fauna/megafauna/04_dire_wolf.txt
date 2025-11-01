@@ -1,3 +1,7 @@
+# CATEGORY: fauna (megafauna)
+# NAME: Dire Wolf
+# SOURCE: fauna/megafauna/04_dire_wolf.txt
+
 NAME  
     dire_wolf - large Pleistocene predator inhabiting mixed forests and plains
 

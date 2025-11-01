@@ -1,3 +1,7 @@
+# CATEGORY: materials (mineral)
+# NAME: Graphite
+# SOURCE: materials/mineral/03_graphite.txt
+
 NAME
     graphite - dark mineral used for marking and friction control
 

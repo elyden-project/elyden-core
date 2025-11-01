@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Volcanic Slope
+# SOURCE: biomes/16_volcanic_slope.txt
+
 NAME  
     volcanic_slope - geothermal incline with exposed vents and unstable crust
 

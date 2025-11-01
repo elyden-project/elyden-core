@@ -1,3 +1,7 @@
+# CATEGORY: fauna (megafauna)
+# NAME: Varanus Priscu
+# SOURCE: fauna/megafauna/10_varanus_priscu.txt
+
 NAME  
     varanus_priscu - large cold-adapted monitor lizard inhabiting swamp and flood hollow biomes
 

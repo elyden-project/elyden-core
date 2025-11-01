@@ -1,3 +1,7 @@
+# CATEGORY: fauna (predators)
+# NAME: Wolverine
+# SOURCE: fauna/predators/04_wolverine.txt
+
 NAME  
     wolverine - aggressive small predator adapted to frozen highlands and evergreen forests
 

@@ -1,3 +1,7 @@
+# CATEGORY: flora (indicator)
+# NAME: Snowbed Willow
+# SOURCE: flora/indicator/10_snowbed_willow.txt
+
 NAME  
     snowbed_willow - ground-hugging alpine shrub indicating late-melting snow and permafrost buffering
 

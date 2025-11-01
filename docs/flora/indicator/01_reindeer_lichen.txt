@@ -1,3 +1,7 @@
+# CATEGORY: flora (indicator)
+# NAME: Reindeer Lichen
+# SOURCE: flora/indicator/01_reindeer_lichen.txt
+
 NAME  
     reindeer_lichen - pale ground lichen indicating persistent cold and mineral-poor substrate
 

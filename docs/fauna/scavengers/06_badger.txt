@@ -1,3 +1,7 @@
+# CATEGORY: fauna (scavengers)
+# NAME: Badger
+# SOURCE: fauna/scavengers/06_badger.txt
+
 NAME  
     badger - solitary digger and scavenger active across plains and low hills
 

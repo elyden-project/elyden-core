@@ -1,3 +1,7 @@
+# CATEGORY: materials (metal)
+# NAME: Ring Slag
+# SOURCE: materials/metal/02_ring_slag.txt
+
 NAME
     ring slag - vitrified debris from Vaeronth’s fallen ring
 

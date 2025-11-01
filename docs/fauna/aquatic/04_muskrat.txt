@@ -1,3 +1,7 @@
+# CATEGORY: fauna (aquatic)
+# NAME: Muskrat
+# SOURCE: fauna/aquatic/04_muskrat.txt
+
 NAME  
     muskrat - small semi-aquatic rodent valued for fur and meat in wetland zones
 

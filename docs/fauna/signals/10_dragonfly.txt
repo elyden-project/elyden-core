@@ -1,3 +1,7 @@
+# CATEGORY: fauna (signals)
+# NAME: Dragonfly
+# SOURCE: fauna/signals/10_dragonfly.txt
+
 NAME  
     dragonfly - aerial hover insect used to mark water purity and air stratification
 

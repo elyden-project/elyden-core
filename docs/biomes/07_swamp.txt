@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Swamp
+# SOURCE: biomes/07_swamp.txt
+
 NAME  
     swamp - waterlogged lowland with unstable footing and high biomass
 

@@ -1,3 +1,7 @@
+# CATEGORY: fauna (grazers)
+# NAME: Moose
+# SOURCE: fauna/grazers/10_moose.txt
+
 NAME  
     moose - massive cold-adapted herbivore found in swamps and evergreen forests
 

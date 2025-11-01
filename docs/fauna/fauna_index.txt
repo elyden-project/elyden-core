@@ -1,3 +1,7 @@
+# CATEGORY: fauna
+# NAME: Fauna Index
+# SOURCE: fauna/fauna_index.txt
+
 NAME  
     fauna_index - overview of fauna classification by survival function
 

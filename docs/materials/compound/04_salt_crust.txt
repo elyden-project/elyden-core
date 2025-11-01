@@ -1,3 +1,7 @@
+# CATEGORY: materials (compound)
+# NAME: Salt Crust
+# SOURCE: materials/compound/04_salt_crust.txt
+
 NAME
     salt crust - mineral deposit for curing and preservation
 

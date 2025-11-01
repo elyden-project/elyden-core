@@ -1,3 +1,7 @@
+# CATEGORY: fauna (flyers)
+# NAME: Rock Pigeon
+# SOURCE: fauna/flyers/10_rock_pigeon.txt
+
 NAME  
     rock_pigeon - small urban-adapted bird found in hills and ruins
 

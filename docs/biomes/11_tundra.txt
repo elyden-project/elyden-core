@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Tundra
+# SOURCE: biomes/11_tundra.txt
+
 NAME  
     tundra - cold flatland with frozen subsoil and minimal vegetation
 

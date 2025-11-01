@@ -1,3 +1,7 @@
+# CATEGORY: fauna (flyers)
+# NAME: Peregrine Falcon
+# SOURCE: fauna/flyers/08_peregrine_falcon.txt
+
 NAME  
     peregrine_falcon - fast aerial predator found in badlands and glacier zones
 

@@ -1,3 +1,7 @@
+# CATEGORY: flora (medicinal)
+# NAME: Calendula Flower
+# SOURCE: flora/medicinal/06_calendula_flower.txt
+
 NAME  
     calendula_flower - bright orange blossom used to reduce swelling and aid surface healing
 

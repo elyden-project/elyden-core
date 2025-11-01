@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Mixed Forest
+# SOURCE: biomes/04_mixed_forest.txt
+
 NAME  
     mixed_forest - transitional canopy zone with interlaced deciduous and evergreen growth
 

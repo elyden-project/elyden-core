@@ -1,3 +1,7 @@
+# CATEGORY: fauna (signals)
+# NAME: Nightjar
+# SOURCE: fauna/signals/02_nightjar.txt
+
 NAME  
     nightjar - dusk-calling ground bird used to mark calm atmospheric conditions
 

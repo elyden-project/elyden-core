@@ -1,3 +1,7 @@
+# CATEGORY: crafting (weapons)
+# NAME: Thrown
+# SOURCE: crafting/weapons/06_thrown.txt
+
 NAME
     thrown weapons
 

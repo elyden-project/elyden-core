@@ -1,3 +1,7 @@
+# CATEGORY: fauna (grazers)
+# NAME: Grazers Index
+# SOURCE: fauna/grazers/00_grazers_index.txt
+
 NAME  
     grazers_index - non-predatory herbivorous fauna used for food, hide, or field tracking
 

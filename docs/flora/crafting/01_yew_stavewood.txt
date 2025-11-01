@@ -1,3 +1,7 @@
+# CATEGORY: flora (crafting)
+# NAME: Yew Stavewood
+# SOURCE: flora/crafting/01_yew_stavewood.txt
+
 NAME  
     yew_stavewood - dense, flexible wood used for shaping bows and tool cores
 

@@ -1,3 +1,7 @@
+# CATEGORY: fauna (signals)
+# NAME: Bat
+# SOURCE: fauna/signals/08_bat.txt
+
 NAME  
     bat - nocturnal flyer used to confirm insect bloom and thermal inversion
 

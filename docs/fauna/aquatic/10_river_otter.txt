@@ -1,3 +1,7 @@
+# CATEGORY: fauna (aquatic)
+# NAME: River Otter
+# SOURCE: fauna/aquatic/10_river_otter.txt
+
 NAME  
     river_otter - medium-sized semi-aquatic mammal inhabiting lakes and flood hollows, valued for fur and meat
 

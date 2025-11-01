@@ -1,3 +1,7 @@
+# CATEGORY: crafting (tools)
+# NAME: Binding
+# SOURCE: crafting/tools/03_binding.txt
+
 NAME
     binding
 

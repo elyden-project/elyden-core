@@ -1,3 +1,7 @@
+# CATEGORY: crafting (armor)
+# NAME: Trophies
+# SOURCE: crafting/armor/05_trophies.txt
+
 NAME
     trophies
 

@@ -1,3 +1,7 @@
+# CATEGORY: fauna (signals)
+# NAME: Chickadee
+# SOURCE: fauna/signals/09_chickadee.txt
+
 NAME  
     chickadee - vocal canopy bird used to gauge subfreezing air and static pressure zones
 

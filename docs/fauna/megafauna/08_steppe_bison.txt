@@ -1,3 +1,7 @@
+# CATEGORY: fauna (megafauna)
+# NAME: Steppe Bison
+# SOURCE: fauna/megafauna/08_steppe_bison.txt
+
 NAME  
     steppe_bison - large herbivore of plains and meadow biomes, known for herd behavior
 

@@ -1,3 +1,7 @@
+# CATEGORY: flora (edibles)
+# NAME: Tundra Willow Bark
+# SOURCE: flora/edibles/03_tundra_willow_bark.txt
+
 NAME  
     tundra_willow_bark - fibrous bark with trace sugar and survival fiber
 

@@ -1,3 +1,7 @@
+# CATEGORY: flora (crafting)
+# NAME: Birch Peel
+# SOURCE: flora/crafting/04_birch_peel.txt
+
 NAME  
     birch_peel - flammable bark sheet used for ignition, insulation, and moisture barrier
 

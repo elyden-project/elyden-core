@@ -1,3 +1,7 @@
+# CATEGORY: fauna (grazers)
+# NAME: Elk
+# SOURCE: fauna/grazers/02_elk.txt
+
 NAME  
     elk - large migratory herbivore valued for meat, hide, and antler use
 

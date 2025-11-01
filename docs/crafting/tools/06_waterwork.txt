@@ -1,3 +1,7 @@
+# CATEGORY: crafting (tools)
+# NAME: Waterwork
+# SOURCE: crafting/tools/06_waterwork.txt
+
 NAME
     waterwork
 

@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Flood Hollow
+# SOURCE: biomes/10_flood_hollow.txt
+
 NAME  
     flood_hollow - low basin with seasonal water saturation and dense vegetation
 

@@ -1,3 +1,7 @@
+# CATEGORY: flora (crafting)
+# NAME: Bulrush Stalk
+# SOURCE: flora/crafting/06_bulrush_stalk.txt
+
 NAME  
     bulrush_stalk - tall wetland stalk used for matting, insulation, and shaft padding
 

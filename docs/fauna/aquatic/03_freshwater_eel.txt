@@ -1,3 +1,7 @@
+# CATEGORY: fauna (aquatic)
+# NAME: Freshwater Eel
+# SOURCE: fauna/aquatic/03_freshwater_eel.txt
+
 NAME  
     freshwater_eel - elongated nocturnal predator inhabiting swampy and slow-moving waters
 

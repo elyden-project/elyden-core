@@ -1,3 +1,7 @@
+# CATEGORY: materials (compound)
+# NAME: Clay
+# SOURCE: materials/compound/01_clay.txt
+
 NAME
     clay - fine sediment for vessels and seals
 

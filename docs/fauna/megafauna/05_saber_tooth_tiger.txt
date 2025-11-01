@@ -1,3 +1,7 @@
+# CATEGORY: fauna (megafauna)
+# NAME: Saber Tooth Tiger
+# SOURCE: fauna/megafauna/05_saber_tooth_tiger.txt
+
 NAME  
     saber_tooth_tiger - formidable Ice Age predator inhabiting badlands and swamp biomes
 

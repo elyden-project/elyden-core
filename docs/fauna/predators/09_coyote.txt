@@ -1,3 +1,7 @@
+# CATEGORY: fauna (predators)
+# NAME: Coyote
+# SOURCE: fauna/predators/09_coyote.txt
+
 NAME  
     coyote - opportunistic predator and scavenger active across open and forested zones
 

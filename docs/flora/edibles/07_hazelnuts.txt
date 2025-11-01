@@ -1,3 +1,7 @@
+# CATEGORY: flora (edibles)
+# NAME: Hazelnuts
+# SOURCE: flora/edibles/07_hazelnuts.txt
+
 NAME  
     hazelnuts - high-fat seasonal nut from deciduous shrub
 

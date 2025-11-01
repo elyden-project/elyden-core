@@ -1,3 +1,7 @@
+# CATEGORY: flora (crafting)
+# NAME: Mullein Leaf
+# SOURCE: flora/crafting/08_mullein_leaf.txt
+
 NAME  
     mullein_leaf - broad, woolly leaf used for wrap insulation and fire-start padding
 

@@ -1,3 +1,7 @@
+# CATEGORY: materials (stone)
+# NAME: Obsidian
+# SOURCE: materials/stone/02_obsidian.txt
+
 NAME
     obsidian - glassy volcanic stone for cutting edges
 

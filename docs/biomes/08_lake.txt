@@ -1,3 +1,7 @@
+# CATEGORY: biomes
+# NAME: Lake
+# SOURCE: biomes/08_lake.txt
+
 NAME  
     lake - static freshwater body with exposed perimeter and unstable margins
 

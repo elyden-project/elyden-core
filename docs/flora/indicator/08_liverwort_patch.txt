@@ -1,3 +1,7 @@
+# CATEGORY: flora (indicator)
+# NAME: Liverwort Patch
+# SOURCE: flora/indicator/08_liverwort_patch.txt
+
 NAME  
     liverwort_patch - low, thalloid growth indicating geothermal seepage or mineral disturbance
 

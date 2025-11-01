@@ -1,3 +1,7 @@
+# CATEGORY: fauna (aquatic)
+# NAME: Bullfrog
+# SOURCE: fauna/aquatic/05_bullfrog.txt
+
 NAME  
     bullfrog - large amphibian common in wetlands, valued for meat and signaling
 

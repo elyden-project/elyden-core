@@ -1,3 +1,7 @@
+# CATEGORY: materials (organic)
+# NAME: Sinew
+# SOURCE: materials/organic/03_sinew.txt
+
 NAME
     sinew - fibrous tendon used for binding and thread
 

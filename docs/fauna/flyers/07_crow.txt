@@ -1,3 +1,7 @@
+# CATEGORY: fauna (flyers)
+# NAME: Crow
+# SOURCE: fauna/flyers/07_crow.txt
+
 NAME  
     crow - medium-small omnivorous bird common in plains and swamp biomes
 

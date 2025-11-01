@@ -1,3 +1,7 @@
+# CATEGORY: fauna (scavengers)
+# NAME: Striped Hyena
+# SOURCE: fauna/scavengers/04_striped_hyena.txt
+
 NAME  
     striped_hyena - nocturnal bone-scavenger active along volcanic margins and badland slopes
 

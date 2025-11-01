@@ -1,3 +1,7 @@
+# CATEGORY: fauna (grazers)
+# NAME: Ptarmigan
+# SOURCE: fauna/grazers/05_ptarmigan.txt
+
 NAME  
     ptarmigan - small ground bird adapted to tundra and mixed forest environments
 

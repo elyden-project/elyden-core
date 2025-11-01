@@ -1,3 +1,7 @@
+# CATEGORY: fauna (flyers)
+# NAME: Barred Owl
+# SOURCE: fauna/flyers/01_barred_owl.txt
+
 NAME  
     barred_owl - medium-sized nocturnal predator and environmental indicator in forested hills
 

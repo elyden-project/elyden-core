@@ -1,3 +1,7 @@
+# CATEGORY: fauna (signals)
+# NAME: Field Cricket
+# SOURCE: fauna/signals/07_field_cricket.txt
+
 NAME  
     field_cricket - rhythmic ground insect used to detect surface vibration and temperature plateau
 

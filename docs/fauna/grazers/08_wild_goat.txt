@@ -1,3 +1,7 @@
+# CATEGORY: fauna (grazers)
+# NAME: Wild Goat
+# SOURCE: fauna/grazers/08_wild_goat.txt
+
 NAME  
     wild_goat - medium-sized herbivore inhabiting badlands and hills, valued for meat and hide
 

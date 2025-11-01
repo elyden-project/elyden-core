@@ -1,3 +1,7 @@
+# CATEGORY: flora (edibles)
+# NAME: Rose Hip
+# SOURCE: flora/edibles/09_rose_hip.txt
+
 NAME  
     rose_hip - vitamin-rich fruit from wild rose shrubs
 

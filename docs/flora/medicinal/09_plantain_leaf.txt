@@ -1,3 +1,7 @@
+# CATEGORY: flora (medicinal)
+# NAME: Plantain Leaf
+# SOURCE: flora/medicinal/09_plantain_leaf.txt
+
 NAME  
     plantain_leaf - broad-leafed herb used to draw out irritation and support clotting
 

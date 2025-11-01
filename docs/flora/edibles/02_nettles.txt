@@ -1,3 +1,7 @@
+# CATEGORY: flora (edibles)
+# NAME: Nettles
+# SOURCE: flora/edibles/02_nettles.txt
+
 NAME  
     nettles - iron-rich leafy stalk with stinging hairs
 

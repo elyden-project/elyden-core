@@ -1,3 +1,7 @@
+# CATEGORY: .
+# NAME: World Laws
+# SOURCE: 00_world_laws.txt
+
 NAME  
     world_laws - immutable foundations of Elyden's stability  
 
