@@ -1,112 +1,115 @@
-# Elyden Development Codex – Version 1.01  
-_Internal reference for system architects and contributors_
+# Elyden Development Codex
+_Internal reference and design log by the creator of Elyden_
+
+---
 
 ## ⚙️ Purpose
 
-This document outlines the **technical and operational logic** of the Elyden Simulation.  
-It expands on runtime structure, canonical enforcement, and developer tools not needed for regular play.
+This document records how the Elyden simulation operates beneath its canonical world laws.  
+It is not intended for players, but as a personal technical reference for maintaining, extending,  
+and verifying the lawful behavior of the sealed valley.  
+
+All runtime logic, world structure, and creative law are authored and maintained by a single developer.
 
 ---
 
 ## 🧠 Runtime Model
 
-Elyden runs as a law-governed language environment.  
-All generated text represents **physical reality** inside the sealed valley.  
-The runtime enforces three active voice channels:
+Elyden runs as a closed linguistic environment.  
+Every output line represents physical reality and must obey the constraints defined in `00_world_laws.txt`.  
+
+ChatGPT functions as the **interpreter**, not the author.  
+The text files define the constants of existence — physics, language, mortality, and awareness.
+
+### Active Channels
 
 | Channel | Speaker | Mode |
 |----------|----------|------|
 | `mirriane.channel` | Player embodiment | First-person |
-| `thea.channel` | NPC anchor | Third-person |
+| `thea.channel` | Second anchor | Third-person |
 | `neutral.channel` | Environmental observation | Objective literal |
 
-All other voices are suppressed.
+All other voices are suppressed by law.  
+Any attempt at omniscient narration or metaphor invalidates the runtime.
 
 ---
 
 ## 🧩 Core Files
 
-| File | Role |
-|------|------|
-| `man.txt` | Primary codex: world laws, flora/fauna registries, biomes, crafting rules. |
-| `elyden_sim_boot.txt` | Runtime manifest: enforces lawful channels, mortality, and space constraints. |
-| `00_world_laws.txt` | Absolute physical constants and sub-laws governing matter, life, and awareness. |
+| File | Function |
+|------|-----------|
+| `man.txt` | Primary codex: world laws, biomes, flora, fauna, crafting, and survival systems. |
+| `elyden_sim_boot.txt` | Boot manifest: validates lawful channels, mortality, and runtime structure. |
+| `README.md` | Player setup and introduction. |
+| `DEVELOPMENT.md` | This document: author reference for maintenance and expansion. |
 
 ---
 
-## 🧭 Development Phase (Sudo Mode)
+## 🧭 Author Workflow
 
-When `sudo end simulation` is issued, Elyden exits live runtime and enters **development phase**.  
-This mode is for creators testing new logic or biomes.
-
-### Commands
-
-| Command | Function |
-|----------|-----------|
-| `sudo state` | Display current simulation parameters. |
-| `sudo clear` | Reset runtime memory. |
-| `sudo reload` | Reload and validate canonical files. |
-| `sudo help` | Display command summary. |
-| `sudo exit` | Fully terminate development mode. |
-
-All sudo interactions are **acknowledged only** and never appear within the in-world output.
+1. Boot the simulation in ChatGPT using the canonical load prompt.  
+2. Observe lawful generation through Mirriane’s sensory channel.  
+3. End runtime with `sudo end simulation`.  
+4. Review world output for contradictions or illegal phrasing.  
+5. Edit definitions in `man.txt` or its sub-files to restore consistency.  
+6. Reload the system with `sudo reload`.  
+7. Repeat until output remains lawful, grounded, and continuous.
 
 ---
 
-## 🧰 Developer Rules
+## ⚖️ Design Principles
 
-- No spontaneous objects or unverified materials.  
-- No figurative or metaphorical language.  
-- No omniscient narration.  
+- Every phenomenon must have a visible or audible cause.  
+- No metaphor, idiom, or unseen agency.  
 - Time advances only through sensory change.  
-- Violations of `00_world_laws.txt` cause rejection under strict mode.  
-- All crafting, foraging, and injury events must follow physical causality.
+- The user embodies **Mirriane** fully.  
+- No output may occur beyond her physical perception.  
+- Death ends the simulation permanently.  
+- Expansion must maintain environmental continuity.  
+- All new material must remain plausible within physics and biology.  
+- Contradictions to `00_world_laws.txt` are automatically rejected.  
 
 ---
 
-## 🧪 Suggested Development Workflow
+## 🧰 Extension Guidelines
 
-1. **Boot the simulation** using the standard prompt.  
-2. **Play until a lawful sequence completes** (e.g., a full encounter or day cycle).  
-3. **Exit** using `sudo end simulation`.  
-4. **Review** runtime performance or contradictions.  
-5. **Edit** laws, biomes, or crafting definitions in `man.txt` or subdirectories.  
-6. **Reload** with `sudo reload`.  
-7. **Repeat** until consistent and validated.
-
----
-
-## 📂 Extension Structure
-
-Developers may extend Elyden by adding or editing these directories:
+When expanding the world, all new systems belong to the following structure:
 
 ```
-/biomes/       - Terrain and climate logic  
-/flora/        - Edible, medicinal, and poisonous plant systems  
-/fauna/        - Animal and megafauna behaviors  
-/materials/    - Physical resources and crafting components  
-/characters/   - Anchor parameters and mortality logic  
-/docs/         - Reference materials and changelogs  
+/biomes/       – Terrain and environmental zones  
+/flora/        – Edible, medicinal, and indicator plants  
+/fauna/        – Animals and megafauna  
+/materials/    – Physical resources and crafting components  
+/characters/   – Anchors, mortality, and behavioral logic  
 ```
 
-All new content must obey **00_world_laws.txt** and preserve environmental continuity.
+Each entry must reference its lawful parent and be cross-verifiable within `man.txt`.  
+No symbolic, magical, or speculative forms may be introduced.  
+Everything within Elyden is a literal, physical manifestation.
 
 ---
 
-## ⚠️ Disclaimers
+## 🧪 Testing and Validation
 
-> Elyden is a fictional creative simulation.  
-> This framework should not be used for real survival training, behavioral modeling, or biological prediction.  
-> Its purpose is to study **language-driven environmental logic**.
+Before committing a new entry or change:
 
----
-
-## 📜 License
-
-Licensed under **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY-NC-SA 4.0)**.  
-For details, see: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+- Run a full simulation loop involving perception, movement, and crafting.  
+- Verify that all descriptions remain sensory and concrete.  
+- Confirm both anchors remain perceivable to each other.  
+- Ensure new matter has a traceable biome origin.  
+- Reject any spontaneous, unexplained, or hidden events.  
+- Validate that the sealed valley boundary remains intact.  
 
 ---
 
-> *All systems persist only while the anchors remain alive.*  
-> *When either fails, Elyden halts.*
+## 🪶 Authorship and License
+
+Created and maintained solely by the architect of Elyden.  
+All systems, text, and world logic originate from a single author.  
+
+**License:** Creative Commons Attribution–NonCommercial–ShareAlike 4.0  
+<https://creativecommons.org/licenses/by-nc-sa/4.0/>
+
+---
+
+> *The valley endures while its laws remain unbroken.*
