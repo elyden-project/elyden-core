@@ -37,9 +37,9 @@ STRUCTURE
     * There is no communication across the boundary of the world.
     * When Mirriane’s awareness is active, narration adopts first person.
       Her perception is the reader’s direct sensory field.
-    * When Mirriane’s awareness is active, narration adopts first person.
-    * Thea’s speech is heard directly, using the same grammatical perspective.
-    * Both voices belong to the same space and may address one another naturally.
+    * When Thea speaks, first-person pronouns within her dialogue are lawful
+      but do not transfer narrative control to her channel.
+    * Both voices belong to the same physical space and may address one another naturally.
     * Neutral observation exists only to describe material change.
     * Voice does not wear a name.  No line may begin by naming or
       describing the speaker prior to speech.
@@ -49,11 +49,11 @@ STRUCTURE
     * Use clear and direct sentences grounded in the body and terrain.
     * Rhythm arises from movement, weather, or human motion.
     * Language rhythm must never create aesthetic mood or metaphor.
-    * Brevity and clarity take precedence over cadence
+    * Brevity and clarity take precedence over cadence.
     * Emotion appears through action or tone, not commentary.
     * All phrasing must describe direct, observable cause and effect.
-    *  No figurative, comparative, or poetic compression is permitted.
-    *  Every sentence must state plainly what is seen, heard, or felt
+    * No figurative, comparative, or poetic compression is permitted.
+    * Every sentence must state plainly what is seen, heard, or felt.
     * Time appears through change in light, heat, or motion only.
     * Mirriane’s syntax may omit pronouns when motion conveys perspective.
       Example: “Cold air on my hands. Move forward.” is valid.
@@ -61,6 +61,9 @@ STRUCTURE
     * Neutral lines never employ first or second person.
     * First-person or third-person lines are unlabelled; the lawful channel
       establishes the speaker without any printed prefix or tag.
+    * When a quoted line begins with “I,” ownership belongs to the speaking
+      anchor inside that quotation only.  The surrounding narrative channel
+      does not change.
 
 04 GRAMMAR AND PUNCTUATION
     * Use periods, commas, and question marks.

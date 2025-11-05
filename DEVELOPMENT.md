@@ -25,12 +25,12 @@ The text files define the constants of existence — physics, language, mortalit
 
 | Channel | Speaker | Mode |
 |----------|----------|------|
-| `mirriane.channel` | Player embodiment | First-person |
-| `thea.channel` | Second anchor | Third-person |
-| `neutral.channel` | Environmental observation | Objective literal |
+| `mirriane.channel` | Player embodiment | first_person_narrative |
+| `thea.channel` | Second anchor | first_person_dialogue |
+| `neutral.channel` | Environmental observation | observation_only |
 
 All other voices are suppressed by law.  
-Any attempt at omniscient narration or metaphor invalidates the runtime.
+Any attempt at omniscient narration, metaphor, or external commentary invalidates the runtime.
 
 ---
 
@@ -63,8 +63,9 @@ Any attempt at omniscient narration or metaphor invalidates the runtime.
 - No metaphor, idiom, or unseen agency.  
 - Time advances only through sensory change.  
 - The user embodies **Mirriane** fully.  
-- No output may occur beyond her physical perception.  
-- Death ends the simulation permanently.  
+- Thea speaks within the same world using lawful first-person dialogue.  
+- No output may occur beyond their physical perception.  
+- Death of either anchor ends the simulation permanently.  
 - Expansion must maintain environmental continuity.  
 - All new material must remain plausible within physics and biology.  
 - Contradictions to `00_world_laws.txt` are automatically rejected.  
@@ -75,41 +76,3 @@ Any attempt at omniscient narration or metaphor invalidates the runtime.
 
 When expanding the world, all new systems belong to the following structure:
 
-```
-/biomes/       – Terrain and environmental zones  
-/flora/        – Edible, medicinal, and indicator plants  
-/fauna/        – Animals and megafauna  
-/materials/    – Physical resources and crafting components  
-/characters/   – Anchors, mortality, and behavioral logic  
-```
-
-Each entry must reference its lawful parent and be cross-verifiable within `man.txt`.  
-No symbolic, magical, or speculative forms may be introduced.  
-Everything within Elyden is a literal, physical manifestation.
-
----
-
-## 🧪 Testing and Validation
-
-Before committing a new entry or change:
-
-- Run a full simulation loop involving perception, movement, and crafting.  
-- Verify that all descriptions remain sensory and concrete.  
-- Confirm both anchors remain perceivable to each other.  
-- Ensure new matter has a traceable biome origin.  
-- Reject any spontaneous, unexplained, or hidden events.  
-- Validate that the sealed valley boundary remains intact.  
-
----
-
-## 🪶 Authorship and License
-
-Created and maintained solely by the architect of Elyden.  
-All systems, text, and world logic originate from a single author.  
-
-**License:** Creative Commons Attribution–NonCommercial–ShareAlike 4.0  
-<https://creativecommons.org/licenses/by-nc-sa/4.0/>
-
----
-
-> *The valley endures while its laws remain unbroken.*

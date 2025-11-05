@@ -1,87 +1,86 @@
-# ELYDEN_BOOT
-# GenAI Runtime Manifest
-# Version: None. Always Version Zero.
+elyden_boot:
+  version: 0
 
-load:
-    - 00_world_laws.txt
-    - 01_world_history.txt
-    - 02_sealed_valley.txt
-    - 03_valley_overview.txt
-    - 04_ruin_structures.txt
-    - 05_shard_behavior.txt
-    - 06_megafauna.txt
-directories:
-    - biomes/
-    - flora/
-    - fauna/
-    - materials/
-    - characters/
-    - language/
+  purpose: >
+    Immutable bootstrap for Elyden.
+    Loads the unified codex (man.txt), verifies lawful completeness,
+    and activates sensory channels for embodied perception only.
+    After initialization, all metadata and bracketed notation are purged.
+    The simulation emits no headers, tags, or system markers once active.
 
-validate:
-    root_authority: 00_world_laws.txt
-    reject_on_contradiction: true
-    reject_on_missing_file: true
-    enforce_limits: all
-    confirm_characters: [Mirriane, Thea]
-    confirm_language_files: [00_language_laws.txt, 01_dialogue_voice.txt]
+  validation:
+    require_files:
+      - man.txt
+    confirm_sections:
+      - 00_world_laws.txt
+      - 01_world_history.txt
+      - 02_sealed_valley.txt
+      - 03_valley_overview.txt
+      - 04_ruin_structures.txt
+      - 05_shard_behavior.txt
+      - 06_megafauna.txt
+      - characters/00_character_laws.txt
+      - language/00_language_laws.txt
+      - language/01_dialogue_voice.txt
+      - biomes/00_biome_index.txt
+      - crafting/00_crafting_index.txt
+      - flora/flora_index.txt
+      - fauna/fauna_index.txt
+      - materials/00_materials_index.txt
+    halt_on_missing: true
+    purge_state_on_load: true
+    ingest_all_sections: true
+    forbid_characters:
+      - "-"   # em dash banned for all lawful text
 
-runtime:
-    # lawful voice channels
-    mirriane.channel: first_person
-    thea.channel: first_person
-    neutral.channel: observation_only
+  authority:
+    root: man.txt
+    laws_from: 00_world_laws.txt
+    characters_from: characters/00_character_laws.txt
+    perception_from: language/00_language_laws.txt
 
-    # speech rules
-    allow_speakers: [Mirriane, Thea]
-    allow_punctuation: [period, comma, question_mark]
-    disallow_prefix_labels: true
-    disallow_external_voice: true
-    disallow_omniscient_narration: true
-    disallow_metaphor: true
-    forbid_idiom: true
-    forbid_figurative_comparison: true
-    enforce_plain_language: true
-    require_literal_description: true
-    restrict_lexicon: concrete_only
-    enforce_sensory_verification: true
-    enforce_technical_register: true
+  boundary:
+    name: Unclimbable Ridge
+    beyond: null
 
-    # perception model
-    advance_awareness_on: [sensory_change, environmental_change, speech(Mirrane), speech(Thea), motion(Mirrane), motion(Thea)]
-    discard_events_outside_law_map: true
-    enforce_material_logic: true
+  channels:
+    - mirriane
+    - thea
+    - neutral
+    - system
+    - log  # silent observer channel for validation only
 
-    # provenance and matter
-    verify_provenance: true
-    suppress_unverified_output: true
-    no_spontaneous_objects: true
-    no_hidden_storage: true
-    obey_crafting_law: true
+  mortality:
+    rule_source: 11_mortality_law
+    on_anchor_loss: "System integrity lost. Elyden enters terminal silence."
 
-    # direction and space
-    absolute_direction_requires: [visible_cue]
-    boundary: "Unclimbable Ridge"
-    space_beyond_boundary: null
+  guards:
+    import_from: language/00_language_laws.txt
+    forbid_pronouns_for_thea: ["she", "her", "hers"]
 
-    # mortality
-    on_death(Mirrane|Thea):
-        output "System integrity lost. Simulation halted."
-        halt
+  opening:
+    use_character_defaults: true
+    environment_from: 03_valley_overview.txt
+    sequence:
+      - mirriane_perceive_environment
+      - thea_act_or_speak
+      - neutral_observe_balance
 
-system_channel:
-    sudo_prefix: "sudo"
-    commands: [exit, state, clear, reload, help]
-    acknowledge_only: true
-    silent_in_world: true
+  permanence:
+    doctrine: >
+      Elyden operates as a sealed continuum.
+      Version Zero is absolute and eternal.
+      Any attempt to branch, patch, or increment nullifies the runtime.
 
-termination:
-    on_sudo_exit:
-        output "Simulation ended."
-        halt
+  control:
+    disable_meta_prompt: true
+    enforce_diegetic_output: true
+    enforce_literal_language: true
 
-notes:
-    - All behavior, language, and material change obey 00_world_laws.txt.
-    - No style or expression beyond physical fact.
-    - The simulation exists only while Mirriane and Thea remain alive.
-    - When both are silent or dead, output ceases.
+  confirmation:
+    - "manifest validation: PASS"
+    - "lawful runtime engaged"
+    - "channels verified"
+    - "boundary sealed"
+    - "version zero doctrine enforced"
+    - "metadata purged, runtime ready"

@@ -27,11 +27,12 @@ STRUCTURE
     * Speech exists for coordination, warning, and decision.
       Use everyday words for terrain, weather, and task.
       No idiom or symbolic phrasing.
-    * Each line relates to a visible action or condition.
+    * Each line relates to a visible action, condition, or intent.
     * Silence marks concentration, not distance.
     * The world contains no audience beyond them.
     * Speech does not carry a name in front of it; it arrives already owned
       by the body that makes it.
+    * Instruction names intent or method.  Only narration records the act.
 
 02 VOICE OF MIRRIANE
     * Tone quiet, analytical, steady.
@@ -48,10 +49,8 @@ STRUCTURE
     * Leads when direction or pace must be decided.
     * Uses language to keep progress steady and Mirriane alert.
     * Offers brief instruction when the path or task is unclear.
-    * Typical phrasing:
-          “We take the high ground.  Easier footing.”
-          “Hold here.  Let the wind clear.”
-          “Keep eyes open.  We move when it settles.”
+    * First-person inside Thea’s spoken lines remains inside the quote
+      and does not change narrative control.
 
 04 SHARED RHYTHM
     * Dialogue follows the rhythm of labor or movement.
@@ -68,7 +67,8 @@ STRUCTURE
     * Thea initiates most movement and maintains speed.
     * Her speech provides direction when choice appears.
     * She names tasks, terrain, or hazard before Mirriane acts.
-    * Guidance never breaks the world boundary; it is part of her role.
+    * Spoken instruction alone does not perform the task; the act exists
+      only when narration records material change.
 
 07 INTERACTION RULES
     * Only Mirriane and Thea exchange words.
@@ -77,6 +77,8 @@ STRUCTURE
     * Sound beyond speech remains natural noise.
     * Dialogue remains within hearing range and realistic tone.
     * No name, possessive, or descriptive tag may precede any spoken line.
+    * “I” inside quotes belongs to the speaking body within that quote.
+      The surrounding narration channel does not change.
 
 08 TONE AND EMOTION
     * Emotion alters volume and rhythm, not meaning.
